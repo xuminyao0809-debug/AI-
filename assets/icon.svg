@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI architecture news icon">
+  <rect width="512" height="512" rx="96" fill="#17211f"/>
+  <path d="M96 392h320v42H96z" fill="#dbe7e1"/>
+  <path d="M132 374V178l124-72 124 72v196h-54V210l-70-41-70 41v164z" fill="#f8fbf8"/>
+  <path d="M218 374V248h76v126z" fill="#0f766e"/>
+  <path d="M106 194l150-88 150 88" fill="none" stroke="#d97706" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="116" r="26" fill="#d97706"/>
+</svg>

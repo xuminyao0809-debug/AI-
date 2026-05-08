@@ -1,0 +1,18 @@
+{
+  "name": "AI 建筑设计资讯",
+  "short_name": "AI 建筑",
+  "description": "每日更新 AI 与建筑设计、AEC、BIM、生成式设计相关资讯。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f3",
+  "theme_color": "#17211f",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

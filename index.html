@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#17211f" />
+    <meta
+      name="description"
+      content="每日更新 AI 与建筑设计、AEC、BIM、生成式设计相关资讯。"
+    />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="assets/icon.svg" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>AI 建筑设计资讯</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">AI x Architecture</p>
+        <h1>AI 建筑设计资讯</h1>
+      </div>
+      <button class="install-button" id="installButton" hidden type="button">
+        安装应用
+      </button>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="today-title">
+        <div class="hero-copy">
+          <p class="date" id="todayDate"></p>
+          <h2 id="today-title">每日追踪建筑设计里的 AI 新变化</h2>
+          <p>
+            聚合生成式设计、BIM、AEC 软件、空间智能、可持续设计与前沿案例，
+            帮你快速判断哪些技术值得关注。
+          </p>
+        </div>
+        <div class="signal-panel" aria-live="polite">
+          <span>今日信号</span>
+          <strong id="newsCount">--</strong>
+          <small id="lastUpdated">正在读取更新记录</small>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="资讯筛选">
+        <div class="tabs" id="categoryTabs"></div>
+        <label class="search">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="关键词、工具、公司" />
+        </label>
+      </section>
+
+      <section class="lead-grid" id="leadGrid" aria-label="重点资讯"></section>
+
+      <section class="news-section" aria-labelledby="news-title">
+        <div class="section-heading">
+          <h2 id="news-title">最新动态</h2>
+          <button class="ghost-button" id="refreshButton" type="button">刷新</button>
+        </div>
+        <div class="news-list" id="newsList"></div>
+        <p class="empty-state" id="emptyState" hidden>没有找到匹配的资讯。</p>
+      </section>
+    </main>
+
+    <footer>
+      <p>资讯来自公开 RSS 与新闻源，自动筛选 AI、建筑设计、AEC 与 BIM 相关内容。</p>
+    </footer>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

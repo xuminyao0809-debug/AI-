@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2026-05-08T00:00:00.000Z",
+  "items": [
+    {
+      "id": "archdaily-ai-tools-2026",
+      "title": "建筑师在 2026 年期待怎样的 AI 工具",
+      "summary": "行业调查显示，建筑师正在把 AI 用于设计流程、可视化和方案探索，关注点从新奇体验转向实际效率。",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1040024/what-architects-expect-from-ai-tools-in-2026",
+      "publishedAt": "2026-03-31T00:00:00.000Z",
+      "category": "工具",
+      "tags": ["AI 工具", "可视化", "设计流程"]
+    },
+    {
+      "id": "aec-nxt-bld-ai-automation",
+      "title": "AEC 行业关注设计自动化、AI 与数据驱动工作流",
+      "summary": "AEC Magazine 持续报道 AI 应用、设计自动化和工程软件生态，反映建筑工程行业正在把智能流程落到生产环节。",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/?format=feed&id=featured&type=rss",
+      "publishedAt": "2026-04-18T00:00:00.000Z",
+      "category": "BIM / AEC",
+      "tags": ["AEC", "自动化", "工程软件"]
+    },
+    {
+      "id": "autodesk-industry-ai-models",
+      "title": "Autodesk 强调面向设计与建造行业的 AI 模型",
+      "summary": "Autodesk 近年将生成式 AI、行业数据模型和 AECO 工作流作为重点方向，面向复杂 2D 与 3D 设计数据提供智能能力。",
+      "source": "Autodesk / Industry Coverage",
+      "url": "https://www.autodesk.com/solutions/artificial-intelligence",
+      "publishedAt": "2026-02-21T00:00:00.000Z",
+      "category": "生成式设计",
+      "tags": ["Autodesk", "生成式 AI", "AECO"]
+    },
+    {
+      "id": "bim-ai-monitoring",
+      "title": "BIM 与 AI 结合从资料管理走向模型理解",
+      "summary": "BIM 资讯源中越来越多内容涉及模型数据、协同平台、自动审查与智能工程分析，说明 AI 正在进入建筑信息管理核心。",
+      "source": "BIM RSS Sources",
+      "url": "https://www.rsscatalog.com/BIM",
+      "publishedAt": "2026-02-28T00:00:00.000Z",
+      "category": "BIM / AEC",
+      "tags": ["BIM", "模型数据", "协同"]
+    },
+    {
+      "id": "architecture-news-feeds",
+      "title": "建筑媒体 RSS 源可作为每日监测基础",
+      "summary": "ArchDaily、Dezeen、Architizer、Designboom 等建筑媒体 RSS 源适合用于自动抓取，再通过关键词筛选 AI 相关内容。",
+      "source": "FeedSpot",
+      "url": "https://rss.feedspot.com/architecture_rss_feeds/",
+      "publishedAt": "2026-02-22T00:00:00.000Z",
+      "category": "研究",
+      "tags": ["RSS", "媒体监测", "资讯源"]
+    }
+  ]
+}

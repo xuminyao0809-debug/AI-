@@ -1,0 +1,10 @@
+{
+  "name": "ai-architecture-news-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A PWA dashboard for daily AI and architecture design news.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "update:news": "node scripts/update-news.mjs"
+  }
+}
