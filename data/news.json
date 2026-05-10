@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-05-09T06:30:33.891Z",
+  "updatedAt": "2026-05-10T07:32:29.616Z",
   "items": [
+    {
+      "id": "1feb36072b95",
+      "title": "SONO Salon / Inrestudio",
+      "summary": "SONO is an interior design project for a hair salon located in a quiet area of Ho Chi Minh City . The name \"SONO\" means garden in Japanese, ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041130/sono-salon-inrestudio",
+      "publishedAt": "2026-05-09T17:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "908a0f35c235",
+      "title": "Transforming Enterprise AI Architecture with Governance-Driven Emerging Tech - TechBullion",
+      "summary": "Transforming Enterprise AI Architecture with Governance-Driven Emerging Tech &nbsp;&nbsp; TechBullion",
+      "source": "TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkJlUlBUWFh1eTVWcnBzRUVfelVsS2VJMU5ZRkozVm9QTDF1TmhDOG44NlZuaG55X001OUZkblFNTkpNYk1iZkxqVEVOLXRKRUpmSzU5VXdzX0VOX25admZ3VkltTDEwdklpUWY3WmppWWlTXzVueEJsODFseGdXQl9VR25wX2o2MTNxU21XMXQzRVdQY0ZEeldBb2gwdDVwdXBV?oc=5",
+      "publishedAt": "2026-05-09T16:24:13.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "5d4eba5ea94b",
+      "title": "HBZBZL Exchange Launches Hybrid AI Architecture For Institutional Asset Integrity - Block Telegraph",
+      "summary": "HBZBZL Exchange Launches Hybrid AI Architecture For Institutional Asset Integrity &nbsp;&nbsp; Block Telegraph",
+      "source": "Block Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakJEcjlRV3lJd3BEUXhOSGI4RmpQcUk1V1BBTExMelBRTFRhNzRfVGtfbFFGMGdmMFNGOWo5RWJZN0hNUHFzc0oxa05ZSXNmeDBocldNWHBaTGsyUHh6UHB5eUNObXVNUExaWkZuNF9TT1JXZEZGYVUzYjVneUNBc2FuUWJoMGFyT3VlZnlCTTV4cTFuMnhoSnRNUHpiV3RLSWlJRnNMY1dBQjMt?oc=5",
+      "publishedAt": "2026-05-09T10:14:36.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "ee322761611f",
+      "title": "Publicis Groupe Shanghai Headquarters / Ippolito Fleitz Group + Identity Architects",
+      "summary": "A global leader in advertising and public relations, Publicis Groupe has embraced its 'Power of One' philosophy by consolidating a diverse r...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041321/publicis-groupe-shanghai-headquarters-ippolito-fleitz-group-plus-identity-architects",
+      "publishedAt": "2026-05-09T06:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "bce94df2aa4d",
       "title": "Richard Nadler’s Mesmerizing AI-Generated Worlds Turn Architecture Into Living Art - Archinect",
@@ -16,11 +69,23 @@
       ]
     },
     {
-      "id": "6caf028cf80f",
-      "title": "5W and Haute Living Launch the Designer AI Visibility Index, the First Audit Framework Measuring How Interior Designers and Architects Appear on ChatGPT, Claude, and Perplexity - Yahoo Finance Singapore",
+      "id": "83dca41239d6",
+      "title": "Optical AI Servers Speed Large Language Model Inference - Design News",
+      "summary": "Optical AI Servers Speed Large Language Model Inference &nbsp;&nbsp; Design News",
+      "source": "Design News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXhlSDVxYl9ENmpVaWhUYVFud0hWRXE4WEUzTkVETzQ2R0FQN1c3RjlCVjFzdlRyN0t4MWZLZE1kMkhpc3VIRTNQQzJBR29CN0dYbi1VWkhZaUZuSkUzSHc0TnliemtXYjhCLVgzWFpuRlZHWDR6VWtwTjFJdk9FM1A5TjEtaTl4ejByZUwtcnhPNi1OQy1Sb0F3MVA?oc=5",
+      "publishedAt": "2026-05-08T17:44:47.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "6a5ab4ddfacf",
+      "title": "5W and Haute Living Launch the Designer AI Visibility Index, the First Audit Framework Measuring How Interior Designers and Architects Appear on ChatGPT, Claude, and Perplexity - PR Newswire",
       "summary": "5W and Haute Living Launch the Designer AI Visibility Index, the First Audit Framework Measuring How Interior Designers and Architects Appea...",
-      "source": "Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1J3aWZ3cE51TmRLOHBNd09BU3BqQ080YTN5ZGNuak5FTFZTb3FuTnQyc3ZTczdnRmdtZGU2a0tpLW45ZDlmS1g3dzhzU05EYXNBNmU4b2J6aEFjM0hzcDBoTEpBNXpoMUhuc2Q3emxmUXhEdmk0QTlCNFZDZ3BxZ0JQMDhIbUE?oc=5",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNVmZhajJvQTJhR1ZtOEtXWGx3cXNTR2FQcmhmSjBNckxxRlZTaGJYYkRfZnNxckZZRHZVcTZVT0puUk1VSGo2cGo0VUZUbGJieGtiOHhackJLMDhhVlJCVWJCdEdtYVMwaUJjQ25WMVNYVGgxb2Q3VjZ3M2RxZjE4MDYwQ0V6YTFPNTNyMUVpNjhQYmFtZkczTEY1Tm1xak9paGhBWDJ4aFpiT0t1UzVmWFpvbHVkM2Q2Z0dTSXltcTI0RGUzdVNhUlRtRjhJWmVVZ3VHeUVpLVBLQjJUeS1udTkwS2RGVEp6a3V2di1NVERNN0ZCZjNvYUlrOTlSbXF3dVhIUEdyRGFpUTNOZFAyMUxDbzc4S3NZWklqaERqRkNiS3NLRWdiVGcyRW42dEgtd2I5VGQxZ2pUeU1NVmNyVWRIdTNSUlo1Z29PV3JB?oc=5",
       "publishedAt": "2026-05-08T14:00:00.000Z",
       "category": "研究",
       "tags": [
@@ -96,56 +161,16 @@
       ]
     },
     {
-      "id": "52aa43f3dea0",
+      "id": "1122691ac5e3",
       "title": "Illoca Raises $13M to Reinvent Architectural Design - Ventureburn",
       "summary": "Illoca Raises $13M to Reinvent Architectural Design &nbsp;&nbsp; Ventureburn",
       "source": "Ventureburn",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzhleWxqQ29KcjdWVnhMbjhReDBvMVE0ejZxTmdCV3pwMkM0ZWFOMklsTkNDdWhrNWtiRXN3eFBHNVRmbXZIWDhNNm1vdzFBcGNIS0JGMFItX0lpcE9pRzBoS3JOSGUydWVCOEpmT25sSjFaN3pjOF9SbGNXS1hUWGlJYWpKcDZS0gGIAUFVX3lxTE1LOGV5bGpDb0pyN1ZWeExuOFF4MG8xUTR6NnFOZ0JXenAyQzRlYU4ySWxOQ0N1aGs1a2JFc3d4UEc1VGZtdkhYOE02bW93MUFwY0hLQkYwUi1fSWlwT2lHMGhLck5IZTJ1ZUI4SmZPbmxKMVo3emM4X1JsY1dLWFRYaUlhakpwNlI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOajJtLXJaSjl4NVprbTNBaC1FWUVYMXAwclRvR05CRnBSMVNZcnltRjlnNUtPU3pOdllqSnBBQnc2MG42OXFPbjdEQXdGcXRSUFU0RW9OeWlqLXNYdW1NaFRpQk1KblpnSkZjSWtkNkFrRkUyZ29hdlhvVC1qcm1sedIBgAFBVV95cUxOajJtLXJaSjl4NVprbTNBaC1FWUVYMXAwclRvR05CRnBSMVNZcnltRjlnNUtPU3pOdllqSnBBQnc2MG42OXFPbjdEQXdGcXRSUFU0RW9OeWlqLXNYdW1NaFRpQk1KblpnSkZjSWtkNkFrRkUyZ29hdlhvVC1qcm1seQ?oc=5",
       "publishedAt": "2026-05-07T10:30:24.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architect"
-      ]
-    },
-    {
-      "id": "79c6c7d376f2",
-      "title": "Why You Still Need an Architect in the Age of AI Design - ArchiExpo e-Magazine",
-      "summary": "Why You Still Need an Architect in the Age of AI Design &nbsp;&nbsp; ArchiExpo e-Magazine",
-      "source": "ArchiExpo e-Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQWtHd2dJWWk0VkxQaXpNNjYtUjB4SG1nc010RURGVFhnVll3N2J4MWJPZnhsemZPU08wTmNpWEt5cGt3aEJ6QUozQVAzMm9RN2hzR3VBUFk0aUpTNnBZTlpUYVZFQWtSXzBrcUlHbzhRbTBGaU5kQ2R0cmxsXzRMOGs5VUUxcXZfZlc0?oc=5",
-      "publishedAt": "2026-05-07T08:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "38b20098fe95",
-      "title": "Building with the Landscape: Non-Invasive Design Strategies for Steep Terrain",
-      "summary": "The relationship between constraint and design excellence is well established in architectural theory, yet often remains underexplored in di...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041153/building-with-the-landscape-non-invasive-design-strategies-for-steep-terrain",
-      "publishedAt": "2026-05-07T07:30:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "4c21d0f26660",
-      "title": "Main Pavilion of the International Horticultural Exhibition 2024 Chengdu / CSWADI",
-      "summary": "Located in the Chengdu Eastern New Area, the 23,000-square-meter Main Pavilion is the exposition's core building, programmed to host the clo...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1040982/main-pavilion-of-the-international-horticultural-exhibition-2024-chengdu-cswadi",
-      "publishedAt": "2026-05-07T07:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
       ]
     },
     {
@@ -164,39 +189,12 @@
       ]
     },
     {
-      "id": "b670d10b08b7",
-      "title": "How to Quickly Explore Facade Design Options by AI Image Editing - e-architect",
-      "summary": "How to Quickly Explore Facade Design Options by AI Image Editing &nbsp;&nbsp; e-architect",
-      "source": "e-architect",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODZ4cEFtUnZ0YkJva2FGd3hrQkVwS3kyRW04MHRSbXV5V2U1ZkdXOFZ2cThYZDRRYzVmck1acTZoWDZPR2poZHV4ZGxxbkNaLW5HeGtaMmhyU1c0cTl1V0dwbHMyQkZWQWNHZzZaUjdfVGNZNV9oN1MyQm1NUGhhcg?oc=5",
-      "publishedAt": "2026-05-07T00:38:54.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "12316319ef8c",
       "title": "Vultr, SUSE and Supermicro Debut Unified Cloud-to-Edge Architecture for Global AI Scaling - HPCwire",
       "summary": "Vultr, SUSE and Supermicro Debut Unified Cloud-to-Edge Architecture for Global AI Scaling &nbsp;&nbsp; HPCwire",
       "source": "HPCwire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjhrSk5vOEVxaFpwdGUzS0dWT2hiOVdncjhJbUFwN0lTNGkyUVhLQXhCaXZaS0p4ZGdzMmFLNmt3T3dzN24xWXN2ZEROcUp2Qmp6SVdRMFJqR2tqQ3dkX180b01BeTFlUzNpeVJOV2l1SGlXcEoyVEk1T0Q1dW9EZ0NfVWhxaWJiQnVTVDRsWEpiWGU5eTdWV3hKcXB4SEtka0g2X3FFLS1aYVFsLW9XMHd2T0NSV29PbUVwMFZ1S3g4RW84VmJmdmVwSQ?oc=5",
       "publishedAt": "2026-05-06T18:45:26.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "0d477ed07aa2",
-      "title": "HBZBZL Exchange Launches Hybrid AI Architecture for Institutional Asset Integrity - TechBullion",
-      "summary": "HBZBZL Exchange Launches Hybrid AI Architecture for Institutional Asset Integrity &nbsp;&nbsp; TechBullion",
-      "source": "TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNay1yQ1pfVjhnd3d5MjRnTmZQR29rV2lOOUFqVFptWlRrd3gzTjJhNElkdjJWUXhndDZJZEFNbVRYZzhYYjQxYXFzbWlzbGV5QTBFVlNGcmluM1VjRmk0Rm9YOEtEWURmdUpUV2NwSUd0M1pmSGtKV0ZjeWozc1R3M1kwNUFPN0dnWU9iS2pfOFBHUWUtSHdYLWpZbkFPQ0hKUVgyM0dOa0RKQQ?oc=5",
-      "publishedAt": "2026-05-06T15:15:54.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -217,25 +215,12 @@
       ]
     },
     {
-      "id": "ee0d32c27abf",
-      "title": "Illoca Raises $13 Million Seed Led by Bessemer Venture Partners to Launch the First Intelligent Interface for Architectural Design - Yahoo Finance",
-      "summary": "Illoca Raises $13 Million Seed Led by Bessemer Venture Partners to Launch the First Intelligent Interface for Architectural Design &nbsp;&nb...",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkcwVzl0YlZ1SGZUY2pTbkJBamlndFNERGpQVk15X3hCUnRSMU1fbmVCVnhTNkhybkpQcjY1MU5Ca1dsOEhXcVpkb3NxTExDdU12ZzRLWE80MTNlRmo5QXc2MU94ZnN1bGV0RHJZdjMwRV9kQmMwRkk3dUY5RElfT3ZYeENzcDVuR2ZKYXNMakVKSWFyeFgxRC0xZWpRUlk?oc=5",
-      "publishedAt": "2026-05-06T14:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "9da29b74977c",
       "title": "Exclusive: Illoca raises $13M to bring AI to architecture - Axios",
       "summary": "Exclusive: Illoca raises $13M to bring AI to architecture &nbsp;&nbsp; Axios",
       "source": "Axios",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGQzTzJMQ3lJVkN5T043MXBNVklsRTZOc2JJWGhhT0hLTmU5SU5xLTFVMXRDa1VpZFRNVXk2TDR5akY2WHZwdlkybS1KQzhnZVNNSnNvZ2Job0M5R3U2V0Z5OTZuUlZLRHhzdUh0S3hZLU5FSW5qeWdaRnVlbGdDQ0JaX2RmTDJHR3Z2Z0w3VWdwaldYQ1A2a3hYQQ?oc=5",
-      "publishedAt": "2026-05-06T13:26:49.000Z",
+      "publishedAt": "2026-05-06T13:09:27.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -244,26 +229,13 @@
       ]
     },
     {
-      "id": "3c7a3ee61c6e",
-      "title": "The Architectural Shift Required to Govern AI Agents - Unite.AI",
-      "summary": "The Architectural Shift Required to Govern AI Agents &nbsp;&nbsp; Unite.AI",
-      "source": "Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nNldpT2hveVBjSnJuQUZUMGhiVTJVTGNfVU44akJlZC1YZmpXSVd4ZDRtVXJ4elZHN1hsRGl4R0tLMG9UREdZazliWXk5ei1PMzNPUXBidFVYYTdUdWlCZ09ueURhaENIRmZZdVFTQQ?oc=5",
-      "publishedAt": "2026-05-06T13:25:30.000Z",
+      "id": "8caf5f80aab2",
+      "title": "Why Stanford Researchers Say AI Architecture Isn’t the Real Key to Performance - Geeky Gadgets",
+      "summary": "Why Stanford Researchers Say AI Architecture Isn’t the Real Key to Performance &nbsp;&nbsp; Geeky Gadgets",
+      "source": "Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQ21HSUdvZVZFZVgyTUgxQVFfY0VPMGgtSTNUdkhicllWak16RTYwZjB6ZUdnOG9mM2lfMG5RUnJVRDl3VDczWTVDSXQtWXRnNnViMnRUN25tNDVlSzZxc1ZmNXZDTkczMHNjWUtObWI?oc=5",
+      "publishedAt": "2026-05-05T13:48:28.000Z",
       "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "9f53770ffd20",
-      "title": "Eileen Gu’s \"Airo Bubble Dress\" at the Met Gala 2026 Designed by Iris van Herpen - parametric-architecture.com",
-      "summary": "Eileen Gu’s \"Airo Bubble Dress\" at the Met Gala 2026 Designed by Iris van Herpen &nbsp;&nbsp; parametric-architecture.com",
-      "source": "parametric-architecture.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyd2NpWDhUTGVQQVFqY2dNRDkzck9ZRTA0MkhQRGN0ZTNHQ0J1aWROSlVCS1pPTVg5RXNRRTVDMkhObXlySU1kTXN1QzRoMUpJZlZwalpqS0VqeEU2ZmxDdDBLajNmTGJaaGRsbUFCbDBDaGhBUUpRc0t6cl9ZQQ?oc=5",
-      "publishedAt": "2026-05-06T07:03:30.000Z",
-      "category": "生成式设计",
       "tags": [
         "ai",
         "architecture",
@@ -389,20 +361,6 @@
       ]
     },
     {
-      "id": "a2069fe4f051",
-      "title": "DeepX and Google Unveil AI Trading Architecture for Finance - AI CERTs",
-      "summary": "DeepX and Google Unveil AI Trading Architecture for Finance &nbsp;&nbsp; AI CERTs",
-      "source": "AI CERTs",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTlRmZk41c3NTUWxVQjdSNWFjTVdENTRGYl80YXhtNS03N0toWEw3bXdzWlloOHlxMkdQUG83OFZkSEotLXZRV2VLcnFxRmFiRjlSYUw3ZkdZQzZfZzF0R3gyUlkxWENYU0dsN05yNTVISHE4dGhvbnQzWGRIQ29qRUxQODZCV3Z0R2g2dE5tT3RFQQ?oc=5",
-      "publishedAt": "2026-05-02T10:39:25.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "05d2e10da348",
       "title": "“If Figma and Lovable had a child that became an architect”: Synaps raises €3.06 million to rival AutoCAD - BeBeez International",
       "summary": "“If Figma and Lovable had a child that became an architect”: Synaps raises €3.06 million to rival AutoCAD &nbsp;&nbsp; BeBeez International",
@@ -412,20 +370,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "699c245c853f",
-      "title": "Skymizer Taiwan Inc. unveils new AI inference architecture for ultra LLMs - FutureCIO",
-      "summary": "Skymizer Taiwan Inc. unveils new AI inference architecture for ultra LLMs &nbsp;&nbsp; FutureCIO",
-      "source": "FutureCIO",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVg0UElrOWp0eGx3cVpYdjMtTXd6cXQzVktmbnZLU0dPZnhXcnJtSzlQNGREVkFkSlJnc2dHNDM1aDdWY3VpNVhTWXFKbHVuYXctWnRoMVdUQlNUalBNc1cydWJfQk4xTzVCakVOajNtTlloaW1icDFMNzd3UTV5a0pQeml2dl95M3BPZFM5NXE5WFZCT0ZrRXk3UnU?oc=5",
-      "publishedAt": "2026-04-30T17:53:54.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -479,6 +423,56 @@
       "category": "研究",
       "tags": [
         "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "a4e27f95968c",
+      "title": "GENIUS: an agentic AI framework for autonomous design and execution of simulation protocols - Nature",
+      "summary": "GENIUS: an agentic AI framework for autonomous design and execution of simulation protocols &nbsp;&nbsp; Nature",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XekgyWkxLQU10NURCVUdtekw0bFVIV1dPSEFQbnFJZ2pkZ3VBdnZoaDZBUFhxVFd2bWpQNk11bmtOUVNvMlhJTTdtWlJZUmk1Rll3M3lrR0NjS0ptcFhj?oc=5",
+      "publishedAt": "2026-04-29T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "e8e9855c6996",
+      "title": "SG design software firm Formas.AI raises $4m led by Vertex - Tech in Asia",
+      "summary": "SG design software firm Formas.AI raises $4m led by Vertex &nbsp;&nbsp; Tech in Asia",
+      "source": "Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzJmWF9KRmFDUVpseGZydUhramo3Z2FpQ0JzU08yNkk3cjRwVFFueWRDcmtDRHJxSk94VnhTYWQ5bXc4dFVZSTNXLUw2OE5MMmZFcEh1dm5RT0xJcW9sNkM4aE9BdG52N2FXNG9LU0tNeFotMHNLT1F4c1VqUXFTNy1CcEpGVW9sOGczQ3E4S0w1MVU?oc=5",
+      "publishedAt": "2026-04-29T05:31:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "297d8b763606",
+      "title": "From Data to Design: How AI Is Reshaping the Future of Academic Healthcare Campuses - School Construction News",
+      "summary": "From Data to Design: How AI Is Reshaping the Future of Academic Healthcare Campuses &nbsp;&nbsp; School Construction News",
+      "source": "School Construction News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEJxelNBeWJxS2lUcW9XdTktU3dranNEUEpjM1N1bkxUaUhxcTNyaHgzc2FWa1BoaHdDMnBYc3g3THN1eXBhYTliUDc0QWZ4SUdwcUdYRXJfenQ5Yzl0VUFtYjhiTVNHa09HQWRYSzB5d0J0U2hDZjJMNU1wcXFSZlU0aWVCVDNLQ21JWFpzRkZhZUd2T2pmTkc1djdSeTFLdS01UWdaQURtWGZSNFJLZENOVi1xZGlfYmhJem9SRnVqTjB2eks3bA?oc=5",
+      "publishedAt": "2026-04-28T07:00:00.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "bd129a7c8fdd",
+      "title": "Design houses move from outsourced chip design to AI chip architecture - 디지털투데이",
+      "summary": "Design houses move from outsourced chip design to AI chip architecture &nbsp;&nbsp; 디지털투데이",
+      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTExRbEpoYlNKdEVqRmtoa0NZNEtzV0tYbUNQRW4tbHlwQ3Nmcm1ZdjNzUHpqRHpaZE9TNnE4T205QjU5Z2JYLVVxcGJnUEtLckxGZ0FjZG5PaHM4LUpkTFJGQUNTUldrNy1sT3FmRFpPS3IxNHFjcnl4WHNRZGYxdEFMU1Rkd3Vxcm9tWVlONDlMNFNzTmc3dzdUQ0lPR0VTSXpZWWM0bUc1VlFNN283Sk45UGJBQQ?oc=5",
+      "publishedAt": "2026-04-28T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
         "architect"
       ]
     }
