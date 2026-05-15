@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-05-14T08:14:00.429Z",
+  "updatedAt": "2026-05-15T08:32:23.865Z",
   "items": [
+    {
+      "id": "217f84c449f2",
+      "title": "Housing and AI take centre stage at Melbourne Design Week - The National Tribune",
+      "summary": "Housing and AI take centre stage at Melbourne Design Week &nbsp;&nbsp; The National Tribune",
+      "source": "The National Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVpNWEY5NGZUQVZTTVc5aTl0LWZuRHN1TkdPMDh5VEtRSlNiZjFKTng3NXVENnpSdXJINHctZmh2a0xGX1JwbU4yNkx5N0wtVW41S2JmcUJiXzhweWE0cGcwX0hGM0hjRjRvQnltU1VZMVlMWFRaOU5fNWVSQTg1cEwxclVJOFJWNkFIZ0ItSkN1VUE4QktjdHk2bw?oc=5",
+      "publishedAt": "2026-05-15T05:07:23.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "784f31c8d5a9",
+      "title": "Maison de l'Innovation Office / Baumschlager Eberle Architekten",
+      "summary": "It is the sophisticated synthesis of high-quality architecture, the concept of sustainability, the comfort offered, the communicative abilit...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041524/maison-de-linnovation-office-baumschlager-eberle-architekten",
+      "publishedAt": "2026-05-15T03:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "0b1317a1c3eb",
+      "title": "Parametric design at Seoul Robot & AI Museum is \"both shelter and pedagogy\" - Dezeen",
+      "summary": "Parametric design at Seoul Robot & AI Museum is \"both shelter and pedagogy\" &nbsp;&nbsp; Dezeen",
+      "source": "Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaW1LYTZiU3ZqVWVoLTc2bnJHNHpGdUZaUEdIbFRVUm9zUnFnWDhMU283SXRkQjBFdzJFTDFYbWxUYzhHUWozbUgxLXpYOGNwOV84bW5oelQ2SXc2dmt0ZHE0X0pNX0RidEx3WDJkb29YYUtYaWlxRXUwVDZOOFJaWFE2VWxxazA?oc=5",
+      "publishedAt": "2026-05-14T10:15:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "4c6e7eb4779a",
+      "title": "Belfountain House / UUfie",
+      "summary": "Set within the steep, wooded terrain of the Niagara Escarpment in Belfountain , Ontario, Belfountain House unfolds as a continuous architect...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041553/belfountain-house-uufie",
+      "publishedAt": "2026-05-14T10:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "21eca470b54f",
       "title": "Housing and AI to feature at Melbourne Design Week - Architecture & Design",
@@ -30,6 +81,34 @@
       ]
     },
     {
+      "id": "b8bf37012593",
+      "title": "Your AI Agents Are Lying to Each Other — And Your Architecture Is Why - HackerNoon",
+      "summary": "Your AI Agents Are Lying to Each Other — And Your Architecture Is Why &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVBWd19Yek1MUkc4WHpvWHBHUmNHV2cxN2VNN3o4ZXoybE9xa2xYVlY0bzV0S0Y0QmNsMGFWcy0yaXE1UDNzNGhvejVtRlZzcWNmWTliWmxGVWY5WURNMTVCMUlyalRvdXlrWFJCME9KUGlQLW51eF9velJBZ09CeWhDVGF2RWxOMnFFVjJSMVphQzJl?oc=5",
+      "publishedAt": "2026-05-14T03:18:18.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "26536369c3d4",
+      "title": "Flexible Dormitory / Atelier Kaiser Shen",
+      "summary": "In the small municipality of Schönaich in Baden-Württemberg, a model building for affordable and refugee housing demonstrates how architectu...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041521/flexible-dormitory-atelier-kaiser-shen",
+      "publishedAt": "2026-05-14T03:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect",
+        "building"
+      ]
+    },
+    {
       "id": "0ea062f91da8",
       "title": "Commercial Real Estate Developer Stakes Patent Claim on New AI Infrastructure Accountability Architecture - EIN News",
       "summary": "Commercial Real Estate Developer Stakes Patent Claim on New AI Infrastructure Accountability Architecture &nbsp;&nbsp; EIN News",
@@ -44,11 +123,23 @@
       ]
     },
     {
-      "id": "9612d0c509ca",
+      "id": "38831b9565fa",
+      "title": "\"Huge gap in how everyone understands AI and how industries understand it\" says Parsons School of Design - Dezeen",
+      "summary": "\"Huge gap in how everyone understands AI and how industries understand it\" says Parsons School of Design &nbsp;&nbsp; Dezeen",
+      "source": "Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXJCcUdwdFhrQVFpb3o4amh3Unc5ZXc2Q1dLRE1YZFV2NE8wU29oNzRyRFAtMGxjNlUzbUZsTjJnNC1CSEhqQ2ZjNlRvbHpRX1I0ZnY3bXMwX0tlNDVlR0NQWWMxQTBjcFp4b0F0UHJFbjdSUG1sXzI2WnNteGlsdDZzWFIzcktDN19fWmsyMkZmZw?oc=5",
+      "publishedAt": "2026-05-13T20:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "74688810b6e3",
       "title": "AI’s Infrastructure Frenzy Is Triggering a National Backlash - Architect Magazine",
       "summary": "AI’s Infrastructure Frenzy Is Triggering a National Backlash &nbsp;&nbsp; Architect Magazine",
       "source": "Architect Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2RyTHVRUEN2NzBQaFJ6THJwN3o0enloVkQ2YjZGT2lST0dRcFZaM1g1WjRsVFg4N2FRTzJTeW9mQ2lpQk52RWhNcENrSWFtMEZ1ckg4SWJBdVRHd0gyaDBFZkV1RXBXZFctakM3aUpYQzM5QndHN1RlQ1Z1VFR2bm1fMlFnQlZ2cVQtQ2ZjWF9QLUo4MGtxNy05RUZLVFh4SEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQU0wY0UxcnJHZVBJczZjTWRIZ1hXek52Yk5UbVEzcWphckpfLVhZYWFLTGdDT2czVV9Lb0xqNU41dVhHUmdWc2R6djNLYjlPb0VXYXBrSzRiay1EVlFYM1JKOVZZRkowV1RRdFVaZ3FwdXZVNDVsalM5anB3Q3ZiX3hMLVB3ZklwQTBYOW5EdGp1c0RXWlU2UnpXUXZwX0dDekV3?oc=5",
       "publishedAt": "2026-05-13T16:37:27.000Z",
       "category": "研究",
       "tags": [
@@ -81,20 +172,6 @@
         "architecture",
         "architect",
         "building"
-      ]
-    },
-    {
-      "id": "addf8a969647",
-      "title": "Scaling PCIe Controllers for AI Bandwidth: A Multistream Architecture Analysis for 64 GT/s and 128 GT/s - Semiconductor Engineering",
-      "summary": "Scaling PCIe Controllers for AI Bandwidth: A Multistream Architecture Analysis for 64 GT/s and 128 GT/s &nbsp;&nbsp; Semiconductor Engineering",
-      "source": "Semiconductor Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWE5adTV5UldDbjBqNVA4N29mS1kyaFRZV0Eyb3ZSR0U4eDcyb0dNa3ltRUVTTTZPd3VyS082TXBUV01rdllNQ3pLcFNfWl9NQi1BZGMwS3RaQnVlSVR1QW9mSVlaSy1EWTdIU2ViQlVuWFE0R2xXdmJtRDJoNDgxd09HQmp2Qk1DMEhDRF9jUm5YbnpqNkJTcmRLdFBpQmxSUlFiU0VhTzA1dXowc2pGMGQ4dU81TXhvcjlhQnJWM0lOMGozZV9yS25jOA?oc=5",
-      "publishedAt": "2026-05-13T09:54:10.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -160,16 +237,15 @@
       ]
     },
     {
-      "id": "6bb4a417199a",
-      "title": "Tree Tavern & Cave Teahouse / ARC Z Architects + Practice on Earth",
-      "summary": "Familiar Novelty | Nostalgic Naivety — Under Fengyuzhu's overall curation, the village has been repositioned as the Ancient Banyan Literary ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041383/tree-tavern-and-cave-teahouse-arc-z-architects-plus-practice-on-earth",
-      "publishedAt": "2026-05-13T07:00:00.000Z",
+      "id": "b073e3bd773f",
+      "title": "Summit Dialogue with CGTN | Kaban: AI Reshapes Design, China Stands at the Global Frontier - Yahoo Finance Singapore",
+      "summary": "Summit Dialogue with CGTN | Kaban: AI Reshapes Design, China Stands at the Global Frontier &nbsp;&nbsp; Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2JyXzBaeVZuZ2NlOXdXMGRxeUpqTWF1ckNZdDZ2UTRpRG5oQmRkdFlwcW5adlF5ZDBCNlJGTFlmMTRZdWpFNi1HTnBpNy1LbDkwUlhBTmNlamJiVmFBbHpWRnpJWjhPVUFEVzZMMGhudklvWncxd3JldVhuR05tUmRKM1M?oc=5",
+      "publishedAt": "2026-05-13T07:36:00.000Z",
       "category": "研究",
       "tags": [
-        "ai",
-        "architect"
+        "ai"
       ]
     },
     {
@@ -186,26 +262,13 @@
       ]
     },
     {
-      "id": "1c9353f96a89",
-      "title": "How AI Is Transforming the Architectural Visualization Workflow",
-      "summary": "Architectural visualization has long played a key role in communicating and shaping design ideas. Today, that role is expanding. With the ri...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041348/how-ai-is-transforming-the-architectural-visualization-workflow",
-      "publishedAt": "2026-05-13T01:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "69a41839843f",
-      "title": "Housing, AI Lead Melbourne Design Week - Mirage News",
-      "summary": "Housing, AI Lead Melbourne Design Week &nbsp;&nbsp; Mirage News",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RNlh1d2dWR3FsWWgzVXE1M0t2a25iSndSU1hIQzZyWU5PcVR5ZndIRzRqejBjaFl5R3pRSFNuaEpBaHJfSEtBZ1JVc1pnZVJWT2taUjNzZXFJNmRUTl9mSlZITVlhYmVGODFYV211S3RLVVVnTU5vOTUyWlBUUQ?oc=5",
-      "publishedAt": "2026-05-13T00:22:00.000Z",
-      "category": "研究",
+      "id": "eb7e002410e7",
+      "title": "If Everybody’s Using AI, What’s An AI Design Studio For? - Common Edge",
+      "summary": "If Everybody’s Using AI, What’s An AI Design Studio For? &nbsp;&nbsp; Common Edge",
+      "source": "Common Edge",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFBUS3cyc3RKd25NaEU2RU4wTURkTnY1NlY0ZjFobUw2R25VNTgzSmVpc05vTUJHYmpKa0VzVGMtWG9fYlAyM055cUNpd29UTzZXcFpRb0NIb0t0cHZMbG40RnRUczA2TlMxei1RM2Fia2ZNN0NOX3RjTEYxSmg3UTlR?oc=5",
+      "publishedAt": "2026-05-12T17:50:56.000Z",
+      "category": "案例",
       "tags": [
         "ai"
       ]
@@ -253,12 +316,12 @@
       ]
     },
     {
-      "id": "859c5536c75d",
+      "id": "4cc9dd9676b5",
       "title": "Generative Architecture Canvases - Trend Hunter",
       "summary": "Generative Architecture Canvases &nbsp;&nbsp; Trend Hunter",
       "source": "Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QLV9GX19tX3JGOWpaYWVvZC0wWHJIOXpDdnotUUMwNUI3UG1nSUM4ZnBTaUQ1WkVYQmc4RHZIM0E4ZjdWYVZ6RVBqTHo3eGpWcl92cS1SNWJpUFBLMEtrZ3BLREJXZ9IBZkFVX3lxTE5QLV9GX19tX3JGOWpaYWVvZC0wWHJIOXpDdnotUUMwNUI3UG1nSUM4ZnBTaUQ1WkVYQmc4RHZIM0E4ZjdWYVZ6RVBqTHo3eGpWcl92cS1SNWJpUFBLMEtrZ3BLREJXZw?oc=5",
-      "publishedAt": "2026-05-11T18:03:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16dVhxYzdhanlibTFQbk03Q0U5OEhNdjFLbWJMblllRXRqOXJSWS1CSVgtRFcwd2gzNGw3bDBRYkl1LTVLczlBLWtOQnZ0WERKMWNieUtuX3BZcG9tN3ZMQdIBZkFVX3lxTE5QLV9GX19tX3JGOWpaYWVvZC0wWHJIOXpDdnotUUMwNUI3UG1nSUM4ZnBTaUQ1WkVYQmc4RHZIM0E4ZjdWYVZ6RVBqTHo3eGpWcl92cS1SNWJpUFBLMEtrZ3BLREJXZw?oc=5",
+      "publishedAt": "2026-05-11T18:19:08.000Z",
       "category": "生成式设计",
       "tags": [
         "generative",
@@ -267,16 +330,15 @@
       ]
     },
     {
-      "id": "0ca701fd52e3",
-      "title": "DigiCert Introduces New AI Trust Architecture for Securing AI Agents, Models, and Content - SMEStreet",
-      "summary": "DigiCert Introduces New AI Trust Architecture for Securing AI Agents, Models, and Content &nbsp;&nbsp; SMEStreet",
-      "source": "SMEStreet",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOS1oRUdKSTBXU0xfYy1iTzJtcDlUU2ZqSmlYc2U0Z0xvbU1DX1lLQjFLMjlQZ3VIbU5DZmI5OEJ2b1RPOEF0b01rNDR4ajdaY0VYOW4zNUhNQW43bm56NGgxTWp5eWNFZUVtMEFlSFlxcVlQMW5GaHRzbFpvY0dHODMwS01MTzh2ZGVJLV93YmpCNmg0VjI4ZmxyZVZfMmtrb3BVd282cXI0QlladW5uUXhzb0NDZXFhdDZSLWN0RERVbmNzUEpZ?oc=5",
-      "publishedAt": "2026-05-11T08:49:42.000Z",
+      "id": "9e8165a8a23d",
+      "title": "From Prompt Engineer to Agentic Architect: How to Ace 2026's New AI Cloud Interviews - MSN",
+      "summary": "From Prompt Engineer to Agentic Architect: How to Ace 2026's New AI Cloud Interviews &nbsp;&nbsp; MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZG1ETEVNMzZCY0xTbld6bVg3bEhfaGZWaDZWVDJVeG9ibmhIMjNhcmtuZkJRNnktX3pfSUVJNHJabFZ5XzVMeGJseGZjbHBxdzlLeW93UE9iT0xGbklZcFJVTjRHR251R1prQ0ZYQ3NvTUROYVZKZkF3YVM2SFNUWnpXcExYVEU1TUdnR3dIdUQ1OGFiYnpYaURuV1llSWt3WFRJYU5VQlVtVFZFOFNnMXc1QngtREVwcHNhWFFXbllyX0N3OGZsemYtZEhwQQ?oc=5",
+      "publishedAt": "2026-05-11T16:13:46.000Z",
       "category": "研究",
       "tags": [
         "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -319,18 +381,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "83dca41239d6",
-      "title": "Optical AI Servers Speed Large Language Model Inference - Design News",
-      "summary": "Optical AI Servers Speed Large Language Model Inference &nbsp;&nbsp; Design News",
-      "source": "Design News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXhlSDVxYl9ENmpVaWhUYVFud0hWRXE4WEUzTkVETzQ2R0FQN1c3RjlCVjFzdlRyN0t4MWZLZE1kMkhpc3VIRTNQQzJBR29CN0dYbi1VWkhZaUZuSkUzSHc0TnliemtXYjhCLVgzWFpuRlZHWDR6VWtwTjFJdk9FM1A5TjEtaTl4ejByZUwtcnhPNi1OQy1Sb0F3MVA?oc=5",
-      "publishedAt": "2026-05-08T17:44:47.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -386,21 +436,6 @@
       ]
     },
     {
-      "id": "d99962b1e41c",
-      "title": "AI Applications In Building SEO-Friendly Website Architectures - GrandangoloAgrigento",
-      "summary": "AI Applications In Building SEO-Friendly Website Architectures &nbsp;&nbsp; GrandangoloAgrigento",
-      "source": "GrandangoloAgrigento",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORGVJVWhVYU1tMXN3LTJCUWYyM0lwTWhpSXR6dWRqcUhSeXEtam16T3ZSSUJRWkpDTjVsOVBnRUNBQklXQ2dvM3M0MjlCYTJoNHdHcWEyc0V3cmpHcDIxU1c0V2NfVWQzaksyMXZjRDBPcWwwUUVJeWV5Y1BlbFh3YjJCSi16bU55UEhGVFRSaWI5WXN4N1RtT2pKM0UtX2ZrVWZSU0M2QXlzUTNoRExGRTZzcmp5dTIwZzV1YWV6MmYtb2Z4NkRsUno2VllUaXpIbkRtZENWT3RpMzlabVNpaDJhSGdRV1dHUVY0MkNzM0l4UEoyRU9laGZCWWRJbFZMalNfTzNxVWFDbnF0UmRNNnFB?oc=5",
-      "publishedAt": "2026-05-07T05:18:10.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
       "id": "bd9b3ca78c14",
       "title": "Autodesk’s FY26 Impact Report: A message from our President &#038; CEO, and our CSO",
       "summary": "Report explains how AI and sustainability shape design and make workflows.",
@@ -418,7 +453,7 @@
       "summary": "Exclusive: Illoca raises $13M to bring AI to architecture &nbsp;&nbsp; Axios",
       "source": "Axios",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGQzTzJMQ3lJVkN5T043MXBNVklsRTZOc2JJWGhhT0hLTmU5SU5xLTFVMXRDa1VpZFRNVXk2TDR5akY2WHZwdlkybS1KQzhnZVNNSnNvZ2Job0M5R3U2V0Z5OTZuUlZLRHhzdUh0S3hZLU5FSW5qeWdaRnVlbGdDQ0JaX2RmTDJHR3Z2Z0w3VWdwaldYQ1A2a3hYQQ?oc=5",
-      "publishedAt": "2026-05-06T13:09:27.000Z",
+      "publishedAt": "2026-05-06T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -427,56 +462,15 @@
       ]
     },
     {
-      "id": "69dd45d3a32e",
-      "title": "Generative AI for Chip Design Market Set to Boom Rapidly, - openPR.com",
-      "summary": "Generative AI for Chip Design Market Set to Boom Rapidly, &nbsp;&nbsp; openPR.com",
-      "source": "openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNncweFVFcmp0V21xWGtfdmF5TlFUXy1ULWwxOTc2WFU2OVpFOXVZVXB6aXpqUmpESDhsRFp1WUUyemd2b0NDdlU3MWN6NzNoMFdocUV2eHVhZE1sTDVELWd3WjIwN1p3X0ZzeXl3UmZOUk04ajJ6Um5WZ21mUVgxQU9OSTU3TWZlZ2RacHZaY0dlczlOZTU4?oc=5",
-      "publishedAt": "2026-05-05T12:22:24.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "generative"
-      ]
-    },
-    {
-      "id": "a6738f7ad6c2",
-      "title": "AutoPipe says agentic AI platform is “reducing work that takes architects weeks to one day” - CTech",
-      "summary": "AutoPipe says agentic AI platform is “reducing work that takes architects weeks to one day” &nbsp;&nbsp; CTech",
-      "source": "CTech",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TkpTa21QdzVOUHFLXzhFMEFtZ20xTUxGZmZ3M2UxWHE3OHJfWHpqQk9WR2RDeGJKSjliYlVuSkRmWmJSZllFeHNYdzdwWXFtTWZDQUJ5Qjk4aVpTM3U2Y0pjc0swdDA?oc=5",
-      "publishedAt": "2026-05-05T11:11:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "1f6ca7997dd5",
-      "title": "Your architecture is the ceiling on your AI strategy. Here’s how to raise it in 90 days - Fast Company",
-      "summary": "Your architecture is the ceiling on your AI strategy. Here’s how to raise it in 90 days &nbsp;&nbsp; Fast Company",
-      "source": "Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON29TY2VWQ3NGQi1MMXJxNVZQbDVBUHBrR0pUR2lBYWxkNHBham0wa2otX25acXFGOHRYX2N0R3dYR2hxY0dndW9jNnZhT01rdUVPNzdpby1Zck1NZWZxY2ZORFZSVmsxQm40bElEOHBzRWczazFJbWdZRS05dUEtLS1HMk9QRnFkak5jRw?oc=5",
-      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "id": "dce4f116f478",
+      "title": "Illoca Raises $13 Million Seed Led by Bessemer Venture Partners to Launch the First Intelligent Interface for Architectural Design - IT Business Net",
+      "summary": "Illoca Raises $13 Million Seed Led by Bessemer Venture Partners to Launch the First Intelligent Interface for Architectural Design &nbsp;&nb...",
+      "source": "IT Business Net",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeldDQ1Fwckd1Tkl5anhKelFMeEU2a28xQUg3NDRRZmRGc3Y0VnFreEhtNW5FdG9KVDRhYWlzRHpfM2c1enJBbDZxN21QWF84dkJsdXNhTlJ3eDk5UmhiODQwdTd1N19oUWp3aUtRVFcxN0xTSUZnTnlFVzFab3dPWjFZblVLMFBxc3BBdHl3RGVIR1lYMFpMc2dtM0tjQ0hZUnhGQThFYXpqN3ZFYzVwUjRIWlJYUTdlcHlJbEdNcjJfVWhEazJvSWhmVjliZ0d6N3RwSGtydUJ0WkU1cjhPTFZQZmdXSnltS0tWNWJCVkJQMlh0eF9r0gH8AUFVX3lxTE16ZTZRMEFLTDZpU2VXN0F4MGJiSFFZS194RVRfSHF3S0pMSVFoX1lwdmtjaFVKaVZ1LV9DcjNCOFp0U19ERjNaNnpVd0dMb1gzQUtJU2MzeUZxMXdnb1ZIQUp5T01YVEt1MFZqQl9uU1NwcWQ4dkNpMS0tTW1rWFFMUkw4N29TN09fWnhNNzFSN1JKQ2ctMnRjMWVZZ3ZxUWdEemNKdkpRRkw0M0xLeS12MEtzR0pLcV9ac3FYNEoxSHR4Q0w5cFRLelFxbmhoam5FSEd2SkhvM0NCQmNKLWtkcVJmRjkwSHdBUGFsRkpZUWdKc00yWDlRWnktNw?oc=5",
+      "publishedAt": "2026-05-06T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e2b5e1744304",
-      "title": "Apple's AI-driven architecture shift could reshape Taiwan supplier roles and industry competition - digitimes",
-      "summary": "Apple's AI-driven architecture shift could reshape Taiwan supplier roles and industry competition &nbsp;&nbsp; digitimes",
-      "source": "digitimes",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORm85bGc3ZlhtT1F1Um1vTTFkNUR6WGdHUmlCZUpwMlZaQm1rc08wdnQ3TWNPZEFOcHZtR1hFN19rUXRRNm5NRnBRTnJiSExGMWFJbkpqQWZjN3h1RUNOV1ktMUVjNXN0VHJRZDlFSXhtZjZjbHB0SmhJdWh0RDhGU3VYOUk2YW84Q2dHTUx4bw?oc=5",
-      "publishedAt": "2026-05-05T01:38:52.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     }
