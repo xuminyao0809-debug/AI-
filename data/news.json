@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-16T06:40:16.981Z",
+  "updatedAt": "2026-05-17T07:45:11.401Z",
   "items": [
+    {
+      "id": "de05c34e073b",
+      "title": "The Importance of Human Judgment in AI-Driven Design - Autodesk",
+      "summary": "The Importance of Human Judgment in AI-Driven Design &nbsp;&nbsp; Autodesk",
+      "source": "Autodesk",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlZISjJOcmhJZEltSWN3ZUxVNkpMMElUQlVKZ0Q1WXliVnhCa2tlSjlFN3k0enZSRlppRHppaWp0dmtQRkI4UXZGbXVZOEFpS3hPVm1iR3JLZzV0VGNTNzlqbHQxTG5NOUhJN3l3NXlWYkU1amFXTnd3OGlFbk0zeEpLM1NwUDFwbkR5cUJvRVdNWmZiUXZPZDE0VDd2X2ljUG5oRHdMVDBldUpITWhOU3ZldmVvY3cwNXhrWXpaa0VXTFh1RXY1SEZwSVctTGc?oc=5",
+      "publishedAt": "2026-05-17T01:13:07.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "3bb0e9371819",
+      "title": "Youth Club NW80 / AFF architekten",
+      "summary": "Even though young people's leisure time often takes place in a digital parallel universe, this architectural project aims to provide a physi...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041507/youth-club-nw80-aff-architekten",
+      "publishedAt": "2026-05-16T11:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "0e930f7ff82e",
       "title": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO - Tom's Hardware",
@@ -39,20 +64,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "784f31c8d5a9",
-      "title": "Maison de l'Innovation Office / Baumschlager Eberle Architekten",
-      "summary": "It is the sophisticated synthesis of high-quality architecture, the concept of sustainability, the comfort offered, the communicative abilit...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041524/maison-de-linnovation-office-baumschlager-eberle-architekten",
-      "publishedAt": "2026-05-15T03:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -96,20 +107,6 @@
       ]
     },
     {
-      "id": "b8bf37012593",
-      "title": "Your AI Agents Are Lying to Each Other — And Your Architecture Is Why - HackerNoon",
-      "summary": "Your AI Agents Are Lying to Each Other — And Your Architecture Is Why &nbsp;&nbsp; HackerNoon",
-      "source": "HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVBWd19Yek1MUkc4WHpvWHBHUmNHV2cxN2VNN3o4ZXoybE9xa2xYVlY0bzV0S0Y0QmNsMGFWcy0yaXE1UDNzNGhvejVtRlZzcWNmWTliWmxGVWY5WURNMTVCMUlyalRvdXlrWFJCME9KUGlQLW51eF9velJBZ09CeWhDVGF2RWxOMnFFVjJSMVphQzJl?oc=5",
-      "publishedAt": "2026-05-14T03:18:18.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "0ea062f91da8",
       "title": "Commercial Real Estate Developer Stakes Patent Claim on New AI Infrastructure Accountability Architecture - EIN News",
       "summary": "Commercial Real Estate Developer Stakes Patent Claim on New AI Infrastructure Accountability Architecture &nbsp;&nbsp; EIN News",
@@ -145,35 +142,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "92abb1076644",
-      "title": "Giving designers the reins: The case for steerable AI in architecture - Planning, Building & Construction Today",
-      "summary": "Giving designers the reins: The case for steerable AI in architecture &nbsp;&nbsp; Planning, Building & Construction Today",
-      "source": "Planning, Building & Construction Today",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSWxaM2diUl85QmtkS183V2FMblk1VEFLSS1KYTlsMUIybHAtc0JldXNXRFBqS1pFM1ZZX1E0VE5WOXBBbFpDdGpoZ0JVVm56NmtJR2MtUUI0NTdfN3V5UW5UTnQ3ZHQ0cEZCVWFFc2pmNk9wUm9fM0c5cVYtMU5HWUM1cXEwWEpGMWxZSXEwdWpheENGNnpxNHR1OHRPc1VCQkltWnlRYjkwRlFUclNSUGQ4bmdkTjJ0MC1LUlNYWjR2MkVjdGZpbHVBWGx1X3VoeERPM1p5TExDdUFtc01DSGN0SllveVZ5R0tV?oc=5",
-      "publishedAt": "2026-05-13T12:58:54.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "addf8a969647",
-      "title": "Scaling PCIe Controllers for AI Bandwidth: A Multistream Architecture Analysis for 64 GT/s and 128 GT/s - Semiconductor Engineering",
-      "summary": "Scaling PCIe Controllers for AI Bandwidth: A Multistream Architecture Analysis for 64 GT/s and 128 GT/s &nbsp;&nbsp; Semiconductor Engineering",
-      "source": "Semiconductor Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWE5adTV5UldDbjBqNVA4N29mS1kyaFRZV0Eyb3ZSR0U4eDcyb0dNa3ltRUVTTTZPd3VyS082TXBUV01rdllNQ3pLcFNfWl9NQi1BZGMwS3RaQnVlSVR1QW9mSVlaSy1EWTdIU2ViQlVuWFE0R2xXdmJtRDJoNDgxd09HQmp2Qk1DMEhDRF9jUm5YbnpqNkJTcmRLdFBpQmxSUlFiU0VhTzA1dXowc2pGMGQ4dU81TXhvcjlhQnJWM0lOMGozZV9yS25jOA?oc=5",
-      "publishedAt": "2026-05-13T09:54:10.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -282,6 +250,19 @@
       ]
     },
     {
+      "id": "9e8165a8a23d",
+      "title": "From Prompt Engineer to Agentic Architect: How to Ace 2026's New AI Cloud Interviews - MSN",
+      "summary": "From Prompt Engineer to Agentic Architect: How to Ace 2026's New AI Cloud Interviews &nbsp;&nbsp; MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZG1ETEVNMzZCY0xTbld6bVg3bEhfaGZWaDZWVDJVeG9ibmhIMjNhcmtuZkJRNnktX3pfSUVJNHJabFZ5XzVMeGJseGZjbHBxdzlLeW93UE9iT0xGbklZcFJVTjRHR251R1prQ0ZYQ3NvTUROYVZKZkF3YVM2SFNUWnpXcExYVEU1TUdnR3dIdUQ1OGFiYnpYaURuV1llSWt3WFRJYU5VQlVtVFZFOFNnMXc1QngtREVwcHNhWFFXbllyX0N3OGZsemYtZEhwQQ?oc=5",
+      "publishedAt": "2026-05-11T21:01:01.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "26d0e86f1df3",
       "title": "Killing the Bottleneck: Why a True Parallel Architecture is the Secret to Scaling AI Workloads - HPCwire",
       "summary": "Killing the Bottleneck: Why a True Parallel Architecture is the Secret to Scaling AI Workloads &nbsp;&nbsp; HPCwire",
@@ -310,31 +291,17 @@
       ]
     },
     {
-      "id": "9e8165a8a23d",
-      "title": "From Prompt Engineer to Agentic Architect: How to Ace 2026's New AI Cloud Interviews - MSN",
-      "summary": "From Prompt Engineer to Agentic Architect: How to Ace 2026's New AI Cloud Interviews &nbsp;&nbsp; MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZG1ETEVNMzZCY0xTbld6bVg3bEhfaGZWaDZWVDJVeG9ibmhIMjNhcmtuZkJRNnktX3pfSUVJNHJabFZ5XzVMeGJseGZjbHBxdzlLeW93UE9iT0xGbklZcFJVTjRHR251R1prQ0ZYQ3NvTUROYVZKZkF3YVM2SFNUWnpXcExYVEU1TUdnR3dIdUQ1OGFiYnpYaURuV1llSWt3WFRJYU5VQlVtVFZFOFNnMXc1QngtREVwcHNhWFFXbllyX0N3OGZsemYtZEhwQQ?oc=5",
-      "publishedAt": "2026-05-11T16:13:46.000Z",
+      "id": "aa443ce570cc",
+      "title": "DigiCert Introduces New AI Trust Architecture for Securing AI Agents, Models, and Content - IT Voice Media Pvt. Ltd.",
+      "summary": "DigiCert Introduces New AI Trust Architecture for Securing AI Agents, Models, and Content &nbsp;&nbsp; IT Voice Media Pvt. Ltd.",
+      "source": "IT Voice Media Pvt. Ltd.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanFiSkJ2anEybkk0VEtPUlVzREEwTVAwZ2o2V2EyWWVtaThDbDlQV1NfNVRzanRNbU9NT19PUTdSd09lZjdzU0R5SkttNWE2VXFWenZGV280eTVFWnI3MmVaeE9Qa0swZDNWaEFCOFp4LUtmcEJlX3NNaVFDZWtzQy1MQ05TVkF1WlB1YzUwb3lKZHhKcXJmY21uRldhQVdUZE9IVnNSaFJzY1NBRmhV?oc=5",
+      "publishedAt": "2026-05-11T10:45:15.000Z",
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "d44b82ecf7c0",
-      "title": "AI Worldbuilding with SvelteKit & Three.js - parametric-architecture.com",
-      "summary": "AI Worldbuilding with SvelteKit & Three.js &nbsp;&nbsp; parametric-architecture.com",
-      "source": "parametric-architecture.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYUxVVXNxd1llX092bzNPWmZTdWRTTjlDY0tKU3FUU3F2bXhpMG04cXFNTjFNUVJua0REVmd0eDVaNUZzdW1raTFhSXc4NkV6TVZNR2Z2bUFGUENfdXBLQU05ZllGQzY1TExDVEc1TGRsNXcxZlhHU09BZzJyN2JNOVlEaw?oc=5",
-      "publishedAt": "2026-05-11T12:17:11.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
         "architecture",
-        "architect",
-        "building"
+        "architect"
       ]
     },
     {
@@ -347,20 +314,6 @@
       "category": "工具",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "bce94df2aa4d",
-      "title": "Richard Nadler’s Mesmerizing AI-Generated Worlds Turn Architecture Into Living Art - Archinect",
-      "summary": "Richard Nadler’s Mesmerizing AI-Generated Worlds Turn Architecture Into Living Art &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUVFSXRVdG9zUWE5V1pGYzZtTHRUWGV5OUJSeFZwSElTRVBNdlAtdUNYY0hZbXdqWTJjU0pxM0hKdDk2d00yVk5MOWJUQVhiZzJJbXg2dkJIcFBwMDU4SmVFR25pM1Y5R09vNnNsclQ2R3BiMmpIQXZNRVAwOXczOHFibWRwM0ZPMzdueXNMcWpTbVBPQlcyRE9mLUZZNUw5dW1ySGRLZktxeFlFY3RuWVY2WEV4UUJnVFlHUXQyODF4a2tHLVYzZ3c2OA?oc=5",
-      "publishedAt": "2026-05-08T18:31:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -383,6 +336,20 @@
       "source": "eeNews Europe",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTRVMldvem9SMk0zNjZIbWkyVS1ScVRCZEFnWjMyWFd5M1p6OWo0VEtleG5zTkRhT2RGdnBfRWp1T0ZEdi16MlRQUmsxeW12VlROTFJxRHh3c25PYkc5SlRONmZDODJoVGR2cW1lYXdjVF8xbFozcVNoanFQdWpudXZrVnpDem83WkZmWm1YTXNFdHAyNzlfV1V1UHgtRkNyS3hIX1V5RmdOaVk2NFdN?oc=5",
       "publishedAt": "2026-05-08T10:05:19.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "bce94df2aa4d",
+      "title": "Richard Nadler’s Mesmerizing AI-Generated Worlds Turn Architecture Into Living Art - Archinect",
+      "summary": "Richard Nadler’s Mesmerizing AI-Generated Worlds Turn Architecture Into Living Art &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUVFSXRVdG9zUWE5V1pGYzZtTHRUWGV5OUJSeFZwSElTRVBNdlAtdUNYY0hZbXdqWTJjU0pxM0hKdDk2d00yVk5MOWJUQVhiZzJJbXg2dkJIcFBwMDU4SmVFR25pM1Y5R09vNnNsclQ2R3BiMmpIQXZNRVAwOXczOHFibWRwM0ZPMzdueXNMcWpTbVBPQlcyRE9mLUZZNUw5dW1ySGRLZktxeFlFY3RuWVY2WEV4UUJnVFlHUXQyODF4a2tHLVYzZ3c2OA?oc=5",
+      "publishedAt": "2026-05-08T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -416,33 +383,6 @@
       ]
     },
     {
-      "id": "1122691ac5e3",
-      "title": "Illoca Raises $13M to Reinvent Architectural Design - Ventureburn",
-      "summary": "Illoca Raises $13M to Reinvent Architectural Design &nbsp;&nbsp; Ventureburn",
-      "source": "Ventureburn",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOajJtLXJaSjl4NVprbTNBaC1FWUVYMXAwclRvR05CRnBSMVNZcnltRjlnNUtPU3pOdllqSnBBQnc2MG42OXFPbjdEQXdGcXRSUFU0RW9OeWlqLXNYdW1NaFRpQk1KblpnSkZjSWtkNkFrRkUyZ29hdlhvVC1qcm1sedIBgAFBVV95cUxOajJtLXJaSjl4NVprbTNBaC1FWUVYMXAwclRvR05CRnBSMVNZcnltRjlnNUtPU3pOdllqSnBBQnc2MG42OXFPbjdEQXdGcXRSUFU0RW9OeWlqLXNYdW1NaFRpQk1KblpnSkZjSWtkNkFrRkUyZ29hdlhvVC1qcm1seQ?oc=5",
-      "publishedAt": "2026-05-07T10:30:24.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "22f8cb504c60",
-      "title": "Exclusive: Expert insights on the future of architecture in the age of AI and digital design - Construction Week Online",
-      "summary": "Exclusive: Expert insights on the future of architecture in the age of AI and digital design &nbsp;&nbsp; Construction Week Online",
-      "source": "Construction Week Online",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMG1ZVy1XcGpKTWZnYkJNTkxhcWxnd2ZlaEo4aDNLd1FyNFQ1VEl6VVhCSnRqTjlsY0FpUGFFUG9ja0VXZFdGS2FEV1VQdG9HOG8xSGVibFdZLWotaDVJVFR4MDlJVktwWEVJaDJENXFBODJlakh1ZU1nOXFEY2xVelg5eFgwenN3RFlqZDNaNHE?oc=5",
-      "publishedAt": "2026-05-07T07:00:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "bd9b3ca78c14",
       "title": "Autodesk’s FY26 Impact Report: A message from our President &#038; CEO, and our CSO",
       "summary": "Report explains how AI and sustainability shape design and make workflows.",
@@ -469,12 +409,66 @@
       ]
     },
     {
+      "id": "dce4f116f478",
+      "title": "Illoca Raises $13 Million Seed Led by Bessemer Venture Partners to Launch the First Intelligent Interface for Architectural Design - IT Business Net",
+      "summary": "Illoca Raises $13 Million Seed Led by Bessemer Venture Partners to Launch the First Intelligent Interface for Architectural Design &nbsp;&nb...",
+      "source": "IT Business Net",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeldDQ1Fwckd1Tkl5anhKelFMeEU2a28xQUg3NDRRZmRGc3Y0VnFreEhtNW5FdG9KVDRhYWlzRHpfM2c1enJBbDZxN21QWF84dkJsdXNhTlJ3eDk5UmhiODQwdTd1N19oUWp3aUtRVFcxN0xTSUZnTnlFVzFab3dPWjFZblVLMFBxc3BBdHl3RGVIR1lYMFpMc2dtM0tjQ0hZUnhGQThFYXpqN3ZFYzVwUjRIWlJYUTdlcHlJbEdNcjJfVWhEazJvSWhmVjliZ0d6N3RwSGtydUJ0WkU1cjhPTFZQZmdXSnltS0tWNWJCVkJQMlh0eF9r0gH8AUFVX3lxTE16ZTZRMEFLTDZpU2VXN0F4MGJiSFFZS194RVRfSHF3S0pMSVFoX1lwdmtjaFVKaVZ1LV9DcjNCOFp0U19ERjNaNnpVd0dMb1gzQUtJU2MzeUZxMXdnb1ZIQUp5T01YVEt1MFZqQl9uU1NwcWQ4dkNpMS0tTW1rWFFMUkw4N29TN09fWnhNNzFSN1JKQ2ctMnRjMWVZZ3ZxUWdEemNKdkpRRkw0M0xLeS12MEtzR0pLcV9ac3FYNEoxSHR4Q0w5cFRLelFxbmhoam5FSEd2SkhvM0NCQmNKLWtkcVJmRjkwSHdBUGFsRkpZUWdKc00yWDlRWnktNw?oc=5",
+      "publishedAt": "2026-05-06T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "8caf5f80aab2",
       "title": "Why Stanford Researchers Say AI Architecture Isn’t the Real Key to Performance - Geeky Gadgets",
       "summary": "Why Stanford Researchers Say AI Architecture Isn’t the Real Key to Performance &nbsp;&nbsp; Geeky Gadgets",
       "source": "Geeky Gadgets",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQ21HSUdvZVZFZVgyTUgxQVFfY0VPMGgtSTNUdkhicllWak16RTYwZjB6ZUdnOG9mM2lfMG5RUnJVRDl3VDczWTVDSXQtWXRnNnViMnRUN25tNDVlSzZxc1ZmNXZDTkczMHNjWUtObWI?oc=5",
       "publishedAt": "2026-05-05T13:48:28.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "a6738f7ad6c2",
+      "title": "AutoPipe says agentic AI platform is “reducing work that takes architects weeks to one day” - CTech",
+      "summary": "AutoPipe says agentic AI platform is “reducing work that takes architects weeks to one day” &nbsp;&nbsp; CTech",
+      "source": "CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TkpTa21QdzVOUHFLXzhFMEFtZ20xTUxGZmZ3M2UxWHE3OHJfWHpqQk9WR2RDeGJKSjliYlVuSkRmWmJSZllFeHNYdzdwWXFtTWZDQUJ5Qjk4aVpTM3U2Y0pjc0swdDA?oc=5",
+      "publishedAt": "2026-05-05T11:11:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "e2b5e1744304",
+      "title": "Apple's AI-driven architecture shift could reshape Taiwan supplier roles and industry competition - digitimes",
+      "summary": "Apple's AI-driven architecture shift could reshape Taiwan supplier roles and industry competition &nbsp;&nbsp; digitimes",
+      "source": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORm85bGc3ZlhtT1F1Um1vTTFkNUR6WGdHUmlCZUpwMlZaQm1rc08wdnQ3TWNPZEFOcHZtR1hFN19rUXRRNm5NRnBRTnJiSExGMWFJbkpqQWZjN3h1RUNOV1ktMUVjNXN0VHJRZDlFSXhtZjZjbHB0SmhJdWh0RDhGU3VYOUk2YW84Q2dHTUx4bw?oc=5",
+      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "1f6ca7997dd5",
+      "title": "Your architecture is the ceiling on your AI strategy. Here’s how to raise it in 90 days - Fast Company",
+      "summary": "Your architecture is the ceiling on your AI strategy. Here’s how to raise it in 90 days &nbsp;&nbsp; Fast Company",
+      "source": "Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON29TY2VWQ3NGQi1MMXJxNVZQbDVBUHBrR0pUR2lBYWxkNHBham0wa2otX25acXFGOHRYX2N0R3dYR2hxY0dndW9jNnZhT01rdUVPNzdpby1Zck1NZWZxY2ZORFZSVmsxQm40bElEOHBzRWczazFJbWdZRS05dUEtLS1HMk9QRnFkak5jRw?oc=5",
+      "publishedAt": "2026-05-05T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
