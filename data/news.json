@@ -1,29 +1,78 @@
 {
-  "updatedAt": "2026-05-17T07:45:11.401Z",
+  "updatedAt": "2026-05-18T11:57:22.298Z",
   "items": [
     {
-      "id": "de05c34e073b",
-      "title": "The Importance of Human Judgment in AI-Driven Design - Autodesk",
-      "summary": "The Importance of Human Judgment in AI-Driven Design &nbsp;&nbsp; Autodesk",
-      "source": "Autodesk",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlZISjJOcmhJZEltSWN3ZUxVNkpMMElUQlVKZ0Q1WXliVnhCa2tlSjlFN3k0enZSRlppRHppaWp0dmtQRkI4UXZGbXVZOEFpS3hPVm1iR3JLZzV0VGNTNzlqbHQxTG5NOUhJN3l3NXlWYkU1amFXTnd3OGlFbk0zeEpLM1NwUDFwbkR5cUJvRVdNWmZiUXZPZDE0VDd2X2ljUG5oRHdMVDBldUpITWhOU3ZldmVvY3cwNXhrWXpaa0VXTFh1RXY1SEZwSVctTGc?oc=5",
-      "publishedAt": "2026-05-17T01:13:07.000Z",
+      "id": "f96a7debf7eb",
+      "title": "Summit Dialogue with CGTN | Kaban: AI Reshapes Design, China Stands at the Global Frontier - ANTARA News",
+      "summary": "Summit Dialogue with CGTN | Kaban: AI Reshapes Design, China Stands at the Global Frontier &nbsp;&nbsp; ANTARA News",
+      "source": "ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkE1Rmlfamp6a19aVVB4TDV1QXBHdjcxN29lTVQ2ZDQxR0d4T2dZaFZXU2dReHVGN0QyMDBXNU9qcGstZHZGZzVtQktBeE9RSXRJZmZkeGpLOHVQeU93WmtXZU1HdWwwTXp6UXJ3azluWkEwOHBWZmpTQ2FDSHVYR01kOUpLSlVRZ0RHaVhRSi10czh4U0tveTlWU003bUphMTRRRm84a3dRdEY1QmhHbmt4WnhDODcybUJMQzFrNEo4d9IBxwFBVV95cUxOT0piS1hKcC1xamFSTFFTYVU2RW9ON0RUQWJFVlJvRW9uY3NGTHkxVkxrYi1Yc3hYRVNMR2ZjcG01ZnJNb1JjYUpWTnpzQ29PTGtkUFdZdlpxbFFhZWREYXJQdndFSVdOa1pfNmxFdXE2ZUpxS1N0RzBVYjQ3dVBnTGpyay1mcjc2cWhfcVRLMWRndlJCT21ycDFFY1BBYXRraVBmakNWM0RaNXJySmhRVTNReTN1VDkwand1c0Rabk05Q01VSnJN?oc=5",
+      "publishedAt": "2026-05-18T07:31:42.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "30d5d258f764",
+      "title": "Hainan Science Museum / MAD Architects",
+      "summary": "The Hainan Science Museum, designed by Ma Yansong and his firm MAD, has opened to the public on the edge of Wuyuan River National Wetland Pa...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041579/hainan-science-museum-mad-architects",
+      "publishedAt": "2026-05-18T02:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "7f38852ed2c9",
+      "title": "See and Foresee: Architectural Research Across Four Southeastern European Cities",
+      "summary": "Cities in Southeastern Europe do not wait to be read. They accumulate, layer upon layer of socialist planning, post-socialist disruption, an...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041132/see-and-foresee-architectural-research-across-four-southeastern-european-cities",
+      "publishedAt": "2026-05-18T01:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "f10864ac89fd",
+      "title": "Conch Station / Perform Design Studio",
+      "summary": "The Conch Station is located in Letao Bay, Wanning , Hainan, adjacent to coconut groves and beaches along the sea shore. As part of the ongo...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1040791/conch-station-perform-design-studio",
+      "publishedAt": "2026-05-18T00:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "5dab92124826",
+      "title": "Xintiandi Dongtaili Mall / Kokaistudios",
+      "summary": "XINTIANDI DONGTAILI: Revitalizing Urban Memory Through Contemporary Design. XINTIANDI DONGTAILI marks a new chapter in the evolution of one ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041122/xintiandi-dongtaili-mall-kokaistudios",
+      "publishedAt": "2026-05-17T02:00:00.000Z",
       "category": "工具",
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "3bb0e9371819",
-      "title": "Youth Club NW80 / AFF architekten",
-      "summary": "Even though young people's leisure time often takes place in a digital parallel universe, this architectural project aims to provide a physi...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041507/youth-club-nw80-aff-architekten",
-      "publishedAt": "2026-05-16T11:00:00.000Z",
-      "category": "案例",
+      "id": "0f7e158dca72",
+      "title": "The Importance of Human Judgment in AI-Driven Design - Autodesk",
+      "summary": "The Importance of Human Judgment in AI-Driven Design &nbsp;&nbsp; Autodesk",
+      "source": "Autodesk",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3hMRndYWlVhRVkwR1hJQ2RpbldFSVBOUUVJM2lCUkphaEVveDRkNDc1VTF6YUtoQ29XR0V5cVIydmc0cENmalc2cmpmTHYxTFZ1elNXeE9rU3VfYVVEUmNKbjFVbDlkY2I2TVBybVZvNDRoUlgya3ZENjhLLUQyMG4zT2hha2p4UHBadzM2Z19jLTcyckhyNHdDS2R5QXg5ZmNUclNMWlhwLV93eElxSTdhbVFCMzdCM2hQZGF3d1k?oc=5",
+      "publishedAt": "2026-05-17T01:38:39.000Z",
+      "category": "工具",
       "tags": [
-        "ai",
-        "architect"
+        "ai"
       ]
     },
     {
@@ -41,26 +90,12 @@
       ]
     },
     {
-      "id": "cf0a3a0a94c6",
-      "title": "Rethinking the High-Rise: 5 Unbuilt Towers from the ArchDaily Community",
-      "summary": "High-rise architecture continues to serve as a primary tool for accommodating density in rapidly evolving urban environments. Traditionally ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1040793/rethinking-the-high-rise-5-unbuilt-towers-from-the-archdaily-community",
-      "publishedAt": "2026-05-15T07:30:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "ab479595dc98",
-      "title": "Housing, AI Lead Melbourne Design Week 15 May - Mirage News",
-      "summary": "Housing, AI Lead Melbourne Design Week 15 May &nbsp;&nbsp; Mirage News",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2JfY3k4cENEblB1a1puRXlWQnM0M2gxblVVVUhQWVYybWxHMlpmYTFzM2FadV82S19uMGVuTG1xSEtkWjY2eXdpVGVUdlBaYTdnT0hOUUtPTGRNcmRScGUzY2MtN2N5bVlWMlVLd3p1emFBNndCQjZwVUhha2xxVEk3QjdGb1E?oc=5",
-      "publishedAt": "2026-05-15T05:06:00.000Z",
+      "id": "217f84c449f2",
+      "title": "Housing and AI take centre stage at Melbourne Design Week - The National Tribune",
+      "summary": "Housing and AI take centre stage at Melbourne Design Week &nbsp;&nbsp; The National Tribune",
+      "source": "The National Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVpNWEY5NGZUQVZTTVc5aTl0LWZuRHN1TkdPMDh5VEtRSlNiZjFKTng3NXVENnpSdXJINHctZmh2a0xGX1JwbU4yNkx5N0wtVW41S2JmcUJiXzhweWE0cGcwX0hGM0hjRjRvQnltU1VZMVlMWFRaOU5fNWVSQTg1cEwxclVJOFJWNkFIZ0ItSkN1VUE4QktjdHk2bw?oc=5",
+      "publishedAt": "2026-05-15T05:07:23.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -173,9 +208,9 @@
     },
     {
       "id": "14de93b51e45",
-      "title": "Kaizen AI Discusses Real Estate AI Adoption Across Projects - Construction World India",
-      "summary": "Kaizen AI Discusses Real Estate AI Adoption Across Projects &nbsp;&nbsp; Construction World India",
-      "source": "Construction World India",
+      "title": "Kaizen AI Discusses Real Estate AI Adoption Across Projects - Construction World",
+      "summary": "Kaizen AI Discusses Real Estate AI Adoption Across Projects &nbsp;&nbsp; Construction World",
+      "source": "Construction World",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1gtbnRaM0RWNWxOZmRjRkJVcjYxRnlmOHdTdXpsTFExWUhoLUIwR1JTY2E0ZzRTc0Zob296UVQ0YUJ4aTFROGZ2TWpyU3BYZm56YWotb3Qxb1A2ZEVjamJPcV9FaWxTRkxwekJaaHUwamUyMXg2S05vVEVBRk5LRHVHWk1abTBPS2NQNzJEZWUtXzNvTnJSZkNfS0Y4SUZZSFdUZTVoZUFsbC1tb3dDWTExTlo3MzhVbTFtb1F5OHQ5ZGZuWXprMw?oc=5",
       "publishedAt": "2026-05-13T07:26:14.000Z",
       "category": "BIM / AEC",
@@ -291,20 +326,6 @@
       ]
     },
     {
-      "id": "aa443ce570cc",
-      "title": "DigiCert Introduces New AI Trust Architecture for Securing AI Agents, Models, and Content - IT Voice Media Pvt. Ltd.",
-      "summary": "DigiCert Introduces New AI Trust Architecture for Securing AI Agents, Models, and Content &nbsp;&nbsp; IT Voice Media Pvt. Ltd.",
-      "source": "IT Voice Media Pvt. Ltd.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanFiSkJ2anEybkk0VEtPUlVzREEwTVAwZ2o2V2EyWWVtaThDbDlQV1NfNVRzanRNbU9NT19PUTdSd09lZjdzU0R5SkttNWE2VXFWenZGV280eTVFWnI3MmVaeE9Qa0swZDNWaEFCOFp4LUtmcEJlX3NNaVFDZWtzQy1MQ05TVkF1WlB1YzUwb3lKZHhKcXJmY21uRldhQVdUZE9IVnNSaFJzY1NBRmhV?oc=5",
-      "publishedAt": "2026-05-11T10:45:15.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "c2d726c71483",
       "title": "Best AI Design Tools That Engineers, Architects Are Using to Build Smarter in 2026 - Tech Times",
       "summary": "Best AI Design Tools That Engineers, Architects Are Using to Build Smarter in 2026 &nbsp;&nbsp; Tech Times",
@@ -401,33 +422,6 @@
       "source": "Axios",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGQzTzJMQ3lJVkN5T043MXBNVklsRTZOc2JJWGhhT0hLTmU5SU5xLTFVMXRDa1VpZFRNVXk2TDR5akY2WHZwdlkybS1KQzhnZVNNSnNvZ2Job0M5R3U2V0Z5OTZuUlZLRHhzdUh0S3hZLU5FSW5qeWdaRnVlbGdDQ0JaX2RmTDJHR3Z2Z0w3VWdwaldYQ1A2a3hYQQ?oc=5",
       "publishedAt": "2026-05-06T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "dce4f116f478",
-      "title": "Illoca Raises $13 Million Seed Led by Bessemer Venture Partners to Launch the First Intelligent Interface for Architectural Design - IT Business Net",
-      "summary": "Illoca Raises $13 Million Seed Led by Bessemer Venture Partners to Launch the First Intelligent Interface for Architectural Design &nbsp;&nb...",
-      "source": "IT Business Net",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeldDQ1Fwckd1Tkl5anhKelFMeEU2a28xQUg3NDRRZmRGc3Y0VnFreEhtNW5FdG9KVDRhYWlzRHpfM2c1enJBbDZxN21QWF84dkJsdXNhTlJ3eDk5UmhiODQwdTd1N19oUWp3aUtRVFcxN0xTSUZnTnlFVzFab3dPWjFZblVLMFBxc3BBdHl3RGVIR1lYMFpMc2dtM0tjQ0hZUnhGQThFYXpqN3ZFYzVwUjRIWlJYUTdlcHlJbEdNcjJfVWhEazJvSWhmVjliZ0d6N3RwSGtydUJ0WkU1cjhPTFZQZmdXSnltS0tWNWJCVkJQMlh0eF9r0gH8AUFVX3lxTE16ZTZRMEFLTDZpU2VXN0F4MGJiSFFZS194RVRfSHF3S0pMSVFoX1lwdmtjaFVKaVZ1LV9DcjNCOFp0U19ERjNaNnpVd0dMb1gzQUtJU2MzeUZxMXdnb1ZIQUp5T01YVEt1MFZqQl9uU1NwcWQ4dkNpMS0tTW1rWFFMUkw4N29TN09fWnhNNzFSN1JKQ2ctMnRjMWVZZ3ZxUWdEemNKdkpRRkw0M0xLeS12MEtzR0pLcV9ac3FYNEoxSHR4Q0w5cFRLelFxbmhoam5FSEd2SkhvM0NCQmNKLWtkcVJmRjkwSHdBUGFsRkpZUWdKc00yWDlRWnktNw?oc=5",
-      "publishedAt": "2026-05-06T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "8caf5f80aab2",
-      "title": "Why Stanford Researchers Say AI Architecture Isn’t the Real Key to Performance - Geeky Gadgets",
-      "summary": "Why Stanford Researchers Say AI Architecture Isn’t the Real Key to Performance &nbsp;&nbsp; Geeky Gadgets",
-      "source": "Geeky Gadgets",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQ21HSUdvZVZFZVgyTUgxQVFfY0VPMGgtSTNUdkhicllWak16RTYwZjB6ZUdnOG9mM2lfMG5RUnJVRDl3VDczWTVDSXQtWXRnNnViMnRUN25tNDVlSzZxc1ZmNXZDTkczMHNjWUtObWI?oc=5",
-      "publishedAt": "2026-05-05T13:48:28.000Z",
       "category": "研究",
       "tags": [
         "ai",
