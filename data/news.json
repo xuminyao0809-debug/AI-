@@ -1,6 +1,98 @@
 {
-  "updatedAt": "2026-05-28T11:54:05.366Z",
+  "updatedAt": "2026-05-29T10:58:27.196Z",
   "items": [
+    {
+      "id": "fedefdeb0c6d",
+      "title": "Building the future of connected operations",
+      "summary": "Extending Autodesk’s platform with the introduction of Autodesk Operations Solutions and a definitive agreement to acquire MaintainX.",
+      "source": "Autodesk News",
+      "url": "https://adsknews.autodesk.com/en/news/building-the-future-of-connected-operations/",
+      "publishedAt": "2026-05-28T20:07:21.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "255eaf030492",
+      "title": "Autodesk to acquire MaintainX, advancing unified platform in operations",
+      "summary": "Proposed acquisition strengthens Autodesk's ability to connect real-world data and AI-powered insights to drive convergence in design, make,...",
+      "source": "Autodesk News",
+      "url": "https://adsknews.autodesk.com/en/news/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations/",
+      "publishedAt": "2026-05-28T20:06:47.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "bbe21fd9e6b2",
+      "title": "Architecture students reimagine a Lexington warehouse through AI-informed design | University of Kentucky - Archinect",
+      "summary": "Architecture students reimagine a Lexington warehouse through AI-informed design | University of Kentucky &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHNleWJyM2FGTHBSNm10aW1URFRDS1VRZnlpOUdIRWpFcV9NOG9jcGtEaUlNZ2dVeW1WTS1JbmpxcFlJM2EyZWw3NHp6akxMeVdUQjkxYl9BMl9tc3BrR3lqWW1EeHFDRUh1N0pFRUF1OWkwOEVwSVRLYW4wbFVIQlZueldfTnAyaWRJWTlONnRHTUFOZ1VfYjU2TzlYME1RZHJWaFlTR1E1cG9xREw4bV83Sjl5VjJVM1dIcFA4MF84QkFYODN5b2xrN2JkS3M?oc=5",
+      "publishedAt": "2026-05-28T17:34:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "c88c7b5cb33e",
+      "title": "Londres 187 Building / CCA | Bernardo Quinzaños + Olga Romano",
+      "summary": "Located on London Street in the Ju&aacute;rez neighborhood, the building integrates collective housing with ground-floor retail. The proposa...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041479/londres-187-building-cca-bernardo-quinzanos-plus-olga-romano",
+      "publishedAt": "2026-05-28T15:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "b6037cd54b04",
+      "title": "ARM vs. SNPS: Which AI Chip Design Stock Should Investors Buy? - TradingView",
+      "summary": "ARM vs. SNPS: Which AI Chip Design Stock Should Investors Buy? &nbsp;&nbsp; TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2U5YkNST21XOHAwWEtjS0Z6Qmhad0tRM3ZGcDdJS3EtcnNEZmwwMXZJTHFGSnlqVklNaUJ4NVZwbDZiazJPNGJyd2VRVVZwc3ZkQXRSTTh2TjBhZXhiTDNSRU42UDZxN2JLVkpiTTZUOTBjSUtMcGJHTWxGUjlUNWl2Q3BQUnlYYkR6R2hqa0JMLTktUkF0X0pDZTZ6elZLSWJoZTd2UWJJam14RG9IS3l3aGt5UQ?oc=5",
+      "publishedAt": "2026-05-28T13:11:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "0d49c2a8902d",
+      "title": "Ardoq Launches AI-First Enterprise Architecture Platform - Business Wire",
+      "summary": "Ardoq Launches AI-First Enterprise Architecture Platform &nbsp;&nbsp; Business Wire",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW0wSVNUU1FYNUI3R0ppcTA0WXZnRW1nTEJxYUwwZDlrWWxUYVZHSlFiWWtROE1OTXNfU2xFbzRxT2FQbk9xNjY1Y0dEeHhKU2d5Qkp5TW1aVFV0WnJ2U2l6eVpPbTlfbkM3MldydU9IWnl6MnlCZ1BwR2pySFNmZ1BpblBRUk41NXFoMUV0aGZNQ1NodlJMRW9QcG9od1pMcjlnZDJITXAyZnpoUDVDaS1TZw?oc=5",
+      "publishedAt": "2026-05-28T12:00:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "a65c21aef139",
+      "title": "Chinese university builds 3D chip design tool tailored to Huawei's ‘LogicFolding’ architecture — 3D design delivers increased performance and better thermal management - Tom's Hardware",
+      "summary": "Chinese university builds 3D chip design tool tailored to Huawei's ‘LogicFolding’ architecture — 3D design delivers increased performance an...",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUFIcDI1UkI5Skw5ZzRSOXhmbmVxRThYYzVBQ1ZCaVdCN05PMnRZQkV6R1FDQWVLdGZHYnV0UUJWQmlIdVNrVGFjVEt6RzlJQUFITnQtZEgtWWFWRnAwWlBHYXpTNjhteFZfZzNDM1ZqdUxpelJDWVM1dFVGb0c2Q1ZVbGhYZGtUUUxCM2N2aGFHa1VrODd4X1NoVFFLblJnbE1EVjFwUl82UWZJdmRmLVc2YjdDalhTZXR6WUF0Z0Ixa1hFNmZfX3l4dHBoSVFUVkVUUmZEbG5KVXJydktHc1hB?oc=5",
+      "publishedAt": "2026-05-28T11:10:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "331de3157f86",
       "title": "Valeo and Zuken Partner to Launch AI-Enhanced Electronic Design Platform - Idéal Investisseur",
@@ -11,6 +103,20 @@
       "category": "工具",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "7446f900feb0",
+      "title": "From Architecture to Industrial Scale: SRK Techtronics and MATTER Demonstrate AI-Driven Manufacturing Collaboration at CES - Big News Network.com",
+      "summary": "From Architecture to Industrial Scale: SRK Techtronics and MATTER Demonstrate AI-Driven Manufacturing Collaboration at CES &nbsp;&nbsp; Big ...",
+      "source": "Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2JOZW43RnN4RzdRUEI0dTdfdlhNVXNSXzJtbzJRYzVBMFVlb2o2bks4LUZqb25YeWVVNG11T0ZESkNxNXNINGtaMXZFZEtkX2laT05tWUxyUFpKaGN3Znh5T0g1aHlSNS1VRkJHTldSNTJwX2ZJUHlBUE5jVHU5Ukh3TE9uN1Z4Y01aZF85bHZ3T3V6d2dpUlBLRTBDM3U3bnh2S21IaXhQaHZyYzU2NFB3VDdPemsydmluM04ySUZKNzI5VXpENC14eDhOeDloOFhDNFVlNF93dldIZl8takNtTG9nV3RvcVhFYWlLZi12eHBMWVYyclZpbw?oc=5",
+      "publishedAt": "2026-05-28T09:01:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -39,27 +145,31 @@
       ]
     },
     {
-      "id": "8823ce1e23ca",
-      "title": "Intellect Design Arena outlines AI-first pivot at investor meets - scanx.trade",
-      "summary": "Intellect Design Arena outlines AI-first pivot at investor meets &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkhuaVllZ25kcFJUMFh2ZkRyVmp2RzNBTEpOY0RJVkJpZVdTTU5KNWxCQUtRTjBQakhHcFlfOVViTUFFN3RJSl91X0hJVWg5dVRZQnRwUWVhOFRZU0hVdzFlUnFOZDVFRHhtNkpQTjlJNmVfRV9YTHBBVWxNVXdDRXdBajZWaWpHWG5VVDlnelMyLXQwQ3Vta0p6NnlyVXBNMk92WmhnZ2RZNGtlSW85dw?oc=5",
-      "publishedAt": "2026-05-28T07:40:04.000Z",
+      "id": "12a4885ed289",
+      "title": "Classrooms for New Day School School / Simple Architecture",
+      "summary": "New Day School is a migrant learning centre serving Burmese migrant and refugee communities in the Thai border town of Mae Sot. Since the la...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041735/classrooms-for-new-day-school-school-simple-architecture",
+      "publishedAt": "2026-05-28T07:00:00.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
-      "id": "44dbaa903d49",
-      "title": "BluSky AI Advances Modular ‘AI Factory’ Design to Accelerate Scaling of AI Infrastructure - MEXC",
-      "summary": "BluSky AI Advances Modular ‘AI Factory’ Design to Accelerate Scaling of AI Infrastructure &nbsp;&nbsp; MEXC",
-      "source": "MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ITFRIdjFFUXU1elp3RjlfV3h5TldLc3BIWFd5cE1ZOTJScUxVd1FaU0U5NXlhbEc2X0N0ZHAtaEJtWGJZYkVv?oc=5",
-      "publishedAt": "2026-05-27T22:22:27.000Z",
+      "id": "617b87c28f4a",
+      "title": "Ceramics Forged in Light: A Spatial Translation of Circular Material Processes",
+      "summary": "Can one of architecture's oldest materials still inform how sustainability and manufacturing are approached today? What shifts when ceramic ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041534/ceramics-forged-in-light-a-spatial-translation-of-circular-material-processes",
+      "publishedAt": "2026-05-28T06:45:00.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -73,19 +183,6 @@
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "5dfd81077859",
-      "title": "Fairlie Wellness Centre / Wood Marsh",
-      "summary": "This project is a ground-level adaptive reuse intervention within Fairlie, one of Melbourne's earliest and most architecturally significant ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041860/fairlie-wellness-centre-wood-marsh",
-      "publishedAt": "2026-05-27T19:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
         "architect"
       ]
     },
@@ -130,43 +227,15 @@
       ]
     },
     {
-      "id": "123d4a54da1c",
-      "title": "Robert Mondavi Winery Transformation / Aidlin Darling Design",
-      "summary": "The new Robert Mondavi Winery aims to re-establish the winery's position as the soul of Napa Valley fine wine, encompassing every aspect of ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041840/robert-mondavi-winery-transformation-aidlin-darlin-design",
-      "publishedAt": "2026-05-27T10:00:00.000Z",
+      "id": "8823ce1e23ca",
+      "title": "Intellect Design Arena outlines AI-first pivot at investor meets - scanx.trade",
+      "summary": "Intellect Design Arena outlines AI-first pivot at investor meets &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkhuaVllZ25kcFJUMFh2ZkRyVmp2RzNBTEpOY0RJVkJpZVdTTU5KNWxCQUtRTjBQakhHcFlfOVViTUFFN3RJSl91X0hJVWg5dVRZQnRwUWVhOFRZU0hVdzFlUnFOZDVFRHhtNkpQTjlJNmVfRV9YTHBBVWxNVXdDRXdBajZWaWpHWG5VVDlnelMyLXQwQ3Vta0p6NnlyVXBNMk92WmhnZ2RZNGtlSW85dw?oc=5",
+      "publishedAt": "2026-05-27T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "5e0c8c696af1",
-      "title": "JGG I Shopping Center / OMAC Arquitectos",
-      "summary": "Re-signifying the space based on the courtyard as the articulating core, reclaiming its role as the heart of 19th-century architecture and r...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041483/jgg-i-shopping-center-omac-arquitectos",
-      "publishedAt": "2026-05-27T03:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "b2135c6a8ad4",
-      "title": "Barwon Dunes House / Eliza Blair Architecture",
-      "summary": "Set in Barwon Heads , Barwon Dunes House is a contemporary coastal residence designed by Eliza Blair Architecture for relaxed, long-term fam...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041791/barwon-dunes-house-eliza-blair-architecture",
-      "publishedAt": "2026-05-27T02:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -245,20 +314,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "artificial intelligence",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "4a27d4e85934",
-      "title": "Artificial Intelligence First Enterprise Architecture: The Design of Scalable, Secure, and Intelligent It Ecosystems - Analytics Insight",
-      "summary": "Artificial Intelligence First Enterprise Architecture: The Design of Scalable, Secure, and Intelligent It Ecosystems &nbsp;&nbsp; Analytics ...",
-      "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVHBRMW13Mm1YNGFMci0tVVlueHBUMVBWUkV5djdXbW5aenVBTldBak1mdnVoNUVBWHZaRmhLbnQxYmVSbjd1M2RvNS1fZjc3Z1NsTEMwRHg1M3p4QV9zWmtOa0FXdGpIV2JSblllVXI2ck1TTTJybGJZUnR2aFpaLVBNakR3Qi12b25hQnIxM2loWEZ6cnVFZjk4c3I3M3lXcVY4Uk5QV2tsNXRXOHBOVHFDT0Njd1pSQlhmS0luSUhaQjBNVGtjNEFWRzlzRlZqekNONnliN2JobjdEWUZvNktlQi1ldUEtanBqMFhpd1FfbWNQQlRtQ2JjMVp5S09WWUt5c0xMNzJWRFdx0gGMAkFVX3lxTFBUcFExbXcybVg0YUxyLS1VWW54cFQxUFZSRXl2N1dtblp6dUFOV0FqTWZ2dWg1RUFYdlpGaEtudDFiZVJuN3UzZG81LV9mNzdnU2xMQzBEeDUzenhBX3Naa05rQVd0akhXYlJuWWVVcjZyTVNNMnJsYllSdHZoWlotUE1qRHdCLXZvbmFCcjEzaWhYRnpydUVmOThzcjczeVdxVjhSTlBXa2w1dFc4cE5UcUNPQ2N3WlJCWGZLSW5JSFpCME1Ua2M0QVZHOXNGVmp6Q042eWI3YmhuN0RZRm82S2VCLWV1QS1qcGowWGl3UV9tY1BCVG1DYmMxWnlLT1ZZS3lzTEw3MlZEV3E?oc=5",
-      "publishedAt": "2026-05-25T12:43:01.000Z",
-      "category": "研究",
-      "tags": [
         "artificial intelligence",
         "architecture",
         "architect"
@@ -358,6 +413,20 @@
       ]
     },
     {
+      "id": "34ec4029b483",
+      "title": "Kivo Launches Headless GxP Architecture To Power AI Native Drug Development Workflows - BioPharma APAC",
+      "summary": "Kivo Launches Headless GxP Architecture To Power AI Native Drug Development Workflows &nbsp;&nbsp; BioPharma APAC",
+      "source": "BioPharma APAC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWWd2bmVTcXdCWEU4TUlKbkpzeUlwS1ZmakVRdTlvRlctNHV6TVAxLW1EVVdhdXNjTFFtUGRuNlRHaEYwWHNvMWltRWVVS3p0Q21HbHZuNmljeDFJTlI4OFdjTXZYMHg2OUpLa2JVTGNIRnRTZGZob2QybEFVRWxBZk9ELUFCS3FrZjlEQW1jbmVWeWhGOUdtZG5uWmJydEEzUzNTQ1VaSVRGVFFLeGhkTzdJUVRHX3VVaWk0a0JiVFhpMzJ2UlJBQw?oc=5",
+      "publishedAt": "2026-05-21T12:14:15.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "f0a62205fae8",
       "title": "Illoca Seed Round Backs Launch of AI-Driven Tracing Paper Design Interface - TipRanks",
       "summary": "Illoca Seed Round Backs Launch of AI-Driven Tracing Paper Design Interface &nbsp;&nbsp; TipRanks",
@@ -404,69 +473,6 @@
       "source": "Open Source For You",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEhUYjJKanZ3azhrOUxoT3RGWFlLWmVyalZkelZSQ3FacjVtcU0zVXJpZTRTd3NycVRrVmo3OGVwSkpiVlR3NUpma2F3ZEZXTkI2RUtQSHVMMV9zXzZxOEN3MFd6a2xRaEFaUUUwblJaVmRCM2pFbWJpbDZiZ29CZHF0ejB3alpkWVg0ODd3c1JCWjdhZVotN3JyYTc5WWhYUHF3?oc=5",
       "publishedAt": "2026-05-20T04:30:10.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "094126972ba0",
-      "title": "AI design strategy for BIM - Climate Control News",
-      "summary": "AI design strategy for BIM &nbsp;&nbsp; Climate Control News",
-      "source": "Climate Control News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGlKUGZJemFTRHdMZ2V0dnNYV1R1eGZaU3E5Qk1ZempqSDFib1hoTW5vd3pucjBnVDNtUUxjT3ptVl9MSTNKdklKTXZFenBDdFJXNEcwaDMxdmVYZDhXMmhkc2xHQ2VFcnNFMkNXdk93N3lVNE9HMU5oZkstbHp1MmsxLURjTHduQ0E?oc=5",
-      "publishedAt": "2026-05-19T22:52:45.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "bim"
-      ]
-    },
-    {
-      "id": "eb7e002410e7",
-      "title": "If Everybody’s Using AI, What’s An AI Design Studio For? - Common Edge",
-      "summary": "If Everybody’s Using AI, What’s An AI Design Studio For? &nbsp;&nbsp; Common Edge",
-      "source": "Common Edge",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFBUS3cyc3RKd25NaEU2RU4wTURkTnY1NlY0ZjFobUw2R25VNTgzSmVpc05vTUJHYmpKa0VzVGMtWG9fYlAyM055cUNpd29UTzZXcFpRb0NIb0t0cHZMbG40RnRUczA2TlMxei1RM2Fia2ZNN0NOX3RjTEYxSmg3UTlR?oc=5",
-      "publishedAt": "2026-05-19T11:08:44.000Z",
-      "category": "案例",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "53b523b199f4",
-      "title": "AI startup Osmo unveils Elizabeth manufacturing space, headquarters for pioneering ‘digital scent design’ technology - Real Estate NJ",
-      "summary": "AI startup Osmo unveils Elizabeth manufacturing space, headquarters for pioneering ‘digital scent design’ technology &nbsp;&nbsp; Real Estat...",
-      "source": "Real Estate NJ",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcFBvN2xESUlpMEJLR2FZVVdDbDN5eGFDNS1QYnF6bFFkRmN4OUtxVXBaX2JXZ1FrNUZzcVhFbEQ4ZVV5YjIyMXZsdjlSSUtJd2IxV1AyWGxTSVhBN0xPNVFtV1ZsSTE4eVktZmg5bDJJa2V5bzhGQkV2MFV2UFR3LW1QWjlVYklmQTFGUWlkX2tsS0ZwbWZCQ0Jnd0hRREtFVEF3dEc2NXUtODFxZ0tXV0FyYkdya01ObHFITmlTaXZQUVgwcnNOZUpQVzI?oc=5",
-      "publishedAt": "2026-05-19T10:32:31.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "b83a014ebd11",
-      "title": "Designing an AI‑Ready Identity Architecture for Multi‑Cloud and SaaS - Security Boulevard",
-      "summary": "Designing an AI‑Ready Identity Architecture for Multi‑Cloud and SaaS &nbsp;&nbsp; Security Boulevard",
-      "source": "Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlp6UGdra1o2MVBLemFuSGdSZW5SR0theEdpeERSZTlwOHBWY3h4YmtfNUdKb2dpSlVUUmNPZXYtVGw2ZEh0R3FLajZNdS1Rbm1UNlNSRFNPQVVsbEU5SDEzNTdXUlFheWp4dTNHajVad2FoeG9TMi1nOHUyTzJWSXVIaVRSRS1teDh1SU02WGpmN2dST0c0VndCQWctN2x2Vzd4RFJoU0V0eExhMndURVN3QWRwRDg5MGZ3U3VMMkc?oc=5",
-      "publishedAt": "2026-05-19T03:06:34.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "55d4e802a48d",
-      "title": "Seoul Design Foundation Announces ‘Seoul Design AI Film Festival’ Call for Entries - Via TT",
-      "summary": "Seoul Design Foundation Announces ‘Seoul Design AI Film Festival’ Call for Entries &nbsp;&nbsp; Via TT",
-      "source": "Via TT",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWTdmWF9uMWFSRDVCU0cyVkNOaU1JNUdiTnlaS3kzSFV6aEw5VnRzbFJNb2YzQXhZVW1ua2JrQTl3S2tfZUhXQ0lnV0xRcmVwblJzOGJtTlplNDVYWGRkVmpZdUh5LVZERDdGekZIVl9vNmpXUEVmY0pURV9PMDF6NmcxeUhXSUdwZFB5RGNxcVd5RmVEV09FWFRSaXpzRHg3V0swVE5wRW9COUFXd0xmT3lWbXBydE5vY0RrbUswRHBSRV95QkVSVnFkM1RxdGk2bkVGYUV3TUpJRVNsMjN3MDdIRQ?oc=5",
-      "publishedAt": "2026-05-18T14:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
