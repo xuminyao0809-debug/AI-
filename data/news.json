@@ -1,6 +1,71 @@
 {
-  "updatedAt": "2026-05-29T10:58:27.196Z",
+  "updatedAt": "2026-05-30T08:02:31.078Z",
   "items": [
+    {
+      "id": "d19c111613b7",
+      "title": "How Narendra Kumar Kuntamukkala Built an Enterprise Angular Architecture That a University Implemented, Measured, and Independently Verified - The AI Journal",
+      "summary": "How Narendra Kumar Kuntamukkala Built an Enterprise Angular Architecture That a University Implemented, Measured, and Independently Verified...",
+      "source": "The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVcxMTF4Ty1uODNHSlRVZk94aXl1NmxocmhLcXpvYmJMSVk0MG50b2JrQjdkVXI3a3RyMEJ0R2ZuVi1BU0RHbkJYYXlFR0tHbXVlaGxmWDdZLUl3cW1KX0c3dFN0ME9SREJyS2ZiTExabjVKZlFFcnlQT3hia1ZXQ1BtSUoxSEN2UW9uR2VQZjBFUGhQdUl0OWREbnc0MXhfNEUyaFdWZnVFX2FseDRFOFFCbUI0QmRHNDlnZGNOSHJVbnlpWUk3aEFOanBZR1VVOFB3TWEzNGJmSVVrZldLbTZMRTVBNkhSRE5UVEZyY1U?oc=5",
+      "publishedAt": "2026-05-29T19:48:54.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "ddc6a3247426",
+      "title": "Dual-Chip Powerhouse Unveiled! NVIDIA's AI Factory Architecture to Be Fully Revealed for the First Time; Morgan Stanley: A Pivotal Milestone in Transformation into a Full-Stack AI Computing Company - 富途牛牛",
+      "summary": "Dual-Chip Powerhouse Unveiled! NVIDIA's AI Factory Architecture to Be Fully Revealed for the First Time; Morgan Stanley: A Pivotal Milestone...",
+      "source": "富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTNDcG9Qd0JoYmZFLXp1eUE3aExmYTRYYlNPUklBT1paN3VZQ0lBZHZhd3V4amtOLUJCVDRQWjhlX1FtUWpURFhsbDZSMU5Gbl9zeHRQLXoxZ0F5WnAwV2d5ZWxJSmRDcVpMZVJPUnAyNko2eHB1blU1ajNKZWJqZXhjMXJNbWlteU1zMmQzSFZwY0NvN2RYRVRiYWNNSXNpSDdKUnpYeGpydw?oc=5",
+      "publishedAt": "2026-05-29T14:30:14.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "1a37c5beede6",
+      "title": "Architectural Animation Design with your own AI-Model at My ArchiSchool - Dezeen",
+      "summary": "Architectural Animation Design with your own AI-Model at My ArchiSchool &nbsp;&nbsp; Dezeen",
+      "source": "Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlNnb3hKR1JPVjlRdFdrWnBiVVdpcXRlbzlHWEV5OVQzMU1SS2JfVHdoZTdLc2d6QXYtX3RCRjlVTlJicVdKQTVFR3FFRlBlRHFhQk91SmtZdWFYdVotVWx6TElZZ2tQUEl5V1Bmaml2UTRXVGFxVlBVdHNDQmh4UFF6UUgzdWZxMGI1cnBGeUpJTWgtQVE3bm5FYUxSbUtLSVRudGV3?oc=5",
+      "publishedAt": "2026-05-29T12:18:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "d187be6b20f0",
+      "title": "AI Home Visualization Platform and AI-Powered Floor Plan Technology: The Future of Smart Design with Dehome AI - Technology Org",
+      "summary": "AI Home Visualization Platform and AI-Powered Floor Plan Technology: The Future of Smart Design with Dehome AI &nbsp;&nbsp; Technology Org",
+      "source": "Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOek0tVUN4SVkyeHVTRXJsWUprbFRoRklDZkplMjM5SUZwOElWaW1mb0VzYTZhd2VYMWhicnZwWWVxWVR2T0lfblZrelFHamhVYzJIY0xTcWJ5RTN0eUVtTmlySi1adFdObUZCNEdGdU5NSEY1VDU1c2FMMmRXbl9ZQ3VySmFLTkVGdHkycXNTZHFGdWxJdWo5SllaaXpjeEFhYklFNVpXSXd3OVVNSFlhNTdyVGtkTF8zc3BGVzVqdlJvM0FZZ3hUcVBfTnAzbzJwNHNGMHRVWC1sOHA1TVptVTVB?oc=5",
+      "publishedAt": "2026-05-29T08:29:19.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "6bedbfbc465e",
+      "title": "The outliers economy: who survives AI? - DesignWanted",
+      "summary": "The outliers economy: who survives AI? &nbsp;&nbsp; DesignWanted",
+      "source": "DesignWanted",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45VjFXOUVxM3ptdEdJV2xPUUtTVkQwOERaMHNmNUJBMlZUMjB5VERyMjF0cjFhazBQcjJiWjU2bkpMaHVEZmZaam96OGRxY1U3MF9ZWTF0WEpoNkozRUd3dWVndWI1alY3LWpPYlVTYVIxUmRVYkZ5NUs5aEY?oc=5",
+      "publishedAt": "2026-05-29T04:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "fedefdeb0c6d",
       "title": "Building the future of connected operations",
@@ -41,28 +106,16 @@
       ]
     },
     {
-      "id": "c88c7b5cb33e",
-      "title": "Londres 187 Building / CCA | Bernardo Quinzaños + Olga Romano",
-      "summary": "Located on London Street in the Ju&aacute;rez neighborhood, the building integrates collective housing with ground-floor retail. The proposa...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041479/londres-187-building-cca-bernardo-quinzanos-plus-olga-romano",
-      "publishedAt": "2026-05-28T15:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "b6037cd54b04",
-      "title": "ARM vs. SNPS: Which AI Chip Design Stock Should Investors Buy? - TradingView",
-      "summary": "ARM vs. SNPS: Which AI Chip Design Stock Should Investors Buy? &nbsp;&nbsp; TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2U5YkNST21XOHAwWEtjS0Z6Qmhad0tRM3ZGcDdJS3EtcnNEZmwwMXZJTHFGSnlqVklNaUJ4NVZwbDZiazJPNGJyd2VRVVZwc3ZkQXRSTTh2TjBhZXhiTDNSRU42UDZxN2JLVkpiTTZUOTBjSUtMcGJHTWxGUjlUNWl2Q3BQUnlYYkR6R2hqa0JMLTktUkF0X0pDZTZ6elZLSWJoZTd2UWJJam14RG9IS3l3aGt5UQ?oc=5",
-      "publishedAt": "2026-05-28T13:11:00.000Z",
+      "id": "3ccb7655577e",
+      "title": "Train Your Own Architectural AI-Model at My ArchiSchool - Dezeen",
+      "summary": "Train Your Own Architectural AI-Model at My ArchiSchool &nbsp;&nbsp; Dezeen",
+      "source": "Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0ZpTEtGcC1JUklJcWJFRzhnX0dKQzF5VndBcS1uNFN6NVEtNFZyTVAtQXVFRjUyUUlUSjg0RGZ3c3k3UEZRdmMtLTN2bnFadk42V3VnazE5VXNKRnFBeDg1Zmo0MHpMTEtjRG1DT0hJVGx0ZzZIZS11OTNxWWFHOFpyYUZSUUVGZlVsd3ZOLVk?oc=5",
+      "publishedAt": "2026-05-28T16:07:00.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architect"
       ]
     },
     {
@@ -106,20 +159,6 @@
       ]
     },
     {
-      "id": "7446f900feb0",
-      "title": "From Architecture to Industrial Scale: SRK Techtronics and MATTER Demonstrate AI-Driven Manufacturing Collaboration at CES - Big News Network.com",
-      "summary": "From Architecture to Industrial Scale: SRK Techtronics and MATTER Demonstrate AI-Driven Manufacturing Collaboration at CES &nbsp;&nbsp; Big ...",
-      "source": "Big News Network.com",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2JOZW43RnN4RzdRUEI0dTdfdlhNVXNSXzJtbzJRYzVBMFVlb2o2bks4LUZqb25YeWVVNG11T0ZESkNxNXNINGtaMXZFZEtkX2laT05tWUxyUFpKaGN3Znh5T0g1aHlSNS1VRkJHTldSNTJwX2ZJUHlBUE5jVHU5Ukh3TE9uN1Z4Y01aZF85bHZ3T3V6d2dpUlBLRTBDM3U3bnh2S21IaXhQaHZyYzU2NFB3VDdPemsydmluM04ySUZKNzI5VXpENC14eDhOeDloOFhDNFVlNF93dldIZl8takNtTG9nV3RvcVhFYWlLZi12eHBMWVYyclZpbw?oc=5",
-      "publishedAt": "2026-05-28T09:01:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "c55871a43eca",
       "title": "how my archischool evolves AI from generic copycat to personal design partner - Designboom",
       "summary": "how my archischool evolves AI from generic copycat to personal design partner &nbsp;&nbsp; Designboom",
@@ -141,34 +180,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "12a4885ed289",
-      "title": "Classrooms for New Day School School / Simple Architecture",
-      "summary": "New Day School is a migrant learning centre serving Burmese migrant and refugee communities in the Thai border town of Mae Sot. Since the la...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041735/classrooms-for-new-day-school-school-simple-architecture",
-      "publishedAt": "2026-05-28T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "617b87c28f4a",
-      "title": "Ceramics Forged in Light: A Spatial Translation of Circular Material Processes",
-      "summary": "Can one of architecture's oldest materials still inform how sustainability and manufacturing are approached today? What shifts when ceramic ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041534/ceramics-forged-in-light-a-spatial-translation-of-circular-material-processes",
-      "publishedAt": "2026-05-28T06:45:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -320,6 +331,20 @@
       ]
     },
     {
+      "id": "d528ec766ef3",
+      "title": "Artificial Intelligence First Enterprise Architecture: The Design of Scalable, Secure, and Intelligent It Ecosystems - Analytics Insight",
+      "summary": "Artificial Intelligence First Enterprise Architecture: The Design of Scalable, Secure, and Intelligent It Ecosystems &nbsp;&nbsp; Analytics ...",
+      "source": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLUdJX3FNTzdSbUxJeVU1QUs4ZjlhbEhQM3BjT1U1Wm04RVFnWkV1TGxnSTlXTVdST3VaYU5HV2NEbjkxR0RpRl9wU1U0V3A5bGZLUjFELXZVeDg1VVprcU9zWC1KMFY2LV85N0FlWUZMT1hwQmxVNW9iYTczNUNSdGZjWmUybnFwMjhqSmNZMjBuclVrSDNYU0ZOT0pWd1VBV0cxUy1BM2xtNnBSZ1U4VmpuZHJqd1hySE5NdUxYQzhwZ2hETlJnc3VIMGcwMXlMc3EwWXJLcW5ON0FUeWhDbFlKN3NzYWhOc0NoZkxQZnZscVhTRkNjU1JuOFZkQlHSAYwCQVVfeXFMUFRwUTFtdzJtWDRhTHItLVVZbnhwVDFQVlJFeXY3V21uWnp1QU5XQWpNZnZ1aDVFQVh2WkZoS250MWJlUm43dTNkbzUtX2Y3N2dTbExDMER4NTN6eEFfc1prTmtBV3RqSFdiUm5ZZVVyNnJNU00ycmxiWVJ0dmhaWi1QTWpEd0Itdm9uYUJyMTNpaFhGenJ1RWY5OHNyNzN5V3FWOFJOUFdrbDV0VzhwTlRxQ09DY3daUkJYZktJbklIWkIwTVRrYzRBVkc5c0ZWanpDTjZ5YjdiaG43RFlGbzZLZUItZXVBLWpwajBYaXdRX21jUEJUbUNiYzFaeUtPVllLeXNMTDcyVkRXcQ?oc=5",
+      "publishedAt": "2026-05-25T12:21:42.000Z",
+      "category": "研究",
+      "tags": [
+        "artificial intelligence",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "0a943392f2bd",
       "title": "CData names Amit Naik as VP of AI Architecture - The American Bazaar",
       "summary": "CData names Amit Naik as VP of AI Architecture &nbsp;&nbsp; The American Bazaar",
@@ -381,18 +406,6 @@
       "source": "Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWk9SdkpCMW9WNWFwT2VieGVNNktEcHZ2NmdPSVRUMVhMM0Nsa20zRnBPaXNCc0JldEhlaFdjUkU4c2VQdERMeUpwRUNWNjNlUDFRdEttalZmc2U4UGZXUWdDc3lfZENVeEJfQ2xR?oc=5",
       "publishedAt": "2026-05-22T11:12:35.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "21cfb06eaa17",
-      "title": "A 1893 carousel explains how AI is learning to design our world - Domus Web",
-      "summary": "A 1893 carousel explains how AI is learning to design our world &nbsp;&nbsp; Domus Web",
-      "source": "Domus Web",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUVPTEVIYkJkQVdMTnlTZmIzZmZYNHp0UjFiRHVZR0hlOWQ3TGR0aDA2eXJ5aURxRnBLNFQxSDg3Slh5eDFLa0tZSHNCOEVXRDVSQVlLTm1jWnEyNVpNVTZDZlNJRkZjOWh3M0U0UmFZWmpWWGdTZjhVY3Bxa3hOSmM4ejZpaFU3WGdtc2NkNWtSZzNiNk5uamZsWWJ5OUJsbjNFeUwxRWFIZ0xYelVsMHhRcmpLYUxsNkhyTkVnU3JBMHFhWjdZ0gHMAUFVX3lxTE1yR0FBTzVoYXRkbi12WUc4VUt6cmtNTEx4VnNqM3VqdU5RRDdPMEc3TWZhZ0F0aVdvdUlYeUd5d213dDlDUjJMSzNBcHBSblVQQWw0TjRKRWRqTkFhNGtjd0hrTDBPQWg2YVVmbWlheTB6R0xIcFpBZW1UUkVIdURqNTlGRmp5WTlaeXFmZU1kUjhfcDBwZHcyUkZHSF9HeUxLMkl2MEhubDZkdHpuXzdjTG8wblg2b1NYckVoUzB4MXJmTU1iWk9VVWJwTA?oc=5",
-      "publishedAt": "2026-05-22T10:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -464,18 +477,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "d2aafa124df7",
-      "title": "Designing Resilient Infrastructure For Enterprise AI At Scale - Open Source For You",
-      "summary": "Designing Resilient Infrastructure For Enterprise AI At Scale &nbsp;&nbsp; Open Source For You",
-      "source": "Open Source For You",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEhUYjJKanZ3azhrOUxoT3RGWFlLWmVyalZkelZSQ3FacjVtcU0zVXJpZTRTd3NycVRrVmo3OGVwSkpiVlR3NUpma2F3ZEZXTkI2RUtQSHVMMV9zXzZxOEN3MFd6a2xRaEFaUUUwblJaVmRCM2pFbWJpbDZiZ29CZHF0ejB3alpkWVg0ODd3c1JCWjdhZVotN3JyYTc5WWhYUHF3?oc=5",
-      "publishedAt": "2026-05-20T04:30:10.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     }
   ]
