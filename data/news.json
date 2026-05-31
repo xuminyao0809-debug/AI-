@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-05-30T08:02:31.078Z",
+  "updatedAt": "2026-05-31T08:29:59.966Z",
   "items": [
+    {
+      "id": "a9bb5e100db3",
+      "title": "Metal Curtain Building / Hyunjoon Yoo + Partners",
+      "summary": "One big problem seen in cities today is the complete separation of private and public space. This was not the case in the past. If we look a...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041924/metal-curtain-building-hyunjoon-yoo-plus-partners",
+      "publishedAt": "2026-05-30T21:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
     {
       "id": "d19c111613b7",
       "title": "How Narendra Kumar Kuntamukkala Built an Enterprise Angular Architecture That a University Implemented, Measured, and Independently Verified - The AI Journal",
@@ -13,6 +26,18 @@
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "d6148385613a",
+      "title": "Designing AI-Native SaaS Products Instead of Adding AI Features Later - vocal.media",
+      "summary": "Designing AI-Native SaaS Products Instead of Adding AI Features Later &nbsp;&nbsp; vocal.media",
+      "source": "vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1llbjhUSXhpa0V4YXNoOHIxaDVtQWxrT2dNbGg4RFF0WlVsQzVudTJoSWk5VG81bzVVUE9oZVhYdW9NUm1wNXdnNmNmS1lSZy1VR3ZDRm9UajhVZ3lESDh1U1VhX0tkaFU4UU1fSjNnNXJsMUd2S1A5cEZBeHNTa3ZEM2J1X3ZnVUZES0Nqc05wU2ptZmxfYXFTQ1RRSUpEV2lTcXhlOVBKeU1MR3c?oc=5",
+      "publishedAt": "2026-05-29T18:15:45.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -43,15 +68,17 @@
       ]
     },
     {
-      "id": "d187be6b20f0",
-      "title": "AI Home Visualization Platform and AI-Powered Floor Plan Technology: The Future of Smart Design with Dehome AI - Technology Org",
-      "summary": "AI Home Visualization Platform and AI-Powered Floor Plan Technology: The Future of Smart Design with Dehome AI &nbsp;&nbsp; Technology Org",
-      "source": "Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOek0tVUN4SVkyeHVTRXJsWUprbFRoRklDZkplMjM5SUZwOElWaW1mb0VzYTZhd2VYMWhicnZwWWVxWVR2T0lfblZrelFHamhVYzJIY0xTcWJ5RTN0eUVtTmlySi1adFdObUZCNEdGdU5NSEY1VDU1c2FMMmRXbl9ZQ3VySmFLTkVGdHkycXNTZHFGdWxJdWo5SllaaXpjeEFhYklFNVpXSXd3OVVNSFlhNTdyVGtkTF8zc3BGVzVqdlJvM0FZZ3hUcVBfTnAzbzJwNHNGMHRVWC1sOHA1TVptVTVB?oc=5",
-      "publishedAt": "2026-05-29T08:29:19.000Z",
-      "category": "工具",
+      "id": "4cb20d1a3302",
+      "title": "Infineon NVIDIA MGX AI Factory Ecosystem Advances 800 VDC AI Power Architecture - Electronics Media",
+      "summary": "Infineon NVIDIA MGX AI Factory Ecosystem Advances 800 VDC AI Power Architecture &nbsp;&nbsp; Electronics Media",
+      "source": "Electronics Media",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU3FKYThpaFNjWlh3LV9xRW9oVTRsblNIdWFnQVVsSXBPZk5yUHJwU0RNa0swb2lXZ3NFaV94cWZYYXN2YUpRSlhsdDhjMl9QLWk4ZHp3aldkOXV2RmlLLUxqRGxwOXU3TFFOUUpLMW9lY1kycjBCSGRaUkhnVWp4SkRyM1RnaTBlMTJSbGxUWQ?oc=5",
+      "publishedAt": "2026-05-29T04:46:44.000Z",
+      "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -119,6 +146,18 @@
       ]
     },
     {
+      "id": "b6037cd54b04",
+      "title": "ARM vs. SNPS: Which AI Chip Design Stock Should Investors Buy? - TradingView",
+      "summary": "ARM vs. SNPS: Which AI Chip Design Stock Should Investors Buy? &nbsp;&nbsp; TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2U5YkNST21XOHAwWEtjS0Z6Qmhad0tRM3ZGcDdJS3EtcnNEZmwwMXZJTHFGSnlqVklNaUJ4NVZwbDZiazJPNGJyd2VRVVZwc3ZkQXRSTTh2TjBhZXhiTDNSRU42UDZxN2JLVkpiTTZUOTBjSUtMcGJHTWxGUjlUNWl2Q3BQUnlYYkR6R2hqa0JMLTktUkF0X0pDZTZ6elZLSWJoZTd2UWJJam14RG9IS3l3aGt5UQ?oc=5",
+      "publishedAt": "2026-05-28T13:11:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "0d49c2a8902d",
       "title": "Ardoq Launches AI-First Enterprise Architecture Platform - Business Wire",
       "summary": "Ardoq Launches AI-First Enterprise Architecture Platform &nbsp;&nbsp; Business Wire",
@@ -180,20 +219,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "40624facedf1",
-      "title": "AI-Driven Privacy Engineering, Enterprise Architecture, and Digital Transformation - varindia.com",
-      "summary": "AI-Driven Privacy Engineering, Enterprise Architecture, and Digital Transformation &nbsp;&nbsp; varindia.com",
-      "source": "varindia.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGJHSUNobWtsSmUtUzU3ei1zZVZjZmQ1SDF5UXdpaFRjNkRnTHdTdU41QXo4UkpKSkZKTzdBcGlac0VkMlV1WDliNFg3Y3pYb3JiQ2ZIWDhTUXYxUjFFcTZkMVhXVVN2QTZrZXhCbTlFMjBiVmtWLS1GRm1qSGtIazNuS0x2U3lyRk84MHJzUUNOOEVxRlNYbXZVMmwtcXNJMzM4SHl4dWF3MGFRNW1B?oc=5",
-      "publishedAt": "2026-05-27T21:12:02.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -316,6 +341,21 @@
       ]
     },
     {
+      "id": "96fd0058d413",
+      "title": "Artificial Intelligence First Enterprise Architecture: The Design of Scalable, Secure, and Intelligent It Ecosystems - Dailyhunt",
+      "summary": "Artificial Intelligence First Enterprise Architecture: The Design of Scalable, Secure, and Intelligent It Ecosystems &nbsp;&nbsp; Dailyhunt",
+      "source": "Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPUXJaTTdPYk9fZ1U1NFpOVmNYRVB6ZFdXSjdmOG9PS3RUQ0E2bnhMV0J0cFBsT2xGWkYwcWpPTkljZ01DYU5JVElMOUV3VFByWEN6WEFrOUxXbXRJUFh1QVJubTdQdVN3VTJtUmhEU3ltX1VsNWt2YnU0dGRwd3BBMHBaRzJtOTYzMXZtcGVBMzhQcG04OElQRFBUUEx4STlMVHpSQnVCRk84Q09BRjBVTjgwdjFEOUh5ZTFfXzRJcUxCVE9tdUV1RUZfVDFrT2g5VXFRN2MwbkVYY19NUFB5MmQ0WDJQYU1BX3VIV0VZOGhidmJFeWhNUy05OUhvU25ZNXNUSjdxYlZkYzVHcHFzRXlubGVaaUJpQ2p1QW9PbTNJb1NvcEhld3Vid0Fqdklh?oc=5",
+      "publishedAt": "2026-05-26T04:46:42.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "fdfc2bd876cf",
       "title": "RAIC issues statement on artificial intelligence in architecture - Canadian Architect",
       "summary": "RAIC issues statement on artificial intelligence in architecture &nbsp;&nbsp; Canadian Architect",
@@ -326,34 +366,6 @@
       "tags": [
         "ai",
         "artificial intelligence",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "d528ec766ef3",
-      "title": "Artificial Intelligence First Enterprise Architecture: The Design of Scalable, Secure, and Intelligent It Ecosystems - Analytics Insight",
-      "summary": "Artificial Intelligence First Enterprise Architecture: The Design of Scalable, Secure, and Intelligent It Ecosystems &nbsp;&nbsp; Analytics ...",
-      "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLUdJX3FNTzdSbUxJeVU1QUs4ZjlhbEhQM3BjT1U1Wm04RVFnWkV1TGxnSTlXTVdST3VaYU5HV2NEbjkxR0RpRl9wU1U0V3A5bGZLUjFELXZVeDg1VVprcU9zWC1KMFY2LV85N0FlWUZMT1hwQmxVNW9iYTczNUNSdGZjWmUybnFwMjhqSmNZMjBuclVrSDNYU0ZOT0pWd1VBV0cxUy1BM2xtNnBSZ1U4VmpuZHJqd1hySE5NdUxYQzhwZ2hETlJnc3VIMGcwMXlMc3EwWXJLcW5ON0FUeWhDbFlKN3NzYWhOc0NoZkxQZnZscVhTRkNjU1JuOFZkQlHSAYwCQVVfeXFMUFRwUTFtdzJtWDRhTHItLVVZbnhwVDFQVlJFeXY3V21uWnp1QU5XQWpNZnZ1aDVFQVh2WkZoS250MWJlUm43dTNkbzUtX2Y3N2dTbExDMER4NTN6eEFfc1prTmtBV3RqSFdiUm5ZZVVyNnJNU00ycmxiWVJ0dmhaWi1QTWpEd0Itdm9uYUJyMTNpaFhGenJ1RWY5OHNyNzN5V3FWOFJOUFdrbDV0VzhwTlRxQ09DY3daUkJYZktJbklIWkIwTVRrYzRBVkc5c0ZWanpDTjZ5YjdiaG43RFlGbzZLZUItZXVBLWpwajBYaXdRX21jUEJUbUNiYzFaeUtPVllLeXNMTDcyVkRXcQ?oc=5",
-      "publishedAt": "2026-05-25T12:21:42.000Z",
-      "category": "研究",
-      "tags": [
-        "artificial intelligence",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "0a943392f2bd",
-      "title": "CData names Amit Naik as VP of AI Architecture - The American Bazaar",
-      "summary": "CData names Amit Naik as VP of AI Architecture &nbsp;&nbsp; The American Bazaar",
-      "source": "The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWVxTU1La1V0T29CWVJONFdGeG1Md040b2FYVUJtcXZBcS1XNkFaa1ByelZmSG1KdjNhM2czZXFmUEJKTWNkWFc4QTJTR2tpdnEzdExWZ215UF92U1lvRW5TWmlKclNMbTdWbDIxOHpZQXJITjlxa0VXRmc5VmRycDdIcm5nNk40b3ZvT094V1ZHZVBCQ1RLVU1tM24zaUk?oc=5",
-      "publishedAt": "2026-05-25T10:12:39.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architecture",
         "architect"
       ]
@@ -426,12 +438,26 @@
       ]
     },
     {
-      "id": "34ec4029b483",
-      "title": "Kivo Launches Headless GxP Architecture To Power AI Native Drug Development Workflows - BioPharma APAC",
-      "summary": "Kivo Launches Headless GxP Architecture To Power AI Native Drug Development Workflows &nbsp;&nbsp; BioPharma APAC",
-      "source": "BioPharma APAC",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWWd2bmVTcXdCWEU4TUlKbkpzeUlwS1ZmakVRdTlvRlctNHV6TVAxLW1EVVdhdXNjTFFtUGRuNlRHaEYwWHNvMWltRWVVS3p0Q21HbHZuNmljeDFJTlI4OFdjTXZYMHg2OUpLa2JVTGNIRnRTZGZob2QybEFVRWxBZk9ELUFCS3FrZjlEQW1jbmVWeWhGOUdtZG5uWmJydEEzUzNTQ1VaSVRGVFFLeGhkTzdJUVRHX3VVaWk0a0JiVFhpMzJ2UlJBQw?oc=5",
-      "publishedAt": "2026-05-21T12:14:15.000Z",
+      "id": "7295b9cccd74",
+      "title": "Can a Sparse-AI Hardware Architecture for Data Centers Work? - HPCwire",
+      "summary": "Can a Sparse-AI Hardware Architecture for Data Centers Work? &nbsp;&nbsp; HPCwire",
+      "source": "HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFRmb3pwY1NISW9tYjFEemdwZEw3a2oxOVFkc210Yzd4b1ZuX0xGeEczSjdpa1FPMEc3bGVmSEtCbGFMNlFNVDliSmxYX3pKVTdnbHBmMDdJTHhOT1lFd1Juek9aUW5DRExVTWg0VWJDeFVxdGJKWDFsQTlaMi11TTZTbmg4cjZ5QmRlRXFHOEtrMDlxcXh3bjFUUQ?oc=5",
+      "publishedAt": "2026-05-21T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "40624facedf1",
+      "title": "AI-Driven Privacy Engineering, Enterprise Architecture, and Digital Transformation - varindia.com",
+      "summary": "AI-Driven Privacy Engineering, Enterprise Architecture, and Digital Transformation &nbsp;&nbsp; varindia.com",
+      "source": "varindia.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGJHSUNobWtsSmUtUzU3ei1zZVZjZmQ1SDF5UXdpaFRjNkRnTHdTdU41QXo4UkpKSkZKTzdBcGlac0VkMlV1WDliNFg3Y3pYb3JiQ2ZIWDhTUXYxUjFFcTZkMVhXVVN2QTZrZXhCbTlFMjBiVmtWLS1GRm1qSGtIazNuS0x2U3lyRk84MHJzUUNOOEVxRlNYbXZVMmwtcXNJMzM4SHl4dWF3MGFRNW1B?oc=5",
+      "publishedAt": "2026-05-21T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -449,34 +475,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "85e5faacf84d",
-      "title": "Google Gemini 2026 Updates: Gemini Omni, Spark, 3.5 Flash and the New AI-Powered App Experience - parametric-architecture.com",
-      "summary": "Google Gemini 2026 Updates: Gemini Omni, Spark, 3.5 Flash and the New AI-Powered App Experience &nbsp;&nbsp; parametric-architecture.com",
-      "source": "parametric-architecture.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhbVNQc28xSjNuSDdCWG45MnJSX1lNT1RPVlNvUXllc1JfYlpaak1scWF3MVpfWGlDWURwc2JXX0RqZjJyTjdMOVZVc0wzQlFGOEJUVHdGOUJIdkRTaGRRZVhUbnlPUUhKZ3VNZzF5Zmg?oc=5",
-      "publishedAt": "2026-05-20T13:01:03.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "94ad93766edf",
-      "title": "OpenAI Outlines WebRTC Architecture for Low-Latency Voice AI at Scale - infoq.com",
-      "summary": "OpenAI Outlines WebRTC Architecture for Low-Latency Voice AI at Scale &nbsp;&nbsp; infoq.com",
-      "source": "infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hRVZkTzMwc1JBRzhLdmhfMUpHWlpialcyOFB4Y2k0Ukw4VDhpOXh1ZHIzQlFBWU5MUG51MlFKdmY1VlNSNGdjMHRPTlBpT2ExQjJ2aUU3ZVZjR0szVk92aC1wcG9kZG50?oc=5",
-      "publishedAt": "2026-05-20T12:31:57.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     }
   ]
