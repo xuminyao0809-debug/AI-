@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-06-05T10:59:32.112Z",
+  "updatedAt": "2026-06-06T08:07:40.899Z",
   "items": [
+    {
+      "id": "cf2b1475de17",
+      "title": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response - StorageReview.com",
+      "summary": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response &nbsp;&nbsp; StorageReview.com",
+      "source": "StorageReview.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjBEcEs0R3VjM09iSWhDYlkyZzZtVTBfa1BnSTE1OVloOVNNUTBWSHE4UmxQbjNBMFd5OXIwcUtnRU1NVkZ2RWlXRTM2V2hsLWdhU2MtZ2xuR2JDOUp0QUFsSFA0dzF6T1F3NU9Ic1R5WjNaSmFWVEd6ckNNNHE2ZXhtNk4zdEFyeHhnUHhOWm00ZmNTRWt1ZW91SkRMZnZDMW1VcnRSS0pnWkNvb2NucTBGUTJha193UFFITHlXcTRLV0xtZ2UtbUt1ONIB0AFBVV95cUxQTHFKZnRCZTQ3amdId09mYmxwYUxpUjlUUElvelE2WWl6SFJrWExWd1VjLXBtOTh0SktTaGpVaGM5dXRCb0pyVU1EdGIxNXI3cTNWNm9GeUFxWFhyNUswb1AyT2FvY2FzUWN4U2VMenJtX0J4a2tMS0VNUTBnT1pvbHNlX2JNM2s5VWdMTVhiQjdZT2R1TG1PS3pjcGpHWjNXUkdDNVNDZUgyem5nUV8zOHU0QzdTbWh4emFDTTkzUHl2d2R6OUtHUXRiSzBuU1hf?oc=5",
+      "publishedAt": "2026-06-05T16:40:01.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "7aeabd107633",
+      "title": "Enterprises Design CX For Humans and AI Agents - Let's Data Science",
+      "summary": "Enterprises Design CX For Humans and AI Agents &nbsp;&nbsp; Let's Data Science",
+      "source": "Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3lfcE5mQ3JicndwV2tGZ2hwSGliZmdpY19fSkkwZnZ0NGVTRDN5MmdvR1V2YjByUWdsYV9BUTMyUEhzNnFTbDQ5Rl9iMzRRN2hXakRmVmJlMGpTZ0syX0RiT2RNdjU2ZUlaQkM0VlFiSnRYMHBvNWRxYUVlREp1aFEzYlljdWtfT290cDlWLWVVdw?oc=5",
+      "publishedAt": "2026-06-05T15:16:58.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "28e66b7572b6",
+      "title": "SoftBank CEO Says AI Designing OpenAI's Next Model - Let's Data Science",
+      "summary": "SoftBank CEO Says AI Designing OpenAI's Next Model &nbsp;&nbsp; Let's Data Science",
+      "source": "Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0huNUpGQ1E5SUNkSVE1ZC1KdVRHRmYzOVBxbmUxbWJrWjZvUlA4WEgwT1J5Y2x1Q0xJYVJURk56WmU3cFpvM1FHdUJZZTZ1VnVLS0NfeWxXZEtLcTZKSExjM0ZJc0Y2VnV0aXg5cHlqZTYtYWxQNjdHZjNzdjdFdnY3M1A2Z3F1bTFYQmdRamNSeXYtX1E?oc=5",
+      "publishedAt": "2026-06-05T14:26:54.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "c7be694eb9f8",
+      "title": "AI Now Designing OpenAI's Models: Son Revises ASI Timeline - The Tech Buzz",
+      "summary": "AI Now Designing OpenAI's Models: Son Revises ASI Timeline &nbsp;&nbsp; The Tech Buzz",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazlpN09RYlphUFRzM0M3X0xlVmZhSlB3VHRiUGhrMnpKOGZCOU5SN3RpNFJJYk9ZMHo4VzFCMldrSHE1a2g5cmhlSEltQkd1Wl93b1VOaXFrWjVSdGstbDlEbkwxdDhQYTBIeC00U2Vac0lHdmJoR0loOFFQQmxxYklZaVk5Z2k0SVdKaGtGc0VYRW0x?oc=5",
+      "publishedAt": "2026-06-05T14:23:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1c3626c9bebe",
+      "title": "AI Now Designing OpenAI's Next Model, Says SoftBank's Son - The Tech Buzz",
+      "summary": "AI Now Designing OpenAI's Next Model, Says SoftBank's Son &nbsp;&nbsp; The Tech Buzz",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1A2UVRXV25rak9jX3R5VmFVQUhLeXpDTnpQODh4ZnI0blJROTR5TFBpcHk3Y3UwOG50cUxESXNwNDhyOVBBSjRmTVdnNDdzNGY2QmtLRXRLcTBQUTh3bDR0QUdWNml2b0FPcXNmb1h5cXgxb0xTTTdHdWllUV9NRkRoWUcwVWlZcEZIQlJzSE83OVU?oc=5",
+      "publishedAt": "2026-06-05T14:01:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "c1bc98e14bed",
       "title": "Securitize embeds AI as core infrastructure in data architecture - Crypto Briefing",
@@ -204,6 +266,18 @@
       ]
     },
     {
+      "id": "3dc2d169dc6f",
+      "title": "Intellect Design Arena launches AI Digital Banking platform for UK & Europe - scanx.trade",
+      "summary": "Intellect Design Arena launches AI Digital Banking platform for UK & Europe &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTEh1dXB6dkpSdXhRT3FDQktRWFpQT3hwZGRzVEhQaE81WHk2Z1FZWkdaUWs0djBoWGNldl8xUUNIR0lKOGRLMkNOcTVTOVVMUHVpLUVfcE1sZnlBcjA4OEVOeW93VnhLcGhKQk9rZnVxbzRZTExnT3VTREg3TEJ4YVhxUjNRblNVMnFCcE9GYjM3cmV0OVViMFZqOGxyZ2d4M0JKOXhYQ1dPX3cxZHJNNXhVanJTcEw2NFIxYUdDQjZuUWx6TzR5ODliMFUyeTJZY0ZmeXZ5ZFF2OERhY0Rkenp5ZVNZZw?oc=5",
+      "publishedAt": "2026-06-02T07:43:14.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "82b6269dd149",
       "title": "Siemens unveils reference architecture for NVIDIA Vera Rubin AI factories - Indian Chemical News",
       "summary": "Siemens unveils reference architecture for NVIDIA Vera Rubin AI factories &nbsp;&nbsp; Indian Chemical News",
@@ -215,18 +289,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "736ab1b51860",
-      "title": "Siemens, Fluence, and nVent Debut Reference Design for Nvidia AI Factory Data Centers - News and Statistics - IndexBox",
-      "summary": "Siemens, Fluence, and nVent Debut Reference Design for Nvidia AI Factory Data Centers - News and Statistics &nbsp;&nbsp; IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSkxDcFBCRDFXZmpONFRWRWxRRTN5TWRESXJVRGxFejVTRk1jMU1pWFY2N3NMX2pfeWhWbGdjUk5mME9NanU2ek5STDB0MjdmYU14QUpYZ1dFek1TLVd2Tzl6QjltZkh1NU83RXp1TWhfUXhhc2ROc3M4YmU0SlFRN2UyVi1WUEw3aWhnXzNocXpVXy1MS0VsZGZwQ2pGa2NkN05iaUdDc1FPUkNvWGVHeVljdE9nRWhsTXJDQVI0NVc0QV9F?oc=5",
-      "publishedAt": "2026-06-02T06:50:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -272,19 +334,6 @@
       ]
     },
     {
-      "id": "2f2c93ac617c",
-      "title": "African architects must leverage AI to enhance creativity — Sir Adjaye - Graphic Online",
-      "summary": "African architects must leverage AI to enhance creativity — Sir Adjaye &nbsp;&nbsp; Graphic Online",
-      "source": "Graphic Online",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXJodkIyWGl0bEpZaVFSWmtaZ0o1TVg5MkpPN1ZlNDI5Qkk4QlRMXzhjdEM4bzRKQ1VwSlF1VlhLSm1xUDJDRHljRDIzemkyNzJKZjFQWmxhNVllM28zRU55cUxzTlkyc0V6NmlIbVBIX2R0QVNvQWIyY3AzMDh5Q2ZhZnlyc01JZ1ctSTk5R0FuQ3hfdzNZcmx0VmM2Y3RVMkR0V3pETzlyd1FpMnRQMlFXQzJyVGV0R2dSVS1oMHdPMFV6ZTE1Nw?oc=5",
-      "publishedAt": "2026-06-01T09:58:19.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "0cb64014eb63",
       "title": "Siemens and partners develop reference architecture purpose-built for NVIDIA AI data centers - Siemens press",
       "summary": "Siemens and partners develop reference architecture purpose-built for NVIDIA AI data centers &nbsp;&nbsp; Siemens press",
@@ -313,12 +362,37 @@
       ]
     },
     {
+      "id": "a03bb827c3f8",
+      "title": "How AI Is Reshaping Architectural Visualization Workflows in 2026 - Architect Magazine",
+      "summary": "How AI Is Reshaping Architectural Visualization Workflows in 2026 &nbsp;&nbsp; Architect Magazine",
+      "source": "Architect Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGZZVVdqZ08xaWVGVHd2OHZfTnAxVUZBZ2FzVHo1Z1lTdFg3eGM2bTk2VzNzTjU5U0FvZk16bEtaNTZkaUhDR3RRcmlGNElMLUR5QTlqVEN1MmFuRDQ2Z0trcTl4UjdaSC1iZ1FuLUtHN0JURkpsdEJWNWdRVnBmQ01NZ0Z6cldTRlpmZEYwQTZhMHU4d0R3dkhvalBoQURfaEhzLVlWVXZ3cG1oeDFFbQ?oc=5",
+      "publishedAt": "2026-05-29T20:37:30.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "5ae94077447b",
       "title": "Arm Holdings (NADAD: ARM) Outpaces Synopsys As AI Chip Demand Reshapes Semiconductor Design Landscape - foreignpolicyjournal.com",
       "summary": "Arm Holdings (NADAD: ARM) Outpaces Synopsys As AI Chip Demand Reshapes Semiconductor Design Landscape &nbsp;&nbsp; foreignpolicyjournal.com",
       "source": "foreignpolicyjournal.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNOcTlVNHpZbUZ6OVUweDNxci1Hdkc3bUVROHNVdWdZamtZU3NPR1hXR3N4MHFydlA0RncwZFRlbDhDMjVydE1RWlBxaTlUUk5zWHotS2ZsZjRPOGhkUVU2cFJ3MXJEZGFtb0VQWnlVSDFZaDFpMnUteU9ZM05GNUlXYnk1LW04UVJINUtjQkRMVHRPajBUaE5UdnhIS1luUVpWZzl2RzVRaUFPZjJwV2NTelcxWWxRZkxzMGVianJRTUxXRTFNRkhoQVB5Z3ZvWXNfV2Njd3VOaERxMVQ0bA?oc=5",
       "publishedAt": "2026-05-29T19:57:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "d6148385613a",
+      "title": "Designing AI-Native SaaS Products Instead of Adding AI Features Later - vocal.media",
+      "summary": "Designing AI-Native SaaS Products Instead of Adding AI Features Later &nbsp;&nbsp; vocal.media",
+      "source": "vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1llbjhUSXhpa0V4YXNoOHIxaDVtQWxrT2dNbGg4RFF0WlVsQzVudTJoSWk5VG81bzVVUE9oZVhYdW9NUm1wNXdnNmNmS1lSZy1VR3ZDRm9UajhVZ3lESDh1U1VhX0tkaFU4UU1fSjNnNXJsMUd2S1A5cEZBeHNTa3ZEM2J1X3ZnVUZES0Nqc05wU2ptZmxfYXFTQ1RRSUpEV2lTcXhlOVBKeU1MR3c?oc=5",
+      "publishedAt": "2026-05-29T18:15:45.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -395,81 +469,6 @@
       "source": "Autodesk News",
       "url": "https://adsknews.autodesk.com/en/news/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations/",
       "publishedAt": "2026-05-28T20:06:47.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "3ccb7655577e",
-      "title": "Train Your Own Architectural AI-Model at My ArchiSchool - Dezeen",
-      "summary": "Train Your Own Architectural AI-Model at My ArchiSchool &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0ZpTEtGcC1JUklJcWJFRzhnX0dKQzF5VndBcS1uNFN6NVEtNFZyTVAtQXVFRjUyUUlUSjg0RGZ3c3k3UEZRdmMtLTN2bnFadk42V3VnazE5VXNKRnFBeDg1Zmo0MHpMTEtjRG1DT0hJVGx0ZzZIZS11OTNxWWFHOFpyYUZSUUVGZlVsd3ZOLVk?oc=5",
-      "publishedAt": "2026-05-28T16:07:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "331de3157f86",
-      "title": "Valeo and Zuken Partner to Launch AI-Enhanced Electronic Design Platform - Idéal Investisseur",
-      "summary": "Valeo and Zuken Partner to Launch AI-Enhanced Electronic Design Platform &nbsp;&nbsp; Idéal Investisseur",
-      "source": "Idéal Investisseur",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWlBuNDlfcnU2cTJpUlVwemVYTktDdUxnclhYbUROcFFqdEJYc0tmWUVmbjFDakI2Y0ktbzRyTkE3SURSLWVzWmo1MHJjZVJvajhrT1dtSmxhS0RDVngwa1RyMm9ydkFnWE8zZnNYT3VwSlFoaUh6NXpqem44RkdYYzhmVFFkaFZlTzZxRHhjUzBsNnB4S1Jzbkh6cDh4WjhheVMwUGhoXzVvVU1vVU5sNU85Qnh0cC1ocUZwMTNiSk80VkRtQkt1VzhmRQ?oc=5",
-      "publishedAt": "2026-05-28T09:18:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "c55871a43eca",
-      "title": "how my archischool evolves AI from generic copycat to personal design partner - Designboom",
-      "summary": "how my archischool evolves AI from generic copycat to personal design partner &nbsp;&nbsp; Designboom",
-      "source": "Designboom",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1JJQTQzUmJGNjFqNXNsRUsxX0F0ejlyR0QwZFZRM25UTjVweGJNbDZQd2lVVG1HWnhCWWxvdko3TFljYklIYmtBcjVnNHBOTEFsMVBFS3ZPWWd1Q3kxalZwOFRsSkg2ZkhaSnFXcEIyTmtnd1BveDJFR2RCVktENGxaODdtaEE4cGR0LTZBbVYyeTA0SWhoQmpZVUVqd1VGUkJNLXFR?oc=5",
-      "publishedAt": "2026-05-28T08:03:43.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "47619c30c3b4",
-      "title": "SystemC TLM Modeling Helps Architects Tackle Data Movement in AI Chip Design - News and Statistics - IndexBox",
-      "summary": "SystemC TLM Modeling Helps Architects Tackle Data Movement in AI Chip Design - News and Statistics &nbsp;&nbsp; IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHBvcERzUzNxU0FtNHBKODFqZV83Yll5MW54d0wtbXNJbU9uS2ltTjlvSHJYSmxtQWlwTjNRNVotT1V4eUdNTTZuTTVPWVlOMEpiRVQ0dTE1ZF9EYTA2MXRYZHpSbmVlZWp1N1dUMW1yd2ZveWFqV2JtY2xtZmxfdWxBSHcwZ1BnMFREcUNkLXozVlhaLWxyeVhPaw?oc=5",
-      "publishedAt": "2026-05-28T07:51:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "9869d3168166",
-      "title": "Illoca Introduces AI-Driven Plan Mode for Architectural Design Workflow - TipRanks",
-      "summary": "Illoca Introduces AI-Driven Plan Mode for Architectural Design Workflow &nbsp;&nbsp; TipRanks",
-      "source": "TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEJxTlhBUU91Wi1WZ21rcjh1Vm05X1hhNlNTX2tSOHZkZUFWZG95UEt0a0FJT2MzTXJoRXNCY0pQRHBwZXdYaHNqRjRraGNXUnNrcGF0Q3JxbjVnbzZ5OFdQeUYwOWtKN1NaNTF6Zi1Td2gwLWhodjQ4ZUpjQWM0SlMyV19rT1AtSldEWG9Kc2pGTUEtMGNZMk1hb3QwSEhEaTZ4eE1rbU81bk5MT1hBQ1g1SmFCRnNRYk1R?oc=5",
-      "publishedAt": "2026-05-28T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "5dab5e6389d9",
-      "title": "DG Matrix and InfraPartners Partner on AI Infrastructure Platform Designed to Address Power Bottlenecks - Unite.AI",
-      "summary": "DG Matrix and InfraPartners Partner on AI Infrastructure Platform Designed to Address Power Bottlenecks &nbsp;&nbsp; Unite.AI",
-      "source": "Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmxVb3EwUXlvc2l0YkEzdmRYUFpieEdtMFJpcVhlYWdSWWVMeTNZbjhPYnJiQV9LVXpjeDJpS0JZaE9ucnR1bldSSkV0d2VXbFhpb0RjQko0QWMwMTFaLUlreUl0MUZ5S0NibzVjdmNnT0cxczg1Z2kxYUFYeVJFYW9qSkg3eWtDVmg0aTB5SUt3UzB1U3BlM2dtejRWWDlURE95VXMzclRtc1Rtcjk5UjV0M0VaWTBuUmRsMjk3WWZWVW8?oc=5",
-      "publishedAt": "2026-05-27T07:00:00.000Z",
       "category": "工具",
       "tags": [
         "ai"
