@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-06-07T09:52:39.643Z",
+  "updatedAt": "2026-06-07T23:18:38.145Z",
   "items": [
+    {
+      "id": "32b1b50c39fe",
+      "title": "My Archischool's AI Empowers Hong Kong Creators With Bespoke Design Tools - freeyork",
+      "summary": "My Archischool's AI Empowers Hong Kong Creators With Bespoke Design Tools &nbsp;&nbsp; freeyork",
+      "source": "freeyork",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWC1DRWtqM2pzaHg3NU13WGVGMDJCMndOWlNibDFCQWlKcGpEUkUyVmdaRjFrNGcwZTNKems5S3ZGX0RmYmhISFp2dngxR0l1SzA4dmQ3VjVzTjFrQVZlWjRBN3U5N3hWSUxQWlV0MHpqeFVLQnR1RGVLT1FrRlh1NHpGQzAyN2pHY1dBTU51UW1HU29yUXFHMTRIcw?oc=5",
+      "publishedAt": "2026-06-07T22:42:06.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "70849b66cca8",
+      "title": "Thick Walls and Deep Openings: When Architecture Rediscovers Mass",
+      "summary": "For much of the twentieth century , architectural culture was shaped by the pursuit of lightness. Steel structures and curtain walls reduced...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041295/thick-walls-and-deep-openings-when-architecture-rediscovers-mass",
+      "publishedAt": "2026-06-07T07:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "ede33619064d",
       "title": "The Synaptic Leap: Neural Architecture Search (NAS) is Rewriting the Genetic Code of AI - TechnoSports Media Group",
@@ -372,18 +398,6 @@
       ]
     },
     {
-      "id": "a19743436fc2",
-      "title": "ARM stock hits $353, gains 223% in 2026 on strong AI demand for CPU designs - eciks.org",
-      "summary": "ARM stock hits $353, gains 223% in 2026 on strong AI demand for CPU designs &nbsp;&nbsp; eciks.org",
-      "source": "eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMy1JREgtdkh1ZHU4NndXV285aXhVckkwUEFvQWZnOUloRGRkSlIzN25UQmNYSWVYMkdGaWlKV1FwZmVGR200YmM2TzQ3UUdvalZjcHVDZFNtRi1WVkpJQzg1UUt3Z3FQcEUybG1GdXhGeEU5S2xXcmRJLU1GeUJOZmF2TW5uTjczVU81Nlc2aUw1Q3JUZ2dnNmYxTkxkOFNxS0NF?oc=5",
-      "publishedAt": "2026-06-01T11:55:21.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "5074f1fc5390",
       "title": "From Cloud to Cockpit: How Distributed Edge AI Architecture is Transforming Next-Gen Avionics and Defense - Bisinfotech",
       "summary": "From Cloud to Cockpit: How Distributed Edge AI Architecture is Transforming Next-Gen Avionics and Defense &nbsp;&nbsp; Bisinfotech",
@@ -463,18 +477,6 @@
       "tags": [
         "ai",
         "architect"
-      ]
-    },
-    {
-      "id": "5ae94077447b",
-      "title": "Arm Holdings (NADAD: ARM) Outpaces Synopsys As AI Chip Demand Reshapes Semiconductor Design Landscape - foreignpolicyjournal.com",
-      "summary": "Arm Holdings (NADAD: ARM) Outpaces Synopsys As AI Chip Demand Reshapes Semiconductor Design Landscape &nbsp;&nbsp; foreignpolicyjournal.com",
-      "source": "foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNOcTlVNHpZbUZ6OVUweDNxci1Hdkc3bUVROHNVdWdZamtZU3NPR1hXR3N4MHFydlA0RncwZFRlbDhDMjVydE1RWlBxaTlUUk5zWHotS2ZsZjRPOGhkUVU2cFJ3MXJEZGFtb0VQWnlVSDFZaDFpMnUteU9ZM05GNUlXYnk1LW04UVJINUtjQkRMVHRPajBUaE5UdnhIS1luUVpWZzl2RzVRaUFPZjJwV2NTelcxWWxRZkxzMGVianJRTUxXRTFNRkhoQVB5Z3ZvWXNfV2Njd3VOaERxMVQ0bA?oc=5",
-      "publishedAt": "2026-05-29T19:57:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     }
   ]
