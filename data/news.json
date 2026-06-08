@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-06-07T23:18:38.145Z",
+  "updatedAt": "2026-06-08T23:35:12.581Z",
   "items": [
+    {
+      "id": "c59b3d86670f",
+      "title": "NeoCon Wants to Reinvent the Workplace Again - Architect Magazine",
+      "summary": "NeoCon Wants to Reinvent the Workplace Again &nbsp;&nbsp; Architect Magazine",
+      "source": "Architect Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbS1LN0JwWHhJU1hCYV92ZHBGdVA4TXdTX3VNSGZkeGJwU1FHTTV4OGZyZUNnaVhtaHZmbjNDeFhoakpUTW0tUnBlb1BPSnRkMDdibzVEX3gwSkMyNUcxMHVrQ0tCUkkwNzd1RUtramRsLU9ULTg0ak5HMHY4SUIzNlUtY1RZMS1nMGNrUTBR?oc=5",
+      "publishedAt": "2026-06-08T15:33:38.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "d6332ebd0f96",
+      "title": "Architects at AIA26 invited to test Ambow's AI design-collaboration platform - Stock Titan",
+      "summary": "Architects at AIA26 invited to test Ambow's AI design-collaboration platform &nbsp;&nbsp; Stock Titan",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckFxX3FGRnJjNU44MG12cnh0RnlsNlczcUxySnBLdmJJX2JvWlhWSG95WEtibVZkLTgzYjFVN2R1NTM1eE5zNTBtVHVmMFhVZ0hHcGpfY21na0VXRWVPbjZKdlh3MnVxZnlOc0lENENJcy01Sk5MeXlJNUo5VUYwS2dscHgzMnF6eHVjUmxtVWtJNnpJSjJNcms2Uk9jZXZ4M1BtbGo0b3JEWmdyeEsyN1NwckJ5d2c?oc=5",
+      "publishedAt": "2026-06-08T11:00:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "3c18e41e3421",
+      "title": "AI-powered digital twin enables real-time energy evaluation for smart buildings - Asia Research News |",
+      "summary": "AI-powered digital twin enables real-time energy evaluation for smart buildings &nbsp;&nbsp; Asia Research News |",
+      "source": "Asia Research News |",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2M2a3l0NHVhc2pKNERyTGdyOHYxeWk3Z2J6dTdBSDhBaVRDSG1uRm9FSTlOY2w0cjhtZktkTUNxNi1BLVNrYUYzYjdHRTdNcGVuWktTczkxQkZodGE1cXRlZ2RkMHZNbVhsWjM0T1BEdDVLRl9VREVINWMtTDhIb18wZnhtek1zN0xJRGlIVk42NlpNTWJaWEVaX2NrZ3BnQy1IT1FJTi1HeVU4Y3lnMk9XdjBfSW8?oc=5",
+      "publishedAt": "2026-06-08T10:03:10.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "building",
+        "digital twin"
+      ]
+    },
+    {
+      "id": "3f8ef8f6adae",
+      "title": "Ecologies of Repair: Reconciling Our Relationship with Water",
+      "summary": "Ola Hassanain is a Sudanese architect and artist operating in the Netherlands , and will be exhibiting at the Pan-African Architecture Bienn...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042181/ecologies-of-repair-reconciling-our-relationship-with-water",
+      "publishedAt": "2026-06-08T07:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "c99bf4d6ea58",
+      "title": "Inside AXM’s Parallel Architecture for Safer AI Decisions - HackerNoon",
+      "summary": "Inside AXM’s Parallel Architecture for Safer AI Decisions &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVJxMGsyRVZBX2NRM014UFd3SWU4SjZMTl9YVGR3M3VsVnZ4LWhVTjRNYjJRN3V6RzFpUUJIN1hkSVJyMnNPMUtEbTU1Y3lrVkg5Tkp0UmhRYzdhSjFBRXJMMmFxSHBaWmRJalFlLTdtVm1OeURnejQ3amFpWnh5RV85aG1KUQ?oc=5",
+      "publishedAt": "2026-06-08T06:15:03.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "32b1b50c39fe",
       "title": "My Archischool's AI Empowers Hong Kong Creators With Bespoke Design Tools - freeyork",
@@ -11,48 +79,6 @@
       "category": "工具",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "70849b66cca8",
-      "title": "Thick Walls and Deep Openings: When Architecture Rediscovers Mass",
-      "summary": "For much of the twentieth century , architectural culture was shaped by the pursuit of lightness. Steel structures and curtain walls reduced...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041295/thick-walls-and-deep-openings-when-architecture-rediscovers-mass",
-      "publishedAt": "2026-06-07T07:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "ede33619064d",
-      "title": "The Synaptic Leap: Neural Architecture Search (NAS) is Rewriting the Genetic Code of AI - TechnoSports Media Group",
-      "summary": "The Synaptic Leap: Neural Architecture Search (NAS) is Rewriting the Genetic Code of AI &nbsp;&nbsp; TechnoSports Media Group",
-      "source": "TechnoSports Media Group",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmRwd1JlRExycTk1UFVxdnhuaExYVkNGLVR3WU8yZFo5OHpGdjV1cWRDTHljajdEMEFjM082ZlkzQTJlWXF1Rzk4NWh3YXZYTi1lYlBMRl9zX0xwTkpibzI3QVdvT21rRFJkazQ4R1MzTlZNRU16elZ6LXdVak9QcjJWQTJYVW1XVFlIS25Yd1B0ZmNaa1JmdVY3Skd6OUlJSkNxUkNlWjRXSVFNNS13QTNB?oc=5",
-      "publishedAt": "2026-06-06T21:12:03.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "56315d881ace",
-      "title": "“Gauguin, l’Atelier du Pouldu” Interpretation Centre / Modal Architecture + Quartz Architecture",
-      "summary": "The project is inspired by the artistic legacy of Paul Gauguin and the painters who stayed in Le Pouldu at the end of the 19th century. The ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042088/gauguin-latelier-du-pouldu-interpretation-centre-modal-architecture-plus-quartz-architecture",
-      "publishedAt": "2026-06-06T06:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -82,36 +108,24 @@
       ]
     },
     {
+      "id": "c62d2b27ac29",
+      "title": "2 Futures, 1 CX Strategy: Designing for Humans Today and AI Agents by 2028 - CMSWire",
+      "summary": "2 Futures, 1 CX Strategy: Designing for Humans Today and AI Agents by 2028 &nbsp;&nbsp; CMSWire",
+      "source": "CMSWire",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0VHOUxyN3Q1SV9UWXRxX2pOaDc0WlZCS2pGNk1WdWRJcFRiUV9PLXU3bTJOMjZtMHljd3A1S2gyQ1FicDJoMzZZbTJZcnIxVHdhVWxpajJxSUl3VHpHcTdvWW43eVJBd1VJa0RuZWxpa1psbk5YMkNzd05wSDM3UXJPNEdvSTVvZW55S0s4TVg1OVdBRU85NFFhZ0loNE81VlpUMS1ZenVWM3lRclhoQ3JqLWc0TWlHUTh3NkRPRVFoQnhRenBlMDh2NmZLdVd3OW1sakp3?oc=5",
+      "publishedAt": "2026-06-05T14:46:57.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "28e66b7572b6",
       "title": "SoftBank CEO Says AI Designing OpenAI's Next Model - Let's Data Science",
       "summary": "SoftBank CEO Says AI Designing OpenAI's Next Model &nbsp;&nbsp; Let's Data Science",
       "source": "Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0huNUpGQ1E5SUNkSVE1ZC1KdVRHRmYzOVBxbmUxbWJrWjZvUlA4WEgwT1J5Y2x1Q0xJYVJURk56WmU3cFpvM1FHdUJZZTZ1VnVLS0NfeWxXZEtLcTZKSExjM0ZJc0Y2VnV0aXg5cHlqZTYtYWxQNjdHZjNzdjdFdnY3M1A2Z3F1bTFYQmdRamNSeXYtX1E?oc=5",
       "publishedAt": "2026-06-05T14:26:54.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "c7be694eb9f8",
-      "title": "AI Now Designing OpenAI's Models: Son Revises ASI Timeline - The Tech Buzz",
-      "summary": "AI Now Designing OpenAI's Models: Son Revises ASI Timeline &nbsp;&nbsp; The Tech Buzz",
-      "source": "The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazlpN09RYlphUFRzM0M3X0xlVmZhSlB3VHRiUGhrMnpKOGZCOU5SN3RpNFJJYk9ZMHo4VzFCMldrSHE1a2g5cmhlSEltQkd1Wl93b1VOaXFrWjVSdGstbDlEbkwxdDhQYTBIeC00U2Vac0lHdmJoR0loOFFQQmxxYklZaVk5Z2k0SVdKaGtGc0VYRW0x?oc=5",
-      "publishedAt": "2026-06-05T14:23:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "1c3626c9bebe",
-      "title": "AI Now Designing OpenAI's Next Model, Says SoftBank's Son - The Tech Buzz",
-      "summary": "AI Now Designing OpenAI's Next Model, Says SoftBank's Son &nbsp;&nbsp; The Tech Buzz",
-      "source": "The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1A2UVRXV25rak9jX3R5VmFVQUhLeXpDTnpQODh4ZnI0blJROTR5TFBpcHk3Y3UwOG50cUxESXNwNDhyOVBBSjRmTVdnNDdzNGY2QmtLRXRLcTBQUTh3bDR0QUdWNml2b0FPcXNmb1h5cXgxb0xTTTdHdWllUV9NRkRoWUcwVWlZcEZIQlJzSE83OVU?oc=5",
-      "publishedAt": "2026-06-05T14:01:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -240,20 +254,6 @@
       ]
     },
     {
-      "id": "c51ff1ef55d5",
-      "title": "Siemens and partners develop NVIDIA AI data center reference architecture - eeNews Europe",
-      "summary": "Siemens and partners develop NVIDIA AI data center reference architecture &nbsp;&nbsp; eeNews Europe",
-      "source": "eeNews Europe",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2xrYTEtSUxmaDBaUk05QmEtVEhxM2NLdUNJampZY1llUjRzeTlZN2dsY3lJWG5XbnlhbVctYmMyakNDRE5vQTd1eU9IdTBUY2JXbDF1LXI3LVp5RktXQnhzTlVoaWFvZjAyS0ZzYkpwbkx3bTBaTWlsczdRRGI2dno0WklfMWt2dDZhUWJHTnpSTVBGV2duZS1jbWNXUWxiN1VJM3hSQWJDQQ?oc=5",
-      "publishedAt": "2026-06-03T06:20:48.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "56bdc7e7426e",
       "title": "Why Is This Chip Design Central to the AI Era - Kalkine Media",
       "summary": "Why Is This Chip Design Central to the AI Era &nbsp;&nbsp; Kalkine Media",
@@ -291,20 +291,6 @@
         "ai",
         "generative",
         "building"
-      ]
-    },
-    {
-      "id": "d0c319209392",
-      "title": "Siemens creates a reference architecture for Nvidia's AI data centers - Demócrata",
-      "summary": "Siemens creates a reference architecture for Nvidia's AI data centers &nbsp;&nbsp; Demócrata",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3FtU3BucG91R3RLZWI1dzlNTU4xOXB4dXBFaEU0cHVyOHJPTXdsSWlXbExXM0tpclFmMkZaQmVWWVdXZkt6OE9QMy1wUUVVZXFPc0NfYmU2NDBQVEhZQVhKMHY0U0Z3ak5DeUlIRGlWS0FSVGZNcWJyeVIzNWNsZGhSNjdpZk9VTXgyU2xvYUVObm9VQUxYOFdIWFkxRUNybFVzS3M5Y3hsQdIBrwFBVV95cUxPRDNOUFpvaEJfR0tiQV9VbDNsTHNzZUc4QlJKWHpMNW1uTU9YWWJwYS00TEhTZ1FqSEpCc2ZGYmFybzRKSjVsc0RfSEZfcUxsNlhtRUo5bDhMczZzWFhkZF9aWE9TRUtxUU9jdnJvWjg2ZXRCSmJ6Y0JHZDZpczNoUk9fSDE1UWtoYUlzdG9vWC1yMlAwZll6ZHpJQTNCUUxCS21tX1lGaFNGNzhfc3hN?oc=5",
-      "publishedAt": "2026-06-02T16:16:36.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -372,15 +358,16 @@
       ]
     },
     {
-      "id": "4057505829c5",
-      "title": "Use AI to augment design, not replace it - Fast Company",
-      "summary": "Use AI to augment design, not replace it &nbsp;&nbsp; Fast Company",
-      "source": "Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWcxdlJqYjgwT0tWMG03Y3ZiX1llcGFaZU9XNThtTkkxZHB6Mi02NkJjZnVmMV9RRkZIc2VIU1F0dW1NbnMtRVd2anVhbHVYaHVrOW16aTZEUVA5eEljbklWaTNoR1FqM2s4clNfLWZOdlgyc05qWEdOUmdycWNSWExn?oc=5",
-      "publishedAt": "2026-06-01T18:16:12.000Z",
+      "id": "b5421ba6b4ea",
+      "title": "Torrey Hills students work with architects, AI to envision a new outdoor learning space - San Diego Union-Tribune",
+      "summary": "Torrey Hills students work with architects, AI to envision a new outdoor learning space &nbsp;&nbsp; San Diego Union-Tribune",
+      "source": "San Diego Union-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGlyYms2eGZNVHBCRmFvdFI2Z216ajU5UzVSS0NoZUR6S0F1dFgzU3p2VW5jVkVHRkdkYmtjSWVqbVZ1MXhQV3pkbjNmc3R5NnByYzFmZEVabUQyYmQzMS1MdlVkdW5aZXBlb3pFZGJOaU00TXJuZ0VRczNrZGx5V3BEV2JuTzhjVlN4aHJ5Q3U1VXZHdk9DaDZsT0RuQ0hXbjlVbDZXaW9HdFdmX1BlTExnTkdGLWtQVkZxVnRacVNlQURVRHU4ZVpYci1nYUhs?oc=5",
+      "publishedAt": "2026-06-01T16:51:38.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architect"
       ]
     },
     {
@@ -477,6 +464,18 @@
       "tags": [
         "ai",
         "architect"
+      ]
+    },
+    {
+      "id": "5ae94077447b",
+      "title": "Arm Holdings (NADAD: ARM) Outpaces Synopsys As AI Chip Demand Reshapes Semiconductor Design Landscape - foreignpolicyjournal.com",
+      "summary": "Arm Holdings (NADAD: ARM) Outpaces Synopsys As AI Chip Demand Reshapes Semiconductor Design Landscape &nbsp;&nbsp; foreignpolicyjournal.com",
+      "source": "foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNOcTlVNHpZbUZ6OVUweDNxci1Hdkc3bUVROHNVdWdZamtZU3NPR1hXR3N4MHFydlA0RncwZFRlbDhDMjVydE1RWlBxaTlUUk5zWHotS2ZsZjRPOGhkUVU2cFJ3MXJEZGFtb0VQWnlVSDFZaDFpMnUteU9ZM05GNUlXYnk1LW04UVJINUtjQkRMVHRPajBUaE5UdnhIS1luUVpWZzl2RzVRaUFPZjJwV2NTelcxWWxRZkxzMGVianJRTUxXRTFNRkhoQVB5Z3ZvWXNfV2Njd3VOaERxMVQ0bA?oc=5",
+      "publishedAt": "2026-05-29T19:57:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     }
   ]
