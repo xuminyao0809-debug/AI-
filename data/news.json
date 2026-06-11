@@ -1,13 +1,67 @@
 {
-  "updatedAt": "2026-06-10T23:48:27.164Z",
+  "updatedAt": "2026-06-11T23:52:00.797Z",
   "items": [
     {
-      "id": "3698b2d05fa9",
-      "title": "How is AI changing the way that golf course architects work? - Golf Course Architecture Magazine",
-      "summary": "How is AI changing the way that golf course architects work? &nbsp;&nbsp; Golf Course Architecture Magazine",
-      "source": "Golf Course Architecture Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMER2Zk9hY29jeXNBWU9tbzY0OUZEczVSZ3hLNWFqM0hHbjl2b213cFVaVURPRkI3NWROblRmTHFGRW1TZWdBR1hKZmNTbHNFakZidzl2alcySnRiRXo2WjVhWUxfTTV0bVpPRmNhZUZkcHVRUFB5b0NDTDZnYl9Lc2hLUk9jUlhXemtTS2x4cFFLMnA3TzVFclRiYkxSZklHbzlkaVpDNWdIUQ?oc=5",
-      "publishedAt": "2026-06-10T14:36:17.000Z",
+      "id": "a9cd262c5140",
+      "title": "AI is the future; Data Centres are the past - Architecture & Design",
+      "summary": "AI is the future; Data Centres are the past &nbsp;&nbsp; Architecture & Design",
+      "source": "Architecture & Design",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnloeU1heGtBUWs5OUlHbWlzRHE1V2h4OF9oTEVCNGhTRHZ0M3ZXV3ctSEZQYm9OYmNhNmhYQXJlX1hIYnU4TmhDVU9ad1lNLUoxdVJwMnI1OFJXeFYzYmZRbl9Yd2dOVHQ4SkI2T0RUQ2JVX2FWTDBQVEJYcVNPUGlERTVObGlXbzBXMnZzNFNPcDZkdjdfUkdXLXJvYzU0Vnhr?oc=5",
+      "publishedAt": "2026-06-11T20:46:35.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "9c36424d3851",
+      "title": "Kestrel Labs Launches AI-Powered Building Code Compliance Platform Embedded in BIM Workflow - Boston Real Estate Times",
+      "summary": "Kestrel Labs Launches AI-Powered Building Code Compliance Platform Embedded in BIM Workflow &nbsp;&nbsp; Boston Real Estate Times",
+      "source": "Boston Real Estate Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2xEaGNseXhENlhieEt4M1J5UTktM21kdTNaUGlvTV83ZmdsUzRrUEU3OXU2ZUcwS1FKZFgwVnVKMUk3X1hKaW5WcG9RLUlrYzg3dUFtSmlyNjYtb3d0OTF5OTdqOTdLLS1hT1hKWU51STlDSzV4MDBoTXZSMnp0TDJyN2NlaEZqVC14ckhtQkpiU3Z5REZnZHhfQnk2enRHRnFVNnNZaEdFVVpSd05wTlJIbDFTMllEajZ4NGhHSDU0aDVi?oc=5",
+      "publishedAt": "2026-06-11T14:48:20.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "building",
+        "bim"
+      ]
+    },
+    {
+      "id": "09ea92ef7e2d",
+      "title": "Re-Architecting Die-to-Die IO For AI - Semiconductor Engineering",
+      "summary": "Re-Architecting Die-to-Die IO For AI &nbsp;&nbsp; Semiconductor Engineering",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zQXBpMmNaZXlaNk5SRGRaeXp1RC05WVJuaVZTZllmZldBdTZzQ1BGMngzbm1MaUdwekJzTGtVY0ZwQ0lUVFMtaDVBd09NUDJRYjNuSzZxT3pVekt4d2VROHVJNmE5Zkt5LXA5M3ZfbGVzMEU?oc=5",
+      "publishedAt": "2026-06-11T14:23:06.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "29150b551afe",
+      "title": "Tabancura School Library Pavilion / José Ignacio Valdivieso",
+      "summary": "In the context of its 50th anniversary celebrations, Tabancura School invited us to participate in an architectural competition aimed at est...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042213/tabancura-school-library-pavilion-jose-ignacio-valdivieso",
+      "publishedAt": "2026-06-11T12:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "4adf499c5c72",
+      "title": "Malibu High School / KoningEizenberg Architecture",
+      "summary": "Nestled between the Pacific Coast and the Santa Monica Mountains, Malibu High School reimagines what a public high school can be. This net-z...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042314/malibu-high-school-koningeizenberg-architecture",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -21,19 +75,72 @@
       "summary": "SpaceX reveals AI1 satellite design ahead of IPO &nbsp;&nbsp; qz.com",
       "source": "qz.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uVmRCQi1aTHlTRzhvOVB1aXdnOXdxS2d6YkwxR1h2bDRLME1rcTFvSjVGNU84SHc3YVBZenNNeF8wTllERU9kRHZ0RUROeXZHeXg5ME1sdDlyWVhvMnZIOGJ1LXZaS2NiTGFFVUdBMTlpcVZz?oc=5",
-      "publishedAt": "2026-06-10T13:37:28.000Z",
+      "publishedAt": "2026-06-11T07:53:42.000Z",
       "category": "研究",
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "3daaf65c5f53",
-      "title": "SCI-Arc: Evolving architecture through AI, XR and automation - Study International",
-      "summary": "SCI-Arc: Evolving architecture through AI, XR and automation &nbsp;&nbsp; Study International",
-      "source": "Study International",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVBvR292XzZXckVpYWZ5LVI1WkNZZlBvdW52em1GUTNFSDBhUkttcGRvS1JNV2NrQ3I5c0x6NjhETWtCMGFkamwxZmV2aXRrSmZSZTBIWmw1MXhtemtScmluT3dPa1RtR1ZrRmo2NXlFS0RyeFlGWG54SjNUMndiU0xOQ0NmaEFoOG1wZ1E0MA?oc=5",
-      "publishedAt": "2026-06-10T09:49:50.000Z",
+      "id": "041324dae00a",
+      "title": "Agentic AI Is Changing Data Center Architectures - Semiconductor Engineering",
+      "summary": "Agentic AI Is Changing Data Center Architectures &nbsp;&nbsp; Semiconductor Engineering",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTB1LXdUZlNRMTltYTdRM0dUOTExcmZRWld1Yi1YSFVFOG1vWG4zemFSdkVxaWN5eEtXY0JNa29ORTZMa2JSRHZBeFBhQkNVU3RSU0x3YlNGX0k0X2twdTZZMmFqaXlZU0h6bGJsTDhXWUliRE56d0NpMXQ1YXVPNkI1RQ?oc=5",
+      "publishedAt": "2026-06-11T07:34:56.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "ec7b4921387a",
+      "title": "Cloud HPC For AI: Addressing Latency, Cost, And Scale At The Architectural Level - Semiconductor Engineering",
+      "summary": "Cloud HPC For AI: Addressing Latency, Cost, And Scale At The Architectural Level &nbsp;&nbsp; Semiconductor Engineering",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNl9QcTZBUDRIb0lldmF0THJHQ3BhMGI0SmR1ZjlUZ3NtaF96ZHVlZUpIdWs1VXJ3WnJ6SmZ2ZGFyY0NpYTczT1FBa21ZOHlGUFp1bUZUR2U0UkNURU5uRGp1SlBCem5xaUxhRHB3aWp2X29wR09RUlJvOHRfcDFzVk54TGdZRW1HeVZGdHVMRkdjbGVUaEppRHZNYm0wSDFuak41d2lkRjl1dw?oc=5",
+      "publishedAt": "2026-06-11T07:34:15.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "0b3aa8bb1d03",
+      "title": "Record Heatwaves in Europe and a New Museum of Comics in Taiwan: This Week’s Review",
+      "summary": "Covering a broad array of subjects, this week's headline stories have reflected the wide scope of architecture's practice: its potential to ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042341/record-heatwaves-in-europe-and-a-new-museum-of-comics-in-taiwan-this-weeks-review",
+      "publishedAt": "2026-06-11T05:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "03e56ae42d15",
+      "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "Designing Production-Ready Battery Energy Storage Systems for AI Factories | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "source": "NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2lNTWhkNURha01MOUdCUUpiTWNGemVUdkMzSGgtV2psbGtIMTRiUk0yVHVHRm5ZTzZjQVdidEJydkFsSGhZQkYzbEUxRWJEemtYcWh4Rl94eGowNExwUWd4YWVZWnE3eTg0cWJuWUdUcERFajBjS0pySUlBQXRyVjVrNHpNZHBVbFlVSE9JN3NiYW51Uk1pZzhDZk9ITFFXeG5fRXdpZEVLWVVLZHc?oc=5",
+      "publishedAt": "2026-06-10T15:09:10.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "3698b2d05fa9",
+      "title": "How is AI changing the way that golf course architects work? - Golf Course Architecture Magazine",
+      "summary": "How is AI changing the way that golf course architects work? &nbsp;&nbsp; Golf Course Architecture Magazine",
+      "source": "Golf Course Architecture Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMER2Zk9hY29jeXNBWU9tbzY0OUZEczVSZ3hLNWFqM0hHbjl2b213cFVaVURPRkI3NWROblRmTHFGRW1TZWdBR1hKZmNTbHNFakZidzl2alcySnRiRXo2WjVhWUxfTTV0bVpPRmNhZUZkcHVRUFB5b0NDTDZnYl9Lc2hLUk9jUlhXemtTS2x4cFFLMnA3TzVFclRiYkxSZklHbzlkaVpDNWdIUQ?oc=5",
+      "publishedAt": "2026-06-10T14:36:17.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -52,35 +159,6 @@
       "tags": [
         "ai",
         "artificial intelligence",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "7a53766f6db1",
-      "title": "Unearthing the Ground: Architecture and the Politics of Soil",
-      "summary": "What architecture leaves in the ground outlasts what it puts in the air. A demolished building disappears from the skyline in a matter of da...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042057/unearthing-the-ground-architecture-and-the-politics-of-soil",
-      "publishedAt": "2026-06-10T07:30:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "4acfcf42cbaf",
-      "title": "Casa Cielo / NV/design architecture",
-      "summary": "In 2021, ArchDaily (Mexico) published a residence designed and built for themselves by architects, Brenda Nelson & Tom van den Bout of NV/de...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042275/casa-cielo-nv-design-architecture",
-      "publishedAt": "2026-06-10T06:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architecture",
         "architect"
       ]
@@ -113,29 +191,15 @@
       ]
     },
     {
-      "id": "cdb19d7b8825",
-      "title": "Suzhounan Railway Station / CCTN Design",
-      "summary": "Suzhounan Railway Station: A \"Hexagonal\"Station-city Synergy Multi-level Transportation Hub. On December 26, 2024, Suzhounan Railway Station...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1025988/suzhounan-railway-station-cctn-design",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "id": "bd31e2c04073",
+      "title": "The Future of Engineering and Design: How AI CAD Drawing Generators Are Redefining Workflows - OCNJ Daily",
+      "summary": "The Future of Engineering and Design: How AI CAD Drawing Generators Are Redefining Workflows &nbsp;&nbsp; OCNJ Daily",
+      "source": "OCNJ Daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjUzYjNkdjBSSnE3QkNiZUU4VERmeTJKVVRJSXI1QXlVakhoV1FpWWZvMnBpWnM4cWFVYXgyM3hYM2dnWjZkdVg2ZVg3aWc3TTRnN082cXpiZjhSS1J0Uk9aS0lyZC13YkhpazNfTTdrajV1Z1FnTEVFQjFNa0Z6ZGhFaXBVRVNuLVE3aHo2aVByeUNJcGFEUW9vR25pOGJCV2xoUDh6NllDTk1Sd0pRazJZdG1CUm5CMXhwQmpMU211a1dxS1I4SDhxbw?oc=5",
+      "publishedAt": "2026-06-09T20:48:54.000Z",
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "eb8b471fb930",
-      "title": "555 Sunshine Farmshop / SO",
-      "summary": "The farm shop and café nestle within a tunnel of tamarind trees, letting the natural canopy remain the true architecture. A gable roof is sp...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042260/555-sunshine-farmshop-so",
-      "publishedAt": "2026-06-09T19:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -164,20 +228,6 @@
       ]
     },
     {
-      "id": "cea2c281fd1b",
-      "title": "Pixel Interfaces: AI Workflows in ComfyUI - parametric-architecture.com",
-      "summary": "Pixel Interfaces: AI Workflows in ComfyUI &nbsp;&nbsp; parametric-architecture.com",
-      "source": "parametric-architecture.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTM4clBDeDIxNEc4ZG9CcEdaYUtvbENpNDQ1X2RKYmZfRUt3Y2xVUDdOZnUtR0p0eWRoNWk2R3VpU28wSHlmcXRfLTdjOWpEVjQ5d3ZlQWlQVDJkMy1OSlJ3UHJqRjNWb1dMZU9kMVR1WUVHTk1XV1pyM2JaUnI0cVNIdw?oc=5",
-      "publishedAt": "2026-06-09T08:48:45.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "c252077bc438",
       "title": "macOS 27 Golden Gate brings Siri AI and Liquid Glass Design improvements - FoneArena.com",
       "summary": "macOS 27 Golden Gate brings Siri AI and Liquid Glass Design improvements &nbsp;&nbsp; FoneArena.com",
@@ -197,20 +247,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zQnRIWGRpVjBpZXNwd0p3bEZwZlNETnNKRDhoNzZWQlRiaWhnVXZ5WlRveUtJcjhVNS1EMnRrQVJJUWd1eW1zWEJRWVY2SFNqcnpnYXlaZXpsRGotYzd4MG9zQTlsR0czZXdldXln?oc=5",
       "publishedAt": "2026-06-09T07:30:35.000Z",
       "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "31954d8d4c4b",
-      "title": "UMass Amherst Researchers Developing AI Architecture That Uses a Fraction of the Energy Required by Today’s AI Systems - AI Insider",
-      "summary": "UMass Amherst Researchers Developing AI Architecture That Uses a Fraction of the Energy Required by Today’s AI Systems &nbsp;&nbsp; AI Insider",
-      "source": "AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQkY1ckpCUURtcF9rNXZpaUM1cnVUU1VteFhNOFFTTGp1R2d1RnJrMHFmQTBHVF9xNE9PWnFPckN0WktialJ5UXljU0ZSR0JXU2c3M0JZYzkzU3U5UF93SFVvTnFLdWZMWGdtT0FaRS13NWoycjFoTDk0clFzdlB1RVdXM01nbHFOT0UxVDdua3JJM0NrY0hoU3pGSVVQZjVQVnFqWE9EVmlpRmthbHpaTWlURjlxakRYNmVQRjRTWmYzQ29aTnh3eGw5clItS1hRRThQb0xaaDN4QjFsZ29OaWo5RUg2cDVFdjlZ?oc=5",
-      "publishedAt": "2026-06-09T01:11:55.000Z",
-      "category": "研究",
       "tags": [
         "ai",
         "architecture",
@@ -296,17 +332,18 @@
       ]
     },
     {
-      "id": "3135dddd64c7",
-      "title": "Speed won’t win the AI era. Architecture will - Fast Company",
-      "summary": "Speed won’t win the AI era. Architecture will &nbsp;&nbsp; Fast Company",
-      "source": "Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0h0N1BkSXkxUzc4bFl3RlNUb1VmMThHcEFDeDd6OWQzdzVPLXhic0pnQWRUYVRkb21GYThrNE1TVndfaE5YWUpPVEhNNm1jTEtTLUZKSWY3Z3I2NFFsbUM0YVNkVURqLTBGVXF2b3VaU3RNWmQ5cjJjcWFTZG9CZk9GRmxQNlk?oc=5",
-      "publishedAt": "2026-06-04T11:37:13.000Z",
-      "category": "研究",
+      "id": "951a0d893021",
+      "title": "From RAG to AI Memory Systems: Building Stateful Architectures for Durable, Context-Aware Agents - Oracle Blogs",
+      "summary": "From RAG to AI Memory Systems: Building Stateful Architectures for Durable, Context-Aware Agents &nbsp;&nbsp; Oracle Blogs",
+      "source": "Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTlIQ2psY1dScWotYmxDQUp5OVFtUHVyZVY3eFMweDdvdERWVzFBbVlIcHE1c2hxdFRJUTlDVjJobVhqcWtpdDZXeE9YYlVkazFUVWp3T3AtZUVYODBteFIyekVOV2kwT2VxZVFCVUxwWTVuNVBfX05FTUV5eEw4b2RVZVhCdTFiVXhlMHVMaTdoWVZhbmd3VFRzQ3U?oc=5",
+      "publishedAt": "2026-06-04T14:00:42.000Z",
+      "category": "案例",
       "tags": [
         "ai",
         "architecture",
-        "architect"
+        "architect",
+        "building"
       ]
     },
     {
@@ -321,6 +358,18 @@
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "0fb067f5e40a",
+      "title": "AI Factories Go Utility-Scale as Siemens Debuts 100 MW IT Design - Data Center Knowledge",
+      "summary": "AI Factories Go Utility-Scale as Siemens Debuts 100 MW IT Design &nbsp;&nbsp; Data Center Knowledge",
+      "source": "Data Center Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY25nMFI0YXVkNE9RVFpidm1LWlhRdlZDR1B6UHgybVh1d01jRG4zUU5EbENqeWNhbXFiVFFMRVBnaXgxQnlhNFMtV1JGbWotSGVMYTcwZEZkRUdhZFVzQmVzN0lSblZhOF85SktxeHBlZ05KMzBTWmpVZnNFbjM3MmNwM2lRdWNNOWt3MnVDQXVSelVTaVJtbWFzRXpBdVd3djZz?oc=5",
+      "publishedAt": "2026-06-03T15:07:12.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -376,20 +425,6 @@
       ]
     },
     {
-      "id": "01c704eeb900",
-      "title": "The Next Power Architecture for AI Data Centers: Solid-State Transformers and 800V HVDC - semivision",
-      "summary": "The Next Power Architecture for AI Data Centers: Solid-State Transformers and 800V HVDC &nbsp;&nbsp; semivision",
-      "source": "semivision",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGZ2S3dUQkFkcmpPQWU2NXdmeUZVWEp5Q2ttVW1qOGdrUDJUcW0xRU5MLVkxdHFtYUt0ZVNiQ0NtNU1nOEl3ZUVGaWo2Ny1ZM3pMWlVzUU1fd0d4eXN0SVJfY2g5T2ZRdUMtbGlNVGpmbEIwVEJLZEE2bzlwdVhieA?oc=5",
-      "publishedAt": "2026-06-03T01:28:54.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "80742e7cf3aa",
       "title": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma - Autodesk News",
       "summary": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma &nbsp;&nbsp; Autodesk News",
@@ -439,45 +474,6 @@
       "category": "工具",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "736ab1b51860",
-      "title": "Siemens, Fluence, and nVent Debut Reference Design for Nvidia AI Factory Data Centers - News and Statistics - IndexBox",
-      "summary": "Siemens, Fluence, and nVent Debut Reference Design for Nvidia AI Factory Data Centers - News and Statistics &nbsp;&nbsp; IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSkxDcFBCRDFXZmpONFRWRWxRRTN5TWRESXJVRGxFejVTRk1jMU1pWFY2N3NMX2pfeWhWbGdjUk5mME9NanU2ek5STDB0MjdmYU14QUpYZ1dFek1TLVd2Tzl6QjltZkh1NU83RXp1TWhfUXhhc2ROc3M4YmU0SlFRN2UyVi1WUEw3aWhnXzNocXpVXy1MS0VsZGZwQ2pGa2NkN05iaUdDc1FPUkNvWGVHeVljdE9nRWhsTXJDQVI0NVc0QV9F?oc=5",
-      "publishedAt": "2026-06-02T06:50:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "d5e7851f335b",
-      "title": "Fluence to integrate Smartstack into Siemens’ Nvidia AI data centre reference architecture - Energy-Storage.News",
-      "summary": "Fluence to integrate Smartstack into Siemens’ Nvidia AI data centre reference architecture &nbsp;&nbsp; Energy-Storage.News",
-      "source": "Energy-Storage.News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXhzVE42amNDNUMxS2VQbk1PRFY4c2VmWHlnUklyMW01WDdmLUY1RU5jNlFLVWk5RXNJQVhfandjU1JyT1pNOEJKanVzeFNXbjNndnQ3SUlvY0pXMnREVlJyNUx2V180YzJsM0FaaF8tTFk0NlRTSUI3RU02cWlRUVVVSm1sSG5RLTZzUzc5dzdHbmxUcG52bGVFRXV1Nm1Jc20yZ3pNYzExakFFUWl4TnlYZ2Mza3dwQlhlYWxpNA?oc=5",
-      "publishedAt": "2026-06-02T06:34:45.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "b5421ba6b4ea",
-      "title": "Torrey Hills students work with architects, AI to envision a new outdoor learning space - San Diego Union-Tribune",
-      "summary": "Torrey Hills students work with architects, AI to envision a new outdoor learning space &nbsp;&nbsp; San Diego Union-Tribune",
-      "source": "San Diego Union-Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGlyYms2eGZNVHBCRmFvdFI2Z216ajU5UzVSS0NoZUR6S0F1dFgzU3p2VW5jVkVHRkdkYmtjSWVqbVZ1MXhQV3pkbjNmc3R5NnByYzFmZEVabUQyYmQzMS1MdlVkdW5aZXBlb3pFZGJOaU00TXJuZ0VRczNrZGx5V3BEV2JuTzhjVlN4aHJ5Q3U1VXZHdk9DaDZsT0RuQ0hXbjlVbDZXaW9HdFdmX1BlTExnTkdGLWtQVkZxVnRacVNlQURVRHU4ZVpYci1nYUhs?oc=5",
-      "publishedAt": "2026-06-01T16:51:38.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
       ]
     }
   ]
