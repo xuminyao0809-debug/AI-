@@ -1,6 +1,71 @@
 {
-  "updatedAt": "2026-06-11T23:52:00.797Z",
+  "updatedAt": "2026-06-12T23:46:40.863Z",
   "items": [
+    {
+      "id": "b8d37af4badc",
+      "title": "Beyond Training: Designing and Sourcing Silicon for the Looming Edge AI Inference Surge - Bisinfotech",
+      "summary": "Beyond Training: Designing and Sourcing Silicon for the Looming Edge AI Inference Surge &nbsp;&nbsp; Bisinfotech",
+      "source": "Bisinfotech",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42ZTh6Y1liOXZUbUs1MXRuNndJTUNyZzVzN3pvQ2tLY191SmRfdURISlFqdnpyVFZycmhYY29vR3FHRmtOYWVoM1JUd2RUZHJpVUFlRjJhRzRoZ0E2RzFJcWNEZTFjeHVqZk1WbEQ5ay1SRk0ycXc?oc=5",
+      "publishedAt": "2026-06-12T10:19:53.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "5e7ff2117553",
+      "title": "Atsign adds AI architecture tools for enterprise teams - IT Brief UK",
+      "summary": "Atsign adds AI architecture tools for enterprise teams &nbsp;&nbsp; IT Brief UK",
+      "source": "IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkhPTllmQlNzQm0tS053RWlEdkhKUktxWEs0ZmcwY1U5d0dRNjA4Tk5lRThILTVpXzFRVzFuMVgxWnpHOXFaZlQzUDljWVdacV85VlJpR3Z1dXR2WXo1NU9aWEVyb1pHWDdfcWgxanV2VzBwLVh0eDg1a0E5NGpkNEpYQjUwcV9rT1E?oc=5",
+      "publishedAt": "2026-06-12T08:30:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "9d009df81c86",
+      "title": "MADA at Melbourne Design Week 2026: From AI to Housing Reforms - Monash University",
+      "summary": "MADA at Melbourne Design Week 2026: From AI to Housing Reforms &nbsp;&nbsp; Monash University",
+      "source": "Monash University",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXV6SGJVM2tSOU9oOWx6U2Z4SGRDNW5HRUgyYXFCWnpVMTVFZk1odExiSTFWNnVwcVdmblZTdTYwMTlOcjFROWdfYnY2VHk3Zm9mYm5OaGNFU3BTektGXzZ1NXZXb2dpZHhHUlJVWDB2cGUyTWswUnpwRnFwWUNWOHM4OEhTcm9Xa1FBdmlwcmNlZDRYZi1jWGtmR1J4MmZt?oc=5",
+      "publishedAt": "2026-06-12T04:22:36.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "d7a86d5f2562",
+      "title": "Imagining Ukraine's Future: 6 Unbuilt Projects from the ArchDaily Community",
+      "summary": "The context of the ongoing war marks Ukraine 's place in the international consciousness. Architecture , however, most often transcends the ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042235/imagining-ukraines-future-6-unbuilt-projects-from-the-archdaily-community",
+      "publishedAt": "2026-06-12T04:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "12283fd26601",
+      "title": "The Earth Valley Theater / GOA (Group of Architects)",
+      "summary": "Nestled in the valleys of Mingling Mountains near Yixing, China's \"Pottery Capital,\" the Earth Valley Theater is a pioneering 9,200-square-m...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042338/the-earth-valley-theater-goa-group-of-architects",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "a9cd262c5140",
       "title": "AI is the future; Data Centres are the past - Architecture & Design",
@@ -13,6 +78,20 @@
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "deb23313e6eb",
+      "title": "Four Walls Pavilion / Studio Mango",
+      "summary": "Four Walls is a lakeside pavilion in a coastal site south of Chennai , India. Designed by London-based architects Studio Mango, the building...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042335/four-walls-pavilion-studio-mango",
+      "publishedAt": "2026-06-11T19:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect",
+        "building"
       ]
     },
     {
@@ -56,29 +135,16 @@
       ]
     },
     {
-      "id": "4adf499c5c72",
-      "title": "Malibu High School / KoningEizenberg Architecture",
-      "summary": "Nestled between the Pacific Coast and the Santa Monica Mountains, Malibu High School reimagines what a public high school can be. This net-z...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042314/malibu-high-school-koningeizenberg-architecture",
-      "publishedAt": "2026-06-11T10:00:00.000Z",
+      "id": "99995ee9b014",
+      "title": "Architectural Challenges of Deploying AI at the Network Edge - IndexBox",
+      "summary": "Architectural Challenges of Deploying AI at the Network Edge &nbsp;&nbsp; IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVdpejhhQlRVMS00N2Q4TkVzdHRQYmdLYkxHX1E1cjA1WXZBLS1WZHUtdy1mVC1IUk1lSktMWk9zTW9NTmt4Z1VFMXYtNzN2RDZjRjRtUWMtZl9rM3E5eVBRcUxMZWE3N3dEZnhuWVpRc3piTEpDczJxWE9BWGZ6LW8zcWJfbWhMY1JwUUdQbDhyQ3pL?oc=5",
+      "publishedAt": "2026-06-11T07:51:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
-        "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "842241197cbd",
-      "title": "SpaceX reveals AI1 satellite design ahead of IPO - qz.com",
-      "summary": "SpaceX reveals AI1 satellite design ahead of IPO &nbsp;&nbsp; qz.com",
-      "source": "qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uVmRCQi1aTHlTRzhvOVB1aXdnOXdxS2d6YkwxR1h2bDRLME1rcTFvSjVGNU84SHc3YVBZenNNeF8wTllERU9kRHZ0RUROeXZHeXg5ME1sdDlyWVhvMnZIOGJ1LXZaS2NiTGFFVUdBMTlpcVZz?oc=5",
-      "publishedAt": "2026-06-11T07:53:42.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -109,20 +175,6 @@
       ]
     },
     {
-      "id": "0b3aa8bb1d03",
-      "title": "Record Heatwaves in Europe and a New Museum of Comics in Taiwan: This Week’s Review",
-      "summary": "Covering a broad array of subjects, this week's headline stories have reflected the wide scope of architecture's practice: its potential to ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042341/record-heatwaves-in-europe-and-a-new-museum-of-comics-in-taiwan-this-weeks-review",
-      "publishedAt": "2026-06-11T05:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "03e56ae42d15",
       "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
       "summary": "Designing Production-Ready Battery Energy Storage Systems for AI Factories | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
@@ -141,6 +193,32 @@
       "source": "Golf Course Architecture Magazine",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMER2Zk9hY29jeXNBWU9tbzY0OUZEczVSZ3hLNWFqM0hHbjl2b213cFVaVURPRkI3NWROblRmTHFGRW1TZWdBR1hKZmNTbHNFakZidzl2alcySnRiRXo2WjVhWUxfTTV0bVpPRmNhZUZkcHVRUFB5b0NDTDZnYl9Lc2hLUk9jUlhXemtTS2x4cFFLMnA3TzVFclRiYkxSZklHbzlkaVpDNWdIUQ?oc=5",
       "publishedAt": "2026-06-10T14:36:17.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "842241197cbd",
+      "title": "SpaceX reveals AI1 satellite design ahead of IPO - qz.com",
+      "summary": "SpaceX reveals AI1 satellite design ahead of IPO &nbsp;&nbsp; qz.com",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uVmRCQi1aTHlTRzhvOVB1aXdnOXdxS2d6YkwxR1h2bDRLME1rcTFvSjVGNU84SHc3YVBZenNNeF8wTllERU9kRHZ0RUROeXZHeXg5ME1sdDlyWVhvMnZIOGJ1LXZaS2NiTGFFVUdBMTlpcVZz?oc=5",
+      "publishedAt": "2026-06-10T13:37:08.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "3daaf65c5f53",
+      "title": "SCI-Arc: Evolving architecture through AI, XR and automation - Study International",
+      "summary": "SCI-Arc: Evolving architecture through AI, XR and automation &nbsp;&nbsp; Study International",
+      "source": "Study International",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVBvR292XzZXckVpYWZ5LVI1WkNZZlBvdW52em1GUTNFSDBhUkttcGRvS1JNV2NrQ3I5c0x6NjhETWtCMGFkamwxZmV2aXRrSmZSZTBIWmw1MXhtemtScmluT3dPa1RtR1ZrRmo2NXlFS0RyeFlGWG54SjNUMndiU0xOQ0NmaEFoOG1wZ1E0MA?oc=5",
+      "publishedAt": "2026-06-10T09:49:50.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -191,15 +269,16 @@
       ]
     },
     {
-      "id": "bd31e2c04073",
-      "title": "The Future of Engineering and Design: How AI CAD Drawing Generators Are Redefining Workflows - OCNJ Daily",
-      "summary": "The Future of Engineering and Design: How AI CAD Drawing Generators Are Redefining Workflows &nbsp;&nbsp; OCNJ Daily",
-      "source": "OCNJ Daily",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjUzYjNkdjBSSnE3QkNiZUU4VERmeTJKVVRJSXI1QXlVakhoV1FpWWZvMnBpWnM4cWFVYXgyM3hYM2dnWjZkdVg2ZVg3aWc3TTRnN082cXpiZjhSS1J0Uk9aS0lyZC13YkhpazNfTTdrajV1Z1FnTEVFQjFNa0Z6ZGhFaXBVRVNuLVE3aHo2aVByeUNJcGFEUW9vR25pOGJCV2xoUDh6NllDTk1Sd0pRazJZdG1CUm5CMXhwQmpMU211a1dxS1I4SDhxbw?oc=5",
-      "publishedAt": "2026-06-09T20:48:54.000Z",
-      "category": "研究",
+      "id": "f5bd4bb63550",
+      "title": "Column: Computex 2026 shows Taiwan rewriting its role — from building AI to designing it - digitimes",
+      "summary": "Column: Computex 2026 shows Taiwan rewriting its role — from building AI to designing it &nbsp;&nbsp; digitimes",
+      "source": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMDRXR0dmRV9FY2JvTzZtRjFsRWtTTUU1dENjdWwwQnZianR0NDVKZ1ZSOXFHdVgybTRCRXBWT2dENHFGNFdJY215RC15QVhEQkNVTjg1VnJ4NTZEUXRuaXJiRWR3dkZuYnYybWtoMGQ3MGtDTjdaLXVxd0xUM2xDdHAybUM2WjdjZUE?oc=5",
+      "publishedAt": "2026-06-09T23:16:47.000Z",
+      "category": "案例",
       "tags": [
-        "ai"
+        "ai",
+        "building"
       ]
     },
     {
@@ -280,6 +359,20 @@
       ]
     },
     {
+      "id": "15b20304a46e",
+      "title": "The Architecture of Bio-Risk Governance in Generative Artifi - Lavender Hotel",
+      "summary": "The Architecture of Bio-Risk Governance in Generative Artifi &nbsp;&nbsp; Lavender Hotel",
+      "source": "Lavender Hotel",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1ZjREhyVGI5X056Qk5NWVhaMFotNm1KSE4yem5hV2haWmJnVFVZWDhuN2dZVVZlWlBmZkRDbkpaT3dpSGlGLWlfV0drajFqaVlEb1U2YUF6SFZLb2w4UnVESVk2RTZ0OWRkWXlOWlF2THhJeVJjYnhRN3BmM3hoZDVGQUp2a2JzTmc3eGJOV0JpZkZkTnR1bjF4SFNJRHJ5NVlvS2hlUzk?oc=5",
+      "publishedAt": "2026-06-06T17:57:32.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "generative",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "cf2b1475de17",
       "title": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response - StorageReview.com",
       "summary": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response &nbsp;&nbsp; StorageReview.com",
@@ -291,18 +384,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "7aeabd107633",
-      "title": "Enterprises Design CX For Humans and AI Agents - Let's Data Science",
-      "summary": "Enterprises Design CX For Humans and AI Agents &nbsp;&nbsp; Let's Data Science",
-      "source": "Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3lfcE5mQ3JicndwV2tGZ2hwSGliZmdpY19fSkkwZnZ0NGVTRDN5MmdvR1V2YjByUWdsYV9BUTMyUEhzNnFTbDQ5Rl9iMzRRN2hXakRmVmJlMGpTZ0syX0RiT2RNdjU2ZUlaQkM0VlFiSnRYMHBvNWRxYUVlREp1aFEzYlljdWtfT290cDlWLWVVdw?oc=5",
-      "publishedAt": "2026-06-05T15:16:58.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -324,6 +405,20 @@
       "source": "Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oSWJ0TmZ4TkJ0enhFODRLTUVfZkhLS3c4LTZ6S3paRWlRdVZzejI4WHlaWll3UEROOEVUV1RWWWtuUlluTU1USFZ4VWpMNG5TRk9nSzNVRHAyY1JzOVY2bEFMR2pTZkZiemI1VURR?oc=5",
       "publishedAt": "2026-06-05T07:58:33.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "bd1ba2cc2df6",
+      "title": "Finance AI Chatbot: Architecture, Security, Compliance - appinventiv.com",
+      "summary": "Finance AI Chatbot: Architecture, Security, Compliance &nbsp;&nbsp; appinventiv.com",
+      "source": "appinventiv.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBINk4zVzhFamI5WENBZ29LZXdRTlhpQ2JITGliR1RLR0ZvWTNiMGdkeFNoT1FTVGtDc1FnOGhlbVJlbDJiWGdqWnlUcnZnRnBqcy1oUURRVXBCaHI5VTB1V255b1NpOXk0Yy1aQQ?oc=5",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -380,98 +475,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNHB0WUN4X1Vuc3JNakJHZUZjQlJFbk03eGRQWlBqOUJVeWhRX3hDYnBOMkxKMHpoMlc0T3ozNnBsS3hoRHBwUFZkRHZSaG1aOW0xTS1UU1pBZ1lqVW94YjJ1Wm1rUlVQZnRiWXVhZUJLRXFwalE?oc=5",
       "publishedAt": "2026-06-03T12:48:56.000Z",
       "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "b10dc98be069",
-      "title": "CLPS Incorporation Restructures R&D Architecture, Introduces AI Rainstorm Factory Development Model - The Manila Times",
-      "summary": "CLPS Incorporation Restructures R&D Architecture, Introduces AI Rainstorm Factory Development Model &nbsp;&nbsp; The Manila Times",
-      "source": "The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMDhFYnRPYVZyRVhBd0phaGpmbkM4WEdNYTdnMjJ5Sngza3hNT1lDZ1p2UFpXXzRkYWJ0VEloQW5KbUpMNWpUTzRDSVRSQVh6UmlQYW5FeE53aVgwRW1PMUltcWtLZnNoak5ISGFnSW1ZSldqaG4yTTZhWXowSWk4VzR3dlBjRDBWd3dyRV9faDlQTzB1SC1lR0FpTTVqeW1WMnlobUhZay1XYlNJNEVWZmN3NFV0SHJBejRPUUVkaV81d2xqNGhibE5XY3RBMzNWcnZuQklPVV96bDNzclJ0SGVteTQyNm9mS19UV05Bd2tpX2hKNWtHd2VZOEkyd9IBgwJBVV95cUxObmJrdkNLX1lmV3ZacnY4cVdKN3RUVk0yemFpTHdfVmlUVHdLcW1DRnpxY0lDSkF1M05DTTdnbFg5TWYyaTdIbDZHYU9felpFUnIyeExTU09DUHZ1VjYxeWhZT0xEejExSi1fdnY4MWhPS1FfQ1RtVXhpd2lhbnBLOVVOOXdIbjI2LVlVQ1U0a0tTSzY1TWtSRVNyVVdBQjRJOHJtY0JfZmRzcW41MFZucEhDY2RId1dDT3FHNWRnQ2t2cmpqWDlqMmdXLV96eURNMHNrWHR0WmxkY05FYml3UTNOOTRrOHdja2RUUEVSUHVzMlVZVkk0VXdGWmttc1ZnYTJv?oc=5",
-      "publishedAt": "2026-06-03T12:46:20.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "c51ff1ef55d5",
-      "title": "Siemens and partners develop NVIDIA AI data center reference architecture - eeNews Europe",
-      "summary": "Siemens and partners develop NVIDIA AI data center reference architecture &nbsp;&nbsp; eeNews Europe",
-      "source": "eeNews Europe",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2xrYTEtSUxmaDBaUk05QmEtVEhxM2NLdUNJampZY1llUjRzeTlZN2dsY3lJWG5XbnlhbVctYmMyakNDRE5vQTd1eU9IdTBUY2JXbDF1LXI3LVp5RktXQnhzTlVoaWFvZjAyS0ZzYkpwbkx3bTBaTWlsczdRRGI2dno0WklfMWt2dDZhUWJHTnpSTVBGV2duZS1jbWNXUWxiN1VJM3hSQWJDQQ?oc=5",
-      "publishedAt": "2026-06-03T06:20:48.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "56bdc7e7426e",
-      "title": "Why Is This Chip Design Central to the AI Era - Kalkine Media",
-      "summary": "Why Is This Chip Design Central to the AI Era &nbsp;&nbsp; Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGdJQTVBUzd2dzlLbkYxMnF5MzBVcEJQLUUxWlFEMEVFUmlnYmViNG5yYmhkQWVyRmdQQm1aaVMwNGQwZTNNUjhYWmxXS3JIU3loNk1GM2pIVHlwQzU1clVoOFItdmRwVTRJSkxRXzZEVVpYQkdhYlhYakFmRkFBdzJobnhGT2o4aDJocjhPeC1QODdid3c?oc=5",
-      "publishedAt": "2026-06-03T03:36:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "80742e7cf3aa",
-      "title": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma - Autodesk News",
-      "summary": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma &nbsp;&nbsp; Autodesk News",
-      "source": "Autodesk News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelEybC1yRmNfakNxWG1rVXVGWl81M2lGb3BhbFgteXNYaDNTYTBoNVh1N2hoX1JhRzY1MnZKaTJkQWN0M1d2NU0zMlZ3Y0RLUDIydEhYd3Z5YWZhQzJuemx2dG91emlKNGp0VFVvaGJvd2RYanhIUjZwMWhqTjNjVEJBSDEyUDlS?oc=5",
-      "publishedAt": "2026-06-02T17:50:37.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "generative",
-        "building"
-      ]
-    },
-    {
-      "id": "ed6c7b74d429",
-      "title": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma",
-      "summary": "Experimental feature helps teams generate and evaluate floor plan options.",
-      "source": "Autodesk News",
-      "url": "https://adsknews.autodesk.com/en/news/building-layout-explorer-in-autodesk-forma/",
-      "publishedAt": "2026-06-02T17:48:16.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "generative",
-        "building"
-      ]
-    },
-    {
-      "id": "70e4c9b94277",
-      "title": "Floor-Plan.ai: The Fastest AI Tool for Floor Plans and 3D Home Design - nerdbot",
-      "summary": "Floor-Plan.ai: The Fastest AI Tool for Floor Plans and 3D Home Design &nbsp;&nbsp; nerdbot",
-      "source": "nerdbot",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2x1Mk4wS2s1aXhtbk5OWWhwTEUwZ3B6T2lOckhCQUlQbjAxQ0sxRWFLUWVhekpfU085V2FReGZWTEEzMTZFNWhYMFFVekJvbFRTSWM5UzQyR2JXemt3WGI5aEt1dm9iMkxtVmpCUEFPbWN1WGlfY1BOQkZsN3AxQTdGcEpVaHdocEJSRTQxYloxQlJmRnNBNkM3SVp1Z1ZFeUE?oc=5",
-      "publishedAt": "2026-06-02T07:47:43.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "3dc2d169dc6f",
-      "title": "Intellect Design Arena launches AI Digital Banking platform for UK & Europe - scanx.trade",
-      "summary": "Intellect Design Arena launches AI Digital Banking platform for UK & Europe &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTEh1dXB6dkpSdXhRT3FDQktRWFpQT3hwZGRzVEhQaE81WHk2Z1FZWkdaUWs0djBoWGNldl8xUUNIR0lKOGRLMkNOcTVTOVVMUHVpLUVfcE1sZnlBcjA4OEVOeW93VnhLcGhKQk9rZnVxbzRZTExnT3VTREg3TEJ4YVhxUjNRblNVMnFCcE9GYjM3cmV0OVViMFZqOGxyZ2d4M0JKOXhYQ1dPX3cxZHJNNXhVanJTcEw2NFIxYUdDQjZuUWx6TzR5ODliMFUyeTJZY0ZmeXZ5ZFF2OERhY0Rkenp5ZVNZZw?oc=5",
-      "publishedAt": "2026-06-02T07:43:14.000Z",
-      "category": "工具",
       "tags": [
         "ai"
       ]
