@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T23:46:40.863Z",
+  "updatedAt": "2026-06-13T23:20:13.259Z",
   "items": [
     {
       "id": "b8d37af4badc",
@@ -14,11 +14,11 @@
       ]
     },
     {
-      "id": "5e7ff2117553",
-      "title": "Atsign adds AI architecture tools for enterprise teams - IT Brief UK",
-      "summary": "Atsign adds AI architecture tools for enterprise teams &nbsp;&nbsp; IT Brief UK",
-      "source": "IT Brief UK",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkhPTllmQlNzQm0tS053RWlEdkhKUktxWEs0ZmcwY1U5d0dRNjA4Tk5lRThILTVpXzFRVzFuMVgxWnpHOXFaZlQzUDljWVdacV85VlJpR3Z1dXR2WXo1NU9aWEVyb1pHWDdfcWgxanV2VzBwLVh0eDg1a0E5NGpkNEpYQjUwcV9rT1E?oc=5",
+      "id": "6eac45b0fcdc",
+      "title": "Atsign adds AI architecture tools for enterprise teams - SecurityBrief Australia",
+      "summary": "Atsign adds AI architecture tools for enterprise teams &nbsp;&nbsp; SecurityBrief Australia",
+      "source": "SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2duNDZmVXhzTW1oUXBaaFhLTGRydFFRTWJibGdmcG9EMlVPQnZnMS1ReXZNUFAzZWNMTjlmZnJxUGM3b3Z1SkZLdmNlN1hDME96aHJTT0ZYX2ZNd3hVYlFCMS1rRTMybEhpZENzUlFIczFNdHhFc1VGY0FncjJwMUFBVEQ5OU9Zc2I1eE5XQVpXMW8?oc=5",
       "publishedAt": "2026-06-12T08:30:00.000Z",
       "category": "工具",
       "tags": [
@@ -40,33 +40,6 @@
       ]
     },
     {
-      "id": "d7a86d5f2562",
-      "title": "Imagining Ukraine's Future: 6 Unbuilt Projects from the ArchDaily Community",
-      "summary": "The context of the ongoing war marks Ukraine 's place in the international consciousness. Architecture , however, most often transcends the ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042235/imagining-ukraines-future-6-unbuilt-projects-from-the-archdaily-community",
-      "publishedAt": "2026-06-12T04:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "12283fd26601",
-      "title": "The Earth Valley Theater / GOA (Group of Architects)",
-      "summary": "Nestled in the valleys of Mingling Mountains near Yixing, China's \"Pottery Capital,\" the Earth Valley Theater is a pioneering 9,200-square-m...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042338/the-earth-valley-theater-goa-group-of-architects",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "a9cd262c5140",
       "title": "AI is the future; Data Centres are the past - Architecture & Design",
       "summary": "AI is the future; Data Centres are the past &nbsp;&nbsp; Architecture & Design",
@@ -78,20 +51,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "deb23313e6eb",
-      "title": "Four Walls Pavilion / Studio Mango",
-      "summary": "Four Walls is a lakeside pavilion in a coastal site south of Chennai , India. Designed by London-based architects Studio Mango, the building...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042335/four-walls-pavilion-studio-mango",
-      "publishedAt": "2026-06-11T19:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect",
-        "building"
       ]
     },
     {
@@ -115,19 +74,6 @@
       "source": "Semiconductor Engineering",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zQXBpMmNaZXlaNk5SRGRaeXp1RC05WVJuaVZTZllmZldBdTZzQ1BGMngzbm1MaUdwekJzTGtVY0ZwQ0lUVFMtaDVBd09NUDJRYjNuSzZxT3pVekt4d2VROHVJNmE5Zkt5LXA5M3ZfbGVzMEU?oc=5",
       "publishedAt": "2026-06-11T14:23:06.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "29150b551afe",
-      "title": "Tabancura School Library Pavilion / José Ignacio Valdivieso",
-      "summary": "In the context of its 50th anniversary celebrations, Tabancura School invited us to participate in an architectural competition aimed at est...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042213/tabancura-school-library-pavilion-jose-ignacio-valdivieso",
-      "publishedAt": "2026-06-11T12:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -206,7 +152,7 @@
       "summary": "SpaceX reveals AI1 satellite design ahead of IPO &nbsp;&nbsp; qz.com",
       "source": "qz.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uVmRCQi1aTHlTRzhvOVB1aXdnOXdxS2d6YkwxR1h2bDRLME1rcTFvSjVGNU84SHc3YVBZenNNeF8wTllERU9kRHZ0RUROeXZHeXg5ME1sdDlyWVhvMnZIOGJ1LXZaS2NiTGFFVUdBMTlpcVZz?oc=5",
-      "publishedAt": "2026-06-10T13:37:08.000Z",
+      "publishedAt": "2026-06-10T13:37:28.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -269,19 +215,6 @@
       ]
     },
     {
-      "id": "f5bd4bb63550",
-      "title": "Column: Computex 2026 shows Taiwan rewriting its role — from building AI to designing it - digitimes",
-      "summary": "Column: Computex 2026 shows Taiwan rewriting its role — from building AI to designing it &nbsp;&nbsp; digitimes",
-      "source": "digitimes",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMDRXR0dmRV9FY2JvTzZtRjFsRWtTTUU1dENjdWwwQnZianR0NDVKZ1ZSOXFHdVgybTRCRXBWT2dENHFGNFdJY215RC15QVhEQkNVTjg1VnJ4NTZEUXRuaXJiRWR3dkZuYnYybWtoMGQ3MGtDTjdaLXVxd0xUM2xDdHAybUM2WjdjZUE?oc=5",
-      "publishedAt": "2026-06-09T23:16:47.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
       "id": "fadfba7fc47a",
       "title": "Atsign expands AI Architect to fast-track secure-by-design enterprise agentic systems development - GlobeNewswire",
       "summary": "Atsign expands AI Architect to fast-track secure-by-design enterprise agentic systems development &nbsp;&nbsp; GlobeNewswire",
@@ -307,6 +240,20 @@
       ]
     },
     {
+      "id": "cea2c281fd1b",
+      "title": "Pixel Interfaces: AI Workflows in ComfyUI - parametric-architecture.com",
+      "summary": "Pixel Interfaces: AI Workflows in ComfyUI &nbsp;&nbsp; parametric-architecture.com",
+      "source": "parametric-architecture.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTM4clBDeDIxNEc4ZG9CcEdaYUtvbENpNDQ1X2RKYmZfRUt3Y2xVUDdOZnUtR0p0eWRoNWk2R3VpU28wSHlmcXRfLTdjOWpEVjQ5d3ZlQWlQVDJkMy1OSlJ3UHJqRjNWb1dMZU9kMVR1WUVHTk1XV1pyM2JaUnI0cVNIdw?oc=5",
+      "publishedAt": "2026-06-09T08:48:45.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "c252077bc438",
       "title": "macOS 27 Golden Gate brings Siri AI and Liquid Glass Design improvements - FoneArena.com",
       "summary": "macOS 27 Golden Gate brings Siri AI and Liquid Glass Design improvements &nbsp;&nbsp; FoneArena.com",
@@ -329,6 +276,19 @@
       "tags": [
         "ai",
         "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "c5dc2d93a93b",
+      "title": "Raymond James taps Vanguard's chief architect to drive AI strategy - InvestmentNews",
+      "summary": "Raymond James taps Vanguard's chief architect to drive AI strategy &nbsp;&nbsp; InvestmentNews",
+      "source": "InvestmentNews",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTZuV2RnZmZRTHNmR1lpYk56cnFDRlVEWFJXaWlwYlZ4c0JPV1dHWkJPWThXOEVFYmNTRUd5X2xSNEw3bHljbl9mVmlWbTl2M3A3X19DZ2NmUENSNDF2RXY1NlR6c2lqa2h6dkQ1dVI2ZkQ5c0cxcHB6NmN5SVdXSjhTUFVoYlhSTThkUXlaQ09tQ3NNemN2RkVPcng5VFljOUdNdUxDS2lYSzVmTDJCQ093T2lhQ3hHRlJ6c2p4VDFqcWdMd05adGZR?oc=5",
+      "publishedAt": "2026-06-08T19:40:29.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
         "architect"
       ]
     },
@@ -359,20 +319,6 @@
       ]
     },
     {
-      "id": "15b20304a46e",
-      "title": "The Architecture of Bio-Risk Governance in Generative Artifi - Lavender Hotel",
-      "summary": "The Architecture of Bio-Risk Governance in Generative Artifi &nbsp;&nbsp; Lavender Hotel",
-      "source": "Lavender Hotel",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1ZjREhyVGI5X056Qk5NWVhaMFotNm1KSE4yem5hV2haWmJnVFVZWDhuN2dZVVZlWlBmZkRDbkpaT3dpSGlGLWlfV0drajFqaVlEb1U2YUF6SFZLb2w4UnVESVk2RTZ0OWRkWXlOWlF2THhJeVJjYnhRN3BmM3hoZDVGQUp2a2JzTmc3eGJOV0JpZkZkTnR1bjF4SFNJRHJ5NVlvS2hlUzk?oc=5",
-      "publishedAt": "2026-06-06T17:57:32.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "generative",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "cf2b1475de17",
       "title": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response - StorageReview.com",
       "summary": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response &nbsp;&nbsp; StorageReview.com",
@@ -399,17 +345,15 @@
       ]
     },
     {
-      "id": "c1bc98e14bed",
-      "title": "Securitize embeds AI as core infrastructure in data architecture - Crypto Briefing",
-      "summary": "Securitize embeds AI as core infrastructure in data architecture &nbsp;&nbsp; Crypto Briefing",
-      "source": "Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oSWJ0TmZ4TkJ0enhFODRLTUVfZkhLS3c4LTZ6S3paRWlRdVZzejI4WHlaWll3UEROOEVUV1RWWWtuUlluTU1USFZ4VWpMNG5TRk9nSzNVRHAyY1JzOVY2bEFMR2pTZkZiemI1VURR?oc=5",
-      "publishedAt": "2026-06-05T07:58:33.000Z",
+      "id": "1c3626c9bebe",
+      "title": "AI Now Designing OpenAI's Next Model, Says SoftBank's Son - The Tech Buzz",
+      "summary": "AI Now Designing OpenAI's Next Model, Says SoftBank's Son &nbsp;&nbsp; The Tech Buzz",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1A2UVRXV25rak9jX3R5VmFVQUhLeXpDTnpQODh4ZnI0blJROTR5TFBpcHk3Y3UwOG50cUxESXNwNDhyOVBBSjRmTVdnNDdzNGY2QmtLRXRLcTBQUTh3bDR0QUdWNml2b0FPcXNmb1h5cXgxb0xTTTdHdWllUV9NRkRoWUcwVWlZcEZIQlJzSE83OVU?oc=5",
+      "publishedAt": "2026-06-05T14:01:00.000Z",
       "category": "研究",
       "tags": [
-        "ai",
-        "architecture",
-        "architect"
+        "ai"
       ]
     },
     {
@@ -475,6 +419,58 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNHB0WUN4X1Vuc3JNakJHZUZjQlJFbk03eGRQWlBqOUJVeWhRX3hDYnBOMkxKMHpoMlc0T3ozNnBsS3hoRHBwUFZkRHZSaG1aOW0xTS1UU1pBZ1lqVW94YjJ1Wm1rUlVQZnRiWXVhZUJLRXFwalE?oc=5",
       "publishedAt": "2026-06-03T12:48:56.000Z",
       "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "56bdc7e7426e",
+      "title": "Why Is This Chip Design Central to the AI Era - Kalkine Media",
+      "summary": "Why Is This Chip Design Central to the AI Era &nbsp;&nbsp; Kalkine Media",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGdJQTVBUzd2dzlLbkYxMnF5MzBVcEJQLUUxWlFEMEVFUmlnYmViNG5yYmhkQWVyRmdQQm1aaVMwNGQwZTNNUjhYWmxXS3JIU3loNk1GM2pIVHlwQzU1clVoOFItdmRwVTRJSkxRXzZEVVpYQkdhYlhYakFmRkFBdzJobnhGT2o4aDJocjhPeC1QODdid3c?oc=5",
+      "publishedAt": "2026-06-03T03:36:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "80742e7cf3aa",
+      "title": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma - Autodesk News",
+      "summary": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma &nbsp;&nbsp; Autodesk News",
+      "source": "Autodesk News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelEybC1yRmNfakNxWG1rVXVGWl81M2lGb3BhbFgteXNYaDNTYTBoNVh1N2hoX1JhRzY1MnZKaTJkQWN0M1d2NU0zMlZ3Y0RLUDIydEhYd3Z5YWZhQzJuemx2dG91emlKNGp0VFVvaGJvd2RYanhIUjZwMWhqTjNjVEJBSDEyUDlS?oc=5",
+      "publishedAt": "2026-06-02T17:50:37.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "building"
+      ]
+    },
+    {
+      "id": "ed6c7b74d429",
+      "title": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma",
+      "summary": "Experimental feature helps teams generate and evaluate floor plan options.",
+      "source": "Autodesk News",
+      "url": "https://adsknews.autodesk.com/en/news/building-layout-explorer-in-autodesk-forma/",
+      "publishedAt": "2026-06-02T17:48:16.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "building"
+      ]
+    },
+    {
+      "id": "70e4c9b94277",
+      "title": "Floor-Plan.ai: The Fastest AI Tool for Floor Plans and 3D Home Design - nerdbot",
+      "summary": "Floor-Plan.ai: The Fastest AI Tool for Floor Plans and 3D Home Design &nbsp;&nbsp; nerdbot",
+      "source": "nerdbot",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2x1Mk4wS2s1aXhtbk5OWWhwTEUwZ3B6T2lOckhCQUlQbjAxQ0sxRWFLUWVhekpfU085V2FReGZWTEEzMTZFNWhYMFFVekJvbFRTSWM5UzQyR2JXemt3WGI5aEt1dm9iMkxtVmpCUEFPbWN1WGlfY1BOQkZsN3AxQTdGcEpVaHdocEJSRTQxYloxQlJmRnNBNkM3SVp1Z1ZFeUE?oc=5",
+      "publishedAt": "2026-06-02T07:47:43.000Z",
+      "category": "工具",
       "tags": [
         "ai"
       ]
