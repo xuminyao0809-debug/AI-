@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-06-13T23:20:13.259Z",
+  "updatedAt": "2026-06-14T23:36:20.174Z",
   "items": [
+    {
+      "id": "234df49196fc",
+      "title": "Casa Circular / efcarquitetura",
+      "summary": "The architectural design of the Casa Circular was developed in response to its owners' demands for an accessible residence, without stairs o...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1041947/casa-circular-efcarquitetura",
+      "publishedAt": "2026-06-14T15:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "05458b8da996",
+      "title": "Hyphen Designs Rio AI City, a New Vision for Sustainable Data Infrastructure - parametric-architecture.com",
+      "summary": "Hyphen Designs Rio AI City, a New Vision for Sustainable Data Infrastructure &nbsp;&nbsp; parametric-architecture.com",
+      "source": "parametric-architecture.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ01NOWZNMXNHYnBYdi0tbWVhbnFRM1ZrRXVIR25GU1paOFI2bllYQzRQNTZOYWRDRGdNMjRIUGlHQjZJLS10cE9ZTUR4VHlFdWU1dU5pR09jN3djV0pyQ1RNVHpFaU8tYUYwV0MwaTJkS29sMjhETWtlcVVjbkx4Qw?oc=5",
+      "publishedAt": "2026-06-14T11:01:11.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "715340c013c4",
+      "title": "Mount Bazaar / People’s Architecture Office",
+      "summary": "On the industrial site of Yangpu's Fuxing Island, Mount Bazaar—a three-dimensional scaffolding installation created for the 2025 Shanghai Ur...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042317/mount-bazaar-peoples-architecture-office",
+      "publishedAt": "2026-06-14T02:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "b8d37af4badc",
       "title": "Beyond Training: Designing and Sourcing Silicon for the Looming Edge AI Inference Surge - Bisinfotech",
@@ -25,18 +66,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "9d009df81c86",
-      "title": "MADA at Melbourne Design Week 2026: From AI to Housing Reforms - Monash University",
-      "summary": "MADA at Melbourne Design Week 2026: From AI to Housing Reforms &nbsp;&nbsp; Monash University",
-      "source": "Monash University",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXV6SGJVM2tSOU9oOWx6U2Z4SGRDNW5HRUgyYXFCWnpVMTVFZk1odExiSTFWNnVwcVdmblZTdTYwMTlOcjFROWdfYnY2VHk3Zm9mYm5OaGNFU3BTektGXzZ1NXZXb2dpZHhHUlJVWDB2cGUyTWswUnpwRnFwWUNWOHM4OEhTcm9Xa1FBdmlwcmNlZDRYZi1jWGtmR1J4MmZt?oc=5",
-      "publishedAt": "2026-06-12T04:22:36.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -65,19 +94,6 @@
         "ai",
         "building",
         "bim"
-      ]
-    },
-    {
-      "id": "09ea92ef7e2d",
-      "title": "Re-Architecting Die-to-Die IO For AI - Semiconductor Engineering",
-      "summary": "Re-Architecting Die-to-Die IO For AI &nbsp;&nbsp; Semiconductor Engineering",
-      "source": "Semiconductor Engineering",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zQXBpMmNaZXlaNk5SRGRaeXp1RC05WVJuaVZTZllmZldBdTZzQ1BGMngzbm1MaUdwekJzTGtVY0ZwQ0lUVFMtaDVBd09NUDJRYjNuSzZxT3pVekt4d2VROHVJNmE5Zkt5LXA5M3ZfbGVzMEU?oc=5",
-      "publishedAt": "2026-06-11T14:23:06.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
       ]
     },
     {
@@ -156,20 +172,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "3daaf65c5f53",
-      "title": "SCI-Arc: Evolving architecture through AI, XR and automation - Study International",
-      "summary": "SCI-Arc: Evolving architecture through AI, XR and automation &nbsp;&nbsp; Study International",
-      "source": "Study International",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVBvR292XzZXckVpYWZ5LVI1WkNZZlBvdW52em1GUTNFSDBhUkttcGRvS1JNV2NrQ3I5c0x6NjhETWtCMGFkamwxZmV2aXRrSmZSZTBIWmw1MXhtemtScmluT3dPa1RtR1ZrRmo2NXlFS0RyeFlGWG54SjNUMndiU0xOQ0NmaEFoOG1wZ1E0MA?oc=5",
-      "publishedAt": "2026-06-10T09:49:50.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -319,6 +321,20 @@
       ]
     },
     {
+      "id": "15b20304a46e",
+      "title": "The Architecture of Bio-Risk Governance in Generative Artifi - Lavender Hotel",
+      "summary": "The Architecture of Bio-Risk Governance in Generative Artifi &nbsp;&nbsp; Lavender Hotel",
+      "source": "Lavender Hotel",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1ZjREhyVGI5X056Qk5NWVhaMFotNm1KSE4yem5hV2haWmJnVFVZWDhuN2dZVVZlWlBmZkRDbkpaT3dpSGlGLWlfV0drajFqaVlEb1U2YUF6SFZLb2w4UnVESVk2RTZ0OWRkWXlOWlF2THhJeVJjYnhRN3BmM3hoZDVGQUp2a2JzTmc3eGJOV0JpZkZkTnR1bjF4SFNJRHJ5NVlvS2hlUzk?oc=5",
+      "publishedAt": "2026-06-06T17:57:32.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "generative",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "cf2b1475de17",
       "title": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response - StorageReview.com",
       "summary": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response &nbsp;&nbsp; StorageReview.com",
@@ -345,18 +361,6 @@
       ]
     },
     {
-      "id": "1c3626c9bebe",
-      "title": "AI Now Designing OpenAI's Next Model, Says SoftBank's Son - The Tech Buzz",
-      "summary": "AI Now Designing OpenAI's Next Model, Says SoftBank's Son &nbsp;&nbsp; The Tech Buzz",
-      "source": "The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1A2UVRXV25rak9jX3R5VmFVQUhLeXpDTnpQODh4ZnI0blJROTR5TFBpcHk3Y3UwOG50cUxESXNwNDhyOVBBSjRmTVdnNDdzNGY2QmtLRXRLcTBQUTh3bDR0QUdWNml2b0FPcXNmb1h5cXgxb0xTTTdHdWllUV9NRkRoWUcwVWlZcEZIQlJzSE83OVU?oc=5",
-      "publishedAt": "2026-06-05T14:01:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "bd1ba2cc2df6",
       "title": "Finance AI Chatbot: Architecture, Security, Compliance - appinventiv.com",
       "summary": "Finance AI Chatbot: Architecture, Security, Compliance &nbsp;&nbsp; appinventiv.com",
@@ -371,12 +375,24 @@
       ]
     },
     {
+      "id": "c7be694eb9f8",
+      "title": "AI Now Designing OpenAI's Models: Son Revises ASI Timeline - The Tech Buzz",
+      "summary": "AI Now Designing OpenAI's Models: Son Revises ASI Timeline &nbsp;&nbsp; The Tech Buzz",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazlpN09RYlphUFRzM0M3X0xlVmZhSlB3VHRiUGhrMnpKOGZCOU5SN3RpNFJJYk9ZMHo4VzFCMldrSHE1a2g5cmhlSEltQkd1Wl93b1VOaXFrWjVSdGstbDlEbkwxdDhQYTBIeC00U2Vac0lHdmJoR0loOFFQQmxxYklZaVk5Z2k0SVdKaGtGc0VYRW0x?oc=5",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "951a0d893021",
       "title": "From RAG to AI Memory Systems: Building Stateful Architectures for Durable, Context-Aware Agents - Oracle Blogs",
       "summary": "From RAG to AI Memory Systems: Building Stateful Architectures for Durable, Context-Aware Agents &nbsp;&nbsp; Oracle Blogs",
       "source": "Oracle Blogs",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTlIQ2psY1dScWotYmxDQUp5OVFtUHVyZVY3eFMweDdvdERWVzFBbVlIcHE1c2hxdFRJUTlDVjJobVhqcWtpdDZXeE9YYlVkazFUVWp3T3AtZUVYODBteFIyekVOV2kwT2VxZVFCVUxwWTVuNVBfX05FTUV5eEw4b2RVZVhCdTFiVXhlMHVMaTdoWVZhbmd3VFRzQ3U?oc=5",
-      "publishedAt": "2026-06-04T14:00:42.000Z",
+      "publishedAt": "2026-06-04T07:00:00.000Z",
       "category": "案例",
       "tags": [
         "ai",
@@ -400,18 +416,6 @@
       ]
     },
     {
-      "id": "0fb067f5e40a",
-      "title": "AI Factories Go Utility-Scale as Siemens Debuts 100 MW IT Design - Data Center Knowledge",
-      "summary": "AI Factories Go Utility-Scale as Siemens Debuts 100 MW IT Design &nbsp;&nbsp; Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY25nMFI0YXVkNE9RVFpidm1LWlhRdlZDR1B6UHgybVh1d01jRG4zUU5EbENqeWNhbXFiVFFMRVBnaXgxQnlhNFMtV1JGbWotSGVMYTcwZEZkRUdhZFVzQmVzN0lSblZhOF85SktxeHBlZ05KMzBTWmpVZnNFbjM3MmNwM2lRdWNNOWt3MnVDQXVSelVTaVJtbWFzRXpBdVd3djZz?oc=5",
-      "publishedAt": "2026-06-03T15:07:12.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "2cc5c4fbf57b",
       "title": "When AI Makes Design Look Easier Than It Is - Common Edge",
       "summary": "When AI Makes Design Look Easier Than It Is &nbsp;&nbsp; Common Edge",
@@ -424,29 +428,31 @@
       ]
     },
     {
-      "id": "56bdc7e7426e",
-      "title": "Why Is This Chip Design Central to the AI Era - Kalkine Media",
-      "summary": "Why Is This Chip Design Central to the AI Era &nbsp;&nbsp; Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGdJQTVBUzd2dzlLbkYxMnF5MzBVcEJQLUUxWlFEMEVFUmlnYmViNG5yYmhkQWVyRmdQQm1aaVMwNGQwZTNNUjhYWmxXS3JIU3loNk1GM2pIVHlwQzU1clVoOFItdmRwVTRJSkxRXzZEVVpYQkdhYlhYakFmRkFBdzJobnhGT2o4aDJocjhPeC1QODdid3c?oc=5",
-      "publishedAt": "2026-06-03T03:36:00.000Z",
+      "id": "5ed9f3e88920",
+      "title": "The University of Hong Kong is hiring an Assistant Professor in AI-driven architecture - Archinect",
+      "summary": "The University of Hong Kong is hiring an Assistant Professor in AI-driven architecture &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjMzcklUYmwtSk54TXdqZ28xTXRMRUtfZThmQXdUVmVURy0tUy1lWUVSNnptQnpic2J6bWRCc1F3SFlEMTREZ1hlay00am9ZcmZfUmw3QVB6bmZuZGlKVlBOeUZEWFZXRE9zMTBLdGROUkl0QWgxaE9HSGE5UDlZbXdxN0ZiU2JyM0pPZHZHcmRXUW1vTE53QnpHMnVndmJaWTVVUzJFajZpU0tJak44MEpRNTd5eU80WGR0aFYwTTlVczd1SzJGUGo2bw?oc=5",
+      "publishedAt": "2026-06-03T07:00:00.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
-      "id": "80742e7cf3aa",
-      "title": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma - Autodesk News",
-      "summary": "Exploring early generative AI workflows with Building Layout Explorer in Autodesk Forma &nbsp;&nbsp; Autodesk News",
-      "source": "Autodesk News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelEybC1yRmNfakNxWG1rVXVGWl81M2lGb3BhbFgteXNYaDNTYTBoNVh1N2hoX1JhRzY1MnZKaTJkQWN0M1d2NU0zMlZ3Y0RLUDIydEhYd3Z5YWZhQzJuemx2dG91emlKNGp0VFVvaGJvd2RYanhIUjZwMWhqTjNjVEJBSDEyUDlS?oc=5",
-      "publishedAt": "2026-06-02T17:50:37.000Z",
-      "category": "生成式设计",
+      "id": "e16e7e0f2fc0",
+      "title": "What a Reference Architecture for Distributed AI Training Actually Looks Like - CoreWeave",
+      "summary": "What a Reference Architecture for Distributed AI Training Actually Looks Like &nbsp;&nbsp; CoreWeave",
+      "source": "CoreWeave",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjR2cTc5bEk1QjMweTNhcVpTZk1BYV93eU5XVWxyZ3pTa21oclpSaDJtUDIxRVpBRUh5VnlOODhqYTRzTFpPdmxEMmJoOUt5VmtWMTZlUkRkeExzZzJOWjM0TUY1Yk9yYnNjRy1XTGJWcEhKWkdBZEVJOE5wQ2tDZnBTcGwzeWp1dGh3TUJyWmxrWXJ2TUZJYzNaeUk3MmsyNXVibnEyd1lJZ1RT?oc=5",
+      "publishedAt": "2026-06-03T07:00:00.000Z",
+      "category": "研究",
       "tags": [
         "ai",
-        "generative",
-        "building"
+        "architecture",
+        "architect"
       ]
     },
     {
