@@ -1,44 +1,123 @@
 {
-  "updatedAt": "2026-06-16T00:00:53.041Z",
+  "updatedAt": "2026-06-16T23:46:10.057Z",
   "items": [
     {
-      "id": "8fbdee55f4c8",
-      "title": "Priya Prabhu on Building Production-Grade Generative AI Platforms for Regulated Enterprises - TechBullion",
-      "summary": "Priya Prabhu on Building Production-Grade Generative AI Platforms for Regulated Enterprises &nbsp;&nbsp; TechBullion",
-      "source": "TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmI0N1RDMXREQ0NSWFJJcEhtaWNscGRkOXpKMi1IRjN1a0s4dmpPN0ZjQndiSzA4RnppYkpvMmdpeGlDSEUwRkdkSkxqMVFGM0hoNDEzMEREME5pdnRyMmVqRmFuakJoVktNcEFuT1FFQjhXU2E4eUZvWjY5eTRTUjdXYXdaMnVUWTgtb3hqb1JJLUVwa1FPM0M0anExYUlJLWZvTENaeklLQ2tQVWJhcjhaa3NLNkE?oc=5",
-      "publishedAt": "2026-06-15T05:50:13.000Z",
-      "category": "生成式设计",
+      "id": "654c1b345ebf",
+      "title": "Let AI Models Fight Over Your Architecture - HackerNoon",
+      "summary": "Let AI Models Fight Over Your Architecture &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10blFFNk5GSDlOY1N2NGpYdXdKNlJnQU5Ua25rd0YzVl9PekZwT1VPTjhaSHN5TVZocmR0ZXYtNmxLUkhiUkF0MTZocFVETk5yWkp5SzJyNVo1dmsxQnltMUY3NHNaTnFLRVp5eVlfY080cVk?oc=5",
+      "publishedAt": "2026-06-16T18:00:00.000Z",
+      "category": "研究",
       "tags": [
         "ai",
-        "generative",
-        "building"
+        "architecture",
+        "architect"
       ]
     },
     {
-      "id": "3f049d66e732",
-      "title": "Shamballa Opens in Italy as a 3D-Printed Research Site Exploring Self-Sufficient Sustainable Living",
-      "summary": "Shamballa, an 8-hectare open-air laboratory and research site dedicated to sustainable living and advanced architectural 3D printing , was i...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042422/shamballa-opens-in-italy-as-a-3d-printed-research-site-exploring-self-sufficient-sustainable-living",
-      "publishedAt": "2026-06-15T05:30:00.000Z",
+      "id": "74fa23bab7a9",
+      "title": "AI design canvas and 2026 home trends from Westlake Royal at AIA26 - Stock Titan",
+      "summary": "AI design canvas and 2026 home trends from Westlake Royal at AIA26 &nbsp;&nbsp; Stock Titan",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjNsaGg4MXJRMC1Ybk5PdXpKcHBXN3pYWXZ4OGhFUXdxZlVYaFI2N3I5WjdLeWx0NHduZExEUUNpWlBFQktaV3VIazJUTWtrcUItV2NuYndkbnM0V3U1SnlFellrYVdTN0x0RU9tUS1ZWkFmN3JhNjlwNUJPck5vbWVKcXIyMF9Ya0dRTVhhaGQyc1kzWmxqaGMwS2NxRUhuZHN3YjhPbVpJdkw3NUREN0w3UGxWTDBIMmotcw?oc=5",
+      "publishedAt": "2026-06-16T13:01:42.000Z",
       "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "39981fcfe0f6",
+      "title": "AI demands to drive multiple optical network architectures, Ciena says - RCR Wireless News",
+      "summary": "AI demands to drive multiple optical network architectures, Ciena says &nbsp;&nbsp; RCR Wireless News",
+      "source": "RCR Wireless News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yTWRsNVhpR1dZZ0tIZEsyM0Zfak5YajM2QnQxUEYwMm5QTWoyOURfWW1QekRqN3FvTEhwRGROcE5PRkhWNThaQXBFRmNsR0VqNWFTZUc5Wkd0WUoxeEJ2YXhId29HdlBmdjJqcDVFNA?oc=5",
+      "publishedAt": "2026-06-16T09:50:39.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "5bbae16623d0",
+      "title": "How Arm Neoverse Architecture is Reshaping Cloud Infrastructure for AI - streamlinefeed.co.ke",
+      "summary": "How Arm Neoverse Architecture is Reshaping Cloud Infrastructure for AI &nbsp;&nbsp; streamlinefeed.co.ke",
+      "source": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHhTbEFvbklUNUpFLXF6MkpVTnFmLXQ2NjdlMS16dXlTM0hoYTlDWkRPU28zR3JBc2R2NEFOUGxfX1RjMWszVDQtM2FRbDJCYXdyangwa0ROTlB1VGJBU1A0TWxzd296cjdfY01ZenRwZ0JJUk9fNjVETjBHazJQajd0ZHJMZGlzMmtBcV9MUzBIX3NGaG1v?oc=5",
+      "publishedAt": "2026-06-16T08:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "c7d16641fcf5",
+      "title": "Designing Thresholds: How Architecture Shapes the Sense of Security at Home",
+      "summary": "What transforms a space of living into a home ? Beyond ownership or shelter, a home is tied to a quieter sense of certainty: the feeling tha...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042358/designing-thresholds-how-architecture-shapes-the-sense-of-security-at-home",
+      "publishedAt": "2026-06-16T06:45:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "c4b4e343500c",
+      "title": "22 Best AI Tools For Architecture (With Examples) [2026] - OfficeChai",
+      "summary": "22 Best AI Tools For Architecture (With Examples) [2026] &nbsp;&nbsp; OfficeChai",
+      "source": "OfficeChai",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MZk8yMkJhcWwxM1dsaDRkSXEwTDRUUDZJOHdPUWNBeWdBUVlIVG80cHJvS0hKRHlWRTVDcEhPcDMzZFhXLW1KZXhmYi1wd2RKVHF4TFhZSUpUR3lOZjFYc09DcXBlUQ?oc=5",
+      "publishedAt": "2026-06-16T03:30:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "65d138a7937a",
+      "title": "Shenzhen Mingwan School / Perkins&Will",
+      "summary": "Located in Shenzhen's Qianhai-Dachan Bay Port Zone, the Tencent Global Headquarters campus comprises five neighborhood blocks. Designed by P...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042060/shenzhen-mingwan-school-perkins-and-will",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "71c99e1f586e",
+      "title": "Firm leadership in the age of AI - The American Institute of Architects: AIA",
+      "summary": "Firm leadership in the age of AI &nbsp;&nbsp; The American Institute of Architects: AIA",
+      "source": "The American Institute of Architects: AIA",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2QmZpWW9fdFdVV3V4NjAyRmNKQ3NkakV6ME9sSlRHa21SWU1lWEE1em8zSmFWeHk1a3RCY0x0WVZxdXhlRmhTUUxINEZhWEdDcV9VX041U0lGWC1KbjJQcTNNcE1Wb1dKNFRnRktudkpYQQ?oc=5",
+      "publishedAt": "2026-06-15T17:41:15.000Z",
+      "category": "案例",
       "tags": [
         "ai",
         "architect"
       ]
     },
     {
-      "id": "234df49196fc",
-      "title": "Casa Circular / efcarquitetura",
-      "summary": "The architectural design of the Casa Circular was developed in response to its owners' demands for an accessible residence, without stairs o...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1041947/casa-circular-efcarquitetura",
-      "publishedAt": "2026-06-14T15:00:00.000Z",
+      "id": "1ce2734b4985",
+      "title": "GFAB Kicks Off with Insights on AI, Design and Economic Outlook - Glass Magazine - NGA",
+      "summary": "GFAB Kicks Off with Insights on AI, Design and Economic Outlook &nbsp;&nbsp; Glass Magazine - NGA",
+      "source": "Glass Magazine - NGA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVFpFYzMtQU5GZjFoTGRCZzc5TWpGVW0yaXdzcUN1VXEwSnNuR3hUMFNSWjFiWC1BekdhMkRWbW9kcDAzNUJmcXdpemxZZm1TNkptSGJTVnd0Rm95bGpDQUgtYTJfNVYyYnhINzlCSTV4cThBendIT2I0bW1TWk1Hclk1ZTM2OWZmN1VrVE1GZFlXd1B5VUtzdy1vbw?oc=5",
+      "publishedAt": "2026-06-15T07:00:00.000Z",
       "category": "研究",
       "tags": [
-        "ai",
-        "architect"
+        "ai"
       ]
     },
     {
@@ -68,6 +147,18 @@
       ]
     },
     {
+      "id": "9d009df81c86",
+      "title": "MADA at Melbourne Design Week 2026: From AI to Housing Reforms - Monash University",
+      "summary": "MADA at Melbourne Design Week 2026: From AI to Housing Reforms &nbsp;&nbsp; Monash University",
+      "source": "Monash University",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXV6SGJVM2tSOU9oOWx6U2Z4SGRDNW5HRUgyYXFCWnpVMTVFZk1odExiSTFWNnVwcVdmblZTdTYwMTlOcjFROWdfYnY2VHk3Zm9mYm5OaGNFU3BTektGXzZ1NXZXb2dpZHhHUlJVWDB2cGUyTWswUnpwRnFwWUNWOHM4OEhTcm9Xa1FBdmlwcmNlZDRYZi1jWGtmR1J4MmZt?oc=5",
+      "publishedAt": "2026-06-12T04:22:36.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "a9cd262c5140",
       "title": "AI is the future; Data Centres are the past - Architecture & Design",
       "summary": "AI is the future; Data Centres are the past &nbsp;&nbsp; Architecture & Design",
@@ -78,19 +169,6 @@
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "98d7b339aa57",
-      "title": "Artis Raises $7.3M Led by LiveOak Ventures to Handle the Work That Pulls Residential Architects, Designers, and Builders Away From Their Craft - Business Wire",
-      "summary": "Artis Raises $7.3M Led by LiveOak Ventures to Handle the Work That Pulls Residential Architects, Designers, and Builders Away From Their Cra...",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZjZlS3c2MzUyRG9oY1V3a1dnbTNPSEVwQ21lanQwQlV2enpaWGplR0dWVEJBSjFDbzhza2ZhYTBJX3dtT3pMOGtaNktNdEpzTTJtd3J4RzZKMlQyQWpycDk2RTdndTJsSlJ3TXNxajd2eklEckE2ZlY1QkRmMEJYQzFRSlBaMzVMQy0wUHc0UFNjTzE4RFBYRm9OdVpNV0dXTzNtZWxVSlBRbGNOMTdsaWhNT3ZxcmVydGRNNy0xd080RVljbl80dFBya0t2UzdEdWRfNkN1LTRhZjFVbVRrYmQ0clhBbnRhTFlCMWo1YUJ1RWQwS1k3TnNuRFdNa09BQlpPZ2tVUDB4d29NZ2Rrc0NrVWFSNTR0UXFSTy02MmZodUwyZXc?oc=5",
-      "publishedAt": "2026-06-11T15:49:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architect"
       ]
     },
@@ -106,20 +184,6 @@
         "ai",
         "building",
         "bim"
-      ]
-    },
-    {
-      "id": "200e14d50262",
-      "title": "Cloud HPC for AI Workloads: Architecture, Challenges, and Best Practices - News and Statistics - IndexBox",
-      "summary": "Cloud HPC for AI Workloads: Architecture, Challenges, and Best Practices - News and Statistics &nbsp;&nbsp; IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUlQbHBldXJheENFN191WkwwcmVJUEFjOUJVZm9vYm11LVJCNnVDTGYwc0stSjRfNmZQTTJ4SHkycDMtTnZ3ZWplUmkzZ01pLVpqeEZOOUtEWV9SV19mMDduaUJNT1RkV0tOWDdqQWZjTDdNR0NEdXRfYWUxMXRGY0IyUlhwakhBYXU1NTdEVHAwWWxCOHJwZFdCVQ?oc=5",
-      "publishedAt": "2026-06-11T07:52:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -176,9 +240,9 @@
     },
     {
       "id": "3698b2d05fa9",
-      "title": "How is AI changing the way that golf course architects work? - Golf Course Architecture",
-      "summary": "How is AI changing the way that golf course architects work? &nbsp;&nbsp; Golf Course Architecture",
-      "source": "Golf Course Architecture",
+      "title": "How is AI changing the way that golf course architects work? - Golf Course Architecture Magazine",
+      "summary": "How is AI changing the way that golf course architects work? &nbsp;&nbsp; Golf Course Architecture Magazine",
+      "source": "Golf Course Architecture Magazine",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMER2Zk9hY29jeXNBWU9tbzY0OUZEczVSZ3hLNWFqM0hHbjl2b213cFVaVURPRkI3NWROblRmTHFGRW1TZWdBR1hKZmNTbHNFakZidzl2alcySnRiRXo2WjVhWUxfTTV0bVpPRmNhZUZkcHVRUFB5b0NDTDZnYl9Lc2hLUk9jUlhXemtTS2x4cFFLMnA3TzVFclRiYkxSZklHbzlkaVpDNWdIUQ?oc=5",
       "publishedAt": "2026-06-10T14:36:17.000Z",
       "category": "研究",
@@ -228,6 +292,19 @@
       ]
     },
     {
+      "id": "c39c49cc0d83",
+      "title": "Gaudí Would Have Used AI but Kept Human Control, Architect Says - 조선일보",
+      "summary": "Gaudí Would Have Used AI but Kept Human Control, Architect Says &nbsp;&nbsp; 조선일보",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHNCdDdsTzlxam1WSDBrN3QyeW9USmgwRHRxT3Vxc05NSjloWng3b0g3WVJzRUxaX3JpY0IxTEhPbGhTbDBhTHNPRms3OUtoblFfQlBQUHk2ZlFickdOajg2ZUhaRmpXODhBWG10UEtOSHJYRVhEbVpTbkp4elUxYzA5Tnc?oc=5",
+      "publishedAt": "2026-06-10T04:39:01.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "5c14b161685c",
       "title": "KDDI Rolls Out DDBR Cluster Architecture to Scale Backbone Networks for AI Traffic Growth - The Fast Mode",
       "summary": "KDDI Rolls Out DDBR Cluster Architecture to Scale Backbone Networks for AI Traffic Growth &nbsp;&nbsp; The Fast Mode",
@@ -239,6 +316,19 @@
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "f5bd4bb63550",
+      "title": "Column: Computex 2026 shows Taiwan rewriting its role — from building AI to designing it - digitimes",
+      "summary": "Column: Computex 2026 shows Taiwan rewriting its role — from building AI to designing it &nbsp;&nbsp; digitimes",
+      "source": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMDRXR0dmRV9FY2JvTzZtRjFsRWtTTUU1dENjdWwwQnZianR0NDVKZ1ZSOXFHdVgybTRCRXBWT2dENHFGNFdJY215RC15QVhEQkNVTjg1VnJ4NTZEUXRuaXJiRWR3dkZuYnYybWtoMGQ3MGtDTjdaLXVxd0xUM2xDdHAybUM2WjdjZUE?oc=5",
+      "publishedAt": "2026-06-09T23:16:47.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
       ]
     },
     {
@@ -380,101 +470,6 @@
       "source": "StorageReview.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjBEcEs0R3VjM09iSWhDYlkyZzZtVTBfa1BnSTE1OVloOVNNUTBWSHE4UmxQbjNBMFd5OXIwcUtnRU1NVkZ2RWlXRTM2V2hsLWdhU2MtZ2xuR2JDOUp0QUFsSFA0dzF6T1F3NU9Ic1R5WjNaSmFWVEd6ckNNNHE2ZXhtNk4zdEFyeHhnUHhOWm00ZmNTRWt1ZW91SkRMZnZDMW1VcnRSS0pnWkNvb2NucTBGUTJha193UFFITHlXcTRLV0xtZ2UtbUt1ONIB0AFBVV95cUxQTHFKZnRCZTQ3amdId09mYmxwYUxpUjlUUElvelE2WWl6SFJrWExWd1VjLXBtOTh0SktTaGpVaGM5dXRCb0pyVU1EdGIxNXI3cTNWNm9GeUFxWFhyNUswb1AyT2FvY2FzUWN4U2VMenJtX0J4a2tMS0VNUTBnT1pvbHNlX2JNM2s5VWdMTVhiQjdZT2R1TG1PS3pjcGpHWjNXUkdDNVNDZUgyem5nUV8zOHU0QzdTbWh4emFDTTkzUHl2d2R6OUtHUXRiSzBuU1hf?oc=5",
       "publishedAt": "2026-06-05T16:40:01.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "28e66b7572b6",
-      "title": "SoftBank CEO Says AI Designing OpenAI's Next Model - Let's Data Science",
-      "summary": "SoftBank CEO Says AI Designing OpenAI's Next Model &nbsp;&nbsp; Let's Data Science",
-      "source": "Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0huNUpGQ1E5SUNkSVE1ZC1KdVRHRmYzOVBxbmUxbWJrWjZvUlA4WEgwT1J5Y2x1Q0xJYVJURk56WmU3cFpvM1FHdUJZZTZ1VnVLS0NfeWxXZEtLcTZKSExjM0ZJc0Y2VnV0aXg5cHlqZTYtYWxQNjdHZjNzdjdFdnY3M1A2Z3F1bTFYQmdRamNSeXYtX1E?oc=5",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "bd1ba2cc2df6",
-      "title": "Finance AI Chatbot: Architecture, Security, Compliance - appinventiv.com",
-      "summary": "Finance AI Chatbot: Architecture, Security, Compliance &nbsp;&nbsp; appinventiv.com",
-      "source": "appinventiv.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBINk4zVzhFamI5WENBZ29LZXdRTlhpQ2JITGliR1RLR0ZvWTNiMGdkeFNoT1FTVGtDc1FnOGhlbVJlbDJiWGdqWnlUcnZnRnBqcy1oUURRVXBCaHI5VTB1V255b1NpOXk0Yy1aQQ?oc=5",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "951a0d893021",
-      "title": "From RAG to AI Memory Systems: Building Stateful Architectures for Durable, Context-Aware Agents - Oracle Blogs",
-      "summary": "From RAG to AI Memory Systems: Building Stateful Architectures for Durable, Context-Aware Agents &nbsp;&nbsp; Oracle Blogs",
-      "source": "Oracle Blogs",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTlIQ2psY1dScWotYmxDQUp5OVFtUHVyZVY3eFMweDdvdERWVzFBbVlIcHE1c2hxdFRJUTlDVjJobVhqcWtpdDZXeE9YYlVkazFUVWp3T3AtZUVYODBteFIyekVOV2kwT2VxZVFCVUxwWTVuNVBfX05FTUV5eEw4b2RVZVhCdTFiVXhlMHVMaTdoWVZhbmd3VFRzQ3U?oc=5",
-      "publishedAt": "2026-06-04T07:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "a77df34683fb",
-      "title": "How to integrate AI into architectural processes - ArchitectureAu",
-      "summary": "How to integrate AI into architectural processes &nbsp;&nbsp; ArchitectureAu",
-      "source": "ArchitectureAu",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjRRVUNhSXJRV1Etd1ppS1RGbENGd085R0UyOEphWU1aTUVoWDg0MUdVY19vSnRTenpOMU9MeS1nMXYycHpxMDR2UXBuYmU3bFlJaE5wT2JRdG5Cb0hXaXB4djA2RExOamNGUUQ3ZGJoT0NTVkViWS00M2ZzNlh3cEd3dlgzODlyc2JyVk1n?oc=5",
-      "publishedAt": "2026-06-04T00:39:28.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "2cc5c4fbf57b",
-      "title": "When AI Makes Design Look Easier Than It Is - Common Edge",
-      "summary": "When AI Makes Design Look Easier Than It Is &nbsp;&nbsp; Common Edge",
-      "source": "Common Edge",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNHB0WUN4X1Vuc3JNakJHZUZjQlJFbk03eGRQWlBqOUJVeWhRX3hDYnBOMkxKMHpoMlc0T3ozNnBsS3hoRHBwUFZkRHZSaG1aOW0xTS1UU1pBZ1lqVW94YjJ1Wm1rUlVQZnRiWXVhZUJLRXFwalE?oc=5",
-      "publishedAt": "2026-06-03T12:48:56.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "5ed9f3e88920",
-      "title": "The University of Hong Kong is hiring an Assistant Professor in AI-driven architecture - Archinect",
-      "summary": "The University of Hong Kong is hiring an Assistant Professor in AI-driven architecture &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjMzcklUYmwtSk54TXdqZ28xTXRMRUtfZThmQXdUVmVURy0tUy1lWUVSNnptQnpic2J6bWRCc1F3SFlEMTREZ1hlay00am9ZcmZfUmw3QVB6bmZuZGlKVlBOeUZEWFZXRE9zMTBLdGROUkl0QWgxaE9HSGE5UDlZbXdxN0ZiU2JyM0pPZHZHcmRXUW1vTE53QnpHMnVndmJaWTVVUzJFajZpU0tJak44MEpRNTd5eU80WGR0aFYwTTlVczd1SzJGUGo2bw?oc=5",
-      "publishedAt": "2026-06-03T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e16e7e0f2fc0",
-      "title": "What a Reference Architecture for Distributed AI Training Actually Looks Like - CoreWeave",
-      "summary": "What a Reference Architecture for Distributed AI Training Actually Looks Like &nbsp;&nbsp; CoreWeave",
-      "source": "CoreWeave",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjR2cTc5bEk1QjMweTNhcVpTZk1BYV93eU5XVWxyZ3pTa21oclpSaDJtUDIxRVpBRUh5VnlOODhqYTRzTFpPdmxEMmJoOUt5VmtWMTZlUkRkeExzZzJOWjM0TUY1Yk9yYnNjRy1XTGJWcEhKWkdBZEVJOE5wQ2tDZnBTcGwzeWp1dGh3TUJyWmxrWXJ2TUZJYzNaeUk3MmsyNXVibnEyd1lJZ1RT?oc=5",
-      "publishedAt": "2026-06-03T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
