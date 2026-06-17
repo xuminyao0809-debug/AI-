@@ -1,13 +1,67 @@
 {
-  "updatedAt": "2026-06-16T23:46:10.057Z",
+  "updatedAt": "2026-06-17T23:49:47.371Z",
   "items": [
+    {
+      "id": "83ffc9a3052c",
+      "title": "AIA Conference on Architecture & Design® 2027 - The American Institute of Architects: AIA",
+      "summary": "AIA Conference on Architecture & Design® 2027 &nbsp;&nbsp; The American Institute of Architects: AIA",
+      "source": "The American Institute of Architects: AIA",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZmZGRmwzYnhjcUJXSGVtNlB6TzZlOU5UTVRDUlJuWnliM2JnLVFhQWY0dmpmTEpSN3JSWnFHT01OVk5SUFZiSDhweVVQSThSTDdxaUtfbEdxRjdodllBX2taQ082bjUxQ0kxWjZFQWg0blowUW5ZNENWYw?oc=5",
+      "publishedAt": "2026-06-17T17:07:33.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "901da428d148",
+      "title": "Architects Sharpen Design Judgment for AI Era - Let's Data Science",
+      "summary": "Architects Sharpen Design Judgment for AI Era &nbsp;&nbsp; Let's Data Science",
+      "source": "Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalBCOHpxczVHSnZKQTVMZnpfNDJwdURjU2RHN1l2YUZnQTU3NHQ1SnN0TjYzV182aloyaHNScWxvVXYzbEExa2R2MGpQbUtnR3lyeVNFMTlzMWVDTGRaaGtmRENpcElsMFB4bXE0NEJ2X0hvSlY4Qm93TEZYWE9aZnZGOE1UbTN4cm90OVpZekQ?oc=5",
+      "publishedAt": "2026-06-17T12:01:05.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "683c65a8033c",
+      "title": "ArchDaily Student Ambassadors 2026/2027. Apply Now!",
+      "summary": "ArchDaily started inside a university, with two architecture students who believed that architectural knowledge should travel further than i...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042447/archdaily-student-ambassadors-2026-2027-apply-now",
+      "publishedAt": "2026-06-17T05:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "5afcdf7f0439",
+      "title": "Appliances as Architectural Elements: Designing the Contemporary Kitchen",
+      "summary": "The kitchen has evolved from a functional space into a shared environment and the heart of many households. Serving as the setting for daily...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042318/appliances-as-architectural-elements-designing-the-contemporary-kitchen",
+      "publishedAt": "2026-06-17T01:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "654c1b345ebf",
       "title": "Let AI Models Fight Over Your Architecture - HackerNoon",
       "summary": "Let AI Models Fight Over Your Architecture &nbsp;&nbsp; HackerNoon",
       "source": "HackerNoon",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10blFFNk5GSDlOY1N2NGpYdXdKNlJnQU5Ua25rd0YzVl9PekZwT1VPTjhaSHN5TVZocmR0ZXYtNmxLUkhiUkF0MTZocFVETk5yWkp5SzJyNVo1dmsxQnltMUY3NHNaTnFLRVp5eVlfY080cVk?oc=5",
-      "publishedAt": "2026-06-16T18:00:00.000Z",
+      "publishedAt": "2026-06-16T18:04:35.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -56,20 +110,6 @@
       ]
     },
     {
-      "id": "c7d16641fcf5",
-      "title": "Designing Thresholds: How Architecture Shapes the Sense of Security at Home",
-      "summary": "What transforms a space of living into a home ? Beyond ownership or shelter, a home is tied to a quieter sense of certainty: the feeling tha...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042358/designing-thresholds-how-architecture-shapes-the-sense-of-security-at-home",
-      "publishedAt": "2026-06-16T06:45:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "c4b4e343500c",
       "title": "22 Best AI Tools For Architecture (With Examples) [2026] - OfficeChai",
       "summary": "22 Best AI Tools For Architecture (With Examples) [2026] &nbsp;&nbsp; OfficeChai",
@@ -81,18 +121,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "65d138a7937a",
-      "title": "Shenzhen Mingwan School / Perkins&Will",
-      "summary": "Located in Shenzhen's Qianhai-Dachan Bay Port Zone, the Tencent Global Headquarters campus comprises five neighborhood blocks. Designed by P...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042060/shenzhen-mingwan-school-perkins-and-will",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -227,6 +255,18 @@
       ]
     },
     {
+      "id": "dcff2b003178",
+      "title": "LLMs Accelerate FPGA Design - StartupHub.ai",
+      "summary": "LLMs Accelerate FPGA Design &nbsp;&nbsp; StartupHub.ai",
+      "source": "StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGVFNFJrQmJQbUpXMnNmN3lRZlZsR0xBUVZhOFJ1QTBaMjFTRWxRRUZvczB0SVJnbWZMQzRTalRJNFpyQ1c1Tk5vOGxOckloNmNRd0tKOVhmRFVIZmVTWjV4UnRFS2VSblJqckl4b2xlNU9wUmF4YTc4WjhfNm5fZkpCMEk?oc=5",
+      "publishedAt": "2026-06-10T20:00:34.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "03e56ae42d15",
       "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
       "summary": "Designing Production-Ready Battery Energy Storage Systems for AI Factories | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
@@ -240,9 +280,9 @@
     },
     {
       "id": "3698b2d05fa9",
-      "title": "How is AI changing the way that golf course architects work? - Golf Course Architecture Magazine",
-      "summary": "How is AI changing the way that golf course architects work? &nbsp;&nbsp; Golf Course Architecture Magazine",
-      "source": "Golf Course Architecture Magazine",
+      "title": "How is AI changing the way that golf course architects work? - Golf Course Architecture",
+      "summary": "How is AI changing the way that golf course architects work? &nbsp;&nbsp; Golf Course Architecture",
+      "source": "Golf Course Architecture",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMER2Zk9hY29jeXNBWU9tbzY0OUZEczVSZ3hLNWFqM0hHbjl2b213cFVaVURPRkI3NWROblRmTHFGRW1TZWdBR1hKZmNTbHNFakZidzl2alcySnRiRXo2WjVhWUxfTTV0bVpPRmNhZUZkcHVRUFB5b0NDTDZnYl9Lc2hLUk9jUlhXemtTS2x4cFFLMnA3TzVFclRiYkxSZklHbzlkaVpDNWdIUQ?oc=5",
       "publishedAt": "2026-06-10T14:36:17.000Z",
       "category": "研究",
@@ -258,7 +298,7 @@
       "summary": "SpaceX reveals AI1 satellite design ahead of IPO &nbsp;&nbsp; qz.com",
       "source": "qz.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uVmRCQi1aTHlTRzhvOVB1aXdnOXdxS2d6YkwxR1h2bDRLME1rcTFvSjVGNU84SHc3YVBZenNNeF8wTllERU9kRHZ0RUROeXZHeXg5ME1sdDlyWVhvMnZIOGJ1LXZaS2NiTGFFVUdBMTlpcVZz?oc=5",
-      "publishedAt": "2026-06-10T13:37:28.000Z",
+      "publishedAt": "2026-06-10T13:37:08.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -362,24 +402,12 @@
       "summary": "Pixel Interfaces: AI Workflows in ComfyUI &nbsp;&nbsp; parametric-architecture.com",
       "source": "parametric-architecture.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTM4clBDeDIxNEc4ZG9CcEdaYUtvbENpNDQ1X2RKYmZfRUt3Y2xVUDdOZnUtR0p0eWRoNWk2R3VpU28wSHlmcXRfLTdjOWpEVjQ5d3ZlQWlQVDJkMy1OSlJ3UHJqRjNWb1dMZU9kMVR1WUVHTk1XV1pyM2JaUnI0cVNIdw?oc=5",
-      "publishedAt": "2026-06-09T08:48:45.000Z",
+      "publishedAt": "2026-06-09T08:53:19.000Z",
       "category": "生成式设计",
       "tags": [
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "c252077bc438",
-      "title": "macOS 27 Golden Gate brings Siri AI and Liquid Glass Design improvements - FoneArena.com",
-      "summary": "macOS 27 Golden Gate brings Siri AI and Liquid Glass Design improvements &nbsp;&nbsp; FoneArena.com",
-      "source": "FoneArena.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2RSdV9kN2c3QlRRZUFMX3VvelcyeWw2Z29ja3hFUHBXQ2RNNnBtTVlvZHlpWXNSRDFSdU9JZjF4MEdZdWlQNXpzckhrS09vMXpaam5kNUN6QW1Tekk1bnhWbnhFSVBldXNxN1JaVmhzYXVJZldodHE1S0FESDBlbTNBeVrSAYoBQVVfeXFMTXJ4ZVFmWnFHNG13WWFITzlJRWxyTVhLdzFBV3ZvbzhXd3ptTDB1cmk4b0ZSXzFSZUlvc2pRT2l4Z01jVzlCUnE1ekE5WXQ5MTRxb0xMb243Q3ZXNE5kYWhJZGszTWJCbkFaVV9sZTZ0dkFxTTRLQ01ybDZxWm5zbUNZRWRadlN3QmRR?oc=5",
-      "publishedAt": "2026-06-09T07:36:59.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -394,6 +422,18 @@
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "c252077bc438",
+      "title": "macOS 27 Golden Gate brings Siri AI and Liquid Glass Design improvements - FoneArena.com",
+      "summary": "macOS 27 Golden Gate brings Siri AI and Liquid Glass Design improvements &nbsp;&nbsp; FoneArena.com",
+      "source": "FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2RSdV9kN2c3QlRRZUFMX3VvelcyeWw2Z29ja3hFUHBXQ2RNNnBtTVlvZHlpWXNSRDFSdU9JZjF4MEdZdWlQNXpzckhrS09vMXpaam5kNUN6QW1Tekk1bnhWbnhFSVBldXNxN1JaVmhzYXVJZldodHE1S0FESDBlbTNBeVrSAYoBQVVfeXFMTXJ4ZVFmWnFHNG13WWFITzlJRWxyTVhLdzFBV3ZvbzhXd3ptTDB1cmk4b0ZSXzFSZUlvc2pRT2l4Z01jVzlCUnE1ekE5WXQ5MTRxb0xMb243Q3ZXNE5kYWhJZGszTWJCbkFaVV9sZTZ0dkFxTTRLQ01ybDZxWm5zbUNZRWRadlN3QmRR?oc=5",
+      "publishedAt": "2026-06-09T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -415,7 +455,7 @@
       "summary": "NeoCon Wants to Reinvent the Workplace Again &nbsp;&nbsp; Architect Magazine",
       "source": "Architect Magazine",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa1RJaGQwbFY0ZjEwQWxobWlpRGtESnd1NV8zLWMxMl9yeENMLWM0SzFURi0wNXlXeWhTWmt2VHB6bVNpNnFKY09aZGJxWXk3Vko0XzJwOWxRcGlSM1hDZTEyUl9TX1hqbTV5bC1ERUoxZXYxWjN0ckdoLWFYRWxXbEdYT3ZfV2d6RG1aeHozdw?oc=5",
-      "publishedAt": "2026-06-08T15:33:38.000Z",
+      "publishedAt": "2026-06-08T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -428,52 +468,10 @@
       "summary": "Architects at AIA26 invited to test Ambow's AI design-collaboration platform &nbsp;&nbsp; Stock Titan",
       "source": "Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckFxX3FGRnJjNU44MG12cnh0RnlsNlczcUxySnBLdmJJX2JvWlhWSG95WEtibVZkLTgzYjFVN2R1NTM1eE5zNTBtVHVmMFhVZ0hHcGpfY21na0VXRWVPbjZKdlh3MnVxZnlOc0lENENJcy01Sk5MeXlJNUo5VUYwS2dscHgzMnF6eHVjUmxtVWtJNnpJSjJNcms2Uk9jZXZ4M1BtbGo0b3JEWmdyeEsyN1NwckJ5d2c?oc=5",
-      "publishedAt": "2026-06-08T11:00:00.000Z",
+      "publishedAt": "2026-06-08T07:00:00.000Z",
       "category": "工具",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "a1e58e9d9fde",
-      "title": "The Architecture of a Titan: Big Boss Fame Dr. Nutan Naidu’s Historic Conferment of Doctorate in Organisational Neuroscience & AI Ethics and Professorship in Digital Governance — The Complete Story of India’s Most Consequential Sc holar-Strategist - Social News XYZ",
-      "summary": "The Architecture of a Titan: Big Boss Fame Dr. Nutan Naidu’s Historic Conferment of Doctorate in Organisational Neuroscience & AI Ethics and...",
-      "source": "Social News XYZ",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQX1V0T0xhRURoYkZxT0dVRWVINVBhcklNc0Y2LTR5NURFVmhranBZcC1YaDBLNnZKTEpLTS11NFpIWlg0ZTVVeWFiZWV1SjJOWXU2cEE4cWMzTTJDNXU5bHJkbjN0SVJMY3ZKZzNpYjc5Z3hxR2hSdVViUWtUTEw1SGtEa09GUEs5SHMxdnd5UGNpM1d0RE1RZV9zTm9EUGVLWmN2R0t4TUNMb2tYYjM5VU5Mby1rRGlSeDRxT2RaQjFxZk1DTkV4U04wTUZBM2E4U041Q2Y4T1RfY3MyNWl2ZnFkOXpNVi03Tzl2OFFOV3F3S0QzOElWX1ltQ2hlTHJKSUl6N1lRajZzMHd5MFg5Z2lSenRxLS1WckNlalFiUVFwR2IwMk5ZU2IxSmQxZjZ0YWVJWXZIUFQxLWd4cWhMSlZId1fSAcQCQVVfeXFMUF9VdE9MYUVEaGJGcU9HVUVlSDVQYXJJTXNGNi00eTVERVZoa2pwWXAtWGgwSzZ2SkxKS00tdTRaSFpYNGU1VXlhYmVldUoyTll1NnBBOHFjM00yQzV1OWxyZG4zdElSTGN2SmczaWI3OWd4cUdoUnVVYlFrVExMNUhrRGtPRlBLOUhzMXZ3eVBjaTNXdERNUWVfc05vRFBlS1pjdkdLeE1DTG9rWGIzOVVOTG8ta0RpUng0cU9kWkIxcWZNQ05FeFNOME1GQTNhOFNONUNmOE9UX2NzMjVpdmZxZDl6TVYtN085djhRTldxd0tEMzhJVl9ZbUNoZUxySklJejdZUWo2czB3eTBYOWdpUnp0cS0tVnJDZWpRYlFRcEdiMDJOWVNiMUpkMWY2dGFlSVl2SFBUMS1neHFoTEpWSHdX?oc=5",
-      "publishedAt": "2026-06-07T01:41:54.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "15b20304a46e",
-      "title": "The Architecture of Bio-Risk Governance in Generative Artifi - Lavender Hotel",
-      "summary": "The Architecture of Bio-Risk Governance in Generative Artifi &nbsp;&nbsp; Lavender Hotel",
-      "source": "Lavender Hotel",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1ZjREhyVGI5X056Qk5NWVhaMFotNm1KSE4yem5hV2haWmJnVFVZWDhuN2dZVVZlWlBmZkRDbkpaT3dpSGlGLWlfV0drajFqaVlEb1U2YUF6SFZLb2w4UnVESVk2RTZ0OWRkWXlOWlF2THhJeVJjYnhRN3BmM3hoZDVGQUp2a2JzTmc3eGJOV0JpZkZkTnR1bjF4SFNJRHJ5NVlvS2hlUzk?oc=5",
-      "publishedAt": "2026-06-06T17:57:32.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "generative",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "cf2b1475de17",
-      "title": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response - StorageReview.com",
-      "summary": "NetApp and Cisco Expand FlexPod With Validated AI Architectures and Splunk SOAR Storage Response &nbsp;&nbsp; StorageReview.com",
-      "source": "StorageReview.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjBEcEs0R3VjM09iSWhDYlkyZzZtVTBfa1BnSTE1OVloOVNNUTBWSHE4UmxQbjNBMFd5OXIwcUtnRU1NVkZ2RWlXRTM2V2hsLWdhU2MtZ2xuR2JDOUp0QUFsSFA0dzF6T1F3NU9Ic1R5WjNaSmFWVEd6ckNNNHE2ZXhtNk4zdEFyeHhnUHhOWm00ZmNTRWt1ZW91SkRMZnZDMW1VcnRSS0pnWkNvb2NucTBGUTJha193UFFITHlXcTRLV0xtZ2UtbUt1ONIB0AFBVV95cUxQTHFKZnRCZTQ3amdId09mYmxwYUxpUjlUUElvelE2WWl6SFJrWExWd1VjLXBtOTh0SktTaGpVaGM5dXRCb0pyVU1EdGIxNXI3cTNWNm9GeUFxWFhyNUswb1AyT2FvY2FzUWN4U2VMenJtX0J4a2tMS0VNUTBnT1pvbHNlX2JNM2s5VWdMTVhiQjdZT2R1TG1PS3pjcGpHWjNXUkdDNVNDZUgyem5nUV8zOHU0QzdTbWh4emFDTTkzUHl2d2R6OUtHUXRiSzBuU1hf?oc=5",
-      "publishedAt": "2026-06-05T16:40:01.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     }
