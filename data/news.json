@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-07-10T23:12:01.393Z",
+  "updatedAt": "2026-07-11T23:08:09.530Z",
   "items": [
+    {
+      "id": "ffac4ec4b517",
+      "title": "Muxarabi House / Ana Sawaia Arquitetura",
+      "summary": "Designed by Vilanova Artigas in 1956, Muxarabi House is organized around a clear structural system and a precise spatial arrangement. A whit...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042712/muxarabi-house-ana-sawaia-arquitetura",
+      "publishedAt": "2026-07-11T13:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "10bbb7b5ff4c",
+      "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
+      "summary": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador , Peru...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
+      "publishedAt": "2026-07-11T07:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "c1b2e040b95b",
       "title": "Architecture and artificial intelligence: a new tech start-up is launched in Turin - Il Sole 24 ORE",
@@ -16,11 +42,11 @@
       ]
     },
     {
-      "id": "6a7cb181a8ae",
-      "title": "Cloud AI Update - AI Transforms Architecture With Smart Design And Planning - Yahoo Finance Australia",
-      "summary": "Cloud AI Update - AI Transforms Architecture With Smart Design And Planning &nbsp;&nbsp; Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFRRNlJqc1ZjaHgzXzFCTHVxZnlDM0ItVEFhc0x5UUZqZlphNmFjWkhvMmlHdkhnZjlzbXZnREdabE1pTUxjYnNveVpXU1lpZnFjdnc1cWpkMms4U01uZW5xUElWejlzWWw3Ull3RnFQRGowNHFZSTVZQ0g4VkEyUU4zUExpelhXS0Rnaw?oc=5",
+      "id": "dd40e654d0ff",
+      "title": "Cloud AI Update - AI Transforms Architecture With Smart Design And Planning - Yahoo Finance",
+      "summary": "Cloud AI Update - AI Transforms Architecture With Smart Design And Planning &nbsp;&nbsp; Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMU96RVFrYWpBXzJLMkx6YkdiRmloT2RvYkZQeTVvYTdFWEdNNENxb1pSQllxWGZVMUNlWXA4Qml3Mm1HRGVTSUVkMWx3aWdMaVNjQTZ0NHlfd2dJMGc2LXVMeHhSdUlyaG1MdUktSDQzUURwMUhldml1VjdXZXptWVBBUmdyX0xYb0gwZ1FLZU45UzlVVG1jeENnMnRMM0po?oc=5",
       "publishedAt": "2026-07-10T12:38:05.000Z",
       "category": "研究",
       "tags": [
@@ -57,20 +83,6 @@
       ]
     },
     {
-      "id": "c784a5142409",
-      "title": "Reclaiming Architecture's Local Voice",
-      "summary": "Some of the world's most innovative regional architecture never makes the headlines simply because no one is telling its story. For the sixt...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1092397/reclaiming-architectures-local-voice",
-      "publishedAt": "2026-07-10T01:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "9b3eb7d8a072",
       "title": "Ambow Education Holding Ltd. Subsidiary NewSchool of Architecture & Design Concludes AI Design Workshop and Design & Build Summer Intensive, Advancing AI-Powered Design Education for the Next... - markets.businessinsider.com",
       "summary": "Ambow Education Holding Ltd. Subsidiary NewSchool of Architecture & Design Concludes AI Design Workshop and Design & Build Summer Intensive,...",
@@ -81,19 +93,6 @@
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "53b7a2ff48a2",
-      "title": "Anduhyaun Emergency Shelter / LGA Architectural Partners",
-      "summary": "Anduhyaun, owner and operator of Toronto's only Indigenous Violence Against Women shelter, partnered with LGA to design a new 18-room shelte...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1054063/anduhyaun-emergency-shelter-lga-architectural-partners",
-      "publishedAt": "2026-07-09T12:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architect"
       ]
     },
@@ -195,16 +194,28 @@
       ]
     },
     {
-      "id": "eb572dc66b97",
-      "title": "The Politics of Bamboo: From Vernacular Craft to Temporal Infrastructure",
-      "summary": "Bamboo is often praised before it is understood. It grows quickly, carries a long history of building cultures , and appears to offer archit...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042929/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure",
-      "publishedAt": "2026-07-09T07:30:00.000Z",
-      "category": "案例",
+      "id": "e9fbd2dba178",
+      "title": "IBM researchers pitch a new light-weight genAI model design - thestack.technology",
+      "summary": "IBM researchers pitch a new light-weight genAI model design &nbsp;&nbsp; thestack.technology",
+      "source": "thestack.technology",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0JnTFh4VkJKMHlvTlMyUEgwdHFwREJYc0x1TmIyTUZxMldjejNucnMwMGxVMkR6Q2dnXzhGSHhSY3hObWpRMTNWNVdBZFRPRDItMnRYSkFVUDBLNFYtcFcxMHpZWlhDMWhlV2J5ai1JRFUxY2JpeEIwNGFBVXd2ZkpDWFl1Zw?oc=5",
+      "publishedAt": "2026-07-09T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "7e16ffdce415",
+      "title": "Illoca Positions AI Design Workspace Tracing Paper for Architectural Workflows - TipRanks",
+      "summary": "Illoca Positions AI Design Workspace Tracing Paper for Architectural Workflows &nbsp;&nbsp; TipRanks",
+      "source": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVTIwV042YjJWMGp0Yno2MWdMTHVJZ3U3Nm91Mml4SkVXU045THp3OGdTUXRsZ3NNS3g0NEMzNVhXX282dDlPMXc5ODV4eTVGQTU3RGZtSnNNaFNGai1MYWVtTzM3aUNqVmEtX3FCX29mRzNjakpVWGlDOGNuV2NVdnRBOHVPQUlOdV80REJKcUdrMld0TTQ2Wkdncmp3cko2SmRiU04tWEVYWC11ZUltYW9aMFEwbnRJTkE0WjFKMk9PQkNa?oc=5",
+      "publishedAt": "2026-07-09T00:29:07.000Z",
+      "category": "研究",
       "tags": [
         "ai",
-        "building"
+        "architect"
       ]
     },
     {
@@ -276,6 +287,20 @@
       ]
     },
     {
+      "id": "cbcc6c9b4ae5",
+      "title": "10 Architecture Tools Using AI That Are Transforming Design in 2026 - Parametric Architecture",
+      "summary": "10 Architecture Tools Using AI That Are Transforming Design in 2026 &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5waFNDWGtMcmJLZFFtbWVMNjlGY2tZR1k5czhIaGppR1B1LXVjb3hxUUU3aEpZV2ZPS1BZaW1za3VsRm9LdENnYmZDTUEwZjc5a3FRR05ObHozMTc0NGZMZHZWRGdiNjdjRkFSUkVkNTRCTDJ2a0g4ZGxoRFo?oc=5",
+      "publishedAt": "2026-07-04T07:00:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "8afb103b15ad",
       "title": "Agentic AI Architecture - infoq.com",
       "summary": "Agentic AI Architecture &nbsp;&nbsp; infoq.com",
@@ -301,6 +326,18 @@
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "842241197cbd",
+      "title": "SpaceX reveals AI1 satellite design ahead of IPO - qz.com",
+      "summary": "SpaceX reveals AI1 satellite design ahead of IPO &nbsp;&nbsp; qz.com",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uVmRCQi1aTHlTRzhvOVB1aXdnOXdxS2d6YkwxR1h2bDRLME1rcTFvSjVGNU84SHc3YVBZenNNeF8wTllERU9kRHZ0RUROeXZHeXg5ME1sdDlyWVhvMnZIOGJ1LXZaS2NiTGFFVUdBMTlpcVZz?oc=5",
+      "publishedAt": "2026-07-03T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -342,6 +379,20 @@
       ]
     },
     {
+      "id": "9ff47ecf2cf6",
+      "title": "Dutch cybersecurity startup Dawnguard lands €2.8 million for AI-native security architecture automation - EU-Startups",
+      "summary": "Dutch cybersecurity startup Dawnguard lands €2.8 million for AI-native security architecture automation &nbsp;&nbsp; EU-Startups",
+      "source": "EU-Startups",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR01aZXhDbzQ0LVRjRmlzNmpJSXMyRFZNcW00emUxbjlYQzFKZW9wMF9GU21GNmxXRGRMRmJleE9ja0NmcFgwVXdTZW0ybk4xRnk4djI0RnRleEwxQXVMY2FaUGZmamtoelJIY3RReHRwcWNOaGN3dUcxUV9rNDRuNDlZd0Z6RjZYUW82RDdaSVc4OTVoY2JZZ1oteFViTzlrUmg1VnFadWxyS3YtOUVIS2p1QnVkMkphNWVWQXdRa1JxdGtNRUc1T2phbmNSN29qbExDVXNrOA?oc=5",
+      "publishedAt": "2026-07-01T14:44:45.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "e1e2bafe91ec",
       "title": "OXMIQ Raises $35 Million To Scale OxCore Architecture - Pulse 2.0",
       "summary": "OXMIQ Raises $35 Million To Scale OxCore Architecture &nbsp;&nbsp; Pulse 2.0",
@@ -356,13 +407,13 @@
       ]
     },
     {
-      "id": "793417f8f9c3",
-      "title": "Oxmiq Raises $35 Million to Develop AI Chip Architecture - sekbernews.id",
-      "summary": "Oxmiq Raises $35 Million to Develop AI Chip Architecture &nbsp;&nbsp; sekbernews.id",
-      "source": "sekbernews.id",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PTHh2bFlHZEdudlRxU0g5c0RiSS1qS3RhNlJNUHNSNW5uc0N0cld4WmV2WFZBSkt5M19iZ3J4OTRfQVlFeWlGdHhBVlJacmhvSEVCNFNhMEV4eDB5WmZpYXlUZmNUQnRxb3cyRGNUSUFMUQ?oc=5",
-      "publishedAt": "2026-07-01T13:48:16.000Z",
-      "category": "研究",
+      "id": "4b368f73a685",
+      "title": "Dawnguard Launches Security Architecture Platform, Opens New York Office and Raises Additional $3.3M - citybiz",
+      "summary": "Dawnguard Launches Security Architecture Platform, Opens New York Office and Raises Additional $3.3M &nbsp;&nbsp; citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb08xRGN0TElQampyWWdDSkZnUzI0Q1VyY3VYN2JXWFZTdllxdTRyZWtQaUh0S2pEV3BhWEJtc2Q0X2x1Tmp6d0VBQ0hxUER3dTMxVnhhZ2VxRlJTTnBHakJkZU5HSGlaQ3FONXRCNWU1WWE1NVIzaFR2bnBucU5jRVc0S3hEY1NlbXFNRDZSUlRTQ1V3cEZJSlgwbDJzUnA2U3hmUjYtSmRHMzJ2NkFjMEg5bzc3M0Zkdmw1UEJCSUZ5TjlDM2VNdkptMThkR3o4UFdr?oc=5",
+      "publishedAt": "2026-07-01T12:14:38.000Z",
+      "category": "工具",
       "tags": [
         "ai",
         "architecture",
@@ -422,64 +473,13 @@
       ]
     },
     {
-      "id": "369569932311",
-      "title": "The New Architecture of Global IT: Why India Is Emerging as the World's AI Integration Engine - orfonline.org",
-      "summary": "The New Architecture of Global IT: Why India Is Emerging as the World's AI Integration Engine &nbsp;&nbsp; orfonline.org",
-      "source": "orfonline.org",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0M1b0VkOEplS29jdlIxUFZadmZ0Zlh3cjJBdTduMVhUUEEtSFVkZVlYQ3VRLWx6ZTBXSWlOZGJkODM1Q0xSQWZMUVRoYTFsN0kxa1BYUXB6SlVOZ1ZLYlJxenI4WFIwYUhNUWVTRlIzN2pjYWliSzBhV0dodFpIZTA3UjFWWVBYZl8wTk5kZkNDVEdLRHF6VE5pNXNMSWlvREgwUjliZ1NQZUkwazQzTVFlaGRKalVxSEFwWGRrNHkxTE84QWc?oc=5",
-      "publishedAt": "2026-07-01T02:28:05.000Z",
+      "id": "0446b3455f4b",
+      "title": "Ai Weiwei: Button Up! - Designboom",
+      "summary": "Ai Weiwei: Button Up! &nbsp;&nbsp; Designboom",
+      "source": "Designboom",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nb3RPVExPWm1uazFLT1REUlZ1TlNUdlZwWDI4aWVjVUwxVmxsSk1DMkpzX0VUaE9CcTRrMEdER2lUei1Ib0wyMlB6X0k3WWRUTXdiUXVmcXhUbV9kdS1QVVF0NnM?oc=5",
+      "publishedAt": "2026-07-01T04:15:15.000Z",
       "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "c775afb5b103",
-      "title": "From AI-Powered appliances to delightful spaces: Highlights from the Siemens Kitchen Design Awards - Architectural Digest India",
-      "summary": "From AI-Powered appliances to delightful spaces: Highlights from the Siemens Kitchen Design Awards &nbsp;&nbsp; Architectural Digest India",
-      "source": "Architectural Digest India",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTTVxSDVCRzRnMWNoZXZGZlBzRTQ4cTBTYXJuNDUtY3ZKRlNfYklaZVBzQWpmLWNKcWM2RlVyWG1mNmdidTk2eDF4Qm9zSTFkN0NlU3gxdEpKamdmak9uQ0dncG9sbDEyN1BiUVo0dGtLMUU0bC1UTFdsdDRYcWxkOFZFZnNzelowcGZ4aUtqNGdRMTNaLVA0YUQ5LXJCMUk3dWt2cmZ4SnR2NlZRWDhOZzFGRWRQTEFIeThILXp1NldrNGd2UklGVEtBXzIyWk5tamRBSE5hY0c0RmRqXzhpWXV2OA?oc=5",
-      "publishedAt": "2026-06-30T13:45:26.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "67078eb0bc95",
-      "title": "How to enter Dubai Municipality’s AI park design competition and win Dh100,000 - Emirates 24|7",
-      "summary": "How to enter Dubai Municipality’s AI park design competition and win Dh100,000 &nbsp;&nbsp; Emirates 24|7",
-      "source": "Emirates 24|7",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUd2aGxQclZ5aGc4bkJRRjE5Y1lKeFdISGZBM0U3MGVCWXRHZmlCNmFjbWh2RkRkUmNfREdMQ3loQ0p6ZGQyTmc3dUNwV0M4WUlIakVHeHZEMkg0T09jQWpDV2FpUUdvY3hMcjFKSE1RMVJMX1hzNXQyaUJGb2Zodkk5blVRMV9VTnBmSXdPbWlURHJKQjllX2pscXhOaHFHWGo2Z1FaMDFlVHlBTHpmc0R1NldUaTkxdm1F0gHWAUFVX3lxTE84VkgtdDZMYXp2R29XTkhBY24zTmhhbTRUSXVmUms5OFZNWnZ5c0hrTTZIUFZCZjY0NkVuQTZfblhRYWV4bTI5cllhQ0hzZHY4TTB2TXAzV192d0xSOGhjai1oek1mLThSTVZlWWRiTEx5clZ6bkJ2ZFd5Y1VNUU1fd0NOMHBNTk1KWkJwQlNuRE93NFZmOEJnMHpuZUM3N3FweTByQnhNSlVtc2lxbUd2Vk5JcnhjRHVUTUZUZVliNnBsYUkyOVJMdFQ1OHg3VF9YR0JyN1E?oc=5",
-      "publishedAt": "2026-06-30T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "65c066535ea1",
-      "title": "Win cash prizes: Dubai launches world’s first AI-powered park design challenge - Gulf News",
-      "summary": "Win cash prizes: Dubai launches world’s first AI-powered park design challenge &nbsp;&nbsp; Gulf News",
-      "source": "Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHpGczgxTnM5bGpKRWlyb2VlWVFaSk1zOW94QTZBUG9jMm5NbFZjR0thZXZSa0VkbTVYTXlKU3VuVDJ3NkdfTDBMNXJSTHZYUjRHME1BUG1wcWk3SUJVel82VXZsZ0o3M3ZiNHppeDN3SWQwd24tcVAwenpwVVM3U19qeVdJUmVIajRwYUNPVlpRNlNrb0U1UGtXUHNsaUhFSVFJblRVWnVkeWJSM3F2QkRvRld5cmR3YnJHY0lYNzdCZXfSAdYBQVVfeXFMTVVybUd3OEdXZmVCT0VtOUhhZjBBZHFEZ3FLSlJhLUNlUTFWenF4Z01SQUNrXzhRaVBlb3J5U2RiMkxpMGZwLTFGNDJvUGctVFpWSHBMRjc1ZjlGZlY4Q2NhU19XM01YRDhWb0JZblM1WUJab0NzQXYtS1Zjb0NRZmFnVG5hZ2JHVGdRQTR0QUxPT2MxRU94OHpabHQ3OG80Q24xQU1aNjRLNE9wc2k0Z2ZvYjVqejRRSlUwc1hpdGxUUUxGWThVeEJiWk8zOFdFWEYyMjNQZw?oc=5",
-      "publishedAt": "2026-06-28T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "01b70362c661",
-      "title": "Autodesk commits $350 million to prepare the next generation for the AI jobs that design and make the physical world",
-      "summary": "$350 million commitment expands access, training, and certifications for AI careers.",
-      "source": "Autodesk News",
-      "url": "https://adsknews.autodesk.com/en/news/autodesk-commits-350-million-for-future-workforce/",
-      "publishedAt": "2026-06-22T12:12:03.000Z",
-      "category": "工具",
       "tags": [
         "ai"
       ]
