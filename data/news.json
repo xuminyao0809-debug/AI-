@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-07-14T23:09:27.025Z",
+  "updatedAt": "2026-07-15T23:10:24.719Z",
   "items": [
+    {
+      "id": "fa239991d46e",
+      "title": "Jardim House Renovation / Baixo Impacto Arquitetura",
+      "summary": "In the Casa Jardim Renovation, preservation became the project's primary strategy. Guided by the premise that the most sustainable building ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1148763/jardim-house-renovation-baixo-impacto-arquitetura",
+      "publishedAt": "2026-07-15T17:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "f2cccf38b9f5",
+      "title": "How Nokia’s New AI Phone Brings Smart Features to a Classic Design - Parametric Architecture",
+      "summary": "How Nokia’s New AI Phone Brings Smart Features to a Classic Design &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EX3hLdHJuZHpidmgtM0g3enpsQjVWNG1TTmEtemZVMEM0YjBBNTZUVHhaVEVJVjBQeDZoQTNHSGdOa0t6UWt6bE51Y1hWVTFtaGFkdDFRa29fSGtfN1pJdXF2aHl2YnR1cWtLYkxiMEJ0N09ZTWtOcG9FNA?oc=5",
+      "publishedAt": "2026-07-15T09:03:55.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "23894e17dcbf",
+      "title": "RIBA Stirling Prize 2026: AI picks its shortlist - The Architects’ Journal",
+      "summary": "RIBA Stirling Prize 2026: AI picks its shortlist &nbsp;&nbsp; The Architects’ Journal",
+      "source": "The Architects’ Journal",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzVVaW5PRFA5dEtGeHpWS0RXUkxfUE5JVE5felJoQTNSbEY5WVRnc3JLOENhUV9BOHdyLThhOERKc3N3cl9Ea0JQOFpReUpQWG1NQmJGVFZvcUJ2cTJENS1TMEhkXzl1aG16X09WOU5hNWxQTkhFSGtnQkEzQTY2cU9QODctNTV4OExsLUFEcFA1UQ?oc=5",
+      "publishedAt": "2026-07-15T08:03:23.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "cdd4753a7f60",
+      "title": "The execution blueprint: Driving high-yielding outcomes in enterprise AI architecture - Express Computer",
+      "summary": "The execution blueprint: Driving high-yielding outcomes in enterprise AI architecture &nbsp;&nbsp; Express Computer",
+      "source": "Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa0gtMzJIX1BqZHlJVjBNVmdjaFplTGtKR0NhaVVaR2ZxZzNKMUc4VEQ4M1gtS3Y5RXQ1VW9iNE1VVHFuTmRwbEJLVDU0aXNONmlxT1lMZkY0WDQ2MzVnU3QwSENpdWpkUllrYzR4VzZ1V2xxdldYM0RxM2YwNzFRUlRhUEtlQXZGRElwbVVHQ0FBQjZYZl9OVVlxRVFZYUFwanExZEpabHc0Y1RpNGlUV29VZU5MUG9ONU82Tm5KNGp5b1V4elIwRWtOelM?oc=5",
+      "publishedAt": "2026-07-15T07:23:59.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "b6a8c6fdd68b",
       "title": "AI-driven Generative Model Revolutionizes Information Metamaterial Design - Bioengineer.org",
@@ -12,6 +66,18 @@
       "tags": [
         "ai",
         "generative"
+      ]
+    },
+    {
+      "id": "9493c7cbb496",
+      "title": "Chipmind Unveils RTL Canvas for AI Chip Design - StartupHub.ai",
+      "summary": "Chipmind Unveils RTL Canvas for AI Chip Design &nbsp;&nbsp; StartupHub.ai",
+      "source": "StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnlPU3BfM19RZFhTMWFTeTJtbnBRNVpMWFJmdFJYd29NOFBBcUh4LUxpX3YtR1NyQ2VoSWhqTHVHWnJyQm5yRjlUMXl5Q09YRkpxSXFlVXVuUkt6OXFXcFpsTlpZcjg3MGFpc2RaSElVNDlFeXNyVDM1cmx4X01NR0E4Y002cWszbjZQbGZWbnJjbFVNRWotR01yMi1aejg?oc=5",
+      "publishedAt": "2026-07-14T14:48:17.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -92,6 +158,31 @@
       ]
     },
     {
+      "id": "d7f108065814",
+      "title": "New practice Macro Micro: ‘Lean into new technology; we use AI to manage our business’ - The Architects’ Journal",
+      "summary": "New practice Macro Micro: ‘Lean into new technology; we use AI to manage our business’ &nbsp;&nbsp; The Architects’ Journal",
+      "source": "The Architects’ Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanZCVndYcFUtWmxINkJrSjh2eEJHYWItVnBPLWZ4UGYtN3pDMXVtVVZKbk41dExFQ2xJeE9JTXN6ZWxuc3k1djRXVXpvazcyV2FkT2RCVzAxaG9GXzk4N1pOMTZyRmt0TzdNYVpZVENlbTVRTUVFR1NleWxJN1N4amZ3cnkzaVBoWGdGaDBFQXFTaWI3RW5hN0hDSVJwd2FMNjZ5SHFJc3JrZDNtQVQ2bUg3cDRCMjVocVNIdVl2X1Y?oc=5",
+      "publishedAt": "2026-07-14T08:48:23.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "001f21deffb7",
+      "title": "Chipmind Introduces Generative UI for Chip Design Agents - markets.businessinsider.com",
+      "summary": "Chipmind Introduces Generative UI for Chip Design Agents &nbsp;&nbsp; markets.businessinsider.com",
+      "source": "markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjFfcWFVZzRlUmVTTVBGLV90TzFvMUxRV28zZlYyUkY0WTlQN0t4ZmlfUWR0TnNod2stWTFWdFB5UXZWZVE5TGFxdFRVbEkzWkVVYTBkd2ZnVTVoRS1IWGxaRXFwNTNralc2WGFIQTVwcE9tNFdQWjNVTGktS0lDYlZ1SjU4bGwyY3MxbV9GRks2RVEwME5SZlVsU3kxOG90NDFiUjlJZmxSMEdQb0hVTThCMlZGZw?oc=5",
+      "publishedAt": "2026-07-14T08:19:38.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "generative"
+      ]
+    },
+    {
       "id": "c913a126e661",
       "title": "Open Call: Reimagine the Adriatic Waterfront at Marina Opatija",
       "summary": "M3 Monaco's Smart & Sustainable Marina Rendezvous competition returns for its sixth edition with an open-architecture Call for Ideas centere...",
@@ -102,19 +193,6 @@
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "ce453c65aa13",
-      "title": "Co-Living: Rethinking Home for Temporary Belonging and Mobile Lifestyles",
-      "summary": "As co-living becomes increasingly associated with students, young professionals, and other mobile residents, it raises a broader architectur...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1092401/co-living-rethinking-home-for-temporary-belonging-and-mobile-lifestyles",
-      "publishedAt": "2026-07-14T04:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architect"
       ]
     },
@@ -154,18 +232,6 @@
         "artificial intelligence",
         "architect",
         "building"
-      ]
-    },
-    {
-      "id": "dcece8c8a3d4",
-      "title": "Study Challenges Traditional Views on Brain Decision Making and AI Design - SSBCrack",
-      "summary": "Study Challenges Traditional Views on Brain Decision Making and AI Design &nbsp;&nbsp; SSBCrack",
-      "source": "SSBCrack",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVEZFd2VSMGQ4Zk5IU3BqOVNDc3gzTEd2Yjg0SUZWSVV3TTNtRG9aNGk1QlJLWTk4ZkdrYlNYTjc4YW5TdF9fajBQOC1GVHB3WF93RHpBeE5hRkNfRW5zQ3VHenJ5N2NWQmFRUW1ZVlFONlp1NjZJbWZkRG44M093cWs1bl9pV2hLSElxdXJRd01JTTdKdEM3UDB1aDB3TDFldlE?oc=5",
-      "publishedAt": "2026-07-13T14:25:45.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -209,6 +275,18 @@
       ]
     },
     {
+      "id": "f387a5db6e3d",
+      "title": "Can Gen AI design a better city—or just a faster one? - Fast Company Middle East",
+      "summary": "Can Gen AI design a better city—or just a faster one? &nbsp;&nbsp; Fast Company Middle East",
+      "source": "Fast Company Middle East",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd04zTWxhNXV4NWlDVFRzcEs2OEpDdzdLSjRBenB0eHdWQkcxSHhFTzRVNnVJcTBQUWc4U2gxcV9pSFk3d29XVG9TUUF3QldmQlZTVl9waDdnSDhOUDRGOEp6a0VpcnFkQTJpcGFZRVJMOHBVb0JDSVpFbW5WRDVFcHFHWUtDNXdTTWU2Tjh6SXZFZE1W?oc=5",
+      "publishedAt": "2026-07-13T05:01:14.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "b15897dfa55f",
       "title": "Architect Labs Secures $24 Million to Accelerate AI-Driven Chip Design - Electronics For You BUSINESS",
       "summary": "Architect Labs Secures $24 Million to Accelerate AI-Driven Chip Design &nbsp;&nbsp; Electronics For You BUSINESS",
@@ -218,20 +296,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "4111fa0be661",
-      "title": "Beyond Alerts: Why the Future of the SOC Depends on Data Architecture, Specialized AI, and Autonomous Investigation - Indian Startup Times",
-      "summary": "Beyond Alerts: Why the Future of the SOC Depends on Data Architecture, Specialized AI, and Autonomous Investigation &nbsp;&nbsp; Indian Star...",
-      "source": "Indian Startup Times",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObmVwa05TcXBNQ0lvaFRPZWw3NC1BSEY4VU9VTVVuWTVpLU5RMzBRVElwdmZMT2JhSW9KbGhsVDlQVm03aEFwb2pJYUplME50RTNIVnpvN08xa2pVaUNINFUzVl9fcGVULWYwSktYR3ZlTXlIOUNKMWlQVlFKTVlUWmF3YnJzWFVrNGRDY0ptWHUtNFRIWERKVmRZZU9MTDhGOC1GWEdvTlhYUlZYNWo4MFdGbk51NWlUYkw5WjYtaDIzczJRZEtNU1VNanNWYmJGdkk3ZDRDVlg4N25zN1VtRi1QNGI0MGtw?oc=5",
-      "publishedAt": "2026-07-11T12:41:59.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -264,6 +328,20 @@
       ]
     },
     {
+      "id": "7f5777f3822c",
+      "title": "Addionics unveils battery architecture for always-on AI - Automotive World",
+      "summary": "Addionics unveils battery architecture for always-on AI &nbsp;&nbsp; Automotive World",
+      "source": "Automotive World",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc210SDZYcGQ4alJyQ0NERUVjTHNOeFl1TEs0clNlUFNHRWQxWnlsNlNnQjNDNnNQTmp3Z2hsVGNyc1N4bVFIbkFHaXZPSlVudlIxNHhTWW9uLV9yaDhmSUl4THJGUVJUYnFJU2g3LUFTRDJvdW5hcE4wMms1M2JGdDhTVWRtUEoxWUpqa2xYdHRtWFBHU0hPaw?oc=5",
+      "publishedAt": "2026-07-10T04:15:43.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "ec7c745993d6",
       "title": "AI-driven concept visualisation: presentation-ready 3d image - e-architect",
       "summary": "AI-driven concept visualisation: presentation-ready 3d image &nbsp;&nbsp; e-architect",
@@ -283,20 +361,6 @@
       "source": "The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNMHM1Sm1sNG8zZEcyM19lYkN3eWRMeVRtbFFwd2dSOGVlUC1rQ1RnNTV4M01WZ0Q4bV85NV9PY3FBN3Q3MUN5c0g2RHlBbW05OVhJdGtOeVlxbFZ0NHNMX3FNQ2ltR1lvWGJjc0ZFek5NRkJwb3FOaHNYOW0zRnphenlBNXVmYi00cUJVTDd2dG1LX0RFb1J5dGowNjk2WFlubzhtR3BxUmFJMjdfZHQ5NnU4RXZvaTIwZnhYaHVoY1FnYUFxb3JhZjZRa28xWFg2b2tNM214dDdlWmNqVjdMSHExZklHcUstcWliY2hiMkRhOVNEZkdYdHpqdU1FdDJWRzdwRHlLY0VmRmwwbmtld0JYS0F0Q01DaDFScHZULTk2SmRQYVdzeDJDLWFGMDRkdmZyWVNXVmo3RzlSMnlQT3BzTmNIMy1kemF1WDB6eTNMVXZfTTFrY1FHMGxvS2dXQm5lSndYV2ZBME5WNU5TbzBnN0d5OHJVUjVGLXlTWWlzeHlC0gGKA0FVX3lxTFA0RWJZTFBLaFdkdHhHSXhXWUZKUTctVU1DNzhzWHhKeDdLWkZjdlllcDd1YmlwNVUxQ1FucHRrX0phdFB0alFQZ2NxbUdyX1lPbXZhU2NVbFJvOTR6eGFqa01YN3RMYmVQYzExZFRuWDIyY1I0NWxlTl9GNjZEVUw1bnBnbUE2Sm5qdjRCQ0szVzExZF92eTBMR3lLaUExblYtU3F1ZWRyYURkSmVOZGRDTkkxaWVoYml2eERoN3l6Sm11U21mV2ExSTVHTF8zcWViU09FWGRSWUNQaXF6aXpETUJIellfUlg3Y0NwSzNXY1psSjN0OXRTWjEyV1FEVmVRV2M3OFJ0YTcwc0k3b0J2WU8yemFVZ3FaSFNlaTdWbDRkam1CN1JfNEFPY2NqMjlGQmVycjRaQUZobmNQZXpCclB2Z3J1ODlBX2pHRld6V2tPOFQ5TFh1S3p6VUJqZERfVDc1WTYwQWtpVmM4RkVKLTFDQUxNbk5sOElPWTM1U0FCQVFHei1Nenc?oc=5",
       "publishedAt": "2026-07-09T11:22:28.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "f688702621a2",
-      "title": "Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World - The Joplin Globe",
-      "summary": "Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World &nbsp;&nbsp; The Joplin Globe",
-      "source": "The Joplin Globe",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNRDRvMVp1XzFCQVJIOHVfdUxBODZINHYxZVExTlNHRm91cGxDY1ZiZ1Q5RU1ub0RlLUM4UEkxUDB3Mmlfb2JtVzRZWlU4UWVkOHRMc05ac0NJTkpiNzN0ZXFTNFlsNGVVWmhzNjR5QnBhLWZfMHIwYm1pMTZzbXdWNTJpLUsxdWwwYndSMVVYT3F0bWxiczlTMkVZMkk5M09jVHBzRVpJYldzdHo0SFY0RERKLVJyaFdCSnZpejhLYWU3TmtESjFabWZIYzNoc3BFelhnUHdycHNZc3VsdjA0TGwyTUFVanBTNlJ2NkV1d3V3b0JTcVJ6UXpTM0lsN0NCTGMyNVR1Nkh0cXBiWEVJekp6aVEtZVppbHJR?oc=5",
-      "publishedAt": "2026-07-09T11:21:51.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -333,12 +397,12 @@
       ]
     },
     {
-      "id": "ea3566c7b74d",
-      "title": "Generative AI in Architecture Market Report 2026 Now Available — 250-Page Study Covers Design Automation, Urban Planning, and Cloud Collaboration - Yahoo Finance",
-      "summary": "Generative AI in Architecture Market Report 2026 Now Available — 250-Page Study Covers Design Automation, Urban Planning, and Cloud Collabor...",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbzZCdkdNTEk0VHRHMTlwNEU2VDh4QjFjUXZ0dFhCTVpvWWU2STI4akZWcGZoemtBZFNtU3N0TGRiWjh0S0xUYjROMjd6dERmMzNCT2ZhS1FhbkRjS2NBVlJCRHktQnVVYXotMmJETlhFU0pzb1NwWE1XRjgyOWVuTHJfU2VCTEMyeFFNcEJURUdhdkZsR2Roanhwd2sxekdkR1hkX0NYQQ?oc=5",
-      "publishedAt": "2026-07-09T08:05:00.000Z",
+      "id": "01287650ce78",
+      "title": "Generative AI in Architecture Market Report 2026 Now - GlobeNewswire",
+      "summary": "Generative AI in Architecture Market Report 2026 Now &nbsp;&nbsp; GlobeNewswire",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxObmV4UXFqNEJVeXZ2dnNiR2NJdWJ0cV85ZkNXd1JKeXdPMC1wX0JPeE40VTY3NXVrZE8zSEYwNldnWjU5SnVVcThMQ2Vhcnp6aXM4SUU1LUJBRjhjRlhRbURGR0drcXlCRlQyak5heWtjX3pXbDE0OHlJejNheHVrelU2eGIzZnJxMmttZ2RIc005VEY3dkZ2dkpQSFVtVmZ6RG9XODVfLTZTOGtKaDc1aUQ5SWpTNUZsWDhLb2xIQm55R0x3Ym4wd0paT1NWV0R5aTJlYlZwbHVzMk9mdHNmd0FhQlFxcWlQdGRJR2NYUmNzZ1JpSGhwVnRzZTF4Y1YwT1l3MFAxWGVKVWhuTXZhemhTS0lGazQ5Yk1tajF5TEs4NHZIOUxSbzhsQThNYWhQdC1ic3BzNXlSRUI1S3c?oc=5",
+      "publishedAt": "2026-07-09T08:05:19.000Z",
       "category": "生成式设计",
       "tags": [
         "ai",
@@ -389,24 +453,12 @@
       ]
     },
     {
-      "id": "531e5156f841",
-      "title": "How AI-Powered Digital Mockups Could Reshape Hotel Design, Development and Procurement - Hotel Technology News",
-      "summary": "How AI-Powered Digital Mockups Could Reshape Hotel Design, Development and Procurement &nbsp;&nbsp; Hotel Technology News",
-      "source": "Hotel Technology News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGMtOVFQM2RWMlpscjRIRkRJXzJ1MTJjQ2VHdE1uWkJ4TURqM0pyNF9ldWdyTURmMDA1T0F1SnY1b3IyVWlEWElHZU9UZnpjUHljWTZ2YzR5X0oyQTFTUGlMakpHMnJRUmE3VlhqSmRZWjZzaF8wWkRxbkZvUUxNdEl1ZzU1aTduYm45Yzg5R2MzNWcxZlkyNFkxMUsycnhMTlBXa0FnWS1wNVpwY0JKSjR1dXhDMGppajBkbklpa0hHc216?oc=5",
-      "publishedAt": "2026-07-04T14:42:11.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "8afb103b15ad",
-      "title": "Agentic AI Architecture - infoq.com",
-      "summary": "Agentic AI Architecture &nbsp;&nbsp; infoq.com",
-      "source": "infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdGZQd3hHbHVNcy1lNV8zVFd0NGVDUzFPVkRLQ2lfWDlCMDR3aWY3SzFQY3l1VzlQclFDMUJvOVJjUGIwOHdROS1NOU1Xa0h3U0VyS090ZlNGaW5zRzhrdExHUVRObjg?oc=5",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
+      "id": "df9ac61ee9f9",
+      "title": "AI won’t fix broken foundations. How to get your architecture right before you automate - Health Tech World",
+      "summary": "AI won’t fix broken foundations. How to get your architecture right before you automate &nbsp;&nbsp; Health Tech World",
+      "source": "Health Tech World",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTWFPNG5zVVNPaGRfSHBCb3Q2Z3ZqNnhrOENmYURTQmI4U29VWnBoVmtrR0FxaW9RU1dObXpyaXluRGY3SzJRaGd3LThQN3A1bE1XYXJuZXBFQTBXd1RydXJPSmtpV19fbEZndXJ4RGE0Z1pYNFBKM2s5ajB2eG0xQmpMemZack80cUczWkpDWm5WbXNNZFkzOWJUQ3VvaVBJVFYwSG96b09vWC0zX2l2SHZMZ0Rra200WC10U0xXaFRiRnNw?oc=5",
+      "publishedAt": "2026-07-06T12:02:58.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -415,69 +467,13 @@
       ]
     },
     {
-      "id": "8738a123302a",
-      "title": "Raja Koduri's Oxmiq raises $35 million for AI chip architecture - qz.com",
-      "summary": "Raja Koduri's Oxmiq raises $35 million for AI chip architecture &nbsp;&nbsp; qz.com",
-      "source": "qz.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1MxLXd6Skg2UElCWXV5QW15UzlXRER5a1F4Zi1HdVR6N0VlNW05OVV0SGFTOVpmLUNPT2UyRWJmYUstc2VJUHZkemhlbWxrRXJ3LXRmR2pnb2dVc2xtMFRta1Vaakw4dHg5WTFsWG5tOE5CLVdnblVTWmxWMm5tQU02Z18za1k?oc=5",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
+      "id": "a00245a25ffc",
+      "title": "Nvidia delays Kyber AI rack architecture to 2028 - Tech in Asia",
+      "summary": "Nvidia delays Kyber AI rack architecture to 2028 &nbsp;&nbsp; Tech in Asia",
+      "source": "Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONlRNMC05V18yb081X1liTmdXeDMwSjRwM3Z0MERsYXhBSDVpeDE2Uy1OR0JnLXhPWXFuMXNiWEc3VHVyLVZIQ3hqUkVtYUZXWVNLYm1qX0FXWlVsOVF3enhOeW9lX3lfc18wdmxRcHpoSDNwZHVSMTdHWGRteHVzYVZEdw?oc=5",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
       "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "1e5e27630ce1",
-      "title": "OXMIQ Raises $35 Million Series A to Expand Licensable AI GPU Architecture - citybiz",
-      "summary": "OXMIQ Raises $35 Million Series A to Expand Licensable AI GPU Architecture &nbsp;&nbsp; citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazg0bmlzRVBFWmxQX214aWNMTXdtdEJZckhESm9UVU1leGd1eVgwZDlSd2RFS0p1WFRtQ1djVHplckV6SU5UN1o0MnpmT0ZWSi1rWGtaSkp6Z1JxakZTd3N3Tzh3TzQ5WlloaHNwdUdPOHIzZlRrdEpZQWRIS2VFRlpVeVpVV0g4SVB4RVdjUXlkZkwtd0lWNk9YQ1RFRzA2UVp6V3pYemJPcjM5U1M1dV93?oc=5",
-      "publishedAt": "2026-07-01T15:25:42.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "9ff47ecf2cf6",
-      "title": "Dutch cybersecurity startup Dawnguard lands €2.8 million for AI-native security architecture automation - EU-Startups",
-      "summary": "Dutch cybersecurity startup Dawnguard lands €2.8 million for AI-native security architecture automation &nbsp;&nbsp; EU-Startups",
-      "source": "EU-Startups",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR01aZXhDbzQ0LVRjRmlzNmpJSXMyRFZNcW00emUxbjlYQzFKZW9wMF9GU21GNmxXRGRMRmJleE9ja0NmcFgwVXdTZW0ybk4xRnk4djI0RnRleEwxQXVMY2FaUGZmamtoelJIY3RReHRwcWNOaGN3dUcxUV9rNDRuNDlZd0Z6RjZYUW82RDdaSVc4OTVoY2JZZ1oteFViTzlrUmg1VnFadWxyS3YtOUVIS2p1QnVkMkphNWVWQXdRa1JxdGtNRUc1T2phbmNSN29qbExDVXNrOA?oc=5",
-      "publishedAt": "2026-07-01T14:44:45.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e1e2bafe91ec",
-      "title": "OXMIQ Raises $35 Million To Scale OxCore Architecture - Pulse 2.0",
-      "summary": "OXMIQ Raises $35 Million To Scale OxCore Architecture &nbsp;&nbsp; Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rWW1UdnNlTDd0elhmbDNZSDhRMi10cXFuQjBmSUVhU1JGa1B5YzlsOXlHd09nSnh6RzhRYzFDRVZhT0dESHVuQk1WNWRtREcwaU9Kb2pyWlVaMzZTQUFyNmRGZlZXVF9LVDZHMmxiZVg5Mkg0Z09EQ0JpWlrSAYIBQVVfeXFMT3RXTlJ2NUZFcnBISTlhVDFIMjBOYjdRRkZvUVZSbHFxVTlzcnBfR3ZqTVpKQnA5dDRzQkRLUlFMTXBsNng4Y2FlNkJudllZU2ExZURQWjlXdmdVZjRMZlRTX25aaEZJdmlCVENHUTVjakpQaUktNFhsZDRGa2E4SkZXdw?oc=5",
-      "publishedAt": "2026-07-01T13:59:14.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "4b368f73a685",
-      "title": "Dawnguard Launches Security Architecture Platform, Opens New York Office and Raises Additional $3.3M - citybiz",
-      "summary": "Dawnguard Launches Security Architecture Platform, Opens New York Office and Raises Additional $3.3M &nbsp;&nbsp; citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb08xRGN0TElQampyWWdDSkZnUzI0Q1VyY3VYN2JXWFZTdllxdTRyZWtQaUh0S2pEV3BhWEJtc2Q0X2x1Tmp6d0VBQ0hxUER3dTMxVnhhZ2VxRlJTTnBHakJkZU5HSGlaQ3FONXRCNWU1WWE1NVIzaFR2bnBucU5jRVc0S3hEY1NlbXFNRDZSUlRTQ1V3cEZJSlgwbDJzUnA2U3hmUjYtSmRHMzJ2NkFjMEg5bzc3M0Zkdmw1UEJCSUZ5TjlDM2VNdkptMThkR3o4UFdr?oc=5",
-      "publishedAt": "2026-07-01T12:14:38.000Z",
-      "category": "工具",
       "tags": [
         "ai",
         "architecture",
