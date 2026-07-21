@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-07-20T23:12:54.103Z",
+  "updatedAt": "2026-07-21T23:09:41.359Z",
   "items": [
+    {
+      "id": "d237f7a77693",
+      "title": "NVIDIA Vera CPU Rolls Over Traditional x86 Chips With An Agentic-AI Focused Design With 6x Faster Performance & 40% Lower Latency - Wccftech",
+      "summary": "NVIDIA Vera CPU Rolls Over Traditional x86 Chips With An Agentic-AI Focused Design With 6x Faster Performance & 40% Lower Latency &nbsp;&nbs...",
+      "source": "Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHYyMWF2a3hWbVBRZG5RaGdIdHU4T3hVSXc2dFBxUUZ3a1Z3cThvY0pDdVZZOXpyQmxvNHRteUpwQzkta0NWdnRBUWI0OVdqT1B6Wkdtcnk2cm53VUNPaTU3S3FqMXEyb2JBVWlzVDJrRmtuYlB1TC1sUi1qd3pOZE5NaXQ0VWdGc2kwb0dtc2ktSTdvNXR2cmgtTGVibl9zOUQ2ZHd2eUljd9IBrwFBVV95cUxNbm51TTZDSzlxVWhwTWFHeGdwQmRNVXRZZHdiY3UxRlR6b01BM0pXYkhTZzJnSGloaUFqaXpDUE96bm9jYzlyRUpZS2pYMDR0VEM4SUI0RjdXS09ka3o5dWh1MUZHMTNBaFNpcFF0Z1Z0aVRZemFBUkRJN2c1QmtORXp0VWs5eHR3cUtZektqUWw1dk45UWFKSTNvWUVUVlhST1VoR2d1NTYwZ1Y1bkNJ?oc=5",
+      "publishedAt": "2026-07-21T15:00:13.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "dba8c0b93593",
+      "title": "Nvidia deep dives Vera CPU for AI data centers — SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more - Tom's Hardware",
+      "summary": "Nvidia deep dives Vera CPU for AI data centers — SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more &nbsp;&nbsp; To...",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2NJT1hpaUFiLXFrRzdrZnBCVWpPSGNsZUEwYUpjQ01ZRi1IamgxRkhkc2FVa3lHZTlSSTBzNEY0VFFjWU4tZ0Mwek5naG9TQXozWXRiOHZtQnFJLTRDck50MUFsb0s4aTd6VHFfUkJzVUNoZ2VndWpQQnFUNDY4dFpnVmFsbG1NUjNuN2FmYVg5RktfSmRfQ2I3UHBJYjNkaFFSdnFjLWJPNEhUcHRuUXpiVkFvQjctakFLSXJYWmNTQnJtYlZadmp6UWx0TUFBRFFZMGY0clliNUNLQ3c3cg?oc=5",
+      "publishedAt": "2026-07-21T15:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "cab6c66f0dc8",
+      "title": "Siemens To Acquire Precision Innovations To Expand AI-Powered Chip Design Portfolio - Pulse 2.0",
+      "summary": "Siemens To Acquire Precision Innovations To Expand AI-Powered Chip Design Portfolio &nbsp;&nbsp; Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2ZDSGdjdUxpdU5CQUZlRnh4MFdtOFlMSHJyTk9KRkRvaUl5ZzhrRTBYRThLMlpFVHN5R1RHVkxhTlBWRGswVXNfOTVzS2VLRERlNGJxWFVabEx2TDBGNlA5WWE0Vm1ZQkZSSDB5a3NZbXZqUGRXUS1RZ0lPSWZadWRyT0ZsdWxkN0g5dlZpWjNOVVRnRDQtSHlBbzdCc0pFcXl5VzgtbFhRdW_SAasBQVVfeXFMTjdmQ0hnY3VMaXVOQkFGZUZ4eDBXbThZTEhyck5PSkZEb2lJeWc4a0UwWEU4SzJaRVRzeUdUR1ZMYU5QVkRrMFVzXzk1c0tlS0REZTRicVhVWmxMdkwwRjZQOVlhNFZtWUJGUkgweWtzWW12alBkV1EtUWdJT0lmWnVkck9GbHVsZDdIOXZWaVozTlVUZ0Q0LUh5QW83QnNKRXF5eVc4LWxYUXVv?oc=5",
+      "publishedAt": "2026-07-21T14:20:26.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "69fee177251c",
+      "title": "Knowledge Arena / SENAC São Paulo + Estudio Guto Requena",
+      "summary": "Architecture, sustainability, and education come together to create an experience of welcoming, lingering, and exchange. Developed by facult...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1181313/knowledge-arena-senac-sao-paulo-plus-estudio-guto-requena",
+      "publishedAt": "2026-07-21T13:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "aac4e71dba0c",
+      "title": "Why AI is re-designing data center architecture - TechRadar",
+      "summary": "Why AI is re-designing data center architecture &nbsp;&nbsp; TechRadar",
+      "source": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlBjWTFXUGp1UnRQLThDWExIaWkxMUtBTndUeTZJN0dROVU1RWJ3dTBQWU5JaTNpS0x1T0VlR3lfYURfTDBtNmdKWWpiMXlrb2U3SXZpUTIzOW1HTVpjandVbDVkRWFtcWJENXRKUHdXLTc2UnBZbHBsX2lqS2lGOHRwQQ?oc=5",
+      "publishedAt": "2026-07-21T09:48:14.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "eae6186a59cb",
+      "title": "IMTS 2026 Conference: Bounded AI: Governance Architecture for Factory-Floor Intelligence - Today's Medical Developments",
+      "summary": "IMTS 2026 Conference: Bounded AI: Governance Architecture for Factory-Floor Intelligence &nbsp;&nbsp; Today's Medical Developments",
+      "source": "Today's Medical Developments",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOE9KWEljZFJZbEozbTVTSy0yc1l0NDFfak9Wd3BXWnI1bVlaU1pKRGhuQkU4U2F5U0puYy1ZR3FoZW1Ob2RRZndQbjBDQVJaOHZTOXBNRkJMN3FrNHd1ZW1mVDZPZDQxNWhRVFJZeU44MFlUQlVYRkZTOHUzdnhETTM1NUozNEpTdW1lTmVEZmF2bjRELVdwSVNlbkFvYk1JUUk3aENmX3BCWG9iNDM2dnVteUpjSWdXNXRIUU81bkpIT1NwX3RZdGhB?oc=5",
+      "publishedAt": "2026-07-21T05:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "74057a499801",
       "title": "Phytoform partners with major seed breeders to bring AI-powered plant design to corn crops - AgFunderNews",
@@ -94,6 +174,20 @@
       ]
     },
     {
+      "id": "d572a45cfd38",
+      "title": "Hillcrest Energy Technologies Unveils Technical Paper on Over 99% Efficient Single-Stage ZVS Power Architecture for 800V AI Data Centers - Kalkine Media",
+      "summary": "Hillcrest Energy Technologies Unveils Technical Paper on Over 99% Efficient Single-Stage ZVS Power Architecture for 800V AI Data Centers &nb...",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNM3NlSE1lS2ZTejliSERobVhjYmpUWTFXTmQ2dXR5S2ZpbExfc0l6ZF9sR2FWMk1taGJZa294U1g3Mlo4cmY4UHRzXzlNSThyaDQ0NnNDVWxZUzMwVHJsckM0d3BvZ0N5S0dhQU1tOG82MWt5Qm11NTBTS3VNc0NZSGFVejV1NmxBcFM3SHF1R085Y1JBMk9tN1FPNDFYYXVkZVNXclczdUpjb3E0Wm1CUU94V1M4eThOSnR4V2FVMnZzQ2RzQzNqT1FZTGgxQll2TUttTVpWVmJZTmxCMGVSNko3dFlscEExeVFpMU9NVnNMcGlJb3NnUFdpMjljVFZYQlhybkxBQ1dVeVFCRS1r?oc=5",
+      "publishedAt": "2026-07-20T13:12:29.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "f62e3a9d0b40",
       "title": "Siemens to acquire Precision Innovations to expand AI-powered system-on-a-chip design exploration and optimization - Siemens Newsroom",
       "summary": "Siemens to acquire Precision Innovations to expand AI-powered system-on-a-chip design exploration and optimization &nbsp;&nbsp; Siemens News...",
@@ -134,6 +228,20 @@
       ]
     },
     {
+      "id": "93fbc5574dcc",
+      "title": "3 E Network Finalizes Custom Edge AI SoC Architecture for Aladdin Robots, Delivering a Core Computing Foundation to Accelerate Commercialization - Moomoo",
+      "summary": "3 E Network Finalizes Custom Edge AI SoC Architecture for Aladdin Robots, Delivering a Core Computing Foundation to Accelerate Commercializa...",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ05qSy10YW0xakJDcGdabHJrZV9NbElfX1hCWTZfdEVwaF9DTUNnWG43cTF5c0hySnVUMmZPejlsYlBnZzB0dnBvR3l5cWgwRzVwRGhKeHVZUDN5NzhCUm5xNE41bWdNUmYzemI2VURMUDdIQUdaUmtmRktiMlpiNkQ5c2xzSHdQbDByWGVkUm9BUzBtLWlaZ0FjejdIcHMw?oc=5",
+      "publishedAt": "2026-07-20T11:50:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "4d2fd984492c",
       "title": "1.5TB Mac Studio Enables Advanced Local AI Architecture - Geeky Gadgets",
       "summary": "1.5TB Mac Studio Enables Advanced Local AI Architecture &nbsp;&nbsp; Geeky Gadgets",
@@ -148,53 +256,12 @@
       ]
     },
     {
-      "id": "16224ed4b2c8",
-      "title": "\"Architecture Is Not Jewelry\": Xing Ruan on Building for Time, Not Perfection",
-      "summary": "In 2023, the School of Design Building at Shanghai Jiao Tong University opened its doors after a complete remodeling and adaptation of an ex...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1042188/architecture-is-not-jewelry-xing-ruan-on-building-for-time-not-perfection",
-      "publishedAt": "2026-07-20T04:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "e44acf7af308",
-      "title": "Humaitá Penthouse / Huma Arquitetura",
-      "summary": "To accommodate the daily routine of a young actress and theater director, HUMA developed the design for this penthouse in Rio de Janeiro. Fr...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1148904/humaita-penthouse-huma-arquitetura",
-      "publishedAt": "2026-07-19T13:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "e813af971cf7",
       "title": "How Senior Engineers Actually Build With AI In 2026 | Build A Full Stack Systems Architecture App Amandaland (J5Ls1Q4UPn) - Mshale",
       "summary": "How Senior Engineers Actually Build With AI In 2026 | Build A Full Stack Systems Architecture App Amandaland (J5Ls1Q4UPn) &nbsp;&nbsp; Mshale",
       "source": "Mshale",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQVBjMU9maE9kcHdzelhsVlFyU2hkZW55eUtGc2xUcFA5QzRJYnNYbm1BdGh3emtBby1xTzJwQmpWQXZqNEhDSG1KQmFldEtsdUphcmEwWTVHbVhNNTFUNQ?oc=5",
       "publishedAt": "2026-07-18T18:50:21.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "8ad2b310bbd5",
-      "title": "Top AI Architecture Certifications for Beginners and Professionals in 2026 - Analytics Insight",
-      "summary": "Top AI Architecture Certifications for Beginners and Professionals in 2026 &nbsp;&nbsp; Analytics Insight",
-      "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWRrNFRJbFdWdkhJVGl2ZFJDLWo3S3VuWXVua0VBU3J4STFoSzZRd1doSzE4alp3TmZ2WVpqaU5aUnBwdWpVcFpHcnY4ZWE5ZVBsaTZHdE9rWHFzV0hyS2ZQUmk0NEVNX2ZlcFpYeGI4TFo1cjhYMTZwbTRuR1VTRkRMUXdOc3VFTkJDS3NlWWtPVmJJRlJrRFhXLS13dEdFWUNZQkNZMmZ6Zy0yMVQtVm5TWEJpeVdrYU9velhZUkxWUdIBwgFBVV95cUxQbWRrNFRJbFdWdkhJVGl2ZFJDLWo3S3VuWXVua0VBU3J4STFoSzZRd1doSzE4alp3TmZ2WVpqaU5aUnBwdWpVcFpHcnY4ZWE5ZVBsaTZHdE9rWHFzV0hyS2ZQUmk0NEVNX2ZlcFpYeGI4TFo1cjhYMTZwbTRuR1VTRkRMUXdOc3VFTkJDS3NlWWtPVmJJRlJrRFhXLS13dEdFWUNZQkNZMmZ6Zy0yMVQtVm5TWEJpeVdrYU9velhZUkxWUQ?oc=5",
-      "publishedAt": "2026-07-18T11:45:47.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -216,56 +283,15 @@
       ]
     },
     {
-      "id": "ceaa002288e8",
-      "title": "MinIO AIStor Brings Object Data Stores for the NVIDIA STX Reference Architecture - HPCwire",
-      "summary": "MinIO AIStor Brings Object Data Stores for the NVIDIA STX Reference Architecture &nbsp;&nbsp; HPCwire",
-      "source": "HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTVJOE1yQWh0SElIOThIcTRFVlZYV3o4dEc2a1VkenpEZHh1bHlFV1VySTVLLUw2S3AxbHItaHNtZmRpcXdyUTJLN3daNllDSzZEZndDZEhGcFlnblRDNHRwaXNZSHo3V3BiWjRrbzEyYnhWaUpDeXY2cjd2YVBueXJsckViOXA5ZDBmZjdsbHo5ZGFNRTRtVjM1VFNKbkpQYUxZZDBSZFd6Z3FMX1B6Z3ducFREb2MxMTJTRFptck51Z0FxNldlTUZn?oc=5",
-      "publishedAt": "2026-07-17T10:53:03.000Z",
+      "id": "48f41a711326",
+      "title": "Meta’s Iris AI Chip Passes Testing: Broadcom Now Designs Chips for Three Rivals - Tech Times",
+      "summary": "Meta’s Iris AI Chip Passes Testing: Broadcom Now Designs Chips for Three Rivals &nbsp;&nbsp; Tech Times",
+      "source": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUGVPVDV2VHJIQnRJSGhYYjNVZUN0YjJRY01YTm96ZEh2U0hib3BSbTM4QVhjZ3ZROURhX3QwcVVfek1Ec1lfejM1RXVHaUdtZ0FvLWs0bG5FNDhvUWh0VEtVVFJtOUE1QW9XUEFfQVg5VVB1QjlJQlk0NHVPRTJ0elpyZzdwdHhPdE9qQk1pUUtXVWc0Ym9sQnFzWkwzdkUyYlJGczFHRW5paWRMTFl1RlpNYkNOSDloWndJNm1Sd3hZbFJYQXQw?oc=5",
+      "publishedAt": "2026-07-17T15:51:10.000Z",
       "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "7103f0556c84",
-      "title": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture &nbsp;&nbsp; Nasscom",
-      "source": "Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
-      "publishedAt": "2026-07-17T07:19:03.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "05c138bf8b9d",
-      "title": "Autodesk stock trades near recent highs as AI-driven design and solid earnings support valuation - Ad-hoc-news.de",
-      "summary": "Autodesk stock trades near recent highs as AI-driven design and solid earnings support valuation &nbsp;&nbsp; Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDRxcUduVXRmNy10LWtMaUxjSUtJeEdCNGRNLVNQc19jZFBJaGJGU3B3MUF1dEFSUjhXUE5HSkRZWnFKbzlJcGZ4WmNHRlZLQkFCSHJfSlI5S0tXTVp5NTM0WXk1UzZjLUloS05OMkJNQTVjUm5sUDkyTkpUUjlJbVJVQWJyZ0Y2N3dHX0pldW9JeFlTeE1TVXRhTEVzREsyelNwd21pbTZWRmZNUDNUSFN4ZEdMYVo2b1cxdXdJMUZVcUdNRTQ0?oc=5",
-      "publishedAt": "2026-07-17T02:36:16.000Z",
-      "category": "工具",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "e314a87a51ad",
-      "title": "Governance and Security-by-Design: Embedding Safety and Alignment into Agentic AI Systems - The Association for the Advancement of Artificial Intelligence",
-      "summary": "Governance and Security-by-Design: Embedding Safety and Alignment into Agentic AI Systems &nbsp;&nbsp; The Association for the Advancement o...",
-      "source": "The Association for the Advancement of Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OTHNDSXlORkJvb2V5RG9GQjZPbmMzeVpZYUdVa19ITkU1YXRVU2VVdjBYZTJYcjlXbVNNSkRiLUVCXzZBLUgwUGZjZlZfbmlNWG5aYTlfU1hmYk9iYmJ1OTc0N0JRbmc?oc=5",
-      "publishedAt": "2026-07-15T12:40:19.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "artificial intelligence"
       ]
     },
     {
@@ -293,6 +319,19 @@
       "tags": [
         "ai",
         "architect"
+      ]
+    },
+    {
+      "id": "28b5acfef5f5",
+      "title": "How AI is reshaping the future of the AEC industry - McKinsey & Company",
+      "summary": "How AI is reshaping the future of the AEC industry &nbsp;&nbsp; McKinsey & Company",
+      "source": "McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcE1tTE9UMzZnTlQycmJQMWkybUpXelp1U1NlVmROX1ZqSXpUX0djemU5ZXpCekhVeDJvMTVUalNneGJIVEpESFBlR0RqaGcycmtmeUlEY3Frc0tFY09iMGVwMDFSUWw4QndheXFVdmJOaDQyUUVMV2pkcUt5Y21SampTV3NuM3o1RXVSVFMyM1kzVW1wc0hlTC1TVmp1Y0Z5Qk1pU3ZsNUEtaUM1RnVxTE1EbHNlZGJxX0NYbTRSVVFHZHV0RkFLUDdaZk1OQXRTZkJaeGlxZVJCblkwVU9YXw?oc=5",
+      "publishedAt": "2026-07-15T00:00:00.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "aec"
       ]
     },
     {
@@ -399,18 +438,6 @@
       ]
     },
     {
-      "id": "f387a5db6e3d",
-      "title": "Can Gen AI design a better city—or just a faster one? - Fast Company Middle East",
-      "summary": "Can Gen AI design a better city—or just a faster one? &nbsp;&nbsp; Fast Company Middle East",
-      "source": "Fast Company Middle East",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd04zTWxhNXV4NWlDVFRzcEs2OEpDdzdLSjRBenB0eHdWQkcxSHhFTzRVNnVJcTBQUWc4U2gxcV9pSFk3d29XVG9TUUF3QldmQlZTVl9waDdnSDhOUDRGOEp6a0VpcnFkQTJpcGFZRVJMOHBVb0JDSVpFbW5WRDVFcHFHWUtDNXdTTWU2Tjh6SXZFZE1W?oc=5",
-      "publishedAt": "2026-07-13T05:01:14.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "c1b2e040b95b",
       "title": "Architecture and artificial intelligence: a new tech start-up is launched in Turin - Il Sole 24 ORE",
       "summary": "Architecture and artificial intelligence: a new tech start-up is launched in Turin &nbsp;&nbsp; Il Sole 24 ORE",
@@ -445,33 +472,6 @@
       "source": "Automotive World",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc210SDZYcGQ4alJyQ0NERUVjTHNOeFl1TEs0clNlUFNHRWQxWnlsNlNnQjNDNnNQTmp3Z2hsVGNyc1N4bVFIbkFHaXZPSlVudlIxNHhTWW9uLV9yaDhmSUl4THJGUVJUYnFJU2g3LUFTRDJvdW5hcE4wMms1M2JGdDhTVWRtUEoxWUpqa2xYdHRtWFBHU0hPaw?oc=5",
       "publishedAt": "2026-07-10T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "ec7c745993d6",
-      "title": "AI-driven concept visualisation: presentation-ready 3d image - e-architect",
-      "summary": "AI-driven concept visualisation: presentation-ready 3d image &nbsp;&nbsp; e-architect",
-      "source": "e-architect",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jQzY3US1TVUNVUTByS1ZJMS1kV05tNlk2d0tYaF9xejRpazFvZk5uZFVpakJCa2xGWjdGM2NUYzRFbHJHR1pFOHFHbjhtRlZCaWlhT0FkTmFPdUNWNkpMelR6bnFDV1QzWEJvTnZISndrT1dGSFRJ?oc=5",
-      "publishedAt": "2026-07-10T00:57:11.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "ef71f1f2b859",
-      "title": "Ambow Education Holding Ltd. Subsidiary NewSchool of Architecture & Design Concludes AI Design Workshop and Design & Build Summer Intensive, Advancing AI-Powered Design Education for the Next Generation - The Manila Times",
-      "summary": "Ambow Education Holding Ltd. Subsidiary NewSchool of Architecture & Design Concludes AI Design Workshop and Design & Build Summer Intensive,...",
-      "source": "The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNMHM1Sm1sNG8zZEcyM19lYkN3eWRMeVRtbFFwd2dSOGVlUC1rQ1RnNTV4M01WZ0Q4bV85NV9PY3FBN3Q3MUN5c0g2RHlBbW05OVhJdGtOeVlxbFZ0NHNMX3FNQ2ltR1lvWGJjc0ZFek5NRkJwb3FOaHNYOW0zRnphenlBNXVmYi00cUJVTDd2dG1LX0RFb1J5dGowNjk2WFlubzhtR3BxUmFJMjdfZHQ5NnU4RXZvaTIwZnhYaHVoY1FnYUFxb3JhZjZRa28xWFg2b2tNM214dDdlWmNqVjdMSHExZklHcUstcWliY2hiMkRhOVNEZkdYdHpqdU1FdDJWRzdwRHlLY0VmRmwwbmtld0JYS0F0Q01DaDFScHZULTk2SmRQYVdzeDJDLWFGMDRkdmZyWVNXVmo3RzlSMnlQT3BzTmNIMy1kemF1WDB6eTNMVXZfTTFrY1FHMGxvS2dXQm5lSndYV2ZBME5WNU5TbzBnN0d5OHJVUjVGLXlTWWlzeHlC0gGKA0FVX3lxTFA0RWJZTFBLaFdkdHhHSXhXWUZKUTctVU1DNzhzWHhKeDdLWkZjdlllcDd1YmlwNVUxQ1FucHRrX0phdFB0alFQZ2NxbUdyX1lPbXZhU2NVbFJvOTR6eGFqa01YN3RMYmVQYzExZFRuWDIyY1I0NWxlTl9GNjZEVUw1bnBnbUE2Sm5qdjRCQ0szVzExZF92eTBMR3lLaUExblYtU3F1ZWRyYURkSmVOZGRDTkkxaWVoYml2eERoN3l6Sm11U21mV2ExSTVHTF8zcWViU09FWGRSWUNQaXF6aXpETUJIellfUlg3Y0NwSzNXY1psSjN0OXRTWjEyV1FEVmVRV2M3OFJ0YTcwc0k3b0J2WU8yemFVZ3FaSFNlaTdWbDRkam1CN1JfNEFPY2NqMjlGQmVycjRaQUZobmNQZXpCclB2Z3J1ODlBX2pHRld6V2tPOFQ5TFh1S3p6VUJqZERfVDc1WTYwQWtpVmM4RkVKLTFDQUxNbk5sOElPWTM1U0FCQVFHei1Nenc?oc=5",
-      "publishedAt": "2026-07-09T11:22:28.000Z",
       "category": "研究",
       "tags": [
         "ai",
