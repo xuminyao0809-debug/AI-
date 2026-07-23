@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-07-22T23:14:21.621Z",
+  "updatedAt": "2026-07-23T23:09:43.300Z",
   "items": [
+    {
+      "id": "5568092f06a6",
+      "title": "Shanghai Droi Technology Launches DroiClaw AI Operating System with Hybrid Edge-Cloud Architecture - AiThority",
+      "summary": "Shanghai Droi Technology Launches DroiClaw AI Operating System with Hybrid Edge-Cloud Architecture &nbsp;&nbsp; AiThority",
+      "source": "AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWmtYLTFYbW8wX2xfNlBfRUQ0UGE5NUdab1FPZzlSOHEzU1c4ejRZb003dDRLcy1kaU9WXzRtMzNkVFhrOURNMm8tZE1LeFN0MVc4MjdZNXRKc3g4QVhnb0VROHhyektSUHFvWjBCdDJlUVViblAwbVJhWGlSSjBhTjFlYWVzYUtKb1otdjFHZ3pvdGpoS2lrM2V2WDBjcUhzZ0lYYkxreVpJT3NnQWJlRHVOVGRST3d6OFpYQnhaNzJJVEdSVERmb0tKcExuQm1HbEhOVTdVcGk?oc=5",
+      "publishedAt": "2026-07-23T14:16:33.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "09e41f060f58",
+      "title": "Architects fear AI will cost jobs and harm profession’s next generation, RIBA finds - The Architects’ Journal",
+      "summary": "Architects fear AI will cost jobs and harm profession’s next generation, RIBA finds &nbsp;&nbsp; The Architects’ Journal",
+      "source": "The Architects’ Journal",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0ZQS21mdUI1RzlJVm8xVVVURTZrc3dHOGRHN3VkSjlHa0x3MW81Tzl3SGh0VGxTcXdRLXBxZ2FUZW9mLWU1U243MmRybkZnVC0yd1JKR3EwYk5QSnBBOGJYSFhNZVVPZ0JJNVpyR0RjOW5fY3NVWlg2Zmk1VmVrdHpZNmRuUVlEWGNQdVczQU9oUm1rOHNUanRha2pvSk1fbUc3ck1Qdjc4NGVkeklsaEVjaGstVHNGeUZaZzVkQQ?oc=5",
+      "publishedAt": "2026-07-23T10:21:17.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "9d5e797773d5",
+      "title": "Apartment in Uehara / ULTRA STUDIO",
+      "summary": "Tokyo's streetscape is often criticized—or praised—for its lack of uniformity, as arbitrary buildings crowd each individual plot. This chaot...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1181423/apartment-in-uehara-ultra-studio",
+      "publishedAt": "2026-07-23T03:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "38251ecea11f",
+      "title": "Anthropic's Lance Martin on the Architecture That Lets AI Agents Run 12 Hours Unattended - finance.biggo.com",
+      "summary": "Anthropic's Lance Martin on the Architecture That Lets AI Agents Run 12 Hours Unattended &nbsp;&nbsp; finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83QmY3bW1TU0hwdFBicnVrMXJYT3I5bFVoTzZOa2pDNmhjUTdrWTZMREttV0h2dVdBUUZ2NzNuWTh6dFljVlQ4M1RTa014c2p0bUQ1WVc1NURYRk0?oc=5",
+      "publishedAt": "2026-07-22T20:09:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "ede2d6ce1ce0",
       "title": "DriveNets and AMD Publish Reference Architecture to Maximize AI Cluster Performance and Efficiency - PR Newswire",
@@ -16,13 +70,13 @@
       ]
     },
     {
-      "id": "14c9c839d9cc",
-      "title": "Call for Entries: 25th Tile of Spain Awards in Architecture and Interior Design",
-      "summary": "Showcase your project at the 25th Tile of Spain Awards Have you designed a project where ceramic tiles take centre stage? The call for entri...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181490/call-for-entries-25th-tile-of-spain-awards-in-architecture-and-interior-design",
-      "publishedAt": "2026-07-22T02:30:00.000Z",
-      "category": "案例",
+      "id": "9df13ba66b83",
+      "title": "AI adoption reaches tipping point across UK architecture– but human judgement remains critical - RIBA",
+      "summary": "AI adoption reaches tipping point across UK architecture– but human judgement remains critical &nbsp;&nbsp; RIBA",
+      "source": "RIBA",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTlhTTNET1AtWVFrZHMxcGh0ellsd0pmaHNhelNaUnUwbjhSTllXeGdLVnlnVEFBOGhIeHdtaTBrT0dBeXhTclBESzc5OGFRZ0JvNmxsZGFzMmVEbnFGSVpiZFJsWXlFZ1hkeWhTZGw2M3JJRllFT1BKcU16V0g0d2pPNHM3TFd5MUY4?oc=5",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "category": "研究",
       "tags": [
         "ai",
         "architecture",
@@ -30,15 +84,17 @@
       ]
     },
     {
-      "id": "f597a643f730",
-      "title": "Ponta Fina House - Aiuruoca / Gil Mello Arquitetura",
-      "summary": "The design of S&iacute;tio da Ponta Fina, located in Aiuruoca, Minas Gerais, revives the occupation of a plateau on the slopes of the Serra ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181317/casa-ponta-fina-aiuruoca-gil-mello-arquitetura",
-      "publishedAt": "2026-07-21T17:00:00.000Z",
+      "id": "e6b2f2c3dce1",
+      "title": "Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World - Batteries News",
+      "summary": "Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World &nbsp;&nbsp; Batteries News",
+      "source": "Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlBMRW8zOWs0MmptUWtlZjhLczNXZzNOZ3BhdXJjUEc2ZEdLbUJieTNCMXVvT0tjX3VWbHVUOXN1RkEyVjhSZFVORVZGcjRYXzBOM0ZscnhrYXRvMFpEcUhJSmZfZzV1YVVtdXNLSkNwQ3RZazBrMTFYcF9BaVFiMU9COXBRTlRYTmhibVg4aERuSTI0Znc5Y3hnSUx6UVpZdVdaanVLRlFwa2RlUHNHYkp4RC13Zw?oc=5",
+      "publishedAt": "2026-07-21T16:02:29.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -48,6 +104,20 @@
       "source": "NVIDIA Developer",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkJ3ZzhTLXhVZ0JhWGxSdGpsS0h0S0ItTmNKV1hCa0UyYkNXZm1pZ2dTaHNWeEdfWXpyV1ZxNzBOTnIyQXlWcFFkZFRpMFRUaFlFRmpMcjdqSC11TE1qdXFqbV9TSWQtQ0owNEp3SXA5ZU5GV25rUGxwNm9TZ1lTTy1HOEVxemFaY0gybjhYU01YRzUtSlV6Y0UyT0laT0FGTTczaA?oc=5",
       "publishedAt": "2026-07-21T15:57:50.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "279eee1592c0",
+      "title": "NVIDIA Vera CPU Performance Claims And Olympus Core Architecture Revealed - HotHardware",
+      "summary": "NVIDIA Vera CPU Performance Claims And Olympus Core Architecture Revealed &nbsp;&nbsp; HotHardware",
+      "source": "HotHardware",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFlBMnpqZWFzd1NnR1MzTUNsazVZUHJTTWpxdFBHTWFUcWhQZ2FPTGhDaTU1aVFSLVNVMTNiMkF6Vy1TYmxtRUhDbW5mNDUxTTgtYjNicXpsOUtFaTA0ZVNDQXlsZnhWSWNqYzhyek9UdXJUT2xTU1NfN09ZenlyMUljLWVfVGJ5WXZzU0lkdw?oc=5",
+      "publishedAt": "2026-07-21T15:02:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -91,20 +161,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "69fee177251c",
-      "title": "Knowledge Arena / SENAC São Paulo + Estudio Guto Requena",
-      "summary": "Architecture, sustainability, and education come together to create an experience of welcoming, lingering, and exchange. Developed by facult...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181313/knowledge-arena-senac-sao-paulo-plus-estudio-guto-requena",
-      "publishedAt": "2026-07-21T13:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -336,6 +392,20 @@
       ]
     },
     {
+      "id": "a66761321563",
+      "title": "AI speeds up design work, but can't replace human judgment in architecture, experts say - MSN",
+      "summary": "AI speeds up design work, but can't replace human judgment in architecture, experts say &nbsp;&nbsp; MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSVYtVGN3Q1JJU1JDZkF2THZNY3VUOGhEQWcwYzNNejVfaEhYQXczaDlDczF3UzdmWHdrSTlYSWxfZ0FEajRJcndCaktzWTM3Q1J3cUwyNUJ2enhVNHhSQUVjSTlQd1dRVnB2eG05enBhcEwwYURzaENKNUFZMWFTZ2h6MFQ4MTUySVdjUmFhX2x1eGw0OXNTU0RUd1I2aDA2VDZwblR3SmhETFJIR2hwNzJRUzNNUFhoX2VGQ1FLLW1NM2NxMmhaXzdKVXZMNFU3VjZUTlF3?oc=5",
+      "publishedAt": "2026-07-20T04:57:56.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "e813af971cf7",
       "title": "How Senior Engineers Actually Build With AI In 2026 | Build A Full Stack Systems Architecture App Amandaland (J5Ls1Q4UPn) - Mshale",
       "summary": "How Senior Engineers Actually Build With AI In 2026 | Build A Full Stack Systems Architecture App Amandaland (J5Ls1Q4UPn) &nbsp;&nbsp; Mshale",
@@ -375,17 +445,16 @@
       ]
     },
     {
-      "id": "f2cccf38b9f5",
-      "title": "How Nokia’s New AI Phone Brings Smart Features to a Classic Design - Parametric Architecture",
-      "summary": "How Nokia’s New AI Phone Brings Smart Features to a Classic Design &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EX3hLdHJuZHpidmgtM0g3enpsQjVWNG1TTmEtemZVMEM0YjBBNTZUVHhaVEVJVjBQeDZoQTNHSGdOa0t6UWt6bE51Y1hWVTFtaGFkdDFRa29fSGtfN1pJdXF2aHl2YnR1cWtLYkxiMEJ0N09ZTWtOcG9FNA?oc=5",
-      "publishedAt": "2026-07-15T09:03:55.000Z",
-      "category": "生成式设计",
+      "id": "e314a87a51ad",
+      "title": "Governance and Security-by-Design: Embedding Safety and Alignment into Agentic AI Systems - The Association for the Advancement of Artificial Intelligence",
+      "summary": "Governance and Security-by-Design: Embedding Safety and Alignment into Agentic AI Systems &nbsp;&nbsp; The Association for the Advancement o...",
+      "source": "The Association for the Advancement of Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OTHNDSXlORkJvb2V5RG9GQjZPbmMzeVpZYUdVa19ITkU1YXRVU2VVdjBYZTJYcjlXbVNNSkRiLUVCXzZBLUgwUGZjZlZfbmlNWG5aYTlfU1hmYk9iYmJ1OTc0N0JRbmc?oc=5",
+      "publishedAt": "2026-07-15T12:40:19.000Z",
+      "category": "研究",
       "tags": [
         "ai",
-        "architecture",
-        "architect"
+        "artificial intelligence"
       ]
     },
     {
@@ -407,76 +476,11 @@
       "summary": "How AI is reshaping the future of the AEC industry &nbsp;&nbsp; McKinsey & Company",
       "source": "McKinsey & Company",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcE1tTE9UMzZnTlQycmJQMWkybUpXelp1U1NlVmROX1ZqSXpUX0djemU5ZXpCekhVeDJvMTVUalNneGJIVEpESFBlR0RqaGcycmtmeUlEY3Frc0tFY09iMGVwMDFSUWw4QndheXFVdmJOaDQyUUVMV2pkcUt5Y21SampTV3NuM3o1RXVSVFMyM1kzVW1wc0hlTC1TVmp1Y0Z5Qk1pU3ZsNUEtaUM1RnVxTE1EbHNlZGJxX0NYbTRSVVFHZHV0RkFLUDdaZk1OQXRTZkJaeGlxZVJCblkwVU9YXw?oc=5",
-      "publishedAt": "2026-07-15T00:00:00.000Z",
+      "publishedAt": "2026-07-15T07:00:00.000Z",
       "category": "BIM / AEC",
       "tags": [
         "ai",
         "aec"
-      ]
-    },
-    {
-      "id": "5603fe7ef909",
-      "title": "How will AI change office design? - The American Institute of Architects: AIA",
-      "summary": "How will AI change office design? &nbsp;&nbsp; The American Institute of Architects: AIA",
-      "source": "The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kWmlhSUNiYkNJc2ktYmZxVjRWUG9LQ2J5UGo5TDNsbDZlbi1nM3BFS19iUGk5R05KZGF6RXJjTEM2RlpXOWhYdzI2Znh6aWIyTDJ0YWdyMHJQdGVGUm5YVXpQT0xmMElWM3hSVmk1LXBPdzM5aTNxM3VxdHpDTWc?oc=5",
-      "publishedAt": "2026-07-14T14:26:43.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "94c94a214437",
-      "title": "Chipmind introduces generative UI for chip design agents - TyN Magazine",
-      "summary": "Chipmind introduces generative UI for chip design agents &nbsp;&nbsp; TyN Magazine",
-      "source": "TyN Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3R3SVBXdFFITzJJLVhRcktTMW41S1ZYVjRwVy16TW1oMlFvdFB2bUFfOEdyeFZkR1lmUlpNaTJHWWpkYjFiNk9TLTBQd2JJUzJlZjY4LWdTRWthUm1JVi1BVzNJQWtfMG8yZDVhVWJvNWhVSlJoS2Faa01WU2MxQ0o0QktSb0dy?oc=5",
-      "publishedAt": "2026-07-14T12:24:41.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "generative"
-      ]
-    },
-    {
-      "id": "043b1c7421da",
-      "title": "OFA Group Announces Strong Early Commercial Validation for AI Platform QikBIM as Global User Adoption Accelerates - The Globe and Mail",
-      "summary": "OFA Group Announces Strong Early Commercial Validation for AI Platform QikBIM as Global User Adoption Accelerates &nbsp;&nbsp; The Globe and...",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNN2tSOW5makw4UjFJVjBsV2ktWTdUMExtUzFYYUoya2dZZzhNUFU2TXNUOUdCMDhpblZBQkxzV3lRc0Fvd1dnZ1ZpY3Bwa1pCbHZCU1NWVXEyR3JOSFVvZ2lWMUc0YW0wWXpJYUtMdjZ5NnJQZUFYWFNfT1RUWjdWSVBycXNVa0JxZ0JpNndmNno2SWF1N2xUMVlkNWRDOUlQVVdxbzNMdHM2RlNLSzR1M2xxZjRDdFMwU0RZYXVMTXhoeEg4RU5mUzBBc0VVWE9GTGhMcGlkY1p3czllaXFjRXo2aDVDRk9xYVRIVXlyLUY4UGcwMTdlNlFIRlRNSFlLUVZCc1owLTdwYlo5dDZkeUl5dEx6OFhwOU9HS0hYSmZld1F4bUc5VA?oc=5",
-      "publishedAt": "2026-07-14T12:00:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "bim"
-      ]
-    },
-    {
-      "id": "78bcc46448ca",
-      "title": "Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture - infoq.com",
-      "summary": "Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture &nbsp;&nbsp; infoq.com",
-      "source": "infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByeWFMSkFPZS0wWUtrWVJLZXhBUHhvRVZYanBQYnRoRDdtVi1MTDlMSUhRNHNnVEI3cTlaWVR5NzVfRkRwT3NUNDZPU1RxWHlTSlpvMEZmdGszTmZCQkR5ZGNlajVOYmo5ckROV3JlZTZ0cmQxWEE?oc=5",
-      "publishedAt": "2026-07-14T09:00:57.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "001f21deffb7",
-      "title": "Chipmind Introduces Generative UI for Chip Design Agents - markets.businessinsider.com",
-      "summary": "Chipmind Introduces Generative UI for Chip Design Agents &nbsp;&nbsp; markets.businessinsider.com",
-      "source": "markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjFfcWFVZzRlUmVTTVBGLV90TzFvMUxRV28zZlYyUkY0WTlQN0t4ZmlfUWR0TnNod2stWTFWdFB5UXZWZVE5TGFxdFRVbEkzWkVVYTBkd2ZnVTVoRS1IWGxaRXFwNTNralc2WGFIQTVwcE9tNFdQWjNVTGktS0lDYlZ1SjU4bGwyY3MxbV9GRks2RVEwME5SZlVsU3kxOG90NDFiUjlJZmxSMEdQb0hVTThCMlZGZw?oc=5",
-      "publishedAt": "2026-07-14T08:19:38.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "generative"
       ]
     }
   ]
