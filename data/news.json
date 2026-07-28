@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-07-27T23:18:13.324Z",
+  "updatedAt": "2026-07-28T23:13:48.797Z",
   "items": [
+    {
+      "id": "33c5f1c3b8de",
+      "title": "AMD, Schneider Electric Develop AI Data Centre Reference Architecture - THISDAYLIVE",
+      "summary": "AMD, Schneider Electric Develop AI Data Centre Reference Architecture &nbsp;&nbsp; THISDAYLIVE",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkNnU2plVDJSei1DMkpGTUM4cGNlR1NzNHc3cWV2ZnJiSTFscWo2SHlkMEt3cEtvTG92Z25oUmljeXl0UUNLblRUd2l5c1NUMWpiOS1xaTZJaTZqaDduSFV5R0RMTWNoWHpDeXdRRGl4TlR2RDN6Ny03SmJwVHZSbkd3Q0QyVDVCXzlRVUlsS2ZTS0V3bFY2Q3ppczBpQldkdmJJUWN1WWFsOHV2?oc=5",
+      "publishedAt": "2026-07-28T14:41:47.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "bd4a1ae74fec",
+      "title": "How AI Can Make Design Work Appear Prematurely Resolved - Common Edge",
+      "summary": "How AI Can Make Design Work Appear Prematurely Resolved &nbsp;&nbsp; Common Edge",
+      "source": "Common Edge",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTM5Rks1VnJmWWg4RWFKelRyU09xWDlqUjl4UlpyN0F0bWs5YUJNU0tocHVQalAycVpocGtfZmRBc1BiaXdKa25LYmtsTEs5Wld6dW9DTXY5aDBXQm50blNnQnRFWGlqbHZpMVIzc3I1eE4tZGlTQzlHSDQwcmZkaGVfd0R6QQ?oc=5",
+      "publishedAt": "2026-07-28T13:47:09.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "479ed627bdc7",
+      "title": "Illoca Showcases AI-Powered Plamo Platform for Architectural Design - TipRanks",
+      "summary": "Illoca Showcases AI-Powered Plamo Platform for Architectural Design &nbsp;&nbsp; TipRanks",
+      "source": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTE9TVTV4aTI5RDAzeFpLZ21OMWIwZzIzSlZyTllxdTd3VzlZaFdWTzRrVXFmNFZOd19YTjZPazZYeExXY0tFMkFEWi13ZmFFYTBWTGt3UVdFT2NuMkFBVDUwa0dKR0JUMTllVFdHMzZndjZLaUpCbHVJWVZEZTk2cmVHczFEQnhERU1kZHdBcEEtYzBoM1JpVC1TLW1pQVVxUkJZYkFFQXdTR1JUNWF6MlZkU1QyUQ?oc=5",
+      "publishedAt": "2026-07-28T12:36:25.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "267766e04e90",
       "title": "Designing The Enterprise AI Architecture Of Tomorrow - Forbes",
@@ -57,38 +96,12 @@
       ]
     },
     {
-      "id": "5cb7b32deb2d",
-      "title": "Cork House / Polysmiths",
-      "summary": "Architecture studio Polysmiths built a three-bedroom house on an infill plot in East London, using cork and other sustainable materials that...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181472/cork-house-polysmiths",
-      "publishedAt": "2026-07-27T06:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "609fe649ec98",
-      "title": "Luohu Library and Youth Activity Center / Shenzhen Huahui Design + iDEA",
-      "summary": "In Luohu, where landscape and city are held in close balance, expansive mountains and water are interwoven with a dense, fine-grained urban ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181518/luohu-library-and-youth-activity-center-shenzhen-huahui-design-plus-idea",
-      "publishedAt": "2026-07-27T00:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "796ed42afe35",
-      "title": "Mami Dan Temple of Toligbé Cultural Center / Maison Bignon Sossou",
-      "summary": "Architecture as a Vessel for Living Heritage - The Mami Dan Temple of Toligbé reflects Maison Bignon Sossou's conviction that architecture c...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181253/mami-dan-temple-of-toligbe-cultural-center-maison-bignon-sossou",
-      "publishedAt": "2026-07-26T17:00:00.000Z",
+      "id": "4a369d77cd36",
+      "title": "Architecture in the age of AI: Technology with a human purpose - Inquirer.net",
+      "summary": "Architecture in the age of AI: Technology with a human purpose &nbsp;&nbsp; Inquirer.net",
+      "source": "Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3BJUjBySy1LTlE3MXNOU2VKekZzbzB3Qncwd1NKSWtwbnlJS0JhTDFfaTlsOUdIM3NpaDRpODM3U3FoVlV5eGhLZ1l1UlJtTmpwMjNvMTR0SW8tYkg5TVFnUnpxeUdCaU9Ga0NMTHVNTmFvNmFVU21scFpIQ210TjRYXzcxbXpuU1B2RTFwSUxvTHdKN0JlblY5bEg2MUXSAaQBQVVfeXFMUGVicmN4eDNObU50RVN1N1dHd2VOWmJ2WXkwdV81TVJhT1JCYXRndjBacGs5N1JRSnZVS3VpeGF6U01mRDdzcUpLNzd0MWd3WlctcVZPdklmdThZanowN0N6VndFRHZPT1dmQkxzeU9PRnotaDJsTEFyQUpDbWxLeXlpVk5XbDM5azVZZTFtMmh4ZGNTeTNldElJOXkyaFZpLTZBcFg?oc=5",
+      "publishedAt": "2026-07-25T02:21:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -139,9 +152,9 @@
     },
     {
       "id": "325292829171",
-      "title": "Schneider Electric and AMD Develop Reference Design for High-Density AI Infrastructure - ARC Advisory Group",
-      "summary": "Schneider Electric and AMD Develop Reference Design for High-Density AI Infrastructure &nbsp;&nbsp; ARC Advisory Group",
-      "source": "ARC Advisory Group",
+      "title": "Schneider Electric and AMD Develop Reference Design for High-Density AI Infrastructure - ARC Advisory",
+      "summary": "Schneider Electric and AMD Develop Reference Design for High-Density AI Infrastructure &nbsp;&nbsp; ARC Advisory",
+      "source": "ARC Advisory",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzJ3MVdrb1VpNnd1Z19SbS1GTFk2Q0d3OVNUZkJsblRtWmZ2Z3d5R24wSXVTTFJfenJSaXIxcHlmcklmcFFWSDVzb1djVU1hV0NQNWtCb3ZuXy1ZSms0MmNWdUxxbmxXR3hhMlhFTmQwTExoYWwyTVdFMEQ2d19VRy0wV3dwWkJPTVdib3MyR3BGTzJrajNpQkFoQzBlbTB3LXhNMmJ3Zml6Zw?oc=5",
       "publishedAt": "2026-07-24T12:00:00.000Z",
       "category": "研究",
@@ -247,12 +260,12 @@
       ]
     },
     {
-      "id": "38251ecea11f",
-      "title": "Anthropic's Lance Martin on the Architecture That Lets AI Agents Run 12 Hours Unattended - finance.biggo.com",
-      "summary": "Anthropic's Lance Martin on the Architecture That Lets AI Agents Run 12 Hours Unattended &nbsp;&nbsp; finance.biggo.com",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83QmY3bW1TU0hwdFBicnVrMXJYT3I5bFVoTzZOa2pDNmhjUTdrWTZMREttV0h2dVdBUUZ2NzNuWTh6dFljVlQ4M1RTa014c2p0bUQ1WVc1NURYRk0?oc=5",
-      "publishedAt": "2026-07-22T20:09:00.000Z",
+      "id": "1cdcb0024f0b",
+      "title": "Intellect Design Arena Limited Signs Agreement with Sharjah-Based Financial Institution in Uae to Modernise Corporate Banking Landscape with Composable Emach.Ai Architecture - marketscreener.com",
+      "summary": "Intellect Design Arena Limited Signs Agreement with Sharjah-Based Financial Institution in Uae to Modernise Corporate Banking Landscape with...",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUFJweFhJRWZiRzdlYldrNk5uQVM1eU5qQ20zc3hsYjA0ZHlzYUVVQXFmUzVSOXIzX1hMdzFqOHZqOXVldzl3R1FXeXlSUGdabEY4VG5mQkhBbktFUWNjWTdnZ2hhMkE0TENobUZQLUt3dWRFeFR4b2dOakxHYmpBa2d2YTZaeEZ0M0tCblpZMG43aUtWZFEteDhBbThYRjRhVHVRSXBoWmREQkZnQlYxbGZlZ05wY2dxXzVYRUpuZHRoTFJvT2cwTFFTUUlUNGM3RjF1NjBOU3gwU0hVUnE0WFF6OEVxcnlB?oc=5",
+      "publishedAt": "2026-07-23T05:25:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -295,6 +308,20 @@
       "source": "NVIDIA Developer",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkJ3ZzhTLXhVZ0JhWGxSdGpsS0h0S0ItTmNKV1hCa0UyYkNXZm1pZ2dTaHNWeEdfWXpyV1ZxNzBOTnIyQXlWcFFkZFRpMFRUaFlFRmpMcjdqSC11TE1qdXFqbV9TSWQtQ0owNEp3SXA5ZU5GV25rUGxwNm9TZ1lTTy1HOEVxemFaY0gybjhYU01YRzUtSlV6Y0UyT0laT0FGTTczaA?oc=5",
       "publishedAt": "2026-07-21T15:57:50.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "279eee1592c0",
+      "title": "NVIDIA Vera CPU Performance Claims And Olympus Core Architecture Revealed - HotHardware",
+      "summary": "NVIDIA Vera CPU Performance Claims And Olympus Core Architecture Revealed &nbsp;&nbsp; HotHardware",
+      "source": "HotHardware",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFlBMnpqZWFzd1NnR1MzTUNsazVZUHJTTWpxdFBHTWFUcWhQZ2FPTGhDaTU1aVFSLVNVMTNiMkF6Vy1TYmxtRUhDbW5mNDUxTTgtYjNicXpsOUtFaTA0ZVNDQXlsZnhWSWNqYzhyek9UdXJUT2xTU1NfN09ZenlyMUljLWVfVGJ5WXZzU0lkdw?oc=5",
+      "publishedAt": "2026-07-21T15:02:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -369,18 +396,6 @@
       ]
     },
     {
-      "id": "74057a499801",
-      "title": "Phytoform partners with major seed breeders to bring AI-powered plant design to corn crops - AgFunderNews",
-      "summary": "Phytoform partners with major seed breeders to bring AI-powered plant design to corn crops &nbsp;&nbsp; AgFunderNews",
-      "source": "AgFunderNews",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3JKdnU2TFlVQlV1T1gwN0NMME55Uy1oYW9CTzc2SXZZdFN3dmZWRHZrV1ZRNnNZb0pQN09kMkZGcmY1TEt3T0F5YzZvZEZDYkJramh1TExmMTJ3UDNybERONjh3aVZMaC12NENsRFdXSzdmbGFYay1LU2pVTXFSal95TGZvMUF4cnUwdnBlaGEwSTBXWG9PWUgwU1NkTGtPUGZVY0lXU1F4Q2FHekR0SEhJS0VXUQ?oc=5",
-      "publishedAt": "2026-07-20T19:01:15.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "06ce88405d4d",
       "title": "UMA: The Architecture Edge AI Needs to Scale - EE Times",
       "summary": "UMA: The Architecture Edge AI Needs to Scale &nbsp;&nbsp; EE Times",
@@ -419,12 +434,12 @@
       ]
     },
     {
-      "id": "0961f78e356f",
-      "title": "Gemini Architecture Written Directly Into Silicon: Technical Details of Google’s New AI Inference Chip “Frozen v2” Revealed, Processing per Unit of Power Consumption Increased by up to 10 Times - TradingKey",
-      "summary": "Gemini Architecture Written Directly Into Silicon: Technical Details of Google’s New AI Inference Chip “Frozen v2” Revealed, Processing per ...",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0lOdUVvRU1rWjliUmgtR3hIUHA3UEhGS2tnUTR3YTBDVG1jVG1mS25ZeFFKZTlFX2R4RlhqajBwOGVhQnRaRHVabU9ZbEdaRzJIblpJaXZPMHNma3VGRDdPZ2tWWXhnaDBNSGVvRkx1YllROF9YOHVNaFQ0WTAzenl2UnBCeFR6MElUWnE0Z0EybFBaZWNvLVFmWTNwenlndzF4eTluQlZXZVJPVTZ0UWNaVmpLZldDQVVRaUhicU54U3pRM0JB?oc=5",
-      "publishedAt": "2026-07-20T14:55:11.000Z",
+      "id": "03c61851c86b",
+      "title": "3 E Network Finalizes Custom Edge AI SoC Architecture for - GlobeNewswire",
+      "summary": "3 E Network Finalizes Custom Edge AI SoC Architecture for &nbsp;&nbsp; GlobeNewswire",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZ2dCeGtLZGRRSUtFY1ZlMGxFWmdRNDRNNmNYUjNRRk9la2JkNmVJdUk5ZXQwcHRFaU41SVNhdldnbFN4YjNkQm5yczd0bWQzRkhjb0UteHh4WllfdjdRb0kyMWNvWEdaVzZuZHhXaU4zN1FGWFR6emtDcW5jLW9fNkFmR1VXc2NpVWlRSUJyUkJibDB1aWNhcnBkdzZKNTBKQmpzNGU0ME9hV1BXUjAzcWN1QjR2UTJZbmw4Q2hrMGcyckFHNW4tTmlwSUhzUTFzRV9FRWdOcVRyNk9vNEpNVHVCUVppVTloME10SE5OZ25sbXQtTGNaNWhXRmlRd3Z4REF5VWpBVFBya1NaREUxS1p0dWlKWHRzdGt4R2ZxU0UwNDZ3cXN2TW9ZeDZROXgtZm9hSmVQbUQ2VkU?oc=5",
+      "publishedAt": "2026-07-20T11:50:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -433,12 +448,12 @@
       ]
     },
     {
-      "id": "db565ef800ea",
-      "title": "The Complete Enterprise AI Architecture Blueprint for 2026 | by Paridhipurohit | Jul, 2026 - DataDrivenInvestor",
-      "summary": "The Complete Enterprise AI Architecture Blueprint for 2026 | by Paridhipurohit | Jul, 2026 &nbsp;&nbsp; DataDrivenInvestor",
-      "source": "DataDrivenInvestor",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGFSZzg2Ykp4cGdLSDVfbGRzV24tVTRFc2FrRmF2T2Nyb01NREdSNTVZYjFCOV93ellvMGdPZWt2NWdBV0tDSHNJNHE3eUpRODBtOW9kbDdCQlJvTEpDVXdrTHBxdVBKTlhvSzBPYlNOengzWHVyR2duNjVPWDVVYTF2VHZfM1VjalFfWnJxcEE0b0JCT1B2TVVpSm5oZnZjRDN1WjlNZk01MkVoVkE?oc=5",
-      "publishedAt": "2026-07-20T13:34:10.000Z",
+      "id": "93fbc5574dcc",
+      "title": "3 E Network Finalizes Custom Edge AI SoC Architecture for Aladdin Robots, Delivering a Core Computing Foundation to Accelerate Commercialization - Moomoo",
+      "summary": "3 E Network Finalizes Custom Edge AI SoC Architecture for Aladdin Robots, Delivering a Core Computing Foundation to Accelerate Commercializa...",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ05qSy10YW0xakJDcGdabHJrZV9NbElfX1hCWTZfdEVwaF9DTUNnWG43cTF5c0hySnVUMmZPejlsYlBnZzB0dnBvR3l5cWgwRzVwRGhKeHVZUDN5NzhCUm5xNE41bWdNUmYzemI2VURMUDdIQUdaUmtmRktiMlpiNkQ5c2xzSHdQbDByWGVkUm9BUzBtLWlaZ0FjejdIcHMw?oc=5",
+      "publishedAt": "2026-07-20T11:50:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -447,13 +462,13 @@
       ]
     },
     {
-      "id": "e30448971f82",
-      "title": "Spotnana to roll out ‘multi-agent AI architecture’ - The Business Travel Magazine",
-      "summary": "Spotnana to roll out ‘multi-agent AI architecture’ &nbsp;&nbsp; The Business Travel Magazine",
-      "source": "The Business Travel Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRmh0ZTdsQUtsTmJGOU5DMGJCa2QxZ29PWVVpMXRMTDVNRnhlQ0hGMS0yUVhpTHV1RFN5dlkzZWQ0aFRlVElQdGgyTmYtckF3MlFQTzVicGlGVGRkUVM1VzJzT29FSWhYWUNQRXJ6ME91N09VbWw2cy1PNU9VNGRNbGd2MzdYWDZVOVE?oc=5",
-      "publishedAt": "2026-07-20T13:13:57.000Z",
-      "category": "研究",
+      "id": "4d2fd984492c",
+      "title": "1.5TB Mac Studio Enables Advanced Local AI Architecture - Geeky Gadgets",
+      "summary": "1.5TB Mac Studio Enables Advanced Local AI Architecture &nbsp;&nbsp; Geeky Gadgets",
+      "source": "Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaYURJZkxmNG5CMzZvb3NoNC14TnFuLVljNkJKUm9aUGFMS3lrdmh6MDd0bE0wUW5iaWFoM0c3N2tDR1NqbDdiWUstRlF3RnV1dENqLTkwQW5ac2tCQ1Y5RlUyRVlGbURTWDVn?oc=5",
+      "publishedAt": "2026-07-20T11:13:11.000Z",
+      "category": "案例",
       "tags": [
         "ai",
         "architecture",
@@ -461,26 +476,12 @@
       ]
     },
     {
-      "id": "d572a45cfd38",
-      "title": "Hillcrest Energy Technologies Unveils Technical Paper on Over 99% Efficient Single-Stage ZVS Power Architecture for 800V AI Data Centers - Kalkine Media",
-      "summary": "Hillcrest Energy Technologies Unveils Technical Paper on Over 99% Efficient Single-Stage ZVS Power Architecture for 800V AI Data Centers &nb...",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNM3NlSE1lS2ZTejliSERobVhjYmpUWTFXTmQ2dXR5S2ZpbExfc0l6ZF9sR2FWMk1taGJZa294U1g3Mlo4cmY4UHRzXzlNSThyaDQ0NnNDVWxZUzMwVHJsckM0d3BvZ0N5S0dhQU1tOG82MWt5Qm11NTBTS3VNc0NZSGFVejV1NmxBcFM3SHF1R085Y1JBMk9tN1FPNDFYYXVkZVNXclczdUpjb3E0Wm1CUU94V1M4eThOSnR4V2FVMnZzQ2RzQzNqT1FZTGgxQll2TUttTVpWVmJZTmxCMGVSNko3dFlscEExeVFpMU9NVnNMcGlJb3NnUFdpMjljVFZYQlhybkxBQ1dVeVFCRS1r?oc=5",
-      "publishedAt": "2026-07-20T13:12:29.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "f62e3a9d0b40",
-      "title": "Siemens to acquire Precision Innovations to expand AI-powered system-on-a-chip design exploration and optimization - Siemens Newsroom",
-      "summary": "Siemens to acquire Precision Innovations to expand AI-powered system-on-a-chip design exploration and optimization &nbsp;&nbsp; Siemens News...",
-      "source": "Siemens Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZNl96bGFqRGxMOWEzZlZzaUlKN1RmWXpyalpiMzc0VjlWVm43a0wwanhqb1VmdFNOZXFZX29BbGhuS2Z4WDVvVDBkZUhiVm05QzgwUEIyZ1A1XzhycGNfdHFhN0x5d1FFY2d1ejk4aUFpalZvenplVGJWQXM?oc=5",
-      "publishedAt": "2026-07-20T13:02:38.000Z",
+      "id": "74057a499801",
+      "title": "Phytoform partners with major seed breeders to bring AI-powered plant design to corn crops - AgFunderNews",
+      "summary": "Phytoform partners with major seed breeders to bring AI-powered plant design to corn crops &nbsp;&nbsp; AgFunderNews",
+      "source": "AgFunderNews",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3JKdnU2TFlVQlV1T1gwN0NMME55Uy1oYW9CTzc2SXZZdFN3dmZWRHZrV1ZRNnNZb0pQN09kMkZGcmY1TEt3T0F5YzZvZEZDYkJramh1TExmMTJ3UDNybERONjh3aVZMaC12NENsRFdXSzdmbGFYay1LU2pVTXFSal95TGZvMUF4cnUwdnBlaGEwSTBXWG9PWUgwU1NkTGtPUGZVY0lXU1F4Q2FHekR0SEhJS0VXUQ?oc=5",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
