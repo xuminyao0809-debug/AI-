@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-29T23:11:51.465Z",
+  "updatedAt": "2026-07-30T23:16:55.313Z",
   "items": [
     {
-      "id": "15ce765e12ca",
-      "title": "Vĩnh Long House / NAQ Architecture",
-      "summary": "Located in Vĩnh Long , where a hot and humid tropical climate prevails throughout most of the year, this house demonstrates how bioclimatic ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181718/vinh-long-house-naq-architecture",
-      "publishedAt": "2026-07-29T02:00:00.000Z",
+      "id": "c367808f05c4",
+      "title": "Smallest.ai raises $13M to accelerate the development of its asynchronous voice AI architecture - SiliconANGLE",
+      "summary": "Smallest.ai raises $13M to accelerate the development of its asynchronous voice AI architecture &nbsp;&nbsp; SiliconANGLE",
+      "source": "SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXpDMXVwaGE4ZFRXb1RuZkdkM1BqekZqaUI3RXVueWFjc0JPR3h1NFEtTG5GVGN4S2YzN0EyNDVxbkh3OWdUZVV3YThqRDA4YnVjZk5FRVJ0U2s0Y1BrU3pPWWY0MUtVaWRNVUVHMFlndVV3SzV6bmxCS1kxMlgxdklkSE5ES3FPczQ2a0NGQVR4eUR5b2F5QmZkRy1FNXRKZGtaVF9meGZxU19UNXpIaTQwVWZ2d0xm?oc=5",
+      "publishedAt": "2026-07-30T18:30:20.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -16,12 +16,66 @@
       ]
     },
     {
+      "id": "28cdef2d96ba",
+      "title": "AI adoption hits tipping point across UK architecture - fmj.co.uk",
+      "summary": "AI adoption hits tipping point across UK architecture &nbsp;&nbsp; fmj.co.uk",
+      "source": "fmj.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajFjQ09WSl80NmFoYzd2aEV0d05ZRXVPM0VQUnVmVHFsN3ZKNFJRbWptTXR3czk5V1VoQ3gzV3IyZHl5MUxZcnRmUDlWa1lWcXlOeW15ZkRxRGhXLTVfMWVpaVV4TDQwbE1rM3g4SkR2dWI4WVZhQnA0RWo2OTVqS0xB?oc=5",
+      "publishedAt": "2026-07-30T11:42:46.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "08e01a358036",
+      "title": "How AI Is Eliminating the Design-to-Development Handoff - HackerNoon",
+      "summary": "How AI Is Eliminating the Design-to-Development Handoff &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUW9ZZHFFWXhSemlaVkJXVmlFYjRGM1FaM3Izd0tLU1lfWGtObFRNazZ2U2ctODMtQmNjOVAzMVVOWnhJdXVDTXlnbU9kZERYSVpweGhVZ1BxczEzd2gxZC1LRjBMbGl2NWlsMFM3bWUycG9GYlhDZTVibVZKdFFObmVoVS0?oc=5",
+      "publishedAt": "2026-07-30T10:04:31.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "3272351e4a23",
+      "title": "Maida Hill Public Toilet / Studio Weave",
+      "summary": "In Maida Hill, North Paddington , Studio Weave has completed a distinctive building: a small public toilet pavilion composed of reclaimed st...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1181775/maida-hill-public-toilet-studio-weave",
+      "publishedAt": "2026-07-30T07:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "77d674dd9c67",
+      "title": "Building Enterprise AI Workflow Automation Systems: Key Architectures and Best Practices - Nasscom",
+      "summary": "Building Enterprise AI Workflow Automation Systems: Key Architectures and Best Practices &nbsp;&nbsp; Nasscom",
+      "source": "Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlZzS2pwSTBleTJObnZFYVhnby1wSzhfaWdUS243aW5udEVFOEhIeVVxUlBoUlBLdW5BSFUzUURLWENVMWxidDNBZ1hPVXptM2VRRHdGU0p3NzZrNFBBbFlzVnE2UDM1MEZSRzd2bXdteHRaVkZqZW05WjdQemdkbHI3XzNUOEZ4WUIxcGlKSzZJYU5WdFowYmN0SjJDRGtzM3dZb01nVllmM3NSWEFvZ0VSVXlRN2hzcDNFdG1R?oc=5",
+      "publishedAt": "2026-07-29T11:41:51.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "building"
+      ]
+    },
+    {
       "id": "33c5f1c3b8de",
-      "title": "AMD, Schneider Electric Develop AI Data Centre Reference Architecture - thisdaylive.com",
-      "summary": "AMD, Schneider Electric Develop AI Data Centre Reference Architecture &nbsp;&nbsp; thisdaylive.com",
-      "source": "thisdaylive.com",
+      "title": "AMD, Schneider Electric Develop AI Data Centre Reference Architecture - THISDAYLIVE",
+      "summary": "AMD, Schneider Electric Develop AI Data Centre Reference Architecture &nbsp;&nbsp; THISDAYLIVE",
+      "source": "THISDAYLIVE",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkNnU2plVDJSei1DMkpGTUM4cGNlR1NzNHc3cWV2ZnJiSTFscWo2SHlkMEt3cEtvTG92Z25oUmljeXl0UUNLblRUd2l5c1NUMWpiOS1xaTZJaTZqaDduSFV5R0RMTWNoWHpDeXdRRGl4TlR2RDN6Ny03SmJwVHZSbkd3Q0QyVDVCXzlRVUlsS2ZTS0V3bFY2Q3ppczBpQldkdmJJUWN1WWFsOHV2?oc=5",
-      "publishedAt": "2026-07-28T18:06:04.000Z",
+      "publishedAt": "2026-07-28T18:07:47.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -57,21 +111,9 @@
       ]
     },
     {
-      "id": "cd3a5adcf089",
-      "title": "DAC 2026 Live: AI Chip Design Agents Hit Production as Nobel Laureate Joins the Debate - Tech Times",
-      "summary": "DAC 2026 Live: AI Chip Design Agents Hit Production as Nobel Laureate Joins the Debate &nbsp;&nbsp; Tech Times",
-      "source": "Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdllUc3d5ZDlPLThGc1JxczR5NmhNbnFvN3JOYWFQNU1wTlpKYVcxbHMxN2JkVXhpaU1vUGpNZzFhMnVWc1lZQXNnYm10dHVSN3ZKaEZxNVZBSmZualM5bGlxVi1iRGZRUWozbHNMUjBBRjUyMFZmSDdVTEw3ZWxFME1ObXg0b3diSVpOZXZodWp1bElzTVZnXzhuUUEzMnhRWjR2clQxRkFjTC14MExlcjdtY2xEbzdTMEZVbTAxVGN1RzdpMHlOMk82bHRyZw?oc=5",
-      "publishedAt": "2026-07-27T15:31:58.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "825d815aa3a4",
-      "title": "Scalable IQ GaN-Based Solid-State Transformer Architecture Eyes AI Data Centers - Electronic Design",
-      "summary": "Scalable IQ GaN-Based Solid-State Transformer Architecture Eyes AI Data Centers &nbsp;&nbsp; Electronic Design",
+      "title": "Scalable GaN-Based IQ Solid-State Transformer Architecture Eyes AI Data Centers - Electronic Design",
+      "summary": "Scalable GaN-Based IQ Solid-State Transformer Architecture Eyes AI Data Centers &nbsp;&nbsp; Electronic Design",
       "source": "Electronic Design",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWFVzYjdwdjhaUmFZcTV3b3R6ckc1anBzTVM4d0U4MHdJTXRXc1RWWk95MGx6dzRKNUlNNEg2bTExY08tUVowUmVmX3d5TV9NYUR5d1JGTTc4ajdzWm9BNUp1T1hmRDVWVEN4bzEtUnRneWFuenZoaGZxd1hLR25LY3FRZHliUVowV3lqbTUxYnVLNVRmQXlIbEhGcDZXMVB1RnJOdk5BSEp3Rnk3UHlaVWl3SVU3SzFveHlsc2lsSkx3eURjczFzWUFOdUVUUzFSb3BscEVweG5xbm5peFFrMl9uNENScjJfdE0tSkdpM1NYUnFQaktud2xBRDdyREhiM1EweHFRNTduQ0Jj?oc=5",
       "publishedAt": "2026-07-27T14:44:47.000Z",
@@ -164,20 +206,6 @@
       ]
     },
     {
-      "id": "47ff1c494cd9",
-      "title": "How AI is Reshaping Architecture: From Concept to Construction - Realty Plus Magazine",
-      "summary": "How AI is Reshaping Architecture: From Concept to Construction &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcE1SeDJwQWc3dno4b2NTS19uN0Q4Y3NDeGV3bkJrMGpDT2pQWF9NQWlCRGhBT2xsbWZLbVA4Tm93NV9nTkQ1YXQtblMycnlVODFrUUZXSGYzVE42ODlHRXZqZkV1ZVdrZkJyMUU1M0xuN3Z4MG1QNE1EdnVfSzVHUXJtbVhBSUYwMWJodjJpdTZkMEFycmE1T25IY1lLTFVXQUViOHRCVl9xc3JkTzhudHU1RQ?oc=5",
-      "publishedAt": "2026-07-24T11:27:58.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "e0db60432ce9",
       "title": "AI in architecture is booming, but human judgement remains critical - Planning, Building & Construction Today",
       "summary": "AI in architecture is booming, but human judgement remains critical &nbsp;&nbsp; Planning, Building & Construction Today",
@@ -249,9 +277,9 @@
     },
     {
       "id": "2989636cc0da",
-      "title": "UK architects arrive at AI ‘tipping point’ – and a new existential crisis - Workplace Insight",
-      "summary": "UK architects arrive at AI ‘tipping point’ – and a new existential crisis &nbsp;&nbsp; Workplace Insight",
-      "source": "Workplace Insight",
+      "title": "UK architects arrive at AI ‘tipping point’ – and a new existential crisis - workplaceinsight.net",
+      "summary": "UK architects arrive at AI ‘tipping point’ – and a new existential crisis &nbsp;&nbsp; workplaceinsight.net",
+      "source": "workplaceinsight.net",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaU44LW1QVkJlcTI0OVI0eHB2ZmhhdVhLdkZaVjBSeEpvc3d2Y2o5XzlqaE1MeHJnUlY1Tk9tNkZ2SWl2Vm42U3lwMk1PNXJXcXF0WlZrTXFYd3hfYVlndEVxamZvVEhJVWZvTG9fdkpBLW9sbURCb1pNeElUb0R4dnBHWHBoc0lWOE54b2g4ZXV5dHRVcjBiczlaZ3NPTU5K?oc=5",
       "publishedAt": "2026-07-23T09:27:46.000Z",
       "category": "研究",
@@ -303,20 +331,6 @@
       ]
     },
     {
-      "id": "ede2d6ce1ce0",
-      "title": "DriveNets and AMD Publish Reference Architecture to Maximize AI Cluster Performance and Efficiency - PR Newswire",
-      "summary": "DriveNets and AMD Publish Reference Architecture to Maximize AI Cluster Performance and Efficiency &nbsp;&nbsp; PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTkdsVF9fbllEVU4xMnJFTjN6NWpibU1yUUF0QkJ6dDJWcTdnV2tidDEtTGJEYXVGbi1aQ0VldDBncHlDcjJHT1R5VjZGemlpVHlYdXZ5TGQ2T04wcEJqSkJ6TkxUaFJLdjhJM1I0TkdDTnhwQV8zOXRWRGhWY1BxMjRGQkJuU2M1c0JicnoxcjEwZW1aYlZJbldEa3FhMmw2UFhPc2NCTlotRjNiZ3RfRlZMR1Q3cWtsb05JclNJMDlyM1BwdnhsdnVmSDN1ZlloM1hJem9ZZGxWbjJQYTFPdzA1ZGV0aFdjNWRabk93?oc=5",
-      "publishedAt": "2026-07-22T15:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "e6b2f2c3dce1",
       "title": "Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World - Batteries News",
       "summary": "Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World &nbsp;&nbsp; Batteries News",
@@ -328,18 +342,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "d237f7a77693",
-      "title": "NVIDIA Vera CPU Rolls Over Traditional x86 Chips With An Agentic-AI Focused Design With 6x Faster Performance & 40% Lower Latency - Wccftech",
-      "summary": "NVIDIA Vera CPU Rolls Over Traditional x86 Chips With An Agentic-AI Focused Design With 6x Faster Performance & 40% Lower Latency &nbsp;&nbs...",
-      "source": "Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHYyMWF2a3hWbVBRZG5RaGdIdHU4T3hVSXc2dFBxUUZ3a1Z3cThvY0pDdVZZOXpyQmxvNHRteUpwQzkta0NWdnRBUWI0OVdqT1B6Wkdtcnk2cm53VUNPaTU3S3FqMXEyb2JBVWlzVDJrRmtuYlB1TC1sUi1qd3pOZE5NaXQ0VWdGc2kwb0dtc2ktSTdvNXR2cmgtTGVibl9zOUQ2ZHd2eUljd9IBrwFBVV95cUxNbm51TTZDSzlxVWhwTWFHeGdwQmRNVXRZZHdiY3UxRlR6b01BM0pXYkhTZzJnSGloaUFqaXpDUE96bm9jYzlyRUpZS2pYMDR0VEM4SUI0RjdXS09ka3o5dWh1MUZHMTNBaFNpcFF0Z1Z0aVRZemFBUkRJN2c1QmtORXp0VWs5eHR3cUtZektqUWw1dk45UWFKSTNvWUVUVlhST1VoR2d1NTYwZ1Y1bkNJ?oc=5",
-      "publishedAt": "2026-07-21T15:00:13.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -383,20 +385,6 @@
       ]
     },
     {
-      "id": "a427132c152a",
-      "title": "RIBA Asia AI in Architecture Forum 2026 - RIBA",
-      "summary": "RIBA Asia AI in Architecture Forum 2026 &nbsp;&nbsp; RIBA",
-      "source": "RIBA",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Hc1o0cnN1ajJmTWc2U3Y3eThtcmV5OWlGYTRfSmVoWUFEaU5GZlhwUW1icTBNaVRrYTFKRjZ1MC1TMnM5YkVJd0hQTTFucTRPWXdTWDRkWC1tMlU3QnJibm5uaU9lMERBX2V0RXhWY1B6VHU0?oc=5",
-      "publishedAt": "2026-07-21T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "d22b3fe8de82",
       "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog - NVIDIA Developer",
       "summary": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
@@ -425,6 +413,18 @@
       ]
     },
     {
+      "id": "d237f7a77693",
+      "title": "NVIDIA Vera CPU Rolls Over Traditional x86 Chips With An Agentic-AI Focused Design With 6x Faster Performance & 40% Lower Latency - Wccftech",
+      "summary": "NVIDIA Vera CPU Rolls Over Traditional x86 Chips With An Agentic-AI Focused Design With 6x Faster Performance & 40% Lower Latency &nbsp;&nbs...",
+      "source": "Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHYyMWF2a3hWbVBRZG5RaGdIdHU4T3hVSXc2dFBxUUZ3a1Z3cThvY0pDdVZZOXpyQmxvNHRteUpwQzkta0NWdnRBUWI0OVdqT1B6Wkdtcnk2cm53VUNPaTU3S3FqMXEyb2JBVWlzVDJrRmtuYlB1TC1sUi1qd3pOZE5NaXQ0VWdGc2kwb0dtc2ktSTdvNXR2cmgtTGVibl9zOUQ2ZHd2eUljd9IBrwFBVV95cUxNbm51TTZDSzlxVWhwTWFHeGdwQmRNVXRZZHdiY3UxRlR6b01BM0pXYkhTZzJnSGloaUFqaXpDUE96bm9jYzlyRUpZS2pYMDR0VEM4SUI0RjdXS09ka3o5dWh1MUZHMTNBaFNpcFF0Z1Z0aVRZemFBUkRJN2c1QmtORXp0VWs5eHR3cUtZektqUWw1dk45UWFKSTNvWUVUVlhST1VoR2d1NTYwZ1Y1bkNJ?oc=5",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "b0fadce1309c",
       "title": "How data and AI are transforming manufacturing workflows",
       "summary": "Manufacturing is entering a new era where AI, connected data, and intelligent workflows are reshaping how products are designed, engineered,...",
@@ -449,12 +449,12 @@
       ]
     },
     {
-      "id": "03c61851c86b",
-      "title": "3 E Network Finalizes Custom Edge AI SoC Architecture for - GlobeNewswire",
-      "summary": "3 E Network Finalizes Custom Edge AI SoC Architecture for &nbsp;&nbsp; GlobeNewswire",
-      "source": "GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZ2dCeGtLZGRRSUtFY1ZlMGxFWmdRNDRNNmNYUjNRRk9la2JkNmVJdUk5ZXQwcHRFaU41SVNhdldnbFN4YjNkQm5yczd0bWQzRkhjb0UteHh4WllfdjdRb0kyMWNvWEdaVzZuZHhXaU4zN1FGWFR6emtDcW5jLW9fNkFmR1VXc2NpVWlRSUJyUkJibDB1aWNhcnBkdzZKNTBKQmpzNGU0ME9hV1BXUjAzcWN1QjR2UTJZbmw4Q2hrMGcyckFHNW4tTmlwSUhzUTFzRV9FRWdOcVRyNk9vNEpNVHVCUVppVTloME10SE5OZ25sbXQtTGNaNWhXRmlRd3Z4REF5VWpBVFBya1NaREUxS1p0dWlKWHRzdGt4R2ZxU0UwNDZ3cXN2TW9ZeDZROXgtZm9hSmVQbUQ2VkU?oc=5",
-      "publishedAt": "2026-07-20T11:50:00.000Z",
+      "id": "db565ef800ea",
+      "title": "The Complete Enterprise AI Architecture Blueprint for 2026 | by Paridhipurohit | Jul, 2026 - medium.datadriveninvestor.com",
+      "summary": "The Complete Enterprise AI Architecture Blueprint for 2026 | by Paridhipurohit | Jul, 2026 &nbsp;&nbsp; medium.datadriveninvestor.com",
+      "source": "medium.datadriveninvestor.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGFSZzg2Ykp4cGdLSDVfbGRzV24tVTRFc2FrRmF2T2Nyb01NREdSNTVZYjFCOV93ellvMGdPZWt2NWdBV0tDSHNJNHE3eUpRODBtOW9kbDdCQlJvTEpDVXdrTHBxdVBKTlhvSzBPYlNOengzWHVyR2duNjVPWDVVYTF2VHZfM1VjalFfWnJxcEE0b0JCT1B2TVVpSm5oZnZjRDN1WjlNZk01MkVoVkE?oc=5",
+      "publishedAt": "2026-07-20T13:34:10.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -463,11 +463,11 @@
       ]
     },
     {
-      "id": "93fbc5574dcc",
-      "title": "3 E Network Finalizes Custom Edge AI SoC Architecture for Aladdin Robots, Delivering a Core Computing Foundation to Accelerate Commercialization - Moomoo",
-      "summary": "3 E Network Finalizes Custom Edge AI SoC Architecture for Aladdin Robots, Delivering a Core Computing Foundation to Accelerate Commercializa...",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ05qSy10YW0xakJDcGdabHJrZV9NbElfX1hCWTZfdEVwaF9DTUNnWG43cTF5c0hySnVUMmZPejlsYlBnZzB0dnBvR3l5cWgwRzVwRGhKeHVZUDN5NzhCUm5xNE41bWdNUmYzemI2VURMUDdIQUdaUmtmRktiMlpiNkQ5c2xzSHdQbDByWGVkUm9BUzBtLWlaZ0FjejdIcHMw?oc=5",
+      "id": "03c61851c86b",
+      "title": "3 E Network Finalizes Custom Edge AI SoC Architecture for - GlobeNewswire",
+      "summary": "3 E Network Finalizes Custom Edge AI SoC Architecture for &nbsp;&nbsp; GlobeNewswire",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZ2dCeGtLZGRRSUtFY1ZlMGxFWmdRNDRNNmNYUjNRRk9la2JkNmVJdUk5ZXQwcHRFaU41SVNhdldnbFN4YjNkQm5yczd0bWQzRkhjb0UteHh4WllfdjdRb0kyMWNvWEdaVzZuZHhXaU4zN1FGWFR6emtDcW5jLW9fNkFmR1VXc2NpVWlRSUJyUkJibDB1aWNhcnBkdzZKNTBKQmpzNGU0ME9hV1BXUjAzcWN1QjR2UTJZbmw4Q2hrMGcyckFHNW4tTmlwSUhzUTFzRV9FRWdOcVRyNk9vNEpNVHVCUVppVTloME10SE5OZ25sbXQtTGNaNWhXRmlRd3Z4REF5VWpBVFBya1NaREUxS1p0dWlKWHRzdGt4R2ZxU0UwNDZ3cXN2TW9ZeDZROXgtZm9hSmVQbUQ2VkU?oc=5",
       "publishedAt": "2026-07-20T11:50:00.000Z",
       "category": "研究",
       "tags": [
