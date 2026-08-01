@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-31T23:14:12.695Z",
+  "updatedAt": "2026-08-01T23:08:50.645Z",
   "items": [
+    {
+      "id": "4b1a04dec133",
+      "title": "Cafe N+ / Horibe Associates",
+      "summary": "Cafe N+ was designed as a new vibrant hub connecting a historic shrine with a newly built performing arts theater in Takatsuki City, aiming ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1181882/cafe-n-plus-horibe-associates",
+      "publishedAt": "2026-08-01T17:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "93cb175c1481",
+      "title": "From Generative AI to Agentic Enterprises: Designing Autonomous Decision Systems for the Next Decade - HackerNoon",
+      "summary": "From Generative AI to Agentic Enterprises: Designing Autonomous Decision Systems for the Next Decade &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbS1GX3VnX2ZLMlo1MTVkR3A4TS1BeC1GaGI5d2pIUklxNzNqcVdGVGhMUXhwcGs5RjFvRGlZSVIxalpNSUtrZlFSOWhFYk51ZTR3TlAxdURrVGNIZHJNV3ByTHMzb3pWMmJkLXRzM2FNQlh2UkNObnRHTFdaNTNIR2lIUnZBcElGNmRSNGN0MC1KVFdBS1ZJVVZQd0hHRnE0Mnc4MzV5V3ZfR2FON3VaWFlwTFZjc2VDT0QxMVlWTQ?oc=5",
+      "publishedAt": "2026-08-01T08:34:37.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative"
+      ]
+    },
     {
       "id": "b2adfe75f32c",
       "title": "Beyond Automation: Building Industrial AI That Can Reason, Adapt, and Earn Human Trust - Energies Media",
@@ -29,6 +54,19 @@
       ]
     },
     {
+      "id": "38e2e48c3120",
+      "title": "How will AI change the role of architects (and other professionals)? A new book offers answers - Scroll.in",
+      "summary": "How will AI change the role of architects (and other professionals)? A new book offers answers &nbsp;&nbsp; Scroll.in",
+      "source": "Scroll.in",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV0JKLTRWUWMzMDVQamRLb0ZsUlQyS3o3TllwcUFIU3BPLWVkMVRLNkh4dGUxb29zOElGYXJrR2t6WTNySjM5ZEpHTTdQdTJ4elpJUmZmQWNaSFRTdEV6U19GdFBuYndOdlI3MnhEODZsZ3JHaDFfRUF3NFVzRllwTUh6MFFPWWs3dHpudU54Z3N1SnFfV3JOaFIwRDdQMlJKWHFqMndoZ0NhRU9mWUhPOVppbHdnOVdxdmJqaTlONnh3UkhiQll5adIByAFBVV95cUxNV0JKLTRWUWMzMDVQamRLb0ZsUlQyS3o3TllwcUFIU3BPLWVkMVRLNkh4dGUxb29zOElGYXJrR2t6WTNySjM5ZEpHTTdQdTJ4elpJUmZmQWNaSFRTdEV6U19GdFBuYndOdlI3MnhEODZsZ3JHaDFfRUF3NFVzRllwTUh6MFFPWWs3dHpudU54Z3N1SnFfV3JOaFIwRDdQMlJKWHFqMndoZ0NhRU9mWUhPOVppbHdnOVdxdmJqaTlONnh3UkhiQll5aQ?oc=5",
+      "publishedAt": "2026-07-31T08:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "93c3688ffc6f",
       "title": "Schools at the Border: How Architecture Supports Learning in Conditions of Displacement",
       "summary": "For millions of displaced children and young people, education unfolds amid conditions of forced mobility, administrative uncertainty, and p...",
@@ -44,9 +82,9 @@
     },
     {
       "id": "d297e46692c9",
-      "title": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift - Indiatimes",
-      "summary": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift &nbsp;&nbsp; Indiatimes",
-      "source": "Indiatimes",
+      "title": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift - datacenters.economictimes.indiatimes.com",
+      "summary": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift &nbsp;&nbsp; datacenters.economictimes.indiatimes.com",
+      "source": "datacenters.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRDdRb045NE9XVFVaek1vYVBkcUp4REVmSUk3bjg4dW1BU29nNVpyX0FQQTN5SEg3TmFDZTNSTzhrRG1CQzgwT2tVUDY0akZuSE9Td2xoU3g5OVdQMU9OMnNkZUJnZmFGMlZpOTEybmlwTXMtNGpkdkxyXzh5d20zVXJFUUJNby1aNnFGTUd3dFlYbS1sLVZnVU9VMEVRWjA1WXl6NVRvay1kSG93eUxBeU5kZ1VRWHZ2b2ZHckpjNUIwX0RDWUFlSnN1SGhvMFpldG81eDRUMHZNTWFNUmlIQWNNRkJVTzRHeDlyNFlR?oc=5",
       "publishedAt": "2026-07-31T05:46:52.000Z",
       "category": "研究",
@@ -71,15 +109,17 @@
       ]
     },
     {
-      "id": "1e8778565c24",
-      "title": "Chip design firm ‘Arm’ posts record Q1 revenue of USD 1.29 billion, driven by AI demand and data centre growth - Punjab Kesari English",
-      "summary": "Chip design firm ‘Arm’ posts record Q1 revenue of USD 1.29 billion, driven by AI demand and data centre growth &nbsp;&nbsp; Punjab Kesari En...",
-      "source": "Punjab Kesari English",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQlBFN2hGQmd6YnlMNFIxZXcyU1l5UzN3SG1vTlM3dzlWVWVhTEViN2h1ajdBalA4SVVZcHZyQkgtMXFHbnFPMk40dmdQUlVEc09oUVI4RXVSeXFoTWpuVkxyWERqUE5fUGk3NXJhZ3FXMnQzY1BUNndTN3pjWTQ4Q0pkNUtrU3VTQ05ueXFPdUdsOXVUREdaNzN0aFROeWdiNDNHN05OS08tNllzOEo3cTRtcGZPWWwyU0ZvcVkyS3J4NkhCSzltdG1ScW5XSWF6aHhZVlVFZzBraG9KTHFxQmxtbm_SAeoBQVVfeXFMT3dlV1U0OU9wekRoNEZLUnB5bS1lRi1LcDBrUWZ1bjlBRnFURGlmNV8zWVk1VEg3TjBEbW5pOTNoeTRzLXNzbFZMMkhhOU9pWXE0LXhkRFdGUS1zRkhFX2JfWmc3Z2tZTDdLSGoxUVpiS2tvTlh1RlBLbmJLeGhUYjdZalZ1cEVibW51VlRlQ0Q0REpfT092UC1LOXphSXV2Vm51ajQ0RGxLamdqdmtWZExmUmp3Y01HOGU1UUZsQ3JsNGZTOUpwbVRDamxlOWRtNzVnQWdUV0FSY3hOcUJrY1BaOHNZRjdDQXh3?oc=5",
-      "publishedAt": "2026-07-31T02:46:37.000Z",
-      "category": "案例",
+      "id": "bed157e69073",
+      "title": "AI Living at KLAF 2026: Malaysia contributes to the next chapter of architecture in the AI era - The Star",
+      "summary": "AI Living at KLAF 2026: Malaysia contributes to the next chapter of architecture in the AI era &nbsp;&nbsp; The Star",
+      "source": "The Star",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlFZdF96SjZtUHNVc2p1TXBTTkxOYXJjRUdHR2E1UmF1dGZwd0RzYjJwc1h3V200aTA1U0Q0aUNkRDNGaGpVaDAzOWRkRm1XSnVvZDBUcDl2M1U4UW52cUxmS1R1M3dmU0RudkVVUWFWWEFXZGZhWG9uc3JobERvSEVTX1BoaWpRaHZKdDlfdDBKQ3NtbUdIX3VEU2ZKdVRoMTJRcHJhM25QTU1pdks0UGNPRzV4RkxJUTZ2UU1BLUl3U0xMQjVDaVUtS01KNW9pdVdJU3JhR0hxMU0?oc=5",
+      "publishedAt": "2026-07-31T02:24:00.000Z",
+      "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -166,9 +206,9 @@
     },
     {
       "id": "a8bf3b444f9d",
-      "title": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, E - The Times of India",
-      "summary": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, E &nbsp;&nbsp; The Times of India",
-      "source": "The Times of India",
+      "title": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, E - timesofindia.indiatimes.com",
+      "summary": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, E &nbsp;&nbsp; timesofindia.indiatim...",
+      "source": "timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPQWRKTTBabGRvZV9TbEZXREpNbFFKdVFOZGxfYm9ERl9scWNfR0pMN0otOE9TSDUxajVncmpkS05XMWNLSkpRQzF4d3BPYzZ6UDY4MTN5SXhqNnlzOWxGMmRpVDlJX3lOZnM0M1F2cU9MdkNGZmdzWVFiV0pTRExSdmR2VlVrSmhXTGh3aGF2SWU4Q3dkZERhMGtJR2RLd3BFMjRZdjlaV1FKeTd1LXJZVG5oNHBGUy1nSVZWWWYzUmxXWUN6bDRzdldUa0xteHhzaVVpX1JjRVVkY3NBT3JQNG5FSF9JTXhRei1QS0htaG45YmVPTEF1US1xeFVKTVlOdFBsSzdla3k2TXJhMXlobkVrRk9HNzB2U0FSWUUtQzJoclJDN2RxM0k4VEg3SDBzMElqRGtBdjNJcnpBcXI40gHEAkFVX3lxTE1xYklzcElSRG5yeDZ0X1U2YzY1Y1h2LXJiSHJlR2M4MFYyQ3VPLVNFVkpaMmdMSkNzcVZOSEhIVEJwR0ljU2xVUGl6eTRhd0oybkZqbnVkR2RBUXFoRkZudm9GcGRzVVNiZWdEM2pxbklEX2dvNmRlejlSUVpLYW5BRjZ3Y19qVWYxa1ZUa1pXTmhMc213R2plN1llbzY3eW9JbHhIenFhSUpnUEFocjhEYzZqTXQ4M1h1YTk3TnBGekxScnliaE1OS0FWcGc2bkVoakYzSXA0cm1UTEo4bzhLOTVwY0d4U3NkRldlbW1EdDVJajN6X0VnNGVhX3VrT1RpeWNudXRZdGRUd1FsU2stTFM5dHRIa2V3ZDlSdzNVSVRmRjhic05mSW40aDFxaERNSVF1bUpQNFdKMHNrbkRmUXVPUg?oc=5",
       "publishedAt": "2026-07-28T04:31:00.000Z",
       "category": "研究",
@@ -179,9 +219,9 @@
     },
     {
       "id": "267766e04e90",
-      "title": "Designing The Enterprise AI Architecture Of Tomorrow - Forbes",
-      "summary": "Designing The Enterprise AI Architecture Of Tomorrow &nbsp;&nbsp; Forbes",
-      "source": "Forbes",
+      "title": "Designing The Enterprise AI Architecture Of Tomorrow - forbes.com",
+      "summary": "Designing The Enterprise AI Architecture Of Tomorrow &nbsp;&nbsp; forbes.com",
+      "source": "forbes.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTFkSlVNSHVlcnlJN0NaSVhKaFE0c3NPY015LWhyUEFaZkY4ME4xUDk1SUYyNGdRMFBTWGJtcnVYOEFxOHhsY0czWkN6dGVuM1pkNDBJNy1scEpqWnA3OU4wY0FyTHpvTm5ocHJYSmdXeDFvNVJlajJLVDVnX2VQMkVnSlVueFFxbmFuYWxfWEFBdHNrbHZja0pEbGZVbnRiVmhIY3owX0hvT3JrWTdr?oc=5",
       "publishedAt": "2026-07-27T17:14:06.000Z",
       "category": "研究",
@@ -193,9 +233,9 @@
     },
     {
       "id": "825d815aa3a4",
-      "title": "Scalable GaN-Based IQ Solid-State Transformer Architecture Eyes AI Data Centers - Electronic Design",
-      "summary": "Scalable GaN-Based IQ Solid-State Transformer Architecture Eyes AI Data Centers &nbsp;&nbsp; Electronic Design",
-      "source": "Electronic Design",
+      "title": "Scalable GaN-Based IQ Solid-State Transformer Architecture Eyes AI Data Centers - electronicdesign.com",
+      "summary": "Scalable GaN-Based IQ Solid-State Transformer Architecture Eyes AI Data Centers &nbsp;&nbsp; electronicdesign.com",
+      "source": "electronicdesign.com",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWFVzYjdwdjhaUmFZcTV3b3R6ckc1anBzTVM4d0U4MHdJTXRXc1RWWk95MGx6dzRKNUlNNEg2bTExY08tUVowUmVmX3d5TV9NYUR5d1JGTTc4ajdzWm9BNUp1T1hmRDVWVEN4bzEtUnRneWFuenZoaGZxd1hLR25LY3FRZHliUVowV3lqbTUxYnVLNVRmQXlIbEhGcDZXMVB1RnJOdk5BSEp3Rnk3UHlaVWl3SVU3SzFveHlsc2lsSkx3eURjczFzWUFOdUVUUzFSb3BscEVweG5xbm5peFFrMl9uNENScjJfdE0tSkdpM1NYUnFQaktud2xBRDdyREhiM1EweHFRNTduQ0Jj?oc=5",
       "publishedAt": "2026-07-27T14:44:47.000Z",
       "category": "研究",
@@ -234,6 +274,19 @@
       ]
     },
     {
+      "id": "86474805ac86",
+      "title": "Building the future with artificial intelligence - The Shorthorn",
+      "summary": "Building the future with artificial intelligence &nbsp;&nbsp; The Shorthorn",
+      "source": "The Shorthorn",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWJ6WFZINUNRYnBTd0Y4Nkx6SkFQR05HUlhqNV9BdlE4eVUxRm9Idy1mLUdDY1U4WVlEb1FUUG5UUnowdjFPZU1PaTdNUXpjd2doZHZqdnlJMkN3R0dyQVRnaTBZMEZkQl9zaUhpWEw4N0FzdEpIbW1VN1FoeW5mR3duUnJ5MWd3clJ2akpXa3Q0aXRGTEFlQkhhVU4ydUhEaDhwdHM4YWxySXg3cENxUW5aMERMdFV4czJUZmRtT3hfVHdpTGpESnp0dHM?oc=5",
+      "publishedAt": "2026-07-26T19:15:00.000Z",
+      "category": "案例",
+      "tags": [
+        "artificial intelligence",
+        "building"
+      ]
+    },
+    {
       "id": "4a369d77cd36",
       "title": "Architecture in the age of AI: Technology with a human purpose - Inquirer.net",
       "summary": "Architecture in the age of AI: Technology with a human purpose &nbsp;&nbsp; Inquirer.net",
@@ -249,9 +302,9 @@
     },
     {
       "id": "2b01e17be9d3",
-      "title": "Architecture firms test AI’s promise and pitfalls - Finance & Commerce",
-      "summary": "Architecture firms test AI’s promise and pitfalls &nbsp;&nbsp; Finance & Commerce",
-      "source": "Finance & Commerce",
+      "title": "Architecture firms test AI’s promise and pitfalls - finance-commerce.com",
+      "summary": "Architecture firms test AI’s promise and pitfalls &nbsp;&nbsp; finance-commerce.com",
+      "source": "finance-commerce.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRERaSzc0R09QTXZkcWx5Qm5RY2lZdk9VNmpfUHMyVkhoeElCWjloeDRHV09LYk5yU3dGY2diM3BuSU5EdkJ1VEhESXNhWm5MT1N3cmx4d2tQNndaZnZwZ0NZTTJlSEo0YV9pSmh6dmlXVmFTb05BVW10VTJlMkxDcWl0QXZEWXl0ZnZUNUt3?oc=5",
       "publishedAt": "2026-07-24T16:04:25.000Z",
       "category": "案例",
@@ -277,9 +330,9 @@
     },
     {
       "id": "0386424c8eb5",
-      "title": "From Watercolor To AI: Has Traditional Architectural Rendering Become A Lost Art? - dallasexpress.com",
-      "summary": "From Watercolor To AI: Has Traditional Architectural Rendering Become A Lost Art? &nbsp;&nbsp; dallasexpress.com",
-      "source": "dallasexpress.com",
+      "title": "From Watercolor To AI: Has Traditional Architectural Rendering Become A Lost Art? - Dallas Express",
+      "summary": "From Watercolor To AI: Has Traditional Architectural Rendering Become A Lost Art? &nbsp;&nbsp; Dallas Express",
+      "source": "Dallas Express",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHZJaXJFM0ZRQ1ZNdWlHbEF5YWM3NTB6TUpPV2pRazY1dUtfMVkzUVE3S21adWxKZlRaeVZqQnAzQjk4SUxQWnRqTi13ZVhqMzBXVmdGVldVczN6Q2JVV1RnMmkzaHBHcHowV0RyWHJSeFpzS2RwbFh2REI2bG9oZ0U5eFFNQ1ljUHZ0dlhKdWdJeWNrN2x3TGRocmdWM1p4ZEdMS2tnMUZIMEtFdjdnLXMzaFJtdw?oc=5",
       "publishedAt": "2026-07-24T12:03:55.000Z",
       "category": "研究",
@@ -426,66 +479,12 @@
       ]
     },
     {
-      "id": "e6b2f2c3dce1",
-      "title": "Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World - Batteries News",
-      "summary": "Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World &nbsp;&nbsp; Batteries News",
-      "source": "Batteries News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlBMRW8zOWs0MmptUWtlZjhLczNXZzNOZ3BhdXJjUEc2ZEdLbUJieTNCMXVvT0tjX3VWbHVUOXN1RkEyVjhSZFVORVZGcjRYXzBOM0ZscnhrYXRvMFpEcUhJSmZfZzV1YVVtdXNLSkNwQ3RZazBrMTFYcF9BaVFiMU9COXBRTlRYTmhibVg4aERuSTI0Znc5Y3hnSUx6UVpZdVdaanVLRlFwa2RlUHNHYkp4RC13Zw?oc=5",
-      "publishedAt": "2026-07-21T16:02:29.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "dba8c0b93593",
-      "title": "Nvidia deep dives Vera CPU for AI data centers — SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more - Tom's Hardware",
-      "summary": "Nvidia deep dives Vera CPU for AI data centers — SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more &nbsp;&nbsp; To...",
-      "source": "Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2NJT1hpaUFiLXFrRzdrZnBCVWpPSGNsZUEwYUpjQ01ZRi1IamgxRkhkc2FVa3lHZTlSSTBzNEY0VFFjWU4tZ0Mwek5naG9TQXozWXRiOHZtQnFJLTRDck50MUFsb0s4aTd6VHFfUkJzVUNoZ2VndWpQQnFUNDY4dFpnVmFsbG1NUjNuN2FmYVg5RktfSmRfQ2I3UHBJYjNkaFFSdnFjLWJPNEhUcHRuUXpiVkFvQjctakFLSXJYWmNTQnJtYlZadmp6UWx0TUFBRFFZMGY0clliNUNLQ3c3cg?oc=5",
-      "publishedAt": "2026-07-21T15:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "ae26c68c2415",
-      "title": "Siemens To Acquire Precision Innovations To Expand AI-Powered Chip Design Portfolio - Pulse 2.0",
-      "summary": "Siemens To Acquire Precision Innovations To Expand AI-Powered Chip Design Portfolio &nbsp;&nbsp; Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFkydktrQWNWdUZPTHJOYVZ5MXU2STNTa2dVdFN3djhTc3h4eVUyaGZFZTRjNjU1UHdnd0VReXlXU19VTlRUS0t5V0ZBRTFIblRSVTM5cFZQWlJ6RllybTFGeDZKc1FLelBPMlVRRl9jajZVZXRPV0VmSkYxUjRjM3Y4MjhJVW5UUlFzUm01cmxFX2NkaTZaQ2xGQUt6bmtkcTVFQlNR0gGrAUFVX3lxTE43ZkNIZ2N1TGl1TkJBRmVGeHgwV204WUxIcnJOT0pGRG9pSXlnOGtFMFhFOEsyWkVUc3lHVEdWTGFOUFZEazBVc185NXNLZUtERGU0YnFYVVpsTHZMMEY2UDlZYTRWbVlCRlJIMHlrc1ltdmpQZFdRLVFnSU9JZlp1ZHJPRmx1bGQ3SDl2VmlaM05VVGdENC1IeUFvN0JzSkVxeXlXOC1sWFF1bw?oc=5",
-      "publishedAt": "2026-07-21T14:20:26.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "aac4e71dba0c",
-      "title": "Why AI is re-designing data center architecture - TechRadar",
-      "summary": "Why AI is re-designing data center architecture &nbsp;&nbsp; TechRadar",
-      "source": "TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlBjWTFXUGp1UnRQLThDWExIaWkxMUtBTndUeTZJN0dROVU1RWJ3dTBQWU5JaTNpS0x1T0VlR3lfYURfTDBtNmdKWWpiMXlrb2U3SXZpUTIzOW1HTVpjandVbDVkRWFtcWJENXRKUHdXLTc2UnBZbHBsX2lqS2lGOHRwQQ?oc=5",
-      "publishedAt": "2026-07-21T09:48:14.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "d22b3fe8de82",
-      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog - NVIDIA Developer",
-      "summary": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
-      "source": "NVIDIA Developer",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkJ3ZzhTLXhVZ0JhWGxSdGpsS0h0S0ItTmNKV1hCa0UyYkNXZm1pZ2dTaHNWeEdfWXpyV1ZxNzBOTnIyQXlWcFFkZFRpMFRUaFlFRmpMcjdqSC11TE1qdXFqbV9TSWQtQ0owNEp3SXA5ZU5GV25rUGxwNm9TZ1lTTy1HOEVxemFaY0gybjhYU01YRzUtSlV6Y0UyT0laT0FGTTczaA?oc=5",
-      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "id": "b7f8e8837fe5",
+      "title": "DriveNets and AMD Publish Reference Architecture to Maximize AI Cluster Performance and Efficiency - PR Newswire",
+      "summary": "DriveNets and AMD Publish Reference Architecture to Maximize AI Cluster Performance and Efficiency &nbsp;&nbsp; PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM2d3QjU5cElGLTBSTFNaWng4U3h5WEt1clRMc3Q0VjNadk5WdUJpNlBuXzhZWDlWRUw5MlZUT1hPYXNycWQwZmVJSUJTdERISDNrM3loSEVtc0x0by1wTUIxb0JaY3c3YXVHVjJfMnJpRXBhVGJvbUFzd2x6MHJpWkJMQ3VDakI5b3Z1SUd0Q1NnSHB6d1haUlVmQ3V1aWxsMDhBTHhTenpCS2RsVEhzb2dfdTZIZlE2ZnR6YzVKWi1PcDF2QVh0SGRlU3dyeS1MOXR2a0EwYTFzQ1g4c0J1bGNBSW9CRWQ1UUE?oc=5",
+      "publishedAt": "2026-07-22T15:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
