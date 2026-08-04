@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-03T23:17:37.460Z",
+  "updatedAt": "2026-08-04T23:17:07.742Z",
   "items": [
+    {
+      "id": "2e8060a654b9",
+      "title": "Autodesk and the University of Florida open the most advanced robotics industrialized construction lab in the US to tackle housing and labor shortages",
+      "summary": "$1 million Autodesk donation funds robotics and workforce training at the University of Florida.",
+      "source": "Autodesk News",
+      "url": "https://adsknews.autodesk.com/en/news/uf-lab-opening/",
+      "publishedAt": "2026-08-04T16:30:13.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "23e4e04b2e27",
+      "title": "AI-Powered Interior Design in Architecture 3.0 - Parametric Architecture",
+      "summary": "AI-Powered Interior Design in Architecture 3.0 &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFV4X3RHaUotRzBJSjhZYkpSMG5hVWlwdGtsT0FRampEdm9VOWhvTG1RX1ZWWndGajRQc0hCdWZsWm9YV3RJWVRnc0t3ME85S205ODRLT0VjUmJ1dFE3enFmM2V5aU92LTkzbV9RUEEwelM5dkM2R0t5Ym9aVE1BOXBSWmZ1U204Z2ZV?oc=5",
+      "publishedAt": "2026-08-04T15:34:11.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "01adc4231c89",
+      "title": "Living in a Pyramid: 6 Projects Adapting a Classic Shape to Residential Design",
+      "summary": "While pyramidal geometry appears in monumental historical structures , its contemporary application remains limited. The primary constraint ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1181570/living-in-a-pyramid-6-projects-adapting-a-classic-shape-to-residential-design",
+      "publishedAt": "2026-08-04T04:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "18e686e465a7",
       "title": "Welcoming MaintainX to Autodesk: The next chapter in connected operations",
@@ -9,18 +47,6 @@
       "url": "https://adsknews.autodesk.com/en/news/welcoming-maintainx/",
       "publishedAt": "2026-08-03T12:42:51.000Z",
       "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "cb16cff06e9f",
-      "title": "How AI is helping India move up the global chip design value chain - Express Computer",
-      "summary": "How AI is helping India move up the global chip design value chain &nbsp;&nbsp; Express Computer",
-      "source": "Express Computer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTFaNEpsMGx6UjdReWRPQ01GT2pYSUw0SFA3aE5ZZkZrVUJqNm1uWmEtVUtReGpwd0RrbXl4TUtXSmlIVEd2S0RJb212YWNyYmVwd0dlU0YxaU1NZGdZbElUaVpTUWZPRENrUFlVcWM5U01FN0dMMkx4b1MzeVR4d2ZFcWw1NE5jNm1jZTNDd3RZX1N1YlgxVnF3YUR3bzNtTVlFeUtXOEt2Rk9hTWxzbW1Nd3JxQVF5?oc=5",
-      "publishedAt": "2026-08-03T11:46:26.000Z",
-      "category": "研究",
       "tags": [
         "ai"
       ]
@@ -95,6 +121,18 @@
       ]
     },
     {
+      "id": "fd0e9ca9a7b0",
+      "title": "How AI is helping India move up the global chip design value chain - Express Computer",
+      "summary": "How AI is helping India move up the global chip design value chain &nbsp;&nbsp; Express Computer",
+      "source": "Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFJsY1RReU50V09FSV83VTFTOFUtaFVUUjJxMXRxTk81VVJZNGxjamZnUy1DU1VuQ0JDM091YjFIWDhhRlZOaDhEalZrb01IM0xjZmZnQV9JRnJyWW5ZLU9DWU42TDJBREgtb0Y4YkFUeUN0bkRCRmpYQmlJeUhnOEppR1dsMDBBOEZiazhYUkM1TXlLQnJtZ2s2bmY0OVJkUXVPRms0b1Awdi1CWlRhVUFROVQ?oc=5",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "290495b95018",
       "title": "An AI Trip Around the World of Architects Through Cairo’s Opera House - CairoScene",
       "summary": "An AI Trip Around the World of Architects Through Cairo’s Opera House &nbsp;&nbsp; CairoScene",
@@ -104,20 +142,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "5de454d69dea",
-      "title": "Museum of Art Pudong Presents \"Jean Nouvel: Without the Artist, Architecture Disappears\" in Shanghai",
-      "summary": "Museum of Art Pudong (MAP) in Shanghai is presenting \"Jean Nouvel: Without the Artist, Architecture Disappears\" until August 31, 2026. Marki...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1182085/museum-of-art-pudong-presents-jean-nouvel-without-the-artist-architecture-disappears-in-shanghai",
-      "publishedAt": "2026-08-03T06:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -136,61 +160,10 @@
       ]
     },
     {
-      "id": "ea92bb212104",
-      "title": "Marivan Medical Building / AsNow Design & Construct",
-      "summary": "Marivan Medical Building, with a total area of approximately 1,050 square meters, is located on one of the main boulevards of Marivan , Iran.",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181953/marivan-medical-building-asnow-design-and-construct",
-      "publishedAt": "2026-08-02T17:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "93cb175c1481",
-      "title": "From Generative AI to Agentic Enterprises: Designing Autonomous Decision Systems for the Next Decade - HackerNoon",
-      "summary": "From Generative AI to Agentic Enterprises: Designing Autonomous Decision Systems for the Next Decade &nbsp;&nbsp; HackerNoon",
-      "source": "HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbS1GX3VnX2ZLMlo1MTVkR3A4TS1BeC1GaGI5d2pIUklxNzNqcVdGVGhMUXhwcGs5RjFvRGlZSVIxalpNSUtrZlFSOWhFYk51ZTR3TlAxdURrVGNIZHJNV3ByTHMzb3pWMmJkLXRzM2FNQlh2UkNObnRHTFdaNTNIR2lIUnZBcElGNmRSNGN0MC1KVFdBS1ZJVVZQd0hHRnE0Mnc4MzV5V3ZfR2FON3VaWFlwTFZjc2VDT0QxMVlWTQ?oc=5",
-      "publishedAt": "2026-08-01T08:34:37.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "generative"
-      ]
-    },
-    {
-      "id": "b2adfe75f32c",
-      "title": "Beyond Automation: Building Industrial AI That Can Reason, Adapt, and Earn Human Trust - energiesmedia.com",
-      "summary": "Beyond Automation: Building Industrial AI That Can Reason, Adapt, and Earn Human Trust &nbsp;&nbsp; energiesmedia.com",
-      "source": "energiesmedia.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFEzZnFUZU4xWVZKTFVpMkNGczdxb24wZW5wX3FwWnZrVW0ta3IwX3M0b01NLVNlQVNvc3lSaGhSMmo0RHdhSjlrLUhnUHRtWGR1ZFFyS3ZNa2pqR1Uzdmtic09QaS1HazQ5cTZ3ZnYwY0RPQy01Z19rUFBJUHVxSFhwQWRjNFdQRV9JWDFYWWtsU19PTTlwVGVYR3BxdXR3WFoyZ0tDcTN1Ukp4R3RB?oc=5",
-      "publishedAt": "2026-07-31T20:16:56.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "0492b9de1c8f",
-      "title": "Siemens to acquire Precision Innovations to expand AI-powered system-on-a-chip design exploration and optimization - news.siemens.com",
-      "summary": "Siemens to acquire Precision Innovations to expand AI-powered system-on-a-chip design exploration and optimization &nbsp;&nbsp; news.siemens...",
-      "source": "news.siemens.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05YXBrYm5aZVlSUzJFU18xdUFDMThHVzFWUnh5UzlmV3VnSnJ3Um1wLXJrOGR2VmxVazRIX2RQeElNakR6dFlZVmg5T3pWbU5nOWRuV05xcEIyMDdNQ05QYWJMbEZmUDNrRW1JNWFhZjJrdFNwc0tBakFybEY?oc=5",
-      "publishedAt": "2026-07-31T14:06:06.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "0e7b97f81987",
-      "title": "Longsys to Showcase Edge AI Storage Architecture and Storage Foundry Model at FMS 2026 - EE Times Asia",
-      "summary": "Longsys to Showcase Edge AI Storage Architecture and Storage Foundry Model at FMS 2026 &nbsp;&nbsp; EE Times Asia",
-      "source": "EE Times Asia",
+      "title": "Longsys to Showcase Edge AI Storage Architecture and Storage Foundry Model at FMS 2026 - eetasia.com",
+      "summary": "Longsys to Showcase Edge AI Storage Architecture and Storage Foundry Model at FMS 2026 &nbsp;&nbsp; eetasia.com",
+      "source": "eetasia.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGVQUTQ5akpRWEd3ZFNPNm84c0VZckpzYzlwbVhpTUNlLUdBMTdXdzlHc1NiM2NHRGpmMjVmbEtXckFJbVFBNlZXdDhESUhvb0UwblFuSFBKVG9kUVR6WG1vbVd1RjRyZk12N3pQTGthNDB5ZGlQUzVxdzJKby02OVY5NG9CT2Y5SVI1OXVZdC1nRkxNRkhvUjJjSFhERU1wQ1Q1eEc4eE40QzN0NXgtUQ?oc=5",
       "publishedAt": "2026-07-31T11:21:45.000Z",
       "category": "研究",
@@ -215,10 +188,23 @@
       ]
     },
     {
+      "id": "2d462cb518b7",
+      "title": "How will AI change the role of architects (and other professionals)? A new book offers answers - scroll.in",
+      "summary": "How will AI change the role of architects (and other professionals)? A new book offers answers &nbsp;&nbsp; scroll.in",
+      "source": "scroll.in",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1E4dk83VnhuLURUc1lkUjJmakkzcVlBM1BRdWw0c0FJQXBwcHJfX2ZtR0toX29GRks5endLNFA5NnV1NEdpd3NySDE0RWZxSDR4TjhMQVV5bDBHTDFLcHdpMW81VHBPdTRCcVZEWWFGcXJaenNqRTRYeXNfYktVdG1LV2dNaEpxZzQxSnFHS2gtbV9FVFNqeFhQVURHQ2x0bVR2dnhiWndjLWpZcFFHY296T0NKenBueVQtZi1fWkFMTDjSAcgBQVVfeXFMTVdCSi00VlFjMzA1UGpkS29GbFJUMkt6N05ZcHFBSFNwTy1lZDFUSzZIeHRlMW9vczhJRmFya0drelkzckozOWRKR003UHUyeHpaSVJmZkFjWkhUU3RFelNfRnRQbmJ3TnZSNzJ4RDg2bGdyR2gxX0VBdzRVc0ZZcE1IejBRT1lrN3R6bnVOeGdzdUpxX1dyTmhSMEQ3UDJSSlhxajJ3aGdDYUVPZllITzlaaWx3ZzlXcXZiamk5TjZ4d1JIYkJZeWk?oc=5",
+      "publishedAt": "2026-07-31T08:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "d297e46692c9",
-      "title": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift - Indiatimes",
-      "summary": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift &nbsp;&nbsp; Indiatimes",
-      "source": "Indiatimes",
+      "title": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift - datacenters.economictimes.indiatimes.com",
+      "summary": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift &nbsp;&nbsp; datacenters.economictimes.indiatimes.com",
+      "source": "datacenters.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRDdRb045NE9XVFVaek1vYVBkcUp4REVmSUk3bjg4dW1BU29nNVpyX0FQQTN5SEg3TmFDZTNSTzhrRG1CQzgwT2tVUDY0akZuSE9Td2xoU3g5OVdQMU9OMnNkZUJnZmFGMlZpOTEybmlwTXMtNGpkdkxyXzh5d20zVXJFUUJNby1aNnFGTUd3dFlYbS1sLVZnVU9VMEVRWjA1WXl6NVRvay1kSG93eUxBeU5kZ1VRWHZ2b2ZHckpjNUIwX0RDWUFlSnN1SGhvMFpldG81eDRUMHZNTWFNUmlIQWNNRkJVTzRHeDlyNFlR?oc=5",
       "publishedAt": "2026-07-31T05:46:52.000Z",
       "category": "研究",
@@ -286,6 +272,20 @@
       ]
     },
     {
+      "id": "56a5785d02f0",
+      "title": "Why AI Architecture will Define Enterprise Success: NewStreetTech's Shrish Anand Lal - Dailyhunt",
+      "summary": "Why AI Architecture will Define Enterprise Success: NewStreetTech's Shrish Anand Lal &nbsp;&nbsp; Dailyhunt",
+      "source": "Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRHBRdi1fSW8xdDQ3OGNNYWNLRVQtSmFCWFRtcGNNVGlVeFVZUWRkNWJSa2NRQkpKc2pndDd4SlU3emgyOUE1dnlDSXVDZTdMRXhWOE04aWRkUURoVE8xM2c1Q1BpTEhsdksyd1d4R3Ftd3ZPWjM0alF2aU1FLU9OTnBoSVlnc3N2V2FmbDIyT09keUpWd0lqSFdlWEw2bDFHXzc5eUxOeHdkRnJYeks4SnZ4eFJqOTdBOXBLTzUyb3BzRWM4SzVRZ01tekpMOGFMTkprajV1OVNISkxteF9va0RWSUxiSVdZTW9QaHZiU1FkdndlbDRCZ3VTdEczWDJUOFpPXzBjVQ?oc=5",
+      "publishedAt": "2026-07-28T20:19:18.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "33c5f1c3b8de",
       "title": "AMD, Schneider Electric Develop AI Data Centre Reference Architecture - THISDAYLIVE",
       "summary": "AMD, Schneider Electric Develop AI Data Centre Reference Architecture &nbsp;&nbsp; THISDAYLIVE",
@@ -300,10 +300,34 @@
       ]
     },
     {
+      "id": "bd4a1ae74fec",
+      "title": "How AI Can Make Design Work Appear Prematurely Resolved - Common Edge",
+      "summary": "How AI Can Make Design Work Appear Prematurely Resolved &nbsp;&nbsp; Common Edge",
+      "source": "Common Edge",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTM5Rks1VnJmWWg4RWFKelRyU09xWDlqUjl4UlpyN0F0bWs5YUJNU0tocHVQalAycVpocGtfZmRBc1BiaXdKa25LYmtsTEs5Wld6dW9DTXY5aDBXQm50blNnQnRFWGlqbHZpMVIzc3I1eE4tZGlTQzlHSDQwcmZkaGVfd0R6QQ?oc=5",
+      "publishedAt": "2026-07-28T13:47:09.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "3f8f70f9bdc5",
+      "title": "Schneider Electric, AMD Unveil Helios AI Rack Design to Speed Up Hyperscale AI Data Centre Deployment - Convergence Now",
+      "summary": "Schneider Electric, AMD Unveil Helios AI Rack Design to Speed Up Hyperscale AI Data Centre Deployment &nbsp;&nbsp; Convergence Now",
+      "source": "Convergence Now",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS0lFbHFEaE5EUEdCWEZuVEpqakJXWUQwOGF3WlQ1Q2RCX2RDNWhLNHZxdk9JNDRuNUxxeEMzRDlhb2RnbVpvVHc4V1hnVGtrM2JUckJNc0ktYmxtZTMwWVhycjExQ0cwY0RLbWREbU5QUDNCbWIweGxSMkZpUFNSLUZJMnpNYzE2dnJ6LU9kS3dtaUtSNnNUTU84MWhVdkVqSnIwSXpwWkdvVUZXS3NTVXp0MlVmdG1sRW1jaUs5OW9nQndSaFQ4SEtSQ01OV0I5YXEzZjhZYWkzZ01PYTZINERCMkM0S2JaNDdSWTJB?oc=5",
+      "publishedAt": "2026-07-28T06:59:11.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "267766e04e90",
-      "title": "Designing The Enterprise AI Architecture Of Tomorrow - forbes.com",
-      "summary": "Designing The Enterprise AI Architecture Of Tomorrow &nbsp;&nbsp; forbes.com",
-      "source": "forbes.com",
+      "title": "Designing The Enterprise AI Architecture Of Tomorrow - Forbes",
+      "summary": "Designing The Enterprise AI Architecture Of Tomorrow &nbsp;&nbsp; Forbes",
+      "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTFkSlVNSHVlcnlJN0NaSVhKaFE0c3NPY015LWhyUEFaZkY4ME4xUDk1SUYyNGdRMFBTWGJtcnVYOEFxOHhsY0czWkN6dGVuM1pkNDBJNy1scEpqWnA3OU4wY0FyTHpvTm5ocHJYSmdXeDFvNVJlajJLVDVnX2VQMkVnSlVueFFxbmFuYWxfWEFBdHNrbHZja0pEbGZVbnRiVmhIY3owX0hvT3JrWTdr?oc=5",
       "publishedAt": "2026-07-27T17:14:06.000Z",
       "category": "研究",
@@ -323,34 +347,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "825d815aa3a4",
-      "title": "Scalable GaN-Based IQ Solid-State Transformer Architecture Eyes AI Data Centers - electronicdesign.com",
-      "summary": "Scalable GaN-Based IQ Solid-State Transformer Architecture Eyes AI Data Centers &nbsp;&nbsp; electronicdesign.com",
-      "source": "electronicdesign.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWFVzYjdwdjhaUmFZcTV3b3R6ckc1anBzTVM4d0U4MHdJTXRXc1RWWk95MGx6dzRKNUlNNEg2bTExY08tUVowUmVmX3d5TV9NYUR5d1JGTTc4ajdzWm9BNUp1T1hmRDVWVEN4bzEtUnRneWFuenZoaGZxd1hLR25LY3FRZHliUVowV3lqbTUxYnVLNVRmQXlIbEhGcDZXMVB1RnJOdk5BSEp3Rnk3UHlaVWl3SVU3SzFveHlsc2lsSkx3eURjczFzWUFOdUVUUzFSb3BscEVweG5xbm5peFFrMl9uNENScjJfdE0tSkdpM1NYUnFQaktud2xBRDdyREhiM1EweHFRNTduQ0Jj?oc=5",
-      "publishedAt": "2026-07-27T14:44:47.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "c84734150624",
-      "title": "Bringing Inference to the Patient: Systems Architecture for Healthcare Edge AI - EE Times",
-      "summary": "Bringing Inference to the Patient: Systems Architecture for Healthcare Edge AI &nbsp;&nbsp; EE Times",
-      "source": "EE Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYW9qcGY2TENPX0RDam5UbnhQSlZ0TnkyN1N5R1kzSHNXWjJQR1ZuTGdvR0x4VmVIUnZDZzBndnBaaGdmY2ZlbUEweWhoaU03cE9kWVlqanlsNHphLVFldjRIUzhoZVltOWNpUzFKSzFYd3hhbVhVRFJxNHVGdVFRX1h4dXJrZ0RtRHlTODZTdWt6T3Zqc2pOcWxBc1lva3VzUWtnYw?oc=5",
-      "publishedAt": "2026-07-27T13:01:43.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -380,12 +376,26 @@
       ]
     },
     {
+      "id": "c84734150624",
+      "title": "Bringing Inference to the Patient: Systems Architecture for Healthcare Edge AI - EE Times",
+      "summary": "Bringing Inference to the Patient: Systems Architecture for Healthcare Edge AI &nbsp;&nbsp; EE Times",
+      "source": "EE Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYW9qcGY2TENPX0RDam5UbnhQSlZ0TnkyN1N5R1kzSHNXWjJQR1ZuTGdvR0x4VmVIUnZDZzBndnBaaGdmY2ZlbUEweWhoaU03cE9kWVlqanlsNHphLVFldjRIUzhoZVltOWNpUzFKSzFYd3hhbVhVRFJxNHVGdVFRX1h4dXJrZ0RtRHlTODZTdWt6T3Zqc2pOcWxBc1lva3VzUWtnYw?oc=5",
+      "publishedAt": "2026-07-27T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "86474805ac86",
-      "title": "Building the future with artificial intelligence - The Shorthorn",
-      "summary": "Building the future with artificial intelligence &nbsp;&nbsp; The Shorthorn",
-      "source": "The Shorthorn",
+      "title": "Building the future with artificial intelligence - theshorthorn.com",
+      "summary": "Building the future with artificial intelligence &nbsp;&nbsp; theshorthorn.com",
+      "source": "theshorthorn.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWJ6WFZINUNRYnBTd0Y4Nkx6SkFQR05HUlhqNV9BdlE4eVUxRm9Idy1mLUdDY1U4WVlEb1FUUG5UUnowdjFPZU1PaTdNUXpjd2doZHZqdnlJMkN3R0dyQVRnaTBZMEZkQl9zaUhpWEw4N0FzdEpIbW1VN1FoeW5mR3duUnJ5MWd3clJ2akpXa3Q0aXRGTEFlQkhhVU4ydUhEaDhwdHM4YWxySXg3cENxUW5aMERMdFV4czJUZmRtT3hfVHdpTGpESnp0dHM?oc=5",
-      "publishedAt": "2026-07-26T19:15:00.000Z",
+      "publishedAt": "2026-07-26T07:00:00.000Z",
       "category": "案例",
       "tags": [
         "artificial intelligence",
@@ -393,13 +403,13 @@
       ]
     },
     {
-      "id": "2b01e17be9d3",
-      "title": "Architecture firms test AI’s promise and pitfalls - Finance & Commerce",
-      "summary": "Architecture firms test AI’s promise and pitfalls &nbsp;&nbsp; Finance & Commerce",
-      "source": "Finance & Commerce",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRERaSzc0R09QTXZkcWx5Qm5RY2lZdk9VNmpfUHMyVkhoeElCWjloeDRHV09LYk5yU3dGY2diM3BuSU5EdkJ1VEhESXNhWm5MT1N3cmx4d2tQNndaZnZwZ0NZTTJlSEo0YV9pSmh6dmlXVmFTb05BVW10VTJlMkxDcWl0QXZEWXl0ZnZUNUt3?oc=5",
-      "publishedAt": "2026-07-24T16:04:25.000Z",
-      "category": "案例",
+      "id": "4a369d77cd36",
+      "title": "Architecture in the age of AI: Technology with a human purpose - Inquirer.net",
+      "summary": "Architecture in the age of AI: Technology with a human purpose &nbsp;&nbsp; Inquirer.net",
+      "source": "Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3BJUjBySy1LTlE3MXNOU2VKekZzbzB3Qncwd1NKSWtwbnlJS0JhTDFfaTlsOUdIM3NpaDRpODM3U3FoVlV5eGhLZ1l1UlJtTmpwMjNvMTR0SW8tYkg5TVFnUnpxeUdCaU9Ga0NMTHVNTmFvNmFVU21scFpIQ210TjRYXzcxbXpuU1B2RTFwSUxvTHdKN0JlblY5bEg2MUXSAaQBQVVfeXFMUGVicmN4eDNObU50RVN1N1dHd2VOWmJ2WXkwdV81TVJhT1JCYXRndjBacGs5N1JRSnZVS3VpeGF6U01mRDdzcUpLNzd0MWd3WlctcVZPdklmdThZanowN0N6VndFRHZPT1dmQkxzeU9PRnotaDJsTEFyQUpDbWxLeXlpVk5XbDM5azVZZTFtMmh4ZGNTeTNldElJOXkyaFZpLTZBcFg?oc=5",
+      "publishedAt": "2026-07-25T07:00:00.000Z",
+      "category": "研究",
       "tags": [
         "ai",
         "architecture",
@@ -422,14 +432,42 @@
     },
     {
       "id": "325292829171",
-      "title": "Schneider Electric and AMD Develop Reference Design for High-Density AI Infrastructure - ARC Advisory Group",
-      "summary": "Schneider Electric and AMD Develop Reference Design for High-Density AI Infrastructure &nbsp;&nbsp; ARC Advisory Group",
-      "source": "ARC Advisory Group",
+      "title": "Schneider Electric and AMD Develop Reference Design for High-Density AI Infrastructure - ARC Advisory",
+      "summary": "Schneider Electric and AMD Develop Reference Design for High-Density AI Infrastructure &nbsp;&nbsp; ARC Advisory",
+      "source": "ARC Advisory",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzJ3MVdrb1VpNnd1Z19SbS1GTFk2Q0d3OVNUZkJsblRtWmZ2Z3d5R24wSXVTTFJfenJSaXIxcHlmcklmcFFWSDVzb1djVU1hV0NQNWtCb3ZuXy1ZSms0MmNWdUxxbmxXR3hhMlhFTmQwTExoYWwyTVdFMEQ2d19VRy0wV3dwWkJPTVdib3MyR3BGTzJrajNpQkFoQzBlbTB3LXhNMmJ3Zml6Zw?oc=5",
       "publishedAt": "2026-07-24T12:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "47ff1c494cd9",
+      "title": "How AI is Reshaping Architecture: From Concept to Construction - Realty Plus Magazine",
+      "summary": "How AI is Reshaping Architecture: From Concept to Construction &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcE1SeDJwQWc3dno4b2NTS19uN0Q4Y3NDeGV3bkJrMGpDT2pQWF9NQWlCRGhBT2xsbWZLbVA4Tm93NV9nTkQ1YXQtblMycnlVODFrUUZXSGYzVE42ODlHRXZqZkV1ZVdrZkJyMUU1M0xuN3Z4MG1QNE1EdnVfSzVHUXJtbVhBSUYwMWJodjJpdTZkMEFycmE1T25IY1lLTFVXQUViOHRCVl9xc3JkTzhudHU1RQ?oc=5",
+      "publishedAt": "2026-07-24T11:27:58.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "2b01e17be9d3",
+      "title": "Architecture firms test AI’s promise and pitfalls - Finance & Commerce",
+      "summary": "Architecture firms test AI’s promise and pitfalls &nbsp;&nbsp; Finance & Commerce",
+      "source": "Finance & Commerce",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRERaSzc0R09QTXZkcWx5Qm5RY2lZdk9VNmpfUHMyVkhoeElCWjloeDRHV09LYk5yU3dGY2diM3BuSU5EdkJ1VEhESXNhWm5MT1N3cmx4d2tQNndaZnZwZ0NZTTJlSEo0YV9pSmh6dmlXVmFTb05BVW10VTJlMkxDcWl0QXZEWXl0ZnZUNUt3?oc=5",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -442,49 +480,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "34bc60ae0382",
-      "title": "Avoice launches \"world's first AI agents\" to run architecture studios - Dezeen",
-      "summary": "Avoice launches \"world's first AI agents\" to run architecture studios &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01SXJnSUNIQk5UT3ZGaTRlNWJGSVJhTnRhSjVZRnNPMVd1RVI3OGxPNU84Y1ljZEZPQ0J6bk5RNWR1cVpvRm10ZTB5TTYyZU1wOEl1LTc1ckpReE1DZHVQcGs0SFQzYUhiR00tc3drLTZUSzJ1UWZlUWMzTGc?oc=5",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e0db60432ce9",
-      "title": "AI in architecture is booming, but human judgement remains critical - Planning, Building & Construction Today",
-      "summary": "AI in architecture is booming, but human judgement remains critical &nbsp;&nbsp; Planning, Building & Construction Today",
-      "source": "Planning, Building & Construction Today",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVRFUFlMUmF4enJjUzlTLWZJczljX1gxaFZMa2FyVFhQeUc0cmdvdmdVMGhtc3hRaTNyeEk1dkxpNHppWDlteTQ3U1EwMk9zcW5oTEJCYUhMQjJzc1JUOUJjQkNnZjVWdEJIWmprZ3BndXZabW1vSjczeUQ5U3ZlenZpQ3BqSG5qM1VLTW5KMVA0Mk9DeEpYT0twTHZZNHF0dXkzMEN4dUx6eUJxanh5RU94UnhwaVNIN2J1dnkxRmN6UXVibV92cw?oc=5",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "1ec8b3fe0c23",
-      "title": "The Next Evolution of AI Infrastructure: Inside the Architecture Powering the AI Factory Era - Lenovo StoryHub",
-      "summary": "The Next Evolution of AI Infrastructure: Inside the Architecture Powering the AI Factory Era &nbsp;&nbsp; Lenovo StoryHub",
-      "source": "Lenovo StoryHub",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc3FrdW9fdTlubkZ1eTJpMnhDZ3BmWDNyU1hnRnJhNnZmRGVTTlZWQ2owVFI4OFhaM0U4bTQ4NDFnTGtqeUJrd0JiVVpFX0RlWnFjdF82bjlMWTdtZkwta25kTUItZXdBV3cxc2hMeTJzaU5MeG9hM2dLSnBHT0Z1cUFR?oc=5",
-      "publishedAt": "2026-07-23T19:53:29.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     }
