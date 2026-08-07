@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-08-07T01:33:25.732Z",
+  "updatedAt": "2026-08-07T22:53:18.886Z",
   "items": [
+    {
+      "id": "4de204d0c2cc",
+      "title": "Rue Pavée, renovation project for a complex of historic buildings in Paris / MARS Architectes",
+      "summary": "In the heart of Paris's famous Marais district, the \"Rue Pavée\" project crosses an urban fabric shaped not by a single historical vision but...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1182106/rue-pavee-renovation-project-for-a-complex-of-historic-buildings-in-paris-mars-architectes",
+      "publishedAt": "2026-08-07T10:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect",
+        "building"
+      ]
+    },
+    {
+      "id": "3da4fd1353c8",
+      "title": "Proposal to add provisions on green architecture and AI to the Architecture Law. - Vietnam.vn",
+      "summary": "Proposal to add provisions on green architecture and AI to the Architecture Law. &nbsp;&nbsp; Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc01wVTJMTGY4eFBWVnpZVFZVNFFjUWZBbnZPYVo3NHZWS3JLR1RvTHB5bEx0b1IzSmg1X1FiQTRmTzU5WHNVbUpoM0hTVVF0TTN0RjVyeC1TUEhNN2JjV0tjTzZvQ0ZBbmNFS3d0aGxaVlRabkZna3VKaDh4UTZyLWFYR0pjWHRzQ3dkZEFRVDFZbVk0dDl3TTJkNGRwdw?oc=5",
+      "publishedAt": "2026-08-07T08:31:30.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "036cbc452bad",
+      "title": "CN House / IDIN Architects",
+      "summary": "CN House is a residence designed for a family entering their retirement years, set within a long and narrow site in Khao Yai that stretches ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1182241/cn-house-idin-architects",
+      "publishedAt": "2026-08-07T03:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "360333314611",
+      "title": "Mak: AI Living i-City designed around human needs, not walls - NST Online",
+      "summary": "Mak: AI Living i-City designed around human needs, not walls &nbsp;&nbsp; NST Online",
+      "source": "NST Online",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2ZTU211bmJ1b2FLN0ZmcEIwcVBmMmc5MlZXaFExN1dfME9ZMXNvOHBCX3RZemUyOHl1VEZ6VHhCV3NPNWcyd3lpVnNEUUhsampmaUZ6V0dsQWJuNlZVdmtPdWtSbjl4M3RQUHp6amJhWFE0Um9NcnZGVEZPZUE5dzgzc0VDRzBVRVU5dG1FdVdCZUpWQ2JBY3g2SGFSM05WcHBneVBpVl9wQUtRZlp30gGvAUFVX3lxTE9rZlNTbXVuYnVvYUs3RmZwQjBxUGYyZzkyVldoUTE3V18wT1kxc284cEJfdFl6ZTI4eXVURnpUeEJXc081ZzJ3eWlWc0RRSGxqamZpRnpXR2xBYm42VlV2a091a1JuOXgzdFBQenpqYmFYUTRSb01ydkZURk9lQTl3ODNzRUNHMFVFVTl0bUV1V0JlSlZDYkFjeDZIYVIzTlZwcGd5UGlWX3BBS1FmWnc?oc=5",
+      "publishedAt": "2026-08-07T02:15:32.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "d674e74df0e7",
       "title": "How Texas A&M Explores AI as a Tool for Design and Analysis, Not Just Visualization - Archinect",
@@ -28,18 +81,6 @@
       ]
     },
     {
-      "id": "284e2f249778",
-      "title": "Medellín Design Fair",
-      "summary": "La Feria De Diseño Medellín, powered by idd cologne, is a professional platform that connects Latin American design with international marke...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1182352/medellin-design-fair",
-      "publishedAt": "2026-08-06T12:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "b3c23f2b14fc",
       "title": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent - Los Angeles Times",
       "summary": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent &nbsp;&nbsp; Los Angeles Times",
@@ -49,6 +90,19 @@
       "category": "研究",
       "tags": [
         "artificial intelligence"
+      ]
+    },
+    {
+      "id": "325a1754d450",
+      "title": "Designing the Intelligence Layer: Why Future Tech Leaders Must Be AI Architects First - The AI Journal",
+      "summary": "Designing the Intelligence Layer: Why Future Tech Leaders Must Be AI Architects First &nbsp;&nbsp; The AI Journal",
+      "source": "The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3ZaRHpqNFowWnlpdjhHMjNza0FLenlnRHMwbVpsMUxXS0t6dUYtVnJQOGRLWEFabHhXTmpCbzdZcEtVMnBOQmoxUmhVV3JpVklUVndtS3BuZklJcm5vWlJmMlNyR0k4b2RsT01ydFN5SjFwSl95dnlPNDFidHRtWjNfdUsyQmtkN0llaVp2bUlTX01rY2o3eC1La1FjbFAtRkxmR1UxSVE?oc=5",
+      "publishedAt": "2026-08-06T09:48:25.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
       ]
     },
     {
@@ -104,36 +158,12 @@
       ]
     },
     {
-      "id": "1998e887a67a",
-      "title": "Silicon Motion Launches MonTitan SSD Reference Design Kit for AI Infrastructure - worldbusinessoutlook.com",
-      "summary": "Silicon Motion Launches MonTitan SSD Reference Design Kit for AI Infrastructure &nbsp;&nbsp; worldbusinessoutlook.com",
-      "source": "worldbusinessoutlook.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmxPQmdUd21tdl9XemRrMkJGYXB3TU92eHNHN3hfZjczTy1ibVpoRXRyZTROMGM2c2ZSbjhDV1NUekd0aDBrMGY3WVFVY0tyaFlfSy1jRGVqcWZQcGN3ZS1YLTNNRU54LWJOUXpFa1VwdDlZUEROd1lMbWlQQ0VwUzJ6OWNJUFlDcXlZUll2YmVybDIxcjhlOENYanJGQTRaekhINHIxcWo3TEtQb0lIR3EtMA?oc=5",
-      "publishedAt": "2026-08-06T06:05:16.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "ca48c32c16ac",
-      "title": "CELUS, Variscite, and NXP Join Forces to Streamline Embedded AI Hardware Design - eetasia.com",
-      "summary": "CELUS, Variscite, and NXP Join Forces to Streamline Embedded AI Hardware Design &nbsp;&nbsp; eetasia.com",
-      "source": "eetasia.com",
+      "title": "CELUS, Variscite, and NXP Join Forces to Streamline Embedded AI Hardware Design - EE Times Asia",
+      "summary": "CELUS, Variscite, and NXP Join Forces to Streamline Embedded AI Hardware Design &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUFrQ2dRcnlMbG4tX2l1aFJpX1lfXzQ1SnNJckFWc3RZYU5kNzh6NldKSEtXM2xMR0tRcjh1WUxUa1dMdlVuamlRZG1NNWtwSW9FV29HQVFXYXZiZll4R2NPWXdoY1JweHVROVJzcmpRb1FERm9pVXhKVTVkUHZjSFVIZTd5N3dHRm1mWkwyMjBrQ2drSk54Y2xPemp1ZjVaRXFOXw?oc=5",
       "publishedAt": "2026-08-06T03:28:54.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "3f77a0f63396",
-      "title": "The Plinth House / Cambra Buró",
-      "summary": "The Plinth House is a 3,000 sqm private villa on the coast of Abu Alhusaniya, Kuwait, completed in 2025. Designed by Cambra Buró under a ful...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181864/the-plinth-house-cambra-buro",
-      "publishedAt": "2026-08-06T03:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -151,6 +181,18 @@
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "065d9d0c70ed",
+      "title": "Silicon Motion Unveils MonTitan™ SSD Reference Design Kit for AI Infrastructure at FMS 2026 - Business Wire",
+      "summary": "Silicon Motion Unveils MonTitan™ SSD Reference Design Kit for AI Infrastructure at FMS 2026 &nbsp;&nbsp; Business Wire",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS3VsOHVTRWRwODNCVWZXVmZkNGttT3g0V2RTSHBWd1Nxc3VCbi1oYnpUM1dVZzZQREJBcEMyNDJJc1p5SGxJZTBaR2kxV09acU82SXIzQ2hsOXVyR3YydjlMTVBZRGlRNTg3UExwS29LT0kzYnVZaHV5V002T1hPOEdQaFlZRUlfYkUzaUVDcHZwN2xpU0FTOW1sMVlSdzNCYTJWY011OGxFSi1fckc3Vm0yWDVWUjExUUdfYmNta3dMeDhFV3Y4cWE0VW5Kb1pGU0oyZzktV21pU3dGbVp0YQ?oc=5",
+      "publishedAt": "2026-08-05T22:08:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -224,11 +266,23 @@
     },
     {
       "id": "c06c8f000297",
-      "title": "LG CNS designs airport AX plans for 14 airports, tests AI agent technology - digitaltoday.co.kr",
-      "summary": "LG CNS designs airport AX plans for 14 airports, tests AI agent technology &nbsp;&nbsp; digitaltoday.co.kr",
-      "source": "digitaltoday.co.kr",
+      "title": "LG CNS designs airport AX plans for 14 airports, tests AI agent technology - 디지털투데이",
+      "summary": "LG CNS designs airport AX plans for 14 airports, tests AI agent technology &nbsp;&nbsp; 디지털투데이",
+      "source": "디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWFLaDJkblFJOGVyUmFTNXZEYjlzeU5wV1ZWeWU1aDRLTDNZMnpSSkhGRFd0MmZJc0NncXNTZzN2YURKX2x6UmlobW5KSmk4TkpjRjZTa3dybnp2ZDdURExwZV90LXh4VTI2b3pKd2dPTXZTOEEzWGMzU2NuOUFRTXdWX1daZXNWOWszM09veDh4THZhaWl2LXpXdGR5dENrUU9NSWlOaHFTVngtbVVoNHNROVlEX0phYVE?oc=5",
       "publishedAt": "2026-08-05T01:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "89810dac5f3c",
+      "title": "Harnessing AI-Assisted Design During Early Feasibility - Multifamily Housing News",
+      "summary": "Harnessing AI-Assisted Design During Early Feasibility &nbsp;&nbsp; Multifamily Housing News",
+      "source": "Multifamily Housing News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXBQMU5tMUhjSl9zQWs5ajdtMnNlc2NnMjNRaVhOb2NMVV9vRjBvQWlYbUUyMUZvY1FtcU93NGRRdEhPTlVsRUVNbm52aXlfSWxfYWo4QXFLbVFmUGxGMHMwTms3YVE0OFVNZlJDaVdkb01QUWxCQ3pteTRvM0IwdU5OSEZ3Y0phdkRJVG02MFNJQQ?oc=5",
+      "publishedAt": "2026-08-04T20:48:12.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -274,9 +328,9 @@
     },
     {
       "id": "21625e0f345c",
-      "title": "AI Memory Architecture Research Highlights Potential Shift in Agent Design - TipRanks",
-      "summary": "AI Memory Architecture Research Highlights Potential Shift in Agent Design &nbsp;&nbsp; TipRanks",
-      "source": "TipRanks",
+      "title": "AI Memory Architecture Research Highlights Potential Shift in Agent Design - tipranks.com",
+      "summary": "AI Memory Architecture Research Highlights Potential Shift in Agent Design &nbsp;&nbsp; tipranks.com",
+      "source": "tipranks.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFdxNFgzZ3diUTUzVEVGTGZkNmpEdGozM0U4MDh3eHhNNTllUzV2ejhQNWk4bzhHX1c5UVFRajBoM2RYVk1qbGxKNXYydHZHYWo1Yzg3dXhPdnJlTzJxVkppc1pKZ3hOZHc2QmxVaENPbk9Xbl96QmJKMWt6RXNoODNNc0tYRlBRbV9yQUFteUh6ejFIUjNDT0hWM182eUhWVkgyNlpqVGpiX292cnRkOHFwZEN2Z2RSbVRwTVd1RQ?oc=5",
       "publishedAt": "2026-08-03T00:32:26.000Z",
       "category": "研究",
@@ -301,9 +355,9 @@
     },
     {
       "id": "0e7b97f81987",
-      "title": "Longsys to Showcase Edge AI Storage Architecture and Storage Foundry Model at FMS 2026 - eetasia.com",
-      "summary": "Longsys to Showcase Edge AI Storage Architecture and Storage Foundry Model at FMS 2026 &nbsp;&nbsp; eetasia.com",
-      "source": "eetasia.com",
+      "title": "Longsys to Showcase Edge AI Storage Architecture and Storage Foundry Model at FMS 2026 - EE Times Asia",
+      "summary": "Longsys to Showcase Edge AI Storage Architecture and Storage Foundry Model at FMS 2026 &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGVQUTQ5akpRWEd3ZFNPNm84c0VZckpzYzlwbVhpTUNlLUdBMTdXdzlHc1NiM2NHRGpmMjVmbEtXckFJbVFBNlZXdDhESUhvb0UwblFuSFBKVG9kUVR6WG1vbVd1RjRyZk12N3pQTGthNDB5ZGlQUzVxdzJKby02OVY5NG9CT2Y5SVI1OXVZdC1nRkxNRkhvUjJjSFhERU1wQ1Q1eEc4eE40QzN0NXgtUQ?oc=5",
       "publishedAt": "2026-07-31T11:21:45.000Z",
       "category": "研究",
@@ -314,10 +368,23 @@
       ]
     },
     {
+      "id": "2d462cb518b7",
+      "title": "How will AI change the role of architects (and other professionals)? A new book offers answers - Scroll.in",
+      "summary": "How will AI change the role of architects (and other professionals)? A new book offers answers &nbsp;&nbsp; Scroll.in",
+      "source": "Scroll.in",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1E4dk83VnhuLURUc1lkUjJmakkzcVlBM1BRdWw0c0FJQXBwcHJfX2ZtR0toX29GRks5endLNFA5NnV1NEdpd3NySDE0RWZxSDR4TjhMQVV5bDBHTDFLcHdpMW81VHBPdTRCcVZEWWFGcXJaenNqRTRYeXNfYktVdG1LV2dNaEpxZzQxSnFHS2gtbV9FVFNqeFhQVURHQ2x0bVR2dnhiWndjLWpZcFFHY296T0NKenBueVQtZi1fWkFMTDjSAcgBQVVfeXFMTVdCSi00VlFjMzA1UGpkS29GbFJUMkt6N05ZcHFBSFNwTy1lZDFUSzZIeHRlMW9vczhJRmFya0drelkzckozOWRKR003UHUyeHpaSVJmZkFjWkhUU3RFelNfRnRQbmJ3TnZSNzJ4RDg2bGdyR2gxX0VBdzRVc0ZZcE1IejBRT1lrN3R6bnVOeGdzdUpxX1dyTmhSMEQ3UDJSSlhxajJ3aGdDYUVPZllITzlaaWx3ZzlXcXZiamk5TjZ4d1JIYkJZeWk?oc=5",
+      "publishedAt": "2026-07-31T08:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "d297e46692c9",
-      "title": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift - datacenters.economictimes.indiatimes.com",
-      "summary": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift &nbsp;&nbsp; datacenters.economictimes.indiatimes.com",
-      "source": "datacenters.economictimes.indiatimes.com",
+      "title": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift - Indiatimes",
+      "summary": "AI Workloads Drive Data Centre Power, Cooling Architecture Shift &nbsp;&nbsp; Indiatimes",
+      "source": "Indiatimes",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRDdRb045NE9XVFVaek1vYVBkcUp4REVmSUk3bjg4dW1BU29nNVpyX0FQQTN5SEg3TmFDZTNSTzhrRG1CQzgwT2tVUDY0akZuSE9Td2xoU3g5OVdQMU9OMnNkZUJnZmFGMlZpOTEybmlwTXMtNGpkdkxyXzh5d20zVXJFUUJNby1aNnFGTUd3dFlYbS1sLVZnVU9VMEVRWjA1WXl6NVRvay1kSG93eUxBeU5kZ1VRWHZ2b2ZHckpjNUIwX0RDWUFlSnN1SGhvMFpldG81eDRUMHZNTWFNUmlIQWNNRkJVTzRHeDlyNFlR?oc=5",
       "publishedAt": "2026-07-31T05:46:52.000Z",
       "category": "研究",
@@ -401,73 +468,7 @@
       "summary": "Designing The Enterprise AI Architecture Of Tomorrow &nbsp;&nbsp; Forbes",
       "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTFkSlVNSHVlcnlJN0NaSVhKaFE0c3NPY015LWhyUEFaZkY4ME4xUDk1SUYyNGdRMFBTWGJtcnVYOEFxOHhsY0czWkN6dGVuM1pkNDBJNy1scEpqWnA3OU4wY0FyTHpvTm5ocHJYSmdXeDFvNVJlajJLVDVnX2VQMkVnSlVueFFxbmFuYWxfWEFBdHNrbHZja0pEbGZVbnRiVmhIY3owX0hvT3JrWTdr?oc=5",
-      "publishedAt": "2026-07-27T17:14:06.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "cd3a5adcf089",
-      "title": "DAC 2026 Live: AI Chip Design Agents Hit Production as Nobel Laureate Joins the Debate - Tech Times",
-      "summary": "DAC 2026 Live: AI Chip Design Agents Hit Production as Nobel Laureate Joins the Debate &nbsp;&nbsp; Tech Times",
-      "source": "Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdllUc3d5ZDlPLThGc1JxczR5NmhNbnFvN3JOYWFQNU1wTlpKYVcxbHMxN2JkVXhpaU1vUGpNZzFhMnVWc1lZQXNnYm10dHVSN3ZKaEZxNVZBSmZualM5bGlxVi1iRGZRUWozbHNMUjBBRjUyMFZmSDdVTEw3ZWxFME1ObXg0b3diSVpOZXZodWp1bElzTVZnXzhuUUEzMnhRWjR2clQxRkFjTC14MExlcjdtY2xEbzdTMEZVbTAxVGN1RzdpMHlOMk82bHRyZw?oc=5",
-      "publishedAt": "2026-07-27T15:31:58.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "0390b6415962",
-      "title": "Loft Design’s Integrated AI for Safer, Smarter Trail Riding by Trek Bikes - Global Design News",
-      "summary": "Loft Design’s Integrated AI for Safer, Smarter Trail Riding by Trek Bikes &nbsp;&nbsp; Global Design News",
-      "source": "Global Design News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTRfOThyZTU0ZTRPTGlPYjBESHlNS2F4TlR1MWhtbnpfWnpncXVMYlByekp6d2tEV1ROc0VqZ1VLeUtQUmRSY2VIdl8tWU1WVV85RXZZeUs1SzZBY0VPRGlkU29Dc1p5cDBiZFI3ZGJuM2pmbWlQS3JuWVVUTzI3bVdfWld4REVzaE5wQ3ZXSnp6QQ?oc=5",
-      "publishedAt": "2026-07-27T12:13:45.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "c84734150624",
-      "title": "Bringing Inference to the Patient: Systems Architecture for Healthcare Edge AI - EE Times",
-      "summary": "Bringing Inference to the Patient: Systems Architecture for Healthcare Edge AI &nbsp;&nbsp; EE Times",
-      "source": "EE Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYW9qcGY2TENPX0RDam5UbnhQSlZ0TnkyN1N5R1kzSHNXWjJQR1ZuTGdvR0x4VmVIUnZDZzBndnBaaGdmY2ZlbUEweWhoaU03cE9kWVlqanlsNHphLVFldjRIUzhoZVltOWNpUzFKSzFYd3hhbVhVRFJxNHVGdVFRX1h4dXJrZ0RtRHlTODZTdWt6T3Zqc2pOcWxBc1lva3VzUWtnYw?oc=5",
       "publishedAt": "2026-07-27T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "4a369d77cd36",
-      "title": "Architecture in the age of AI: Technology with a human purpose - Inquirer.net",
-      "summary": "Architecture in the age of AI: Technology with a human purpose &nbsp;&nbsp; Inquirer.net",
-      "source": "Inquirer.net",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3BJUjBySy1LTlE3MXNOU2VKekZzbzB3Qncwd1NKSWtwbnlJS0JhTDFfaTlsOUdIM3NpaDRpODM3U3FoVlV5eGhLZ1l1UlJtTmpwMjNvMTR0SW8tYkg5TVFnUnpxeUdCaU9Ga0NMTHVNTmFvNmFVU21scFpIQ210TjRYXzcxbXpuU1B2RTFwSUxvTHdKN0JlblY5bEg2MUXSAaQBQVVfeXFMUGVicmN4eDNObU50RVN1N1dHd2VOWmJ2WXkwdV81TVJhT1JCYXRndjBacGs5N1JRSnZVS3VpeGF6U01mRDdzcUpLNzd0MWd3WlctcVZPdklmdThZanowN0N6VndFRHZPT1dmQkxzeU9PRnotaDJsTEFyQUpDbWxLeXlpVk5XbDM5azVZZTFtMmh4ZGNTeTNldElJOXkyaFZpLTZBcFg?oc=5",
-      "publishedAt": "2026-07-25T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "a80822fbd8f8",
-      "title": "The New Conway's Law: How AI Context Windows Shape Enterprise Architecture - CIOReview",
-      "summary": "The New Conway's Law: How AI Context Windows Shape Enterprise Architecture &nbsp;&nbsp; CIOReview",
-      "source": "CIOReview",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQkZyRUFNSVZ6U2JrYXdVbFdyVDBBX205RThfNkRDV05Pa0V1VWsydE5iaUp0QjFpTkNoTHhFVGpBSGlDRmx6TGd1aEVJTmoyclFRdDRiSkR6V3A1MXJPYnBPNDFXZURtT29NX1Z3UDJFM1l3dkt6OU1iRVV3UWtzdmpRQU1CbkxRZXluUTZPTG8xbGRINlNScXhTYV85REtuVmVxTDZ2SzRjaUdmbjFJblBpUFh1QlRmSUlIMUNYeDJyc1dVSW5NNEo0S2VfNTNmelB3OVA1VjFBdFFjRHc?oc=5",
-      "publishedAt": "2026-07-24T14:38:16.000Z",
       "category": "研究",
       "tags": [
         "ai",
