@@ -1,16 +1,123 @@
 {
-  "updatedAt": "2026-08-11T23:00:07.147Z",
+  "updatedAt": "2026-08-12T22:58:27.821Z",
   "items": [
     {
-      "id": "4da403441658",
-      "title": "U-M researchers receive DOE Genesis Mission award to advance AI-driven chip design - University of Michigan",
-      "summary": "U-M researchers receive DOE Genesis Mission award to advance AI-driven chip design &nbsp;&nbsp; University of Michigan",
-      "source": "University of Michigan",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYVFuc3dBQWZLMVAwTi1jWjJCYmd4LVROMThMSFpxQ1lHOExQNUhTbTRSS3hFaDNqTGtFWkhJaUlsRU9sUjBGWFMyem03SDFmekUwbXh2SG9US01EbkU0VUVCSEJTNjNrZFF4Y3Y1ckVMbkdncXdUMl93bG04N3V2REdfQ192c1dILUVBZEgxUlBIcXBmQUhEZnl0QWdHbUhRNGRYSFYtcjJ0Qld3YWJNY3hnNUF3dF8xRlE?oc=5",
-      "publishedAt": "2026-08-11T17:48:55.000Z",
+      "id": "890c4570beb3",
+      "title": "Is Arm Holdings (NASDAQ:ARM) At The Core of AI Chip Design? - Kalkine Media",
+      "summary": "Is Arm Holdings (NASDAQ:ARM) At The Core of AI Chip Design? &nbsp;&nbsp; Kalkine Media",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXRZRVVDalhJQVJEaE5GLUJMVTJSR0lybkFCa0Q4eDBLRnFXa0hDcGR1OUdYVng1THhtOTJaNThvVjVkMldoVWY0dTRkbmNBZnAtOW9pM2hnbnF4OFM3ak1ONy1yRW0zT2x5WEw3anZZcG5sSVd3UzFwbjBzYTdIU3BqX015bTl1RFpael9CbzR5allKY01qVkVwN0VqWmFCaGRRa0p0OUdXS1RFVzNmVWFVQW8?oc=5",
+      "publishedAt": "2026-08-12T17:40:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "4fbad2b4f1fa",
+      "title": "Co-Designing AI Models for the Edge: Why Architecture and Hardware Must Evolve Together - The AI Journal",
+      "summary": "Co-Designing AI Models for the Edge: Why Architecture and Hardware Must Evolve Together &nbsp;&nbsp; The AI Journal",
+      "source": "The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEprcUVWOGVmYUxBYUJZX2ZXN1dONGdOZlRhYVFzRlFKV2NtY29lSjRtMFBQSUxBX2pKXzJtek1OdDJfX3JZSlB1V0M2bHBPeUc3RmhFczByWnBUbWE0RVItQzd2dTJlbVV2UlZ3MjcwUm9GQXpjaldpbFVLcE1IX2dDYUdtVGZ6YW5WTkFVY2JfUERhcVNjYnJEOHZmdENlRjc1ODZ4OFRNbm8?oc=5",
+      "publishedAt": "2026-08-12T13:27:14.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "a851c96560de",
+      "title": "Praia Preta II Residence / Luis Canepa Arquitetos",
+      "summary": "This house is located in a highly privileged spot on the northern coast of São Paulo. Its L-shaped layout is designed so that one facade ove...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183125/praia-preta-ii-residence-luis-canepa-arquitetos",
+      "publishedAt": "2026-08-12T13:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2e595c51d83d",
+      "title": "Trust by Design: Best Practices for Building Secure Enterprise AI Agent - Oneindia",
+      "summary": "Trust by Design: Best Practices for Building Secure Enterprise AI Agent &nbsp;&nbsp; Oneindia",
+      "source": "Oneindia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3NGYmdGall4Tkh0cG1vaFR4VktrTF9CVk5jLXFYX2FDazVkblV3WDV0bkpVRTNCZmVZQUtNTHF2S0lUQkJtOE9pNEptR0toRU1icnh6WldDaGFLcm5kUkJZS0tRMzczZUp5YkYyVWpGTjZQWWk3WnhlVC1fdFc2YXJWenNuSlY3Z3k1dWJkSnFEczJkNnRvNkNpQzFlM19LZjFIYktnM2l2YnBsV3FwUHY2ZGpISjA4WTI4bndaZG9aUGs?oc=5",
+      "publishedAt": "2026-08-12T08:35:20.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "4ddd15bf32f0",
+      "title": "Norwegian startup Visoid raises $2.5 million to scale its AI-native architecture platform - ArcticStartup - ArcticStartup",
+      "summary": "Norwegian startup Visoid raises $2.5 million to scale its AI-native architecture platform - ArcticStartup &nbsp;&nbsp; ArcticStartup",
+      "source": "ArcticStartup",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWEpLdXlVUU5DbHJaYUZDaHZBeXdLMzBTdHNQb3FsYzctN3UwZlRoN3h3eE51N2M3QkxSdFlJN2dPT3ZhbHRsZnh1eEE0UmhoQ1RGOGxCb29YSXlzWVNNeEJkc9IBY0FVX3lxTE9FWEpLdXlVUU5DbHJaYUZDaHZBeXdLMzBTdHNQb3FsYzctN3UwZlRoN3h3eE51N2M3QkxSdFlJN2dPT3ZhbHRsZnh1eEE0UmhoQ1RGOGxCb29YSXlzWVNNeEJkcw?oc=5",
+      "publishedAt": "2026-08-12T07:00:48.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "ca628af4849d",
+      "title": "Ankit Maheshwari: AI, architecture and impact - YourStory.com",
+      "summary": "Ankit Maheshwari: AI, architecture and impact &nbsp;&nbsp; YourStory.com",
+      "source": "YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tT29FN0QtUkpNU0VyRkZCMUx5NTZIT29jRFlYc21TdE5SX0Z6YXRDODhtdnVUZE85ZlhDTTYxQk80Wkc4WkhoWVZhb1M5UFRSR0VVdmJZNUVmaWNvSnVkaThqaGw4eVBhWXBBY1BTY0djNG1XRi1qSUNoMU9qZw?oc=5",
+      "publishedAt": "2026-08-12T05:48:17.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "34adb8e04f03",
+      "title": "Prototype Architectural Battery Turns Public Space Into Urban Energy Storage in Ontario, Canada",
+      "summary": "Against a backdrop of climate change, inflation, and armed conflict, the global energy system is undergoing change and facing scrutiny. As s...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183143/prototype-architectural-battery-turns-public-space-into-urban-energy-storage-in-ontario-canada",
+      "publishedAt": "2026-08-12T05:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "796eb720528c",
+      "title": "House WoQuanShanFang / Yinyuan Studio",
+      "summary": "Located in Gailouquan Village, Shibanyan Town, Linzhou City, Henan Province, WoQuanShanFang is a boutique homestay with a total construction...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1182505/house-woquanshanfang-yinyuan-studio",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "4dc7452150a2",
+      "title": "Designing a generative AI architecture on OCI for a HIPAA control program - Oracle Blogs",
+      "summary": "Designing a generative AI architecture on OCI for a HIPAA control program &nbsp;&nbsp; Oracle Blogs",
+      "source": "Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3RlR2EwZzN3Snhzb29GYldjaXp3UHp1T3RlMlhxTU5JVFQ2dFc0WThzRkQ1cGZIODNqMkdUSVNna2Z2dlFkY2NhNTlvWUc5NDBFTEtJQTBCOFNwTHhteFUzYTNvU0NmYnZSckE3SEZucGh6VWxEZHM5X1pLSnFEQkhWQ205MkFobUFwQXd0NFBQUQ?oc=5",
+      "publishedAt": "2026-08-11T19:33:12.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -27,16 +134,15 @@
       ]
     },
     {
-      "id": "4dc7452150a2",
-      "title": "Designing a generative AI architecture on OCI for a HIPAA control program - Oracle Blogs",
-      "summary": "Designing a generative AI architecture on OCI for a HIPAA control program &nbsp;&nbsp; Oracle Blogs",
-      "source": "Oracle Blogs",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3RlR2EwZzN3Snhzb29GYldjaXp3UHp1T3RlMlhxTU5JVFQ2dFc0WThzRkQ1cGZIODNqMkdUSVNna2Z2dlFkY2NhNTlvWUc5NDBFTEtJQTBCOFNwTHhteFUzYTNvU0NmYnZSckE3SEZucGh6VWxEZHM5X1pLSnFEQkhWQ205MkFobUFwQXd0NFBQUQ?oc=5",
-      "publishedAt": "2026-08-11T16:07:12.000Z",
-      "category": "生成式设计",
+      "id": "e0a1a4551c3a",
+      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture - NVIDIA Blog",
+      "summary": "Why Scaling AI Compute Performance Requires a New Power Architecture &nbsp;&nbsp; NVIDIA Blog",
+      "source": "NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13MS13RjJVcmJmNzVHa2xfZlBTYkFZSm1sQ1M1c0ZtM1RyUnhUZW56TFZjb3BLckE1SVdIR2FqZi01a2pheFpIM0FmdGNoTU5Xd2NDSVdrdlJwNHQzTEFGVzhDTzNTWDlXbTJTUnhTSm5UdUExNWhR?oc=5",
+      "publishedAt": "2026-08-11T15:10:02.000Z",
+      "category": "研究",
       "tags": [
         "ai",
-        "generative",
         "architecture",
         "architect"
       ]
@@ -93,9 +199,9 @@
     },
     {
       "id": "0784d0338052",
-      "title": "Visoid raises €2.1M to bring AI visualisation to architects - app.dealroom.co",
-      "summary": "Visoid raises €2.1M to bring AI visualisation to architects &nbsp;&nbsp; app.dealroom.co",
-      "source": "app.dealroom.co",
+      "title": "Visoid raises €2.1M to bring AI visualisation to architects - Dealroom",
+      "summary": "Visoid raises €2.1M to bring AI visualisation to architects &nbsp;&nbsp; Dealroom",
+      "source": "Dealroom",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQmNaUEhSWkx5ZU5YakFGVlN4ZkNtWWVpTDNXcERDRW9IRUtYSzdRVGtFelcySzhJRmp4Z1lMXzhGUlVtVVZSUWg5UUhpWHR5ZWV6UUFIVkZ1Y3JqVlVXYzA1Slp4dkdMVFZnNzl2dDRmbmVuTDBma3p4ZmtMOElyUFhBUjloOHV3eWJLYXZLVllxcG44bHlN?oc=5",
       "publishedAt": "2026-08-10T22:43:27.000Z",
       "category": "研究",
@@ -129,31 +235,6 @@
       ]
     },
     {
-      "id": "74c4ac55d688",
-      "title": "Dubai develops AI system to issue villa building permits in seconds - Onmanorama",
-      "summary": "Dubai develops AI system to issue villa building permits in seconds &nbsp;&nbsp; Onmanorama",
-      "source": "Onmanorama",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2J1cHI1OXlTNUJMN2syLWVrVFBRRzhydi1pbmxrQ1RlaElYTzdYV3RKc0RUdl82OXczc2JicjFJdldhWU5jVlJua1JMcTVEd3I1ck1YbFgxQ2t5dmMzamx1MXdFZjFqZGk2dHFfb3h5UjYxUjhCcTNOMkpHMlpVZzlYeURWcVNVQVBpVHlsZGh2VGUyWUhvY3A2Wi14ZlZsTG85b3VtRDFsRWZoSzdObFlQQjYtMWFqTHZV0gG7AUFVX3lxTE9fYnVwcjU5eVM1Qkw3azItZWtUUFFHOHJ2LWlubGtDVGVoSVhPN1hXdEpzRFR2XzY5dzNzYmJyMUl2V2FZTmNWUm5rUkxxNUR3cjVyTVhsWDFDa3l2YzNqbHUxd0VmMWpkaTZ0cV9veHlSNjFSOEJxM04ySkcyWlVnOVh5RFZxU1VBUGlUeWxkaHZUZTJZSG9jcDZaLXhmVmxMbzlvdW1EMWxFZmhLN05sWVBCNi0xYWpMdlU?oc=5",
-      "publishedAt": "2026-08-10T11:22:31.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "4f6e73f919dd",
-      "title": "HAIN Vineyard Facilities / undjurekbrüggen + AFEA",
-      "summary": "HAIN is located at the foot of a vineyard, adjacent to a biodiverse landscape along the River Havel. Designed as storage and production faci...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "78b13caec601",
       "title": "Realistic AI architectural renderings must be labelled under EU AI Act - Dezeen",
       "summary": "Realistic AI architectural renderings must be labelled under EU AI Act &nbsp;&nbsp; Dezeen",
@@ -180,20 +261,6 @@
       ]
     },
     {
-      "id": "a57921bf52af",
-      "title": "How the Arts and Crafts Movement Still Shapes Contemporary Architecture",
-      "summary": "The Arts and Crafts movement is often remembered as an architectural style defined by handcrafted details, an intimate scale, natural materi...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181917/how-the-arts-and-crafts-movement-still-shapes-contemporary-architecture",
-      "publishedAt": "2026-08-10T07:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "91599221e4d0",
       "title": "Oslo-based Visoid raises €2.2 million to scale its AI visualisation platform for architects - EU-Startups",
       "summary": "Oslo-based Visoid raises €2.2 million to scale its AI visualisation platform for architects &nbsp;&nbsp; EU-Startups",
@@ -203,20 +270,6 @@
       "category": "工具",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "d89af73d950d",
-      "title": "Exploring AI-Driven Robotic Soccer Teams Architecture Halaman 31 - Kompasiana.com",
-      "summary": "Exploring AI-Driven Robotic Soccer Teams Architecture Halaman 31 &nbsp;&nbsp; Kompasiana.com",
-      "source": "Kompasiana.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG55RzBUWHI0WHcwMkh2V0xWMkJ6NXdPUWQ5QmVVRXpHV3lYVXhCUlVhSTZUWHJSSk8ycl9yVmVqbTRoNWhxZW9QcmI1dlo0X2dJNktiR3d4R0ZaS2xQZXJlRkxCbDFZMXhRY0dFc05lMEgzMUd3c0VhcVJPZWNuNG5lMVJmUFFJNWtrQjJhZm4zNDQ4ZDUybjFtMy0teXZLcDNzcUc0V3RIUGt1U25kRzYtWmxrOGZucU1acmlNRUtjT25mT3BtaUt3?oc=5",
-      "publishedAt": "2026-08-09T23:08:59.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -261,18 +314,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "20253a280b3a",
-      "title": "HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights - embedded.com",
-      "summary": "HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights &nbsp;&nbsp; embedded.com",
-      "source": "embedded.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWs2SUMzdHAwY3JlLWhQRTNiaXF2V3RCY2prWlVUaGY0c1NOYi1kc1JUZ3FIbS04aUlnSzlRMnBKZlZMRkU5RnktYUlmQ3FoTVUzd3JKd1VLYW9iRGpjQ0E4QkFBUzZRY2lFbzFxYlFxWk80YTZFYWxSODZCalFrSnBkaEhzNE9ELTVZT1FRN1FsYkVaOEh3ajFsNWhJMGtoTHItMnAyci11dld6M05FTXBn?oc=5",
-      "publishedAt": "2026-08-07T22:09:09.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -324,18 +365,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUUhVNU1hYk9scUUzTk9NdG1xU2VENEIxYVhmV2FaXzVESm5MUUk5LXVIaF9hTjVkNFQtY2ZVX3hSNHhIbkZsS1BaYkpyanhaRVVmVVZMRnpQQ0N3dWRNRHo0eU12V0xtVTVyQ0l0VFktZ2JDcElpNGNKSlZxWEhMaWZVNS01bFl5S2dobUk5TTk5OWZuNzJ1bENpTHZEYWRDTG9HdVJXZUNoRUlXMXR0aFg3R1VzbDJ6V243bXFOcVRmNV95MG42UHRKQQ?oc=5",
       "publishedAt": "2026-08-06T18:00:00.000Z",
       "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "0a0c72e5130e",
-      "title": "Dezeen Agenda features Decoy Font designed to trick AI - Dezeen",
-      "summary": "Dezeen Agenda features Decoy Font designed to trick AI &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1UHM3YU1rMkhwMTFzckMwd1J1a0ZFWEdCT21IQ2JZWjlNMElFYkRwS0tuc3N0U3U4NTBEVkVEQkJoWENWMTZqa1ZCcGNhQmxwTjgtQkVUZ2otdnZqUl9SNzBfajZUbmw0X2U3a09LVzAwYjRrZ3h3elBB?oc=5",
-      "publishedAt": "2026-08-06T18:00:00.000Z",
-      "category": "研究",
       "tags": [
         "ai"
       ]
@@ -408,30 +437,6 @@
       ]
     },
     {
-      "id": "ddccf754e52f",
-      "title": "Autodesk to train millions of learners in AI-powered design skills - ET HRSEA",
-      "summary": "Autodesk to train millions of learners in AI-powered design skills &nbsp;&nbsp; ET HRSEA",
-      "source": "ET HRSEA",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcXExX3dLZ25OU2JJLXBrYjZDWDZ5ZFR5ajlrb2RqdGtCUXVhdXlaa1hfNHRBZXRIOU9oUThGYkhxRTlYM1IzY0prRkh3TnlfR2NXdG4wekNHQ0Z5SkdrUndLcTNKSjBOY2pxQWdzT3FDa0JlRkMxZ2VkN0VVNlpUUUNwSDNkZ1hUaDZtQTJibHIwNVZqOVoycENWMEFRdF9wVGhzYlBCMjNkQ0ZqOXljalBrYjBiZ01ONl82WUd6dUxwLWtEa09xNGpHZWZiNWtvN2pNMTFSQUpmZFlTdXUzY29fbHlMZ9IB5gFBVV95cUxNcXExX3dLZ25OU2JJLXBrYjZDWDZ5ZFR5ajlrb2RqdGtCUXVhdXlaa1hfNHRBZXRIOU9oUThGYkhxRTlYM1IzY0prRkh3TnlfR2NXdG4wekNHQ0Z5SkdrUndLcTNKSjBOY2pxQWdzT3FDa0JlRkMxZ2VkN0VVNlpUUUNwSDNkZ1hUaDZtQTJibHIwNVZqOVoycENWMEFRdF9wVGhzYlBCMjNkQ0ZqOXljalBrYjBiZ01ONl82WUd6dUxwLWtEa09xNGpHZWZiNWtvN2pNMTFSQUpmZFlTdXUzY29fbHlMZw?oc=5",
-      "publishedAt": "2026-08-06T06:31:17.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "1998e887a67a",
-      "title": "Silicon Motion Launches MonTitan SSD Reference Design Kit for AI Infrastructure - World Business Outlook",
-      "summary": "Silicon Motion Launches MonTitan SSD Reference Design Kit for AI Infrastructure &nbsp;&nbsp; World Business Outlook",
-      "source": "World Business Outlook",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmxPQmdUd21tdl9XemRrMkJGYXB3TU92eHNHN3hfZjczTy1ibVpoRXRyZTROMGM2c2ZSbjhDV1NUekd0aDBrMGY3WVFVY0tyaFlfSy1jRGVqcWZQcGN3ZS1YLTNNRU54LWJOUXpFa1VwdDlZUEROd1lMbWlQQ0VwUzJ6OWNJUFlDcXlZUll2YmVybDIxcjhlOENYanJGQTRaekhINHIxcWo3TEtQb0lIR3EtMA?oc=5",
-      "publishedAt": "2026-08-06T06:05:16.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "77a6864dab7c",
       "title": "Samsung Advances AI Memory with New 3D Architecture - embedded.com",
       "summary": "Samsung Advances AI Memory with New 3D Architecture &nbsp;&nbsp; embedded.com",
@@ -447,9 +452,9 @@
     },
     {
       "id": "a09138fb75ca",
-      "title": "Mouser Combines AI & Power Resources to Solve Industrial Edge Deployment - designnews.com",
-      "summary": "Mouser Combines AI & Power Resources to Solve Industrial Edge Deployment &nbsp;&nbsp; designnews.com",
-      "source": "designnews.com",
+      "title": "Mouser Combines AI & Power Resources to Solve Industrial Edge Deployment - Design News",
+      "summary": "Mouser Combines AI & Power Resources to Solve Industrial Edge Deployment &nbsp;&nbsp; Design News",
+      "source": "Design News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQW5xd0F3TFhkNkp5TlY5QWNTakRJczhjSjlZRDJ2X0FmWEd6WnVVbC0xTENfMDN3MTA2VFpneldQczROQm5XNXhMZXhOMUR5ZER6VzRCOUwwamE5NVRPTWFycDc2U0w5c1NQazdyY1VvS0tFdlBPU3hMNU1oMnJ5cDBrVGJSUUZLWG1fcDJUQjFIX2RwS0ZxaEtFTEszNXgwVVd1ZGEwQzNNXzlU?oc=5",
       "publishedAt": "2026-08-05T17:07:12.000Z",
       "category": "研究",
