@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-12T22:58:27.821Z",
+  "updatedAt": "2026-08-13T22:59:27.659Z",
   "items": [
+    {
+      "id": "f91a17530ad2",
+      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - The Manila Times",
+      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; The Manila Times",
+      "source": "The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVm41Uk5zNDBwb3pYdjQ0SU4tNXYyNGU1X3laLVAyWmp0MjdOLW9HSU5vb0lKWTVfQXJfVHNZZ3hsY0VKUHY3a2Q3UVJDbmVSTmF5ZWN6TlI5Q0dqcm1rZVF1MnhIamFrQTFqU1JaLThYSEt0R2dYRXY4VHdfa2xoMkFXMThzRWNqLTNnMDROVlExSkRpNkpJWkg5dGtkX0J5QTdTbnh6RXozV2pnSEpNQmFrb2NIUnM1MjV3ejh0OGNnejUzZEtPVFY4djBOdHdkTFgydmpGaTZqYWN4Qk44ZnZNZzZPVzhzZm1xZnBLSkxUaWNHcEZ6bmhJQXBWRkti0gGGAkFVX3lxTE5NVEJVSVp1aFJTWnJQQ1VhNHFvZkVmWkl6WGVWQV9JRzBxNHRhUmJlUFNsbDBCeUphaHRyMy1HU2xQNV9EbFJkaFhDX0Z2alJ2RTRRX0R0eDZrUkZRTEZqUkhELXpIZWJUNHJTR3UzUDd3cjl0a09hV3BzR2RyLTBYSG9vaGpMVEd6ak1Hb2ZUMlNUZlhKbkZLZ1R2NERHOHRSNDVPRHJ4RnFLaEtRYTZPT0wyZTNfMWhIS2lqVFN4cXBkYjNJa3NzYVVJeVViTllvUkNrY1FqRk0zY1pXNlpBWURYZ2dabHhZMUVvbGw5ejc0QlJzeDlKcUl1ZDJ5eHhtV09aT2c?oc=5",
+      "publishedAt": "2026-08-13T21:12:51.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "890c4570beb3",
       "title": "Is Arm Holdings (NASDAQ:ARM) At The Core of AI Chip Design? - Kalkine Media",
@@ -19,7 +33,7 @@
       "summary": "Co-Designing AI Models for the Edge: Why Architecture and Hardware Must Evolve Together &nbsp;&nbsp; The AI Journal",
       "source": "The AI Journal",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEprcUVWOGVmYUxBYUJZX2ZXN1dONGdOZlRhYVFzRlFKV2NtY29lSjRtMFBQSUxBX2pKXzJtek1OdDJfX3JZSlB1V0M2bHBPeUc3RmhFczByWnBUbWE0RVItQzd2dTJlbVV2UlZ3MjcwUm9GQXpjaldpbFVLcE1IX2dDYUdtVGZ6YW5WTkFVY2JfUERhcVNjYnJEOHZmdENlRjc1ODZ4OFRNbm8?oc=5",
-      "publishedAt": "2026-08-12T13:27:14.000Z",
+      "publishedAt": "2026-08-12T13:27:15.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -41,9 +55,9 @@
     },
     {
       "id": "2e595c51d83d",
-      "title": "Trust by Design: Best Practices for Building Secure Enterprise AI Agent - Oneindia",
-      "summary": "Trust by Design: Best Practices for Building Secure Enterprise AI Agent &nbsp;&nbsp; Oneindia",
-      "source": "Oneindia",
+      "title": "Trust by Design: Best Practices for Building Secure Enterprise AI Agent - oneindia.com",
+      "summary": "Trust by Design: Best Practices for Building Secure Enterprise AI Agent &nbsp;&nbsp; oneindia.com",
+      "source": "oneindia.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3NGYmdGall4Tkh0cG1vaFR4VktrTF9CVk5jLXFYX2FDazVkblV3WDV0bkpVRTNCZmVZQUtNTHF2S0lUQkJtOE9pNEptR0toRU1icnh6WldDaGFLcm5kUkJZS0tRMzczZUp5YkYyVWpGTjZQWWk3WnhlVC1fdFc2YXJWenNuSlY3Z3k1dWJkSnFEczJkNnRvNkNpQzFlM19LZjFIYktnM2l2YnBsV3FwUHY2ZGpISjA4WTI4bndaZG9aUGs?oc=5",
       "publishedAt": "2026-08-12T08:35:20.000Z",
       "category": "案例",
@@ -81,26 +95,13 @@
       ]
     },
     {
-      "id": "34adb8e04f03",
-      "title": "Prototype Architectural Battery Turns Public Space Into Urban Energy Storage in Ontario, Canada",
-      "summary": "Against a backdrop of climate change, inflation, and armed conflict, the global energy system is undergoing change and facing scrutiny. As s...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183143/prototype-architectural-battery-turns-public-space-into-urban-energy-storage-in-ontario-canada",
-      "publishedAt": "2026-08-12T05:30:00.000Z",
+      "id": "f2bae86174a2",
+      "title": "Silicon Motion unveils MonTitan™ SSD Reference Design Kit for AI Infrastructure - Cyprus Shipping News",
+      "summary": "Silicon Motion unveils MonTitan™ SSD Reference Design Kit for AI Infrastructure &nbsp;&nbsp; Cyprus Shipping News",
+      "source": "Cyprus Shipping News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNDlqYnNIdVpNdEhkZVVGejhScUswTHlpc1NPbU4zTFdlcXdhWkRZb2RtOER2SHk1TDN0OXJOazU5dEY2dGtaZ09sUktqMk5VbmdMSlBpSDZZZkRtNUl3TXVYRy10SDJ4VGdpWFRNRjFSVUlDemFqczdXRFMtWkV2dnNiR2VBMU5fVU5IR01nQmtubERkZmJ3MUJlMEdoLWgxYzdGTHkyaHFFY2w1bUlzT0R1UEVxbW1LMzNvRlRn?oc=5",
+      "publishedAt": "2026-08-12T02:18:45.000Z",
       "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "796eb720528c",
-      "title": "House WoQuanShanFang / Yinyuan Studio",
-      "summary": "Located in Gailouquan Village, Shibanyan Town, Linzhou City, Henan Province, WoQuanShanFang is a boutique homestay with a total construction...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1182505/house-woquanshanfang-yinyuan-studio",
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "category": "BIM / AEC",
       "tags": [
         "ai"
       ]
@@ -173,6 +174,18 @@
       ]
     },
     {
+      "id": "6d694b55c718",
+      "title": "Alibaba says it can build AI data centres in 100 days with modular design - South China Morning Post",
+      "summary": "Alibaba says it can build AI data centres in 100 days with modular design &nbsp;&nbsp; South China Morning Post",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3VpX21FQ3dWQW85aDR6WHVXRkFiOHEwUXlVTzNyaGlhOTFWOU5NendJeDJiNmxsYm9fY0I0X1hEODk5RkhZclFRMFllUzY5U2NaMC15bWk5ZUxxbTE2ZTVialJiZ0VEUzluMS1xaHB5LWpMWmoyV3N3Q0hzMmN0SE42OWp6NTF6clV2MWJ4aUxVRUo2MlVvel84Wl8xdTVtZjItaUV6ZDdBQkR6MUxOMlFvRkJWWHFZSDk4aERkSEl1NnpE0gHEAUFVX3lxTE9OcGYtYlEzQk9vWEFxX29jaEYwMHF5NjJjNWFQM2dLVHVQc0J4TFFyRVVjUVNCOURlQmJZRnZmX0prdHFiSEFudFpCYVpiSG0teTFVaTZyRVBVV3NrcW1SQ2xtV09xZUtlbVU3OG5tbzNoWk9sODNmMnZzRlI5MFNWZXVCZ2dxclRCNS1ETGJKLWU1blRma2pxRTVpS1FFYTZWcnlWS2Nva21PcnprX0RMZ090ZjNuTTZEQ3I1blVkcVpPUm0?oc=5",
+      "publishedAt": "2026-08-11T10:00:16.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "f4df9d497e74",
       "title": "AI Helps NUS Researchers Decode Singapore Shophouses’ Architectural DNA - Bioengineer.org",
       "summary": "AI Helps NUS Researchers Decode Singapore Shophouses’ Architectural DNA &nbsp;&nbsp; Bioengineer.org",
@@ -198,24 +211,11 @@
       ]
     },
     {
-      "id": "0784d0338052",
-      "title": "Visoid raises €2.1M to bring AI visualisation to architects - Dealroom",
-      "summary": "Visoid raises €2.1M to bring AI visualisation to architects &nbsp;&nbsp; Dealroom",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQmNaUEhSWkx5ZU5YakFGVlN4ZkNtWWVpTDNXcERDRW9IRUtYSzdRVGtFelcySzhJRmp4Z1lMXzhGUlVtVVZSUWg5UUhpWHR5ZWV6UUFIVkZ1Y3JqVlVXYzA1Slp4dkdMVFZnNzl2dDRmbmVuTDBma3p4ZmtMOElyUFhBUjloOHV3eWJLYXZLVllxcG44bHlN?oc=5",
-      "publishedAt": "2026-08-10T22:43:27.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "bcab370c8bae",
+      "id": "527beec67928",
       "title": "Ambow Education Announces Free AI + Design Micro-Credential Program for 1,000 Students Ages 14 to 17 - Quiver Quantitative",
       "summary": "Ambow Education Announces Free AI + Design Micro-Credential Program for 1,000 Students Ages 14 to 17 &nbsp;&nbsp; Quiver Quantitative",
       "source": "Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlZpS01MV1ZuZGlKTEc2T1l1RHBKM0VlS1VyQjhsTmg5MTFzdlZDUGtzM2lkZzRWcEF3QWFKdnRIcTgxZU1HYjQxYlJTMU4wSllwTldmZVc5RVVLNHhTRW1ERDJLLWtGcHpzTTJHSVJ6N1VoVkRMMHRDVlBYVzB1cjVPTnh3TUFDVEJjcnlfRGt2bU5fS0I4bW8zTklkMExsTS1WbXlzUXJPbUZkOTIzZ2hMMFNEUFIyVEItVWtWQ3hyTVBjSVVWLXBGOWVZd1lNRm9r?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR1VkRVlNZ1F2VWc5SUk2NGZhdXVoTFVfSmtOa1BqOG5kYUpzRkQtTVVrcmVIeUw3NnoyQkV1SExKM3pMOENUeXdPN3dPSzZVNWE3aW5WT0NiRXdvWFV6bFdETl8ySE9UMmFKTzJTWXNuVGZXZ3VFMlFZdjFoY3dUMU1TVHNYTVFlYmtxTGdvU2pOTjUzaDNoYlp5TTRMcFp6bUNXTHRQSlp0T0JKdkFYUERMUEtfVWMwd1BGS0FTN3poTW9TQW15OHhTLVg0Zw?oc=5",
       "publishedAt": "2026-08-10T12:20:00.000Z",
       "category": "研究",
       "tags": [
@@ -232,6 +232,19 @@
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "74c4ac55d688",
+      "title": "Dubai develops AI system to issue villa building permits in seconds - Onmanorama",
+      "summary": "Dubai develops AI system to issue villa building permits in seconds &nbsp;&nbsp; Onmanorama",
+      "source": "Onmanorama",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2J1cHI1OXlTNUJMN2syLWVrVFBRRzhydi1pbmxrQ1RlaElYTzdYV3RKc0RUdl82OXczc2JicjFJdldhWU5jVlJua1JMcTVEd3I1ck1YbFgxQ2t5dmMzamx1MXdFZjFqZGk2dHFfb3h5UjYxUjhCcTNOMkpHMlpVZzlYeURWcVNVQVBpVHlsZGh2VGUyWUhvY3A2Wi14ZlZsTG85b3VtRDFsRWZoSzdObFlQQjYtMWFqTHZV0gG7AUFVX3lxTE9fYnVwcjU5eVM1Qkw3azItZWtUUFFHOHJ2LWlubGtDVGVoSVhPN1hXdEpzRFR2XzY5dzNzYmJyMUl2V2FZTmNWUm5rUkxxNUR3cjVyTVhsWDFDa3l2YzNqbHUxd0VmMWpkaTZ0cV9veHlSNjFSOEJxM04ySkcyWlVnOVh5RFZxU1VBUGlUeWxkaHZUZTJZSG9jcDZaLXhmVmxMbzlvdW1EMWxFZmhLN05sWVBCNi0xYWpMdlU?oc=5",
+      "publishedAt": "2026-08-10T11:22:31.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
       ]
     },
     {
@@ -274,21 +287,6 @@
       ]
     },
     {
-      "id": "9b4f7ecfc5c7",
-      "title": "Building Lexi.AI: A Local-First Architecture for Sovereign AI - HackerNoon",
-      "summary": "Building Lexi.AI: A Local-First Architecture for Sovereign AI &nbsp;&nbsp; HackerNoon",
-      "source": "HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMC1HTnZuOHVYM2l1cjE1N3dwMVpsM0VBNnJDWVFkelZNU0c1SldrNVlLVUNLcjB6RlNVejBFZ0dickZHUVBYUThPZWFRZFRCcDh3MDBaeXFrXzlaMWQ4aEU3Sjh2cWRRVFhheDFBTGNlTU1zZ0kwcFRObGYzMVRScFdtWGpLRnpDeHc?oc=5",
-      "publishedAt": "2026-08-09T20:47:33.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
       "id": "e958e96ecc4e",
       "title": "Exploring AI-Driven Robotic Soccer Teams Architecture Halaman 12 - Kompasiana.com",
       "summary": "Exploring AI-Driven Robotic Soccer Teams Architecture Halaman 12 &nbsp;&nbsp; Kompasiana.com",
@@ -314,21 +312,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "77d674dd9c67",
-      "title": "Building Enterprise AI Workflow Automation Systems: Key Architectures and Best Practices - Nasscom",
-      "summary": "Building Enterprise AI Workflow Automation Systems: Key Architectures and Best Practices &nbsp;&nbsp; Nasscom",
-      "source": "Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlZzS2pwSTBleTJObnZFYVhnby1wSzhfaWdUS243aW5udEVFOEhIeVVxUlBoUlBLdW5BSFUzUURLWENVMWxidDNBZ1hPVXptM2VRRHdGU0p3NzZrNFBBbFlzVnE2UDM1MEZSRzd2bXdteHRaVkZqZW05WjdQemdkbHI3XzNUOEZ4WUIxcGlKSzZJYU5WdFowYmN0SjJDRGtzM3dZb01nVllmM3NSWEFvZ0VSVXlRN2hzcDNFdG1R?oc=5",
-      "publishedAt": "2026-08-07T11:00:09.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
       ]
     },
     {
@@ -423,20 +406,6 @@
       ]
     },
     {
-      "id": "0147cc9e1fa6",
-      "title": "Microchip and Micron showcase PCIe Gen 6 storage architecture for AI and cloud data centres - New Electronics",
-      "summary": "Microchip and Micron showcase PCIe Gen 6 storage architecture for AI and cloud data centres &nbsp;&nbsp; New Electronics",
-      "source": "New Electronics",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFJISl9QVVpjVExBazRtN21kalN6ZzZSUW9qN1hWT3lPdlRlc0l0S2NHbTZtcGNlc1loUEN6YXc0RllCMGxaWkw1TndnMmpkZG5xeEdqRjlxZ3BCcy1KZm1Sa0xYTHFyWkRfb18zcFlmSXFFbV9xNEhUbXZ6LVVadjlCcEVrelFXdVB3ZHNLWFJxank4Sll2Y1BjTXpNVXpiT3ljXzYwbHR1cG5UZlNzVkU3dTdySUVVVHhBNW5WajlBTVlJZlZ1OXhGYktsRUc4b2w4?oc=5",
-      "publishedAt": "2026-08-06T08:13:57.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "77a6864dab7c",
       "title": "Samsung Advances AI Memory with New 3D Architecture - embedded.com",
       "summary": "Samsung Advances AI Memory with New 3D Architecture &nbsp;&nbsp; embedded.com",
@@ -469,6 +438,32 @@
       "source": "Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFcySllXclg1bXZXVnVuelU1UnE0aHZXd1BoRERmRXlNOFpaUkxIMF84Y202VjVTUG9xZVV5WnpDX3VXVHhWSng3MUQxRmcxQlhRWVI2WEh5b0c4cGFQNkhjU1dFNmoyTFAxX3RtRHJqOVVZMHN5ZXY2d0JQR3A3TXJzcC1IblJMemdkTHhRU1JHdG5SWkExUllFNWR6dzlaT2F5YThBWGVwVW5kbHByRjAwdEZGTVpKVGpyQWNRRU1Pd3ZnNUNONDFDekRlVHg5SnRMQXpn?oc=5",
       "publishedAt": "2026-08-05T12:54:24.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "e2019e64cbeb",
+      "title": "Hyundai AutoEver: Building a multi-tenant generative AI sandbox and production AIOps on Amazon Bedrock - Amazon Web Services (AWS)",
+      "summary": "Hyundai AutoEver: Building a multi-tenant generative AI sandbox and production AIOps on Amazon Bedrock &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "source": "Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVUJVdk9CSjM3aVF4eE1wZjh4TmpJY21FMDVxMmFTWnNfOXUtY201QVJsTllZUUw2d2VLX2dIR1dFTEczTEtNaTNXQm1wNDFtYVl0S3JmRzRkTjV6WWFNbnRoY1JxZjc5STRqa0xOeVFpOThab3lVU05oN3JORTRJM3ljRjZ4VDVJVHRQTlc4RC0xdUV6VThwdDRKa0JmZjZfX09zRmphTnNLRU9IaW85cDdGejNqZFdEZlJUdWhTUEVndUVxaFVJTnNpMTJSVzdFMVg4ZmdLNlNLQQ?oc=5",
+      "publishedAt": "2026-08-05T01:20:55.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "building"
+      ]
+    },
+    {
+      "id": "c06c8f000297",
+      "title": "LG CNS designs airport AX plans for 14 airports, tests AI agent technology - 디지털투데이",
+      "summary": "LG CNS designs airport AX plans for 14 airports, tests AI agent technology &nbsp;&nbsp; 디지털투데이",
+      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWFLaDJkblFJOGVyUmFTNXZEYjlzeU5wV1ZWeWU1aDRLTDNZMnpSSkhGRFd0MmZJc0NncXNTZzN2YURKX2x6UmlobW5KSmk4TkpjRjZTa3dybnp2ZDdURExwZV90LXh4VTI2b3pKd2dPTXZTOEEzWGMzU2NuOUFRTXdWX1daZXNWOWszM09veDh4THZhaWl2LXpXdGR5dENrUU9NSWlOaHFTVngtbVVoNHNROVlEX0phYVE?oc=5",
+      "publishedAt": "2026-08-05T01:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
