@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-15T22:35:17.941Z",
+  "updatedAt": "2026-08-16T22:34:47.683Z",
   "items": [
+    {
+      "id": "f01d30937d12",
+      "title": "Community Canteen No. 11, Aranya Qinhuangdao / Verse Design",
+      "summary": "Canteen No. 11 is located at the eastern edge of Aranya North Shore Art Bay in Qinhuangdao . Surrounded by apartments, ground-floor retail, ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183159/community-canteen-no-11-aranya-qinhuangdao-verse-design",
+      "publishedAt": "2026-08-16T02:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "a57921bf52af",
       "title": "How the Arts and Crafts Movement Still Shapes Contemporary Architecture",
@@ -17,9 +29,9 @@
     },
     {
       "id": "b0a029914e04",
-      "title": "Tagbin has built an AI platform that turns words into 3D building designs - YourStory.com",
-      "summary": "Tagbin has built an AI platform that turns words into 3D building designs &nbsp;&nbsp; YourStory.com",
-      "source": "YourStory.com",
+      "title": "Tagbin has built an AI platform that turns words into 3D building designs - yourstory.com",
+      "summary": "Tagbin has built an AI platform that turns words into 3D building designs &nbsp;&nbsp; yourstory.com",
+      "source": "yourstory.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55b1g4NkhaUUdtNURJaVdiVmZNZTg5TDNCMnI5QTRKX2ZqQkdQbHNxZTNxbkZka0JGNE1LMWRHNTlZOTNoS1NBM3p3WXBWeUJ2akVmM2dVM1lWOGpibDY4ajdNRXJNMHdKVTVjSFE3ekhFZTBLUkVxblJROFRmdVE?oc=5",
       "publishedAt": "2026-08-14T16:01:55.000Z",
       "category": "工具",
@@ -41,29 +53,16 @@
       ]
     },
     {
-      "id": "a768caf3b6b1",
+      "id": "25d7be1f8d30",
       "title": "Riddhi Bhasker on the Architectural Decisions That Determine Whether AI Products Are Trusted at Scale - Analytics Insight",
       "summary": "Riddhi Bhasker on the Architectural Decisions That Determine Whether AI Products Are Trusted at Scale &nbsp;&nbsp; Analytics Insight",
       "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcnhPVEx4dVZtR0dzTGU0VmtLVGhYRUtMM1R4V013ejNMZkQzSHRtcnVoNkVPMXR3WDVUQ3JrYzd5X1FuQ2dZcTJGV2VCNTdfQTF0ZjliQlZtUHpoOE9zdXJjMExGRmFBNVRjX0VGSHU1V25sX1d5WWpnN1BpbFhPdEdYb0NEeUNkUldIOTYwaW5GaXhnLVQwdjhGMmNXdGU1Z3AzWmQzNGZpWWJZNklQeU15SkFUbFN2SXkzSGpBWGpNcTViOWJEWkVUbXJCaHQ2SEdVUml5dU9HSGFleVR2S3lFTHVOZzlNRVHSAeoBQVVfeXFMTXJ4T1RMeHVWbUdHc0xlNFZrS1RoWEVLTDNUeFdNd3ozTGZEM0h0bXJ1aDZFTzF0d1g1VENya2M3eV9RbkNnWXEyRldlQjU3X0ExdGY5YkJWbVB6aDhPc3VyYzBMRkZhQTVUY19FRkh1NVdubF9XeVlqZzdQaWxYT3RHWG9DRHlDZFJXSDk2MGluRml4Zy1UMHY4RjJjV3RlNWdwM1pkMzRmaVliWTZJUHlNeUpBVGxTdkl5M0hqQVhqTXE1YjliRFpFVG1yQmh0NkhHVVJpeXVPR0hhZXlUdkt5RUx1Tmc5TUVR?oc=5",
-      "publishedAt": "2026-08-14T10:23:56.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVmRFbTdZczRqbzB0RGpxR09DcHNYWFYwRFl2VDcya0FacXAySnQxQ2tjMmItMmk1aFZOQ2w2MU4ydlNqdEtybDFHM3dxeTZxNUYzOVdydzFMMm5LM3Q3SW1DdHlNZjQwd1ZTQUExNFRhcThnZmM3S25NeFNBZ3l6d19CbGM2YWR1V0hZcHk4TWpGWFd1bGFjS1M0ZzA2X19wY1NMUlhQdGVXeTBMRmM0akJuMTBXWnFEQjdxME44ZkFNVFZrRWE1SnVpTU1DdVpraU9jellsbmg4TmRS0gHqAUFVX3lxTE1yeE9UTHh1Vm1HR3NMZTRWa0tUaFhFS0wzVHhXTXd6M0xmRDNIdG1ydWg2RU8xdHdYNVRDcmtjN3lfUW5DZ1lxMkZXZUI1N19BMXRmOWJCVm1Qemg4T3N1cmMwTEZGYUE1VGNfRUZIdTVXbmxfV3lZamc3UGlsWE90R1hvQ0R5Q2RSV0g5NjBpbkZpeGctVDB2OEYyY1d0ZTVncDNaZDM0ZmlZYlk2SVB5TXlKQVRsU3ZJeTNIakFYak1xNWI5YkRaRVRtckJodDZIR1VSaXl1T0dIYWV5VHZLeUVMdU5nOU1FUQ?oc=5",
+      "publishedAt": "2026-08-14T10:02:04.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architect"
-      ]
-    },
-    {
-      "id": "991e5ff1264c",
-      "title": "Industrialized Steel Construction: Lessons From a Naval Foundry in Thailand",
-      "summary": "Industrial buildings are often expected to prioritize efficiency, production, and technical performance above all else. As a result, archite...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1182129/industrialized-steel-construction-lessons-from-a-naval-foundry-in-thailand",
-      "publishedAt": "2026-08-14T06:45:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "building"
       ]
     },
     {
@@ -79,38 +78,12 @@
       ]
     },
     {
-      "id": "e3b3b067a31a",
-      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - aap.com.au",
-      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; aap.com.au",
-      "source": "aap.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lWlFPOTJoU3k1RDlXMHNkUDMwbGFubmJjd3FsVGRHaWhaOF9uQzZ0elJ2SDdwMEVCbWRtdnBrT09hU2NOSTU0blNEcDFpSG9JRWJxdVVkWUNqLXNJUk5ad2pmWUhYc2pn?oc=5",
-      "publishedAt": "2026-08-13T23:00:14.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "890c4570beb3",
-      "title": "Is Arm Holdings (NASDAQ:ARM) At The Core of AI Chip Design? - Kalkine Media",
-      "summary": "Is Arm Holdings (NASDAQ:ARM) At The Core of AI Chip Design? &nbsp;&nbsp; Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXRZRVVDalhJQVJEaE5GLUJMVTJSR0lybkFCa0Q4eDBLRnFXa0hDcGR1OUdYVng1THhtOTJaNThvVjVkMldoVWY0dTRkbmNBZnAtOW9pM2hnbnF4OFM3ak1ONy1yRW0zT2x5WEw3anZZcG5sSVd3UzFwbjBzYTdIU3BqX015bTl1RFpael9CbzR5allKY01qVkVwN0VqWmFCaGRRa0p0OUdXS1RFVzNmVWFVQW8?oc=5",
-      "publishedAt": "2026-08-12T17:40:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "4fbad2b4f1fa",
-      "title": "Co-Designing AI Models for the Edge: Why Architecture and Hardware Must Evolve Together - The AI Journal",
-      "summary": "Co-Designing AI Models for the Edge: Why Architecture and Hardware Must Evolve Together &nbsp;&nbsp; The AI Journal",
-      "source": "The AI Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEprcUVWOGVmYUxBYUJZX2ZXN1dONGdOZlRhYVFzRlFKV2NtY29lSjRtMFBQSUxBX2pKXzJtek1OdDJfX3JZSlB1V0M2bHBPeUc3RmhFczByWnBUbWE0RVItQzd2dTJlbVV2UlZ3MjcwUm9GQXpjaldpbFVLcE1IX2dDYUdtVGZ6YW5WTkFVY2JfUERhcVNjYnJEOHZmdENlRjc1ODZ4OFRNbm8?oc=5",
-      "publishedAt": "2026-08-12T13:27:15.000Z",
+      "id": "b807a6bca13f",
+      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - Macau Business",
+      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; Macau Business",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXlOc0s1ZnFYVUQ0allQR2pKMUpCRTNPQnRsNTY3YVRWS3pCdGZnLXRxYktuQzF5T3FIT3Z1WUZhNlB1blRTRWxBVUdVQTU2Q05Mb3F2OEpRNW8wVWYxaWlsNkNMbVNCcFE1MHlqRy1NODZXOWpBN00xSDdrYXQ2d0J6UUxvUnQwUWYtblJFVTFNSWxmNFdPTkRQWEs0YlY2c1hVdU9XcjBKcW9tVDlYQkp2V1RIRldSZXZ1bVpsekR5Qk1YdzQ1dw?oc=5",
+      "publishedAt": "2026-08-14T03:39:48.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -133,12 +106,12 @@
       ]
     },
     {
-      "id": "ca628af4849d",
-      "title": "Ankit Maheshwari: AI, architecture and impact - YourStory.com",
-      "summary": "Ankit Maheshwari: AI, architecture and impact &nbsp;&nbsp; YourStory.com",
-      "source": "YourStory.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tT29FN0QtUkpNU0VyRkZCMUx5NTZIT29jRFlYc21TdE5SX0Z6YXRDODhtdnVUZE85ZlhDTTYxQk80Wkc4WkhoWVZhb1M5UFRSR0VVdmJZNUVmaWNvSnVkaThqaGw4eVBhWXBBY1BTY0djNG1XRi1qSUNoMU9qZw?oc=5",
-      "publishedAt": "2026-08-12T05:48:17.000Z",
+      "id": "51d387e8245b",
+      "title": "3 E Network Establishes AI Storage Controller Architecture and Validates Core Data Flow Algorithms - Sahm",
+      "summary": "3 E Network Establishes AI Storage Controller Architecture and Validates Core Data Flow Algorithms &nbsp;&nbsp; Sahm",
+      "source": "Sahm",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNREVVNjNkNkxaN0t4QjktbG1VcDQybklXR1QwOW1TelVYRWYzeVQxbmdQUzU4dmJYS2NGVEI4LVFULUt0d3h3NEE5SWw1dl9weWZzdkFqRy1ORU50SXBlRTlLSjZfU1ZWaDI2eU5NZXIzZkhPOHNYbzFPSmxuaDF0enVrekx0aUplMmlFRVZJRTNCdUUwb1VZWkRhTGd0aXNnWkszdkM1Q1BVTjFuR0psNFZmTXNwdjFqcWlKbVV4S0w3OUl4bHBkTlJvZzd1Y3pjcFA1dkhkVXRFenZlclVHVTB0UFU?oc=5",
+      "publishedAt": "2026-08-12T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -168,18 +141,6 @@
       "source": "DevPro Journal",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpQb3VnT1dVUFhaZncwdXpUQVpNWWtNQndZVGlId0JhY012b3l5VktiTDUyNkVBa0drZ3dTamNzUV83Nm1PV1VBS2FHaGhpcjZNWGF0SVA4T2dBeEJqaWM4T3Q3bUNRb0tuaHNWUHRIdks2dWZmZjNvZVl6Z0xfTVZ5bjJack9lV2pWSkZmTHZNZGR0Q19PODVUbk1JUzcyMWhPcUZuWQ?oc=5",
       "publishedAt": "2026-08-11T13:25:24.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "6d694b55c718",
-      "title": "Alibaba says it can build AI data centres in 100 days with modular design - South China Morning Post",
-      "summary": "Alibaba says it can build AI data centres in 100 days with modular design &nbsp;&nbsp; South China Morning Post",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3VpX21FQ3dWQW85aDR6WHVXRkFiOHEwUXlVTzNyaGlhOTFWOU5NendJeDJiNmxsYm9fY0I0X1hEODk5RkhZclFRMFllUzY5U2NaMC15bWk5ZUxxbTE2ZTVialJiZ0VEUzluMS1xaHB5LWpMWmoyV3N3Q0hzMmN0SE42OWp6NTF6clV2MWJ4aUxVRUo2MlVvel84Wl8xdTVtZjItaUV6ZDdBQkR6MUxOMlFvRkJWWHFZSDk4aERkSEl1NnpE0gHEAUFVX3lxTE9OcGYtYlEzQk9vWEFxX29jaEYwMHF5NjJjNWFQM2dLVHVQc0J4TFFyRVVjUVNCOURlQmJZRnZmX0prdHFiSEFudFpCYVpiSG0teTFVaTZyRVBVV3NrcW1SQ2xtV09xZUtlbVU3OG5tbzNoWk9sODNmMnZzRlI5MFNWZXVCZ2dxclRCNS1ETGJKLWU1blRma2pxRTVpS1FFYTZWcnlWS2Nva21PcnprX0RMZ090ZjNuTTZEQ3I1blVkcVpPUm0?oc=5",
-      "publishedAt": "2026-08-11T10:00:16.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -219,6 +180,19 @@
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "74c4ac55d688",
+      "title": "Dubai develops AI system to issue villa building permits in seconds - Onmanorama",
+      "summary": "Dubai develops AI system to issue villa building permits in seconds &nbsp;&nbsp; Onmanorama",
+      "source": "Onmanorama",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2J1cHI1OXlTNUJMN2syLWVrVFBRRzhydi1pbmxrQ1RlaElYTzdYV3RKc0RUdl82OXczc2JicjFJdldhWU5jVlJua1JMcTVEd3I1ck1YbFgxQ2t5dmMzamx1MXdFZjFqZGk2dHFfb3h5UjYxUjhCcTNOMkpHMlpVZzlYeURWcVNVQVBpVHlsZGh2VGUyWUhvY3A2Wi14ZlZsTG85b3VtRDFsRWZoSzdObFlQQjYtMWFqTHZV0gG7AUFVX3lxTE9fYnVwcjU5eVM1Qkw3azItZWtUUFFHOHJ2LWlubGtDVGVoSVhPN1hXdEpzRFR2XzY5dzNzYmJyMUl2V2FZTmNWUm5rUkxxNUR3cjVyTVhsWDFDa3l2YzNqbHUxd0VmMWpkaTZ0cV9veHlSNjFSOEJxM04ySkcyWlVnOVh5RFZxU1VBUGlUeWxkaHZUZTJZSG9jcDZaLXhmVmxMbzlvdW1EMWxFZmhLN05sWVBCNi0xYWpMdlU?oc=5",
+      "publishedAt": "2026-08-10T11:22:31.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
       ]
     },
     {
@@ -290,9 +264,9 @@
     },
     {
       "id": "3da4fd1353c8",
-      "title": "Proposal to add provisions on green architecture and AI to the Architecture Law. - vietnam.vn",
-      "summary": "Proposal to add provisions on green architecture and AI to the Architecture Law. &nbsp;&nbsp; vietnam.vn",
-      "source": "vietnam.vn",
+      "title": "Proposal to add provisions on green architecture and AI to the Architecture Law. - Vietnam.vn",
+      "summary": "Proposal to add provisions on green architecture and AI to the Architecture Law. &nbsp;&nbsp; Vietnam.vn",
+      "source": "Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc01wVTJMTGY4eFBWVnpZVFZVNFFjUWZBbnZPYVo3NHZWS3JLR1RvTHB5bEx0b1IzSmg1X1FiQTRmTzU5WHNVbUpoM0hTVVF0TTN0RjVyeC1TUEhNN2JjV0tjTzZvQ0ZBbmNFS3d0aGxaVlRabkZna3VKaDh4UTZyLWFYR0pjWHRzQ3dkZEFRVDFZbVk0dDl3TTJkNGRwdw?oc=5",
       "publishedAt": "2026-08-07T08:31:30.000Z",
       "category": "研究",
@@ -300,18 +274,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "d674e74df0e7",
-      "title": "How Texas A&M Explores AI as a Tool for Design and Analysis, Not Just Visualization - Archinect",
-      "summary": "How Texas A&M Explores AI as a Tool for Design and Analysis, Not Just Visualization &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUUhVNU1hYk9scUUzTk9NdG1xU2VENEIxYVhmV2FaXzVESm5MUUk5LXVIaF9hTjVkNFQtY2ZVX3hSNHhIbkZsS1BaYkpyanhaRVVmVVZMRnpQQ0N3dWRNRHo0eU12V0xtVTVyQ0l0VFktZ2JDcElpNGNKSlZxWEhMaWZVNS01bFl5S2dobUk5TTk5OWZuNzJ1bENpTHZEYWRDTG9HdVJXZUNoRUlXMXR0aFg3R1VzbDJ6V243bXFOcVRmNV95MG42UHRKQQ?oc=5",
-      "publishedAt": "2026-08-06T18:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -344,27 +306,14 @@
     },
     {
       "id": "b3c23f2b14fc",
-      "title": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent - latimes.com",
-      "summary": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent &nbsp;&nbsp; latimes.com",
-      "source": "latimes.com",
+      "title": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent - Los Angeles Times",
+      "summary": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent &nbsp;&nbsp; Los Angeles Times",
+      "source": "Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3FEQXFQdldqSGxvLVR0WE9MeHBRdERjOWhCd2k0Zl92RENMbVZsWW1rTVl6dTVsWlZIM2hKay1GNkNFa21ZdXZVVVJnaUE4eUNUM0tkbkZpQ3hMYV9CT1JubGJrQjdOWGw0YW5PUXBTdUZIY2d1YmJFakhPdWpSdVI0clU5RF95cWlUWUF5dHlmYjFEazVR?oc=5",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "artificial intelligence"
-      ]
-    },
-    {
-      "id": "4081fd1b852b",
-      "title": "Google’s AI Architect Jeff Dean Exits After 27 Years to Build AI for Science - Gadget Review",
-      "summary": "Google’s AI Architect Jeff Dean Exits After 27 Years to Build AI for Science &nbsp;&nbsp; Gadget Review",
-      "source": "Gadget Review",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDVFT1VGRW9oTUpjLUhUZEk2Q1ZQQWw5dDZ1UTh0LVJUZ0l1YmZGY1g4SmYtMDRqRjczNkVpM2hpdUpHcHBwRUtaRDc3ejdoMklZWERMYmIwbUJ6Sk83R2dsbEVuME1Zak5HVTZ1cVNWT2dCczhvN0lURXVJY3ZmTnRBb21XWlQtQktrYmFwUGM3UE91S0IxZHo4cEtoSVpva05oOFFiWQ?oc=5",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
       ]
     },
     {
@@ -374,6 +323,18 @@
       "source": "NST Online",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWpiaHp0ckdyQjF6YzF1SXd5RVBjaGlYSlNKZF9hMW02aGcwNUZYQV96dlpjdndBenduSXZOcmxaVFVFTXdSUW1ZdU1IVEZsbFZMR1B1RmVvOXR2WWg5WVY3NWF0S2haQ2dhSVAxdmVBVjZjMTMwbXRUU1FCRXpRR0dJSkdLUngyMW1qQzJvcHcxaEdHWms2bkpOZGEwMWZ3RF9rNVNXMHd3Z9IBrwFBVV95cUxPa2ZTU211bmJ1b2FLN0ZmcEIwcVBmMmc5MlZXaFExN1dfME9ZMXNvOHBCX3RZemUyOHl1VEZ6VHhCV3NPNWcyd3lpVnNEUUhsampmaUZ6V0dsQWJuNlZVdmtPdWtSbjl4M3RQUHp6amJhWFE0Um9NcnZGVEZPZUE5dzgzc0VDRzBVRVU5dG1FdVdCZUpWQ2JBY3g2SGFSM05WcHBneVBpVl9wQUtRZlp3?oc=5",
       "publishedAt": "2026-08-06T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "f4aab946be19",
+      "title": "AI Chip Design Era Ends: TSMC Affiliate GUC Posts Record Revenue as Turnkey Surpasses 80% - Tech Times",
+      "summary": "AI Chip Design Era Ends: TSMC Affiliate GUC Posts Record Revenue as Turnkey Surpasses 80% &nbsp;&nbsp; Tech Times",
+      "source": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFcySllXclg1bXZXVnVuelU1UnE0aHZXd1BoRERmRXlNOFpaUkxIMF84Y202VjVTUG9xZVV5WnpDX3VXVHhWSng3MUQxRmcxQlhRWVI2WEh5b0c4cGFQNkhjU1dFNmoyTFAxX3RtRHJqOVVZMHN5ZXY2d0JQR3A3TXJzcC1IblJMemdkTHhRU1JHdG5SWkExUllFNWR6dzlaT2F5YThBWGVwVW5kbHByRjAwdEZGTVpKVGpyQWNRRU1Pd3ZnNUNONDFDekRlVHg5SnRMQXpn?oc=5",
+      "publishedAt": "2026-08-05T12:54:24.000Z",
       "category": "研究",
       "tags": [
         "ai"
