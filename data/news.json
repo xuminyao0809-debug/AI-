@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-08-16T22:34:47.683Z",
+  "updatedAt": "2026-08-17T22:38:05.996Z",
   "items": [
+    {
+      "id": "618f22f7271f",
+      "title": "Energy efficient storage architecture in the AI era - TechTarget",
+      "summary": "Energy efficient storage architecture in the AI era &nbsp;&nbsp; TechTarget",
+      "source": "TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0lPZzRXbG03dTAwY2VKTUJqRkVLbjF5dXdoQWxnY0dxUk11dl9Mc0JBVmgxUHo0ZGg5cThhc1hJaUNyYmhJTlRDYks5QmFfUk52dWFaZTVsZHpYaG1kcE14bzRTU3cwcjFTVTRFdjIzSndtUnNobnZrbGpzeHZEcTVNMVczd2EtRFFjeHRRR2hRQTJYTUc2bHJLQ2FMaGFWVnc?oc=5",
+      "publishedAt": "2026-08-17T15:16:17.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "7539599ddecd",
+      "title": "Trane & Eaton unveil AI data centre reference design - DataCentreNews UK",
+      "summary": "Trane & Eaton unveil AI data centre reference design &nbsp;&nbsp; DataCentreNews UK",
+      "source": "DataCentreNews UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXNqUXJzSzhJNTgyMkgwS0VEZXY4UnZhX0dOVTg4NDJhNDk3VTNiMHB6OWsxbzlVbHFhUDh2RDJlcEo3QUFLNDY3aFktbk5hb3ZwMExEcnEwejBBdTdDUGkydUxBXzZxMzVHMzZBTm9nczhTSUNDblJtcllkRk1SbTNTT2g5cjJNWnc?oc=5",
+      "publishedAt": "2026-08-17T11:33:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "8be930aeeee9",
+      "title": "AI Can Draw Any Building. But Can It Imagine One? - Sixth Tone",
+      "summary": "AI Can Draw Any Building. But Can It Imagine One? &nbsp;&nbsp; Sixth Tone",
+      "source": "Sixth Tone",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3NZZUFHOXo1ay0yS2FvakJqZkFfdlFOb1dpRXMwQWxmbjBKUnQ5cklrVWxQczZ2RkZEVFEwN0xwai1xaUdjc3lhN29aQmdZYkdvSnlzWDFjb014cS1CcDNJZjhLS2tLQzFhd0Z3ME83WkNXcVhaTEtyVkFUem1ManRxbXRLTEt2eFZyeVlTWHhHOXV2?oc=5",
+      "publishedAt": "2026-08-17T09:54:13.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "3d080adfa38a",
+      "title": "800VDC Pushes AI Power Design From Grid To Gate - Semiconductor Engineering",
+      "summary": "800VDC Pushes AI Power Design From Grid To Gate &nbsp;&nbsp; Semiconductor Engineering",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUljblJJS3lsZklmNFdIS2xEQXVPR2hlWXBhbjZaLWVNV1lOZ01QaW4xS1RWQjROXzFYQmZzWEhWekdKejlhV0dSVl9lZG9JaGxvdEFlYl94SFE1d3NqcEtjX3AybXFpcFRWZUJTZ3EybXFtRXZGRk5OeUlDVzhUdjJB?oc=5",
+      "publishedAt": "2026-08-17T07:35:03.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "95b35f7e8ed9",
+      "title": "\"The Poetics of Survival\": OPEN Architecture Designs Lina Bo Bardi's First Exhibition in China",
+      "summary": "From 25 July to 25 October 2026, Shanghai's Power Station of Art (PSA) will host the first exhibition in China dedicated to the work of Braz...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183400/the-poetics-of-survival-open-architecture-designs-lina-bo-bardis-first-exhibition-in-china",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "3e6b8c6fe5ae",
+      "title": "Unified Memory Emerges as Edge AI’s Next Architectural Imperative - EE Times Asia",
+      "summary": "Unified Memory Emerges as Edge AI’s Next Architectural Imperative &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjVOYWRfZ2JaLUtvOWROUFk1MkdpcDVhX3pkNmtsNlRlQnVfMEd5a3BwcHB2QVpHb2szREVZWTdNR2hybEdRaUR6MnhJYTBHa2ItZU5scEtmbm9BNUVjQVEyMlhjNms4Ym5iRkZ5dV9sVFNpVGF0WFhjOXpaSkNRTHZaVGFxTXBtalJLT2NNZGxJbDQ?oc=5",
+      "publishedAt": "2026-08-17T02:31:45.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "f9817f513486",
+      "title": "Cordmark Miyota Mixed-Use Building / Aida Atelier",
+      "summary": "Cordmark Miyota is a small mixed-use building in rural Nagano that combines a workplace with a café, kitchen, library, and spaces for commun...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183239/cordmark-miyota-community-facility-aida-atelier",
+      "publishedAt": "2026-08-17T02:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "a2f4327a191c",
+      "title": "Deulkkotsoop \"Field · Flower · Forest\" Café / MTT",
+      "summary": "Architecture sometimes creates a landscape. Better architecture allows the landscape to remain. When we first encountered the site, it was s...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183149/deulkkotsoop-field-star-flower-star-forest-cafe-mtt",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "f01d30937d12",
       "title": "Community Canteen No. 11, Aranya Qinhuangdao / Verse Design",
@@ -14,42 +119,16 @@
       ]
     },
     {
-      "id": "a57921bf52af",
-      "title": "How the Arts and Crafts Movement Still Shapes Contemporary Architecture",
-      "summary": "The Arts and Crafts movement is often remembered as an architectural style defined by handcrafted details, an intimate scale, natural materi...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1181917/how-the-arts-and-crafts-movement-still-shapes-contemporary-architecture",
-      "publishedAt": "2026-08-15T07:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "b0a029914e04",
-      "title": "Tagbin has built an AI platform that turns words into 3D building designs - yourstory.com",
-      "summary": "Tagbin has built an AI platform that turns words into 3D building designs &nbsp;&nbsp; yourstory.com",
-      "source": "yourstory.com",
+      "title": "Tagbin has built an AI platform that turns words into 3D building designs - YourStory.com",
+      "summary": "Tagbin has built an AI platform that turns words into 3D building designs &nbsp;&nbsp; YourStory.com",
+      "source": "YourStory.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55b1g4NkhaUUdtNURJaVdiVmZNZTg5TDNCMnI5QTRKX2ZqQkdQbHNxZTNxbkZka0JGNE1LMWRHNTlZOTNoS1NBM3p3WXBWeUJ2akVmM2dVM1lWOGpibDY4ajdNRXJNMHdKVTVjSFE3ekhFZTBLUkVxblJROFRmdVE?oc=5",
       "publishedAt": "2026-08-14T16:01:55.000Z",
       "category": "工具",
       "tags": [
         "ai",
         "building"
-      ]
-    },
-    {
-      "id": "0ea78229aecb",
-      "title": "In Campo, Solo Exhibition by Hick Duarte / Clube",
-      "summary": "The exhibition design for \"Em Campo\" is structured around five main elements: the floor, the wall, the pillars, the grid, and the audiovisua...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183343/in-campo-solo-exhibition-by-hick-duarte-clube",
-      "publishedAt": "2026-08-14T13:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -78,12 +157,12 @@
       ]
     },
     {
-      "id": "b807a6bca13f",
+      "id": "27545e217233",
       "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - Macau Business",
       "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; Macau Business",
       "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXlOc0s1ZnFYVUQ0allQR2pKMUpCRTNPQnRsNTY3YVRWS3pCdGZnLXRxYktuQzF5T3FIT3Z1WUZhNlB1blRTRWxBVUdVQTU2Q05Mb3F2OEpRNW8wVWYxaWlsNkNMbVNCcFE1MHlqRy1NODZXOWpBN00xSDdrYXQ2d0J6UUxvUnQwUWYtblJFVTFNSWxmNFdPTkRQWEs0YlY2c1hVdU9XcjBKcW9tVDlYQkp2V1RIRldSZXZ1bVpsekR5Qk1YdzQ1dw?oc=5",
-      "publishedAt": "2026-08-14T03:39:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeU4yQkswd05kQTF0dFAzeU9sa3VuV19HYmoxbTdzdldzNHRjYnZXTnVXMWlDZFdHdE1xcV8xMHJybWRaU2tFNnJNdklqb3VrTU9fbnVaM3p2Z0Y1a3hHTXZsRE1FZWdHUDRxVDZoaWwwR0UxZ1BqbWFkWDZ6U0owdzlPb19oNzdEdUVOeGRUZWhjS3hTbFB5b2ExWUY4M0hva3ZFd01XOVBIMlJDcF9VdERrY1lFWnQ4V2VQT18zU3Bxd3FIWVdJ?oc=5",
+      "publishedAt": "2026-08-13T21:50:37.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -92,26 +171,12 @@
       ]
     },
     {
-      "id": "4ddd15bf32f0",
-      "title": "Norwegian startup Visoid raises $2.5 million to scale its AI-native architecture platform - ArcticStartup - ArcticStartup",
-      "summary": "Norwegian startup Visoid raises $2.5 million to scale its AI-native architecture platform - ArcticStartup &nbsp;&nbsp; ArcticStartup",
-      "source": "ArcticStartup",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWEpLdXlVUU5DbHJaYUZDaHZBeXdLMzBTdHNQb3FsYzctN3UwZlRoN3h3eE51N2M3QkxSdFlJN2dPT3ZhbHRsZnh1eEE0UmhoQ1RGOGxCb29YSXlzWVNNeEJkc9IBY0FVX3lxTE9FWEpLdXlVUU5DbHJaYUZDaHZBeXdLMzBTdHNQb3FsYzctN3UwZlRoN3h3eE51N2M3QkxSdFlJN2dPT3ZhbHRsZnh1eEE0UmhoQ1RGOGxCb29YSXlzWVNNeEJkcw?oc=5",
-      "publishedAt": "2026-08-12T07:00:48.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "51d387e8245b",
-      "title": "3 E Network Establishes AI Storage Controller Architecture and Validates Core Data Flow Algorithms - Sahm",
-      "summary": "3 E Network Establishes AI Storage Controller Architecture and Validates Core Data Flow Algorithms &nbsp;&nbsp; Sahm",
-      "source": "Sahm",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNREVVNjNkNkxaN0t4QjktbG1VcDQybklXR1QwOW1TelVYRWYzeVQxbmdQUzU4dmJYS2NGVEI4LVFULUt0d3h3NEE5SWw1dl9weWZzdkFqRy1ORU50SXBlRTlLSjZfU1ZWaDI2eU5NZXIzZkhPOHNYbzFPSmxuaDF0enVrekx0aUplMmlFRVZJRTNCdUUwb1VZWkRhTGd0aXNnWkszdkM1Q1BVTjFuR0psNFZmTXNwdjFqcWlKbVV4S0w3OUl4bHBkTlJvZzd1Y3pjcFA1dkhkVXRFenZlclVHVTB0UFU?oc=5",
-      "publishedAt": "2026-08-12T07:00:00.000Z",
+      "id": "0bc3ce7c7351",
+      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - newswav.com",
+      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; newswav.com",
+      "source": "newswav.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTndZWmFiUkp0YVF4VWhSU2NiLUpGTVJCeFM1UXh3SXQ1aHNyY0JNd3VBMjh0dFFWdlJWTnoxU3l3SkZDVGFCNFEyOUQ4WWFGMEh1MGpueVlaYTNNQTdtZ0NjbFlfZG05WU9jQXVsTXdrMTNQSDdibHJHb3pMV0RHQ3ZZX0VzMUtwUEtEd3hSSlBJbU1zNGVKcWFSN3hrZUpsV3pqaEFoYkg5RzB3NTVCbjFnZ25GbzQ?oc=5",
+      "publishedAt": "2026-08-13T12:48:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -120,27 +185,76 @@
       ]
     },
     {
-      "id": "4dc7452150a2",
-      "title": "Designing a generative AI architecture on OCI for a HIPAA control program - Oracle Blogs",
-      "summary": "Designing a generative AI architecture on OCI for a HIPAA control program &nbsp;&nbsp; Oracle Blogs",
-      "source": "Oracle Blogs",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3RlR2EwZzN3Snhzb29GYldjaXp3UHp1T3RlMlhxTU5JVFQ2dFc0WThzRkQ1cGZIODNqMkdUSVNna2Z2dlFkY2NhNTlvWUc5NDBFTEtJQTBCOFNwTHhteFUzYTNvU0NmYnZSckE3SEZucGh6VWxEZHM5X1pLSnFEQkhWQ205MkFobUFwQXd0NFBQUQ?oc=5",
-      "publishedAt": "2026-08-11T19:33:12.000Z",
-      "category": "生成式设计",
+      "id": "890c4570beb3",
+      "title": "Is Arm Holdings (NASDAQ:ARM) At The Core of AI Chip Design? - Kalkine Media",
+      "summary": "Is Arm Holdings (NASDAQ:ARM) At The Core of AI Chip Design? &nbsp;&nbsp; Kalkine Media",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXRZRVVDalhJQVJEaE5GLUJMVTJSR0lybkFCa0Q4eDBLRnFXa0hDcGR1OUdYVng1THhtOTJaNThvVjVkMldoVWY0dTRkbmNBZnAtOW9pM2hnbnF4OFM3ak1ONy1yRW0zT2x5WEw3anZZcG5sSVd3UzFwbjBzYTdIU3BqX015bTl1RFpael9CbzR5allKY01qVkVwN0VqWmFCaGRRa0p0OUdXS1RFVzNmVWFVQW8?oc=5",
+      "publishedAt": "2026-08-12T17:40:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "b944e9d05741",
+      "title": "3 E Network Establishes AI Storage Controller Architecture and Validates Core Data Flow Algorithms - GlobeNewswire",
+      "summary": "3 E Network Establishes AI Storage Controller Architecture and Validates Core Data Flow Algorithms &nbsp;&nbsp; GlobeNewswire",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR3FtREhScm1ZWlNWZ0R5Z2trLW1vbUN1eGtfcnJLeGtneVd5Z3NNek1CYWJXaGdxbEpzMDRjYUs3VFNkeEJKRWZLSzV5cGJNTjlyRXkwb1gwbjVwUVloTVdxOWZzV0lYWDFwQ1ByOGNLRXB0UnNPNDBPVlIyYTdWSE9USjk2VWNwNGwybnQzREx4WFZzWWhRd0o5M1hET2hjcFFpTGZpMmFmVVlLMmJrcGsyV19sbUp4eWF1OUJNTGVwM3BDNTdfZllXNHVBZE5Wc0JfUTlKVkdFRzQ0TVhxYWVpS0JMYnZFUG81WGN0RGY5Q3ZlQmpnTWhYWE12ZXBGZWRtTjVnRElWUQ?oc=5",
+      "publishedAt": "2026-08-12T11:50:00.000Z",
+      "category": "研究",
       "tags": [
         "ai",
-        "generative",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "f2bae86174a2",
+      "title": "Silicon Motion unveils MonTitan™ SSD Reference Design Kit for AI Infrastructure - Cyprus Shipping News",
+      "summary": "Silicon Motion unveils MonTitan™ SSD Reference Design Kit for AI Infrastructure &nbsp;&nbsp; Cyprus Shipping News",
+      "source": "Cyprus Shipping News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNDlqYnNIdVpNdEhkZVVGejhScUswTHlpc1NPbU4zTFdlcXdhWkRZb2RtOER2SHk1TDN0OXJOazU5dEY2dGtaZ09sUktqMk5VbmdMSlBpSDZZZkRtNUl3TXVYRy10SDJ4VGdpWFRNRjFSVUlDemFqczdXRFMtWkV2dnNiR2VBMU5fVU5IR01nQmtubERkZmJ3MUJlMEdoLWgxYzdGTHkyaHFFY2w1bUlzT0R1UEVxbW1LMzNvRlRn?oc=5",
+      "publishedAt": "2026-08-12T02:18:45.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "e0a1a4551c3a",
+      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture - NVIDIA Blog",
+      "summary": "Why Scaling AI Compute Performance Requires a New Power Architecture &nbsp;&nbsp; NVIDIA Blog",
+      "source": "NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13MS13RjJVcmJmNzVHa2xfZlBTYkFZSm1sQ1M1c0ZtM1RyUnhUZW56TFZjb3BLckE1SVdIR2FqZi01a2pheFpIM0FmdGNoTU5Xd2NDSVdrdlJwNHQzTEFGVzhDTzNTWDlXbTJTUnhTSm5UdUExNWhR?oc=5",
+      "publishedAt": "2026-08-11T15:10:02.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
         "architecture",
         "architect"
       ]
     },
     {
       "id": "ed4a1cf76eaa",
-      "title": "AI application generation needs design, discipline and determinism - DevPro Journal",
-      "summary": "AI application generation needs design, discipline and determinism &nbsp;&nbsp; DevPro Journal",
-      "source": "DevPro Journal",
+      "title": "AI application generation needs design, discipline and determinism - devprojournal.com",
+      "summary": "AI application generation needs design, discipline and determinism &nbsp;&nbsp; devprojournal.com",
+      "source": "devprojournal.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpQb3VnT1dVUFhaZncwdXpUQVpNWWtNQndZVGlId0JhY012b3l5VktiTDUyNkVBa0drZ3dTamNzUV83Nm1PV1VBS2FHaGhpcjZNWGF0SVA4T2dBeEJqaWM4T3Q3bUNRb0tuaHNWUHRIdks2dWZmZjNvZVl6Z0xfTVZ5bjJack9lV2pWSkZmTHZNZGR0Q19PODVUbk1JUzcyMWhPcUZuWQ?oc=5",
-      "publishedAt": "2026-08-11T13:25:24.000Z",
+      "publishedAt": "2026-08-11T13:23:54.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "6d694b55c718",
+      "title": "Alibaba says it can build AI data centres in 100 days with modular design - South China Morning Post",
+      "summary": "Alibaba says it can build AI data centres in 100 days with modular design &nbsp;&nbsp; South China Morning Post",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3VpX21FQ3dWQW85aDR6WHVXRkFiOHEwUXlVTzNyaGlhOTFWOU5NendJeDJiNmxsYm9fY0I0X1hEODk5RkhZclFRMFllUzY5U2NaMC15bWk5ZUxxbTE2ZTVialJiZ0VEUzluMS1xaHB5LWpMWmoyV3N3Q0hzMmN0SE42OWp6NTF6clV2MWJ4aUxVRUo2MlVvel84Wl8xdTVtZjItaUV6ZDdBQkR6MUxOMlFvRkJWWHFZSDk4aERkSEl1NnpE0gHEAUFVX3lxTE9OcGYtYlEzQk9vWEFxX29jaEYwMHF5NjJjNWFQM2dLVHVQc0J4TFFyRVVjUVNCOURlQmJZRnZmX0prdHFiSEFudFpCYVpiSG0teTFVaTZyRVBVV3NrcW1SQ2xtV09xZUtlbVU3OG5tbzNoWk9sODNmMnZzRlI5MFNWZXVCZ2dxclRCNS1ETGJKLWU1blRma2pxRTVpS1FFYTZWcnlWS2Nva21PcnprX0RMZ090ZjNuTTZEQ3I1blVkcVpPUm0?oc=5",
+      "publishedAt": "2026-08-11T10:00:16.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -197,9 +311,9 @@
     },
     {
       "id": "78b13caec601",
-      "title": "Realistic AI architectural renderings must be labelled under EU AI Act - Dezeen",
-      "summary": "Realistic AI architectural renderings must be labelled under EU AI Act &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
+      "title": "Realistic AI architectural renderings must be labelled under EU AI Act - dezeen.com",
+      "summary": "Realistic AI architectural renderings must be labelled under EU AI Act &nbsp;&nbsp; dezeen.com",
+      "source": "dezeen.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRTGk5QXd6blc4ajZ6ZzRmMk1hdUo4VFk4UWF6UXpSaWlhRDF6WU5uNFA4Sk5xRnktVlEzT0ZiRENZM2psZFRBSDg0UEZmYjVXbXRDSDNoLU5nY056VW5SV3lhdVYxM0R1ZWR4cEp5VHUyenYyZ25oaXpXaUk?oc=5",
       "publishedAt": "2026-08-10T09:45:00.000Z",
       "category": "研究",
@@ -210,11 +324,11 @@
     },
     {
       "id": "14058c886e59",
-      "title": "Visoid raises $2.5M to expand AI visualisation platform for architects - Tech.eu",
-      "summary": "Visoid raises $2.5M to expand AI visualisation platform for architects &nbsp;&nbsp; Tech.eu",
-      "source": "Tech.eu",
+      "title": "Visoid raises $2.5M to expand AI visualisation platform for architects - tech.eu",
+      "summary": "Visoid raises $2.5M to expand AI visualisation platform for architects &nbsp;&nbsp; tech.eu",
+      "source": "tech.eu",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnRSejJNLU5pY0piNmRGbEtCQncwTm5OWFNwUzNiNjVWY21lWloyR1AwdXpWYlNiWDNiaXRoU1FSM3BDMVNBTE9RekZ0Z1p1eXYtV3g3dS1wSF94UmtmS1g4OHVBNFRwalRWM0d4YVJ4ZTVpbHdKQTc5ZG9Xc2xVdEdRNkNIaS1KNThOWk5vUU9VT0pES09hblZpNTc?oc=5",
-      "publishedAt": "2026-08-10T08:31:36.000Z",
+      "publishedAt": "2026-08-10T08:31:05.000Z",
       "category": "工具",
       "tags": [
         "ai",
@@ -263,20 +377,6 @@
       ]
     },
     {
-      "id": "3da4fd1353c8",
-      "title": "Proposal to add provisions on green architecture and AI to the Architecture Law. - Vietnam.vn",
-      "summary": "Proposal to add provisions on green architecture and AI to the Architecture Law. &nbsp;&nbsp; Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc01wVTJMTGY4eFBWVnpZVFZVNFFjUWZBbnZPYVo3NHZWS3JLR1RvTHB5bEx0b1IzSmg1X1FiQTRmTzU5WHNVbUpoM0hTVVF0TTN0RjVyeC1TUEhNN2JjV0tjTzZvQ0ZBbmNFS3d0aGxaVlRabkZna3VKaDh4UTZyLWFYR0pjWHRzQ3dkZEFRVDFZbVk0dDl3TTJkNGRwdw?oc=5",
-      "publishedAt": "2026-08-07T08:31:30.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "23e4e04b2e27",
       "title": "AI-Powered Interior Design in Architecture 3.0 - Parametric Architecture",
       "summary": "AI-Powered Interior Design in Architecture 3.0 &nbsp;&nbsp; Parametric Architecture",
@@ -314,6 +414,19 @@
       "category": "研究",
       "tags": [
         "artificial intelligence"
+      ]
+    },
+    {
+      "id": "4081fd1b852b",
+      "title": "Google’s AI Architect Jeff Dean Exits After 27 Years to Build AI for Science - Gadget Review",
+      "summary": "Google’s AI Architect Jeff Dean Exits After 27 Years to Build AI for Science &nbsp;&nbsp; Gadget Review",
+      "source": "Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDVFT1VGRW9oTUpjLUhUZEk2Q1ZQQWw5dDZ1UTh0LVJUZ0l1YmZGY1g4SmYtMDRqRjczNkVpM2hpdUpHcHBwRUtaRDc3ejdoMklZWERMYmIwbUJ6Sk83R2dsbEVuME1Zak5HVTZ1cVNWT2dCczhvN0lURXVJY3ZmTnRBb21XWlQtQktrYmFwUGM3UE91S0IxZHo4cEtoSVpva05oOFFiWQ?oc=5",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
       ]
     },
     {
