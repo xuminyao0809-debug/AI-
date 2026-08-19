@@ -1,13 +1,107 @@
 {
-  "updatedAt": "2026-08-18T22:38:46.542Z",
+  "updatedAt": "2026-08-19T22:37:58.601Z",
   "items": [
+    {
+      "id": "b1f9dabb5b1a",
+      "title": "AI Architecture Design: Render a House Helps Anyone Turn Building Ideas Into Visual… - Trend Hunter",
+      "summary": "AI Architecture Design: Render a House Helps Anyone Turn Building Ideas Into Visual… &nbsp;&nbsp; Trend Hunter",
+      "source": "Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EaFVsUHVLSnJ4bjczeTFqaGM0MFdLS0lwa0ptb1BOaV9lanN3VDA0ZHhmMUdjWHpvMC1kU1daa2hwV1ViZm4wSlNnQUlzdzBfVGpUSjdGdVdrYTdaVXc?oc=5",
+      "publishedAt": "2026-08-19T18:28:54.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "building"
+      ]
+    },
+    {
+      "id": "7eb2fca9d52d",
+      "title": "Cerebras reimagines AI cluster design with switchless CS-4 architecture - Network World",
+      "summary": "Cerebras reimagines AI cluster design with switchless CS-4 architecture &nbsp;&nbsp; Network World",
+      "source": "Network World",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZi02a3phcjBWd3pqWTdlZUZPYUZpRDEyMWpOQWhVOVZlZUpCSkRWWFg1dGxpYk1xa1Z6R3c1MGNQQnVZUUZ6NmJ3QWpjZVNTaTY1MUtVOXZaSi1nNzF0aUNaM3MzSjlnd3J5bUo1Ml9kRkt5dzFYMzNGSzI4VHlna291UDkxdEhrd3A2OXBQOW05NUk1R3p1bVAzaFRFb0FrNG5rd2p4cy1aNzdqcXI4UU5GcjctVlB2MVBuMVpn?oc=5",
+      "publishedAt": "2026-08-19T10:26:40.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "8815387f5177",
+      "title": "Call for Entries : International Design Competition for the Redevelopment of the Hwamyeong Outdoor Swimming Pool",
+      "summary": "The competition aims to create synergy with Busan&rsquo;s waterfront redevelopment initiatives and transform the existing summer-only facili...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183617/call-for-entries-international-design-competition-for-the-redevelopment-of-the-hwamyeong-outdoor-swimming-pool",
+      "publishedAt": "2026-08-19T09:10:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "d9f43fdbf331",
+      "title": "Private house in La Claye / atelier iso architectes",
+      "summary": "The project is located in the village of La Claye, on a 300 m² corner plot that had long remained vacant, forming a gap within the existing ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
+      "publishedAt": "2026-08-19T06:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "620d43dcf4af",
+      "title": "The Ukrainian Pavilion Examines Displacement and Shared Space Through \"Pool of Questions\" at the 2027 Venice Architecture Biennale",
+      "summary": "The Ukrainian pavilion at the 20th International Architecture Exhibition – La Biennale di Venezia is being designed by the team from CO-HATY...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183552/the-ukrainian-pavilion-examines-displacement-and-shared-space-through-pool-of-questions-at-the-2027-venice-architecture-biennale",
+      "publishedAt": "2026-08-19T05:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "2ed3f5eba0b6",
+      "title": "TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving - EE Times Asia",
+      "summary": "TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0FydmJHdVdQdTdEdTYtMVdBSjZUS1QtZlM2NDNNUDh0R1hvZDhTQWhKbldST1RuX3FrcHVkWU5IVnV5OWpMdlQ1X2cwR00tTzdXQlp5Ykp3U2JTclYwenctRUJQMVJJaTN1Z3ZGU1lsMVRJdmc5SXc0SnhxWXE4anpwS01SaWlMTG9lRlVUSEJwVVQzZGdUYkw4bjBIc2FZNkxrTUZwWTQ?oc=5",
+      "publishedAt": "2026-08-19T02:52:35.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "ab584765d91e",
+      "title": "TIER IV joins JST’s next-gen Edge AI Semiconductor R&D program to open-source AI chip designs for autonomous driving - dqindia.com",
+      "summary": "TIER IV joins JST’s next-gen Edge AI Semiconductor R&D program to open-source AI chip designs for autonomous driving &nbsp;&nbsp; dqindia.com",
+      "source": "dqindia.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdHIxY0xQeFF4WEpCcm80QWN1NFZPc21kMzQxLUZ6UWhPV1hfeThMS1N0U01IZ1NHNGQ4T2FWaUVXMEQwUERzV0JZbExQZ3h2V1haRDR4blhOaTBtYXNMM0V5ZmFkeHVTWWpYb3VNeEd3T1M0dUJRU0FnRXBvNy1fSmxSdUxwLWpmWUlWWjgyZ00xSDg5ZV8yYjVkVWVtV0lrN1JZUlhwSUVZaUhmU3Nadkt0NmF4RW5uaVc2MWZVSGtzQjNaV2Ywbnl3ejVoZzhBUjFIUVhIR3VCTHpPbWhodUxIMF9RT29kZHJWNVowckthTlJi0gH0AUFVX3lxTE90cjFjTFB4UXhYSkJybzRBY3U0Vk9zbWQzNDEtRnpRaE9XWF95OExLU3RTTUhnU0c0ZDhPYVZpRVcwRDBQRHNXQllsTFBneHZXWFpENHhuWE5pMG1hc0wzRXlmYWR4dVNZalhvdU14R3dPUzR1QlFTQWdFcG83LV9KbFJ1THAtamZZSVZaODJnTTFIODllXzJiNWRVZW1XSWs3UllSWHBJRVlpSGZTc1p2S3Q2YXhFbm5pVzYxZlVIa3NCM1pXZjBueXd6NWhnOEFSMUhRWEhHdUJMek9taGh1TEgwX1FPb2RkclY1WjByS2FOUmI?oc=5",
+      "publishedAt": "2026-08-19T00:00:37.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "ba6045a73546",
       "title": "Can Agentic AI Catch Architecture Flaws Before Implementation? - HackerNoon",
       "summary": "Can Agentic AI Catch Architecture Flaws Before Implementation? &nbsp;&nbsp; HackerNoon",
       "source": "HackerNoon",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUh6RFFXT2ZCaXBOeWgxZjA3RHNtZHJhT2swOEZSZkJsYURqRG1Yd0o3QmhpdnhQWEtyZmc5Uk9NbXlPTlB1bVJSWk9BdTI2QjlSQ2NyWDg4elR2MERZc2pFZ0NFY2NpaDN2MVRpaGcxTDcxcXBYaGxFeUJ1djVERWstMXl2SGJLRzRaZQ?oc=5",
-      "publishedAt": "2026-08-18T20:01:03.000Z",
+      "publishedAt": "2026-08-18T20:05:47.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -96,18 +190,6 @@
       ]
     },
     {
-      "id": "7539599ddecd",
-      "title": "Trane & Eaton unveil AI data centre reference design - datacentrenews.uk",
-      "summary": "Trane & Eaton unveil AI data centre reference design &nbsp;&nbsp; datacentrenews.uk",
-      "source": "datacentrenews.uk",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXNqUXJzSzhJNTgyMkgwS0VEZXY4UnZhX0dOVTg4NDJhNDk3VTNiMHB6OWsxbzlVbHFhUDh2RDJlcEo3QUFLNDY3aFktbk5hb3ZwMExEcnEwejBBdTdDUGkydUxBXzZxMzVHMzZBTm9nczhTSUNDblJtcllkRk1SbTNTT2g5cjJNWnc?oc=5",
-      "publishedAt": "2026-08-17T11:33:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "8be930aeeee9",
       "title": "AI Can Draw Any Building. But Can It Imagine One? - Sixth Tone",
       "summary": "AI Can Draw Any Building. But Can It Imagine One? &nbsp;&nbsp; Sixth Tone",
@@ -159,18 +241,6 @@
       ]
     },
     {
-      "id": "4e5963284b8d",
-      "title": "Tagbin launches AI-native design and construction platform Brixx - ET Enterprise AI",
-      "summary": "Tagbin launches AI-native design and construction platform Brixx &nbsp;&nbsp; ET Enterprise AI",
-      "source": "ET Enterprise AI",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV19zQ3VvMG0xQXZEam9tb0RGSVVRWVRteVJoSTZtaVdFcW5hbHJYRjhRQVNTNkFELUNOUmVOYnBIeGs0eTBMeHFISVhESHBOSEd0UFhOX1llRE5kY2Z1SWdYTW1nd1BqNXJocmh1elNDakVuYUV4WWZ1RGw1UVBtVkV5ek9VcWo0UHNHRXczWFBBVFd5REw4SzF3Ty1aeUVia0hFcE1PVnZFOHBwWlFKeVdPR2JjTG0tMHJSQ3NXZkNvSERMLU9tcHdGOVJwekJ2NWt2ZdIB2gFBVV95cUxNVk5raFN4WWNrN2hIZWI5X3ZQLUpROGNLTnEwSkRhY0VGUWtYd2dKMXlkT3pIcXVvMDhYUzhWRnpOeTdjdmUtVUZCR2lDemhYNm9SQTZCNmRJT25BSFgtRkZZQmpkc2M1elI4UXJiR3dzemNiWU9zUXdIeTVRTHc4YTFNYlRnWnozMVo0V0NnMjZTRnlZcng4d1VuS0w3Q05LVU1NcElXbUhTb3ozVHpaakloUG43bi1lanlEQmpvTWhESEtMWjRNbnBXOUVVd1pjTHVkeTloWHlIUQ?oc=5",
-      "publishedAt": "2026-08-14T12:16:28.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "60296accf215",
       "title": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving - PR Newswire",
       "summary": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving &nbsp;&nbsp; PR ...",
@@ -184,9 +254,9 @@
     },
     {
       "id": "27545e217233",
-      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - Macau Business",
-      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; Macau Business",
-      "source": "Macau Business",
+      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - macaubusiness.com",
+      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; macaubusiness.com",
+      "source": "macaubusiness.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeU4yQkswd05kQTF0dFAzeU9sa3VuV19HYmoxbTdzdldzNHRjYnZXTnVXMWlDZFdHdE1xcV8xMHJybWRaU2tFNnJNdklqb3VrTU9fbnVaM3p2Z0Y1a3hHTXZsRE1FZWdHUDRxVDZoaWwwR0UxZ1BqbWFkWDZ6U0owdzlPb19oNzdEdUVOeGRUZWhjS3hTbFB5b2ExWUY4M0hva3ZFd01XOVBIMlJDcF9VdERrY1lFWnQ4V2VQT18zU3Bxd3FIWVdJ?oc=5",
       "publishedAt": "2026-08-13T21:50:37.000Z",
       "category": "研究",
@@ -259,6 +329,20 @@
       ]
     },
     {
+      "id": "e0a1a4551c3a",
+      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture - NVIDIA Blog",
+      "summary": "Why Scaling AI Compute Performance Requires a New Power Architecture &nbsp;&nbsp; NVIDIA Blog",
+      "source": "NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13MS13RjJVcmJmNzVHa2xfZlBTYkFZSm1sQ1M1c0ZtM1RyUnhUZW56TFZjb3BLckE1SVdIR2FqZi01a2pheFpIM0FmdGNoTU5Xd2NDSVdrdlJwNHQzTEFGVzhDTzNTWDlXbTJTUnhTSm5UdUExNWhR?oc=5",
+      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "527beec67928",
       "title": "Ambow Education Announces Free AI + Design Micro-Credential Program for 1,000 Students Ages 14 to 17 - Quiver Quantitative",
       "summary": "Ambow Education Announces Free AI + Design Micro-Credential Program for 1,000 Students Ages 14 to 17 &nbsp;&nbsp; Quiver Quantitative",
@@ -296,12 +380,12 @@
       ]
     },
     {
-      "id": "91599221e4d0",
-      "title": "Oslo-based Visoid raises €2.2 million to scale its AI visualisation platform for architects - EU-Startups",
-      "summary": "Oslo-based Visoid raises €2.2 million to scale its AI visualisation platform for architects &nbsp;&nbsp; EU-Startups",
-      "source": "EU-Startups",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ244UXBWbEYwMVNjQVNfYUp6LURkajRZSG9yRzVoTVUtOGNLdll6TThwZVE4bE9CU3lIN1pQOG1POWRfNWYtS3pWSjg2VTlva2lwSm9ZOW16ejBua0R0dGtNcTN5dzA2OE9FYkRoNEtybGg4bWd2TFcwTHdJTWRxZmdxYmtOQzMtR2xxOXppSm1JMWUyNk4xSm5lSW1WTmFRajRSSEFtNlpBOFRNSWpvOUlVb1cwemNLb2ppcHVLVGZPMmhaNHF3?oc=5",
-      "publishedAt": "2026-08-10T07:08:21.000Z",
+      "id": "14058c886e59",
+      "title": "Visoid raises $2.5M to expand AI visualisation platform for architects - tech.eu",
+      "summary": "Visoid raises $2.5M to expand AI visualisation platform for architects &nbsp;&nbsp; tech.eu",
+      "source": "tech.eu",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnRSejJNLU5pY0piNmRGbEtCQncwTm5OWFNwUzNiNjVWY21lWloyR1AwdXpWYlNiWDNiaXRoU1FSM3BDMVNBTE9RekZ0Z1p1eXYtV3g3dS1wSF94UmtmS1g4OHVBNFRwalRWM0d4YVJ4ZTVpbHdKQTc5ZG9Xc2xVdEdRNkNIaS1KNThOWk5vUU9VT0pES09hblZpNTc?oc=5",
+      "publishedAt": "2026-08-10T08:31:05.000Z",
       "category": "工具",
       "tags": [
         "ai",
@@ -318,6 +402,20 @@
       "category": "研究",
       "tags": [
         "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "0a938dda512b",
+      "title": "Security Architecture in the AI Erat - Deloitte",
+      "summary": "Security Architecture in the AI Erat &nbsp;&nbsp; Deloitte",
+      "source": "Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0w1N25RTFhxMmNyX2RmTFlZRDBzeHR4STZNUW04S05XZzRmbnZGTUJJMDQ0eGRtUlpGNmpOTmNDZGIzOUJqOVY0dVZTc2hzQk5Zbzd6S3dWQkNQNTZSbURpLUVMVlR2QlZJSlBaZmRjSzRNdlBPU0MtazZEM0M1TjF4NGFScHRpVVdZbDl6RWs0eWRFTExHWUVwNkNwcVh3TFotRzVpY0RXdFIxM2ZMal9Yd1U2Rm9sLVFHM0ZyVWhrR2tpMV9rTktHTi1mTGdBSlNMbHRPbk1oZVc2b01z?oc=5",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
         "architect"
       ]
     },
@@ -365,89 +463,14 @@
     },
     {
       "id": "b3c23f2b14fc",
-      "title": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent - latimes.com",
-      "summary": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent &nbsp;&nbsp; latimes.com",
-      "source": "latimes.com",
+      "title": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent - Los Angeles Times",
+      "summary": "Contributor: Artificial intelligence can imitate us, but it cannot truly design or invent &nbsp;&nbsp; Los Angeles Times",
+      "source": "Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3FEQXFQdldqSGxvLVR0WE9MeHBRdERjOWhCd2k0Zl92RENMbVZsWW1rTVl6dTVsWlZIM2hKay1GNkNFa21ZdXZVVVJnaUE4eUNUM0tkbkZpQ3hMYV9CT1JubGJrQjdOWGw0YW5PUXBTdUZIY2d1YmJFakhPdWpSdVI0clU5RF95cWlUWUF5dHlmYjFEazVR?oc=5",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "artificial intelligence"
-      ]
-    },
-    {
-      "id": "23e4e04b2e27",
-      "title": "AI-Powered Interior Design in Architecture 3.0 - Parametric Architecture",
-      "summary": "AI-Powered Interior Design in Architecture 3.0 &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFV4X3RHaUotRzBJSjhZYkpSMG5hVWlwdGtsT0FRampEdm9VOWhvTG1RX1ZWWndGajRQc0hCdWZsWm9YV3RJWVRnc0t3ME85S205ODRLT0VjUmJ1dFE3enFmM2V5aU92LTkzbV9RUEEwelM5dkM2R0t5Ym9aVE1BOXBSWmZ1U204Z2ZV?oc=5",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "0a0c72e5130e",
-      "title": "Dezeen Agenda features Decoy Font designed to trick AI - Dezeen",
-      "summary": "Dezeen Agenda features Decoy Font designed to trick AI &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1UHM3YU1rMkhwMTFzckMwd1J1a0ZFWEdCT21IQ2JZWjlNMElFYkRwS0tuc3N0U3U4NTBEVkVEQkJoWENWMTZqa1ZCcGNhQmxwTjgtQkVUZ2otdnZqUl9SNzBfajZUbmw0X2U3a09LVzAwYjRrZ3h3elBB?oc=5",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "4081fd1b852b",
-      "title": "Google’s AI Architect Jeff Dean Exits After 27 Years to Build AI for Science - Gadget Review",
-      "summary": "Google’s AI Architect Jeff Dean Exits After 27 Years to Build AI for Science &nbsp;&nbsp; Gadget Review",
-      "source": "Gadget Review",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDVFT1VGRW9oTUpjLUhUZEk2Q1ZQQWw5dDZ1UTh0LVJUZ0l1YmZGY1g4SmYtMDRqRjczNkVpM2hpdUpHcHBwRUtaRDc3ejdoMklZWERMYmIwbUJ6Sk83R2dsbEVuME1Zak5HVTZ1cVNWT2dCczhvN0lURXVJY3ZmTnRBb21XWlQtQktrYmFwUGM3UE91S0IxZHo4cEtoSVpva05oOFFiWQ?oc=5",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "f4122f0bbaf2",
-      "title": "Mak: AI Living i-City designed around human needs, not walls - NST Online",
-      "summary": "Mak: AI Living i-City designed around human needs, not walls &nbsp;&nbsp; NST Online",
-      "source": "NST Online",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWpiaHp0ckdyQjF6YzF1SXd5RVBjaGlYSlNKZF9hMW02aGcwNUZYQV96dlpjdndBenduSXZOcmxaVFVFTXdSUW1ZdU1IVEZsbFZMR1B1RmVvOXR2WWg5WVY3NWF0S2haQ2dhSVAxdmVBVjZjMTMwbXRUU1FCRXpRR0dJSkdLUngyMW1qQzJvcHcxaEdHWms2bkpOZGEwMWZ3RF9rNVNXMHd3Z9IBrwFBVV95cUxPa2ZTU211bmJ1b2FLN0ZmcEIwcVBmMmc5MlZXaFExN1dfME9ZMXNvOHBCX3RZemUyOHl1VEZ6VHhCV3NPNWcyd3lpVnNEUUhsampmaUZ6V0dsQWJuNlZVdmtPdWtSbjl4M3RQUHp6amJhWFE0Um9NcnZGVEZPZUE5dzgzc0VDRzBVRVU5dG1FdVdCZUpWQ2JBY3g2SGFSM05WcHBneVBpVl9wQUtRZlp3?oc=5",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "f4aab946be19",
-      "title": "AI Chip Design Era Ends: TSMC Affiliate GUC Posts Record Revenue as Turnkey Surpasses 80% - Tech Times",
-      "summary": "AI Chip Design Era Ends: TSMC Affiliate GUC Posts Record Revenue as Turnkey Surpasses 80% &nbsp;&nbsp; Tech Times",
-      "source": "Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFcySllXclg1bXZXVnVuelU1UnE0aHZXd1BoRERmRXlNOFpaUkxIMF84Y202VjVTUG9xZVV5WnpDX3VXVHhWSng3MUQxRmcxQlhRWVI2WEh5b0c4cGFQNkhjU1dFNmoyTFAxX3RtRHJqOVVZMHN5ZXY2d0JQR3A3TXJzcC1IblJMemdkTHhRU1JHdG5SWkExUllFNWR6dzlaT2F5YThBWGVwVW5kbHByRjAwdEZGTVpKVGpyQWNRRU1Pd3ZnNUNONDFDekRlVHg5SnRMQXpn?oc=5",
-      "publishedAt": "2026-08-05T12:54:24.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "c06c8f000297",
-      "title": "LG CNS designs airport AX plans for 14 airports, tests AI agent technology - 디지털투데이",
-      "summary": "LG CNS designs airport AX plans for 14 airports, tests AI agent technology &nbsp;&nbsp; 디지털투데이",
-      "source": "디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWFLaDJkblFJOGVyUmFTNXZEYjlzeU5wV1ZWeWU1aDRLTDNZMnpSSkhGRFd0MmZJc0NncXNTZzN2YURKX2x6UmlobW5KSmk4TkpjRjZTa3dybnp2ZDdURExwZV90LXh4VTI2b3pKd2dPTXZTOEEzWGMzU2NuOUFRTXdWX1daZXNWOWszM09veDh4THZhaWl2LXpXdGR5dENrUU9NSWlOaHFTVngtbVVoNHNROVlEX0phYVE?oc=5",
-      "publishedAt": "2026-08-05T01:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     }
   ]
