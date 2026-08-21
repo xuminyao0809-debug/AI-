@@ -1,6 +1,84 @@
 {
-  "updatedAt": "2026-08-20T22:42:16.690Z",
+  "updatedAt": "2026-08-21T22:38:44.135Z",
   "items": [
+    {
+      "id": "8074010fc1c9",
+      "title": "AI is the new design tool, not the next architect - Daily Tribune",
+      "summary": "AI is the new design tool, not the next architect &nbsp;&nbsp; Daily Tribune",
+      "source": "Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdTNqWGw1U1Y5QmlGcUdZOXpCcjlNeGVaMWNNSUtabG1kN24zZDNkdkttYXAtQldRNWVKVkRkei1sT1I1eVNkd3R3d044cDQ1UUtKNTRJX0NUblJXREQwNEtTMzdLalZzZUM1dk5CZDd0NFdCeG12WE55N1I1MHFFQkdaUWNWTWluYWc?oc=5",
+      "publishedAt": "2026-08-21T17:14:23.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "63136c14c52e",
+      "title": "HUT-SPOT Pavilion / m²ft architects",
+      "summary": "HUT-SPOT stands on the edge of the forest, where the vegetation of the Romagna hills in Italy is gradually reclaiming an asphalt clearing, a...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183413/hut-spot-pavilion-m2ft-architects",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "efcee3d56326",
+      "title": "AI, BIM and Sustainable Design Push Global Architecture Market Growth - Realty Plus Magazine",
+      "summary": "AI, BIM and Sustainable Design Push Global Architecture Market Growth &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObllPNjJuUVlNUHBudkhjRFNIZWNORFc4Q2VPNjVoQTZuQmZFa253aXM0WGVtd3p0dWZ2ZGxVM2QyVEFxakRyTGduUGlNRE1UQ1I2d1R0Z215TUxqa2VYNmJDM1g2VEs5Ymg4dWlyeWZ6MG9ROERQZ2ZzY2RNbWNxckU2bnM2QXRnVWRwaVRmUUVFdFFacnJwTGZnTFJKek81UGFfVlBaUElRY1JXaHJDbjIzNzE1ZUdmM1NPRQ?oc=5",
+      "publishedAt": "2026-08-21T11:23:32.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "bim"
+      ]
+    },
+    {
+      "id": "6efa1272d271",
+      "title": "Construction of a Media Library and Redesign of a Music School in Sarlat-la-Canéda / Dominique Coulon & associés",
+      "summary": "The media library and music school are built against an ochre cliff, which gives them unique character. The aim here was to place a modern c...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183616/construction-of-a-media-library-and-redesign-of-a-music-school-in-sarlat-la-caneda-dominique-coulon-and-associes",
+      "publishedAt": "2026-08-21T10:00:00.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "7c40c608fdb7",
+      "title": "Tagbin looks beyond generative design with Brixx - dqindia.com",
+      "summary": "Tagbin looks beyond generative design with Brixx &nbsp;&nbsp; dqindia.com",
+      "source": "dqindia.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlZ3RE8zYk9fbWY5MXUyWFl5OXlFZDhydGNrV2pSNngzWWhUY0lrS2hZbzRXbmxLR2dpb1JhNGpmSFdIbDNxQ2kzTjlWWk45OGJsenEtRzI4SU1WQVJxdTkwUkNRbFdfS21GWTA2WGRERVNMV1A3MWxDd2ZvdVV6WmVrTVU5V2IzdEQ1SlFQSWRTNk1XNUZxb9IBmAFBVV95cUxNYlZ3RE8zYk9fbWY5MXUyWFl5OXlFZDhydGNrV2pSNngzWWhUY0lrS2hZbzRXbmxLR2dpb1JhNGpmSFdIbDNxQ2kzTjlWWk45OGJsenEtRzI4SU1WQVJxdTkwUkNRbFdfS21GWTA2WGRERVNMV1A3MWxDd2ZvdVV6WmVrTVU5V2IzdEQ1SlFQSWRTNk1XNUZxbw?oc=5",
+      "publishedAt": "2026-08-21T04:53:59.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "generative"
+      ]
+    },
+    {
+      "id": "9dd64ec9d684",
+      "title": "The Maison du Peuple: Reclaiming Brutalism for Nation-Building",
+      "summary": "When African countries gained independence from European colonial rule during the mid-twentieth century, nation-building involved more than ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183315/the-maison-du-peuple-reclaiming-brutalism-for-nation-building",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
     {
       "id": "2f5378c52485",
       "title": "Build smarter with this AI-native design and construction platform - Architect and Interiors India",
@@ -43,31 +121,6 @@
       ]
     },
     {
-      "id": "117e4cc07f79",
-      "title": "ZHA Designs 198-Hectare Urban District Around Baku Expo Center in Azerbaijan",
-      "summary": "ZHA has been selected to design a new 198-hectare urban district in Baku, Azerbaijan . The project surrounds the existing Baku Expo Center e...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183649/zha-designs-198-hectare-urban-district-around-baku-expo-center-in-azerbaijan",
-      "publishedAt": "2026-08-20T05:30:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "a8bf3b444f9d",
-      "title": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, E - The Times of India",
-      "summary": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, E &nbsp;&nbsp; The Times of India",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPQWRKTTBabGRvZV9TbEZXREpNbFFKdVFOZGxfYm9ERl9scWNfR0pMN0otOE9TSDUxajVncmpkS05XMWNLSkpRQzF4d3BPYzZ6UDY4MTN5SXhqNnlzOWxGMmRpVDlJX3lOZnM0M1F2cU9MdkNGZmdzWVFiV0pTRExSdmR2VlVrSmhXTGh3aGF2SWU4Q3dkZERhMGtJR2RLd3BFMjRZdjlaV1FKeTd1LXJZVG5oNHBGUy1nSVZWWWYzUmxXWUN6bDRzdldUa0xteHhzaVVpX1JjRVVkY3NBT3JQNG5FSF9JTXhRei1QS0htaG45YmVPTEF1US1xeFVKTVlOdFBsSzdla3k2TXJhMXlobkVrRk9HNzB2U0FSWUUtQzJoclJDN2RxM0k4VEg3SDBzMElqRGtBdjNJcnpBcXI40gHEAkFVX3lxTE1xYklzcElSRG5yeDZ0X1U2YzY1Y1h2LXJiSHJlR2M4MFYyQ3VPLVNFVkpaMmdMSkNzcVZOSEhIVEJwR0ljU2xVUGl6eTRhd0oybkZqbnVkR2RBUXFoRkZudm9GcGRzVVNiZWdEM2pxbklEX2dvNmRlejlSUVpLYW5BRjZ3Y19qVWYxa1ZUa1pXTmhMc213R2plN1llbzY3eW9JbHhIenFhSUpnUEFocjhEYzZqTXQ4M1h1YTk3TnBGekxScnliaE1OS0FWcGc2bkVoakYzSXA0cm1UTEo4bzhLOTVwY0d4U3NkRldlbW1EdDVJajN6X0VnNGVhX3VrT1RpeWNudXRZdGRUd1FsU2stTFM5dHRIa2V3ZDlSdzNVSVRmRjhic05mSW40aDFxaERNSVF1bUpQNFdKMHNrbkRmUXVPUg?oc=5",
-      "publishedAt": "2026-08-20T04:51:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "b1f9dabb5b1a",
       "title": "AI Architecture Design: Render a House Helps Anyone Turn Building Ideas Into Visual… - Trend Hunter",
       "summary": "AI Architecture Design: Render a House Helps Anyone Turn Building Ideas Into Visual… &nbsp;&nbsp; Trend Hunter",
@@ -79,19 +132,6 @@
         "ai",
         "architecture",
         "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "cb2fa44e2363",
-      "title": "House in São Paulo / André Vainer Arquitetos",
-      "summary": "The house occupies a flat, well-oriented lot, with the building set along the neighboring property line and the front setback to form an L-s...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183558/house-in-sao-paulo-andre-vainer-arquitetos",
-      "publishedAt": "2026-08-19T17:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
         "building"
       ]
     },
@@ -110,18 +150,6 @@
       ]
     },
     {
-      "id": "8815387f5177",
-      "title": "Call for Entries : International Design Competition for the Redevelopment of the Hwamyeong Outdoor Swimming Pool",
-      "summary": "The competition aims to create synergy with Busan&rsquo;s waterfront redevelopment initiatives and transform the existing summer-only facili...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183617/call-for-entries-international-design-competition-for-the-redevelopment-of-the-hwamyeong-outdoor-swimming-pool",
-      "publishedAt": "2026-08-19T09:10:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "2ed3f5eba0b6",
       "title": "TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving - EE Times Asia",
       "summary": "TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving &nbsp;&nbsp; EE Times Asia",
@@ -133,18 +161,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "ab584765d91e",
-      "title": "TIER IV joins JST’s next-gen Edge AI Semiconductor R&D program to open-source AI chip designs for autonomous driving - dqindia.com",
-      "summary": "TIER IV joins JST’s next-gen Edge AI Semiconductor R&D program to open-source AI chip designs for autonomous driving &nbsp;&nbsp; dqindia.com",
-      "source": "dqindia.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdHIxY0xQeFF4WEpCcm80QWN1NFZPc21kMzQxLUZ6UWhPV1hfeThMS1N0U01IZ1NHNGQ4T2FWaUVXMEQwUERzV0JZbExQZ3h2V1haRDR4blhOaTBtYXNMM0V5ZmFkeHVTWWpYb3VNeEd3T1M0dUJRU0FnRXBvNy1fSmxSdUxwLWpmWUlWWjgyZ00xSDg5ZV8yYjVkVWVtV0lrN1JZUlhwSUVZaUhmU3Nadkt0NmF4RW5uaVc2MWZVSGtzQjNaV2Ywbnl3ejVoZzhBUjFIUVhIR3VCTHpPbWhodUxIMF9RT29kZHJWNVowckthTlJi0gH0AUFVX3lxTE90cjFjTFB4UXhYSkJybzRBY3U0Vk9zbWQzNDEtRnpRaE9XWF95OExLU3RTTUhnU0c0ZDhPYVZpRVcwRDBQRHNXQllsTFBneHZXWFpENHhuWE5pMG1hc0wzRXlmYWR4dVNZalhvdU14R3dPUzR1QlFTQWdFcG83LV9KbFJ1THAtamZZSVZaODJnTTFIODllXzJiNWRVZW1XSWs3UllSWHBJRVlpSGZTc1p2S3Q2YXhFbm5pVzYxZlVIa3NCM1pXZjBueXd6NWhnOEFSMUhRWEhHdUJMek9taGh1TEgwX1FPb2RkclY1WjByS2FOUmI?oc=5",
-      "publishedAt": "2026-08-19T00:00:37.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -196,20 +212,6 @@
       "source": "TipRanks",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPU0dNVDVxUjVJQ3ExYW5sRmREMmtscXdTU2ktTmp1V3kxTUx4S3RUSWhvT01adS1SMWM0VFhVSU1HcF9HY0FQUmlWWWRWVU5NZGhWR003RUltcFc5RGwxdmVjUWFRS3JmekRmdWsydzBiVm1yc3VIZ0tPYm9QenZuMnlidWlSeWtuNFdrWGRSQUVGanJxZDlaYnVzZmtkTEhMVkpoRHpfTF9kLXZvdk02WnpzQlp1WklQd1ltcGZmRHRtemVOdFRUZWVwcFZEc2Q0QlJtRlFPaDhzTWxrTlpOVm9vdHBjSGVIZE1XM1pDMVB0N2tOclE3V3BOdmRJZw?oc=5",
       "publishedAt": "2026-08-18T00:39:43.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "618f22f7271f",
-      "title": "Energy efficient storage architecture in the AI era - TechTarget",
-      "summary": "Energy efficient storage architecture in the AI era &nbsp;&nbsp; TechTarget",
-      "source": "TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0lPZzRXbG03dTAwY2VKTUJqRkVLbjF5dXdoQWxnY0dxUk11dl9Mc0JBVmgxUHo0ZGg5cThhc1hJaUNyYmhJTlRDYks5QmFfUk52dWFaZTVsZHpYaG1kcE14bzRTU3cwcjFTVTRFdjIzSndtUnNobnZrbGpzeHZEcTVNMVczd2EtRFFjeHRRR2hRQTJYTUc2bHJLQ2FMaGFWVnc?oc=5",
-      "publishedAt": "2026-08-17T15:16:17.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -281,12 +283,26 @@
       ]
     },
     {
-      "id": "27545e217233",
-      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - Macau Business",
-      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; Macau Business",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeU4yQkswd05kQTF0dFAzeU9sa3VuV19HYmoxbTdzdldzNHRjYnZXTnVXMWlDZFdHdE1xcV8xMHJybWRaU2tFNnJNdklqb3VrTU9fbnVaM3p2Z0Y1a3hHTXZsRE1FZWdHUDRxVDZoaWwwR0UxZ1BqbWFkWDZ6U0owdzlPb19oNzdEdUVOeGRUZWhjS3hTbFB5b2ExWUY4M0hva3ZFd01XOVBIMlJDcF9VdERrY1lFWnQ4V2VQT18zU3Bxd3FIWVdJ?oc=5",
-      "publishedAt": "2026-08-13T21:50:37.000Z",
+      "id": "e3b3b067a31a",
+      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - aap.com.au",
+      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; aap.com.au",
+      "source": "aap.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lWlFPOTJoU3k1RDlXMHNkUDMwbGFubmJjd3FsVGRHaWhaOF9uQzZ0elJ2SDdwMEVCbWRtdnBrT09hU2NOSTU0blNEcDFpSG9JRWJxdVVkWUNqLXNJUk5ad2pmWUhYc2pn?oc=5",
+      "publishedAt": "2026-08-13T23:00:14.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "6ebc633badd7",
+      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - Yahoo Finance Singapore",
+      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFl0SHo2SG5Fd3IwX0g0WG5xNEEzT2tnUW9PRnhhcF8tS0tjM2oxcld6a0NpbHVBUUdTYXJPcjhYQ2pLTGtwVWFJWThQMzlEdW1Ga0xLWVgwMHlxbGJxS2l5WVpaRFJzb3lkeFU4aGpDQkMxSmphZDRYS1FhOGZHLXY4SnNXQ0l5MDkyM3gxMmE?oc=5",
+      "publishedAt": "2026-08-13T20:48:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -333,6 +349,21 @@
       ]
     },
     {
+      "id": "4dc7452150a2",
+      "title": "Designing a generative AI architecture on OCI for a HIPAA control program - Oracle Blogs",
+      "summary": "Designing a generative AI architecture on OCI for a HIPAA control program &nbsp;&nbsp; Oracle Blogs",
+      "source": "Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3RlR2EwZzN3Snhzb29GYldjaXp3UHp1T3RlMlhxTU5JVFQ2dFc0WThzRkQ1cGZIODNqMkdUSVNna2Z2dlFkY2NhNTlvWUc5NDBFTEtJQTBCOFNwTHhteFUzYTNvU0NmYnZSckE3SEZucGh6VWxEZHM5X1pLSnFEQkhWQ205MkFobUFwQXd0NFBQUQ?oc=5",
+      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "e0a1a4551c3a",
       "title": "Why Scaling AI Compute Performance Requires a New Power Architecture - NVIDIA Blog",
       "summary": "Why Scaling AI Compute Performance Requires a New Power Architecture &nbsp;&nbsp; NVIDIA Blog",
@@ -353,18 +384,6 @@
       "source": "South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3VpX21FQ3dWQW85aDR6WHVXRkFiOHEwUXlVTzNyaGlhOTFWOU5NendJeDJiNmxsYm9fY0I0X1hEODk5RkhZclFRMFllUzY5U2NaMC15bWk5ZUxxbTE2ZTVialJiZ0VEUzluMS1xaHB5LWpMWmoyV3N3Q0hzMmN0SE42OWp6NTF6clV2MWJ4aUxVRUo2MlVvel84Wl8xdTVtZjItaUV6ZDdBQkR6MUxOMlFvRkJWWHFZSDk4aERkSEl1NnpE0gHEAUFVX3lxTE9OcGYtYlEzQk9vWEFxX29jaEYwMHF5NjJjNWFQM2dLVHVQc0J4TFFyRVVjUVNCOURlQmJZRnZmX0prdHFiSEFudFpCYVpiSG0teTFVaTZyRVBVV3NrcW1SQ2xtV09xZUtlbVU3OG5tbzNoWk9sODNmMnZzRlI5MFNWZXVCZ2dxclRCNS1ETGJKLWU1blRma2pxRTVpS1FFYTZWcnlWS2Nva21PcnprX0RMZ090ZjNuTTZEQ3I1blVkcVpPUm0?oc=5",
       "publishedAt": "2026-08-11T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "527beec67928",
-      "title": "Ambow Education Announces Free AI + Design Micro-Credential Program for 1,000 Students Ages 14 to 17 - Quiver Quantitative",
-      "summary": "Ambow Education Announces Free AI + Design Micro-Credential Program for 1,000 Students Ages 14 to 17 &nbsp;&nbsp; Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR1VkRVlNZ1F2VWc5SUk2NGZhdXVoTFVfSmtOa1BqOG5kYUpzRkQtTVVrcmVIeUw3NnoyQkV1SExKM3pMOENUeXdPN3dPSzZVNWE3aW5WT0NiRXdvWFV6bFdETl8ySE9UMmFKTzJTWXNuVGZXZ3VFMlFZdjFoY3dUMU1TVHNYTVFlYmtxTGdvU2pOTjUzaDNoYlp5TTRMcFp6bUNXTHRQSlp0T0JKdkFYUERMUEtfVWMwd1BGS0FTN3poTW9TQW15OHhTLVg0Zw?oc=5",
-      "publishedAt": "2026-08-10T12:20:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -393,6 +412,18 @@
       "tags": [
         "ai",
         "architect"
+      ]
+    },
+    {
+      "id": "bcab370c8bae",
+      "title": "Ambow Education Announces Free AI + Design Micro-Credential Program for 1,000 Students Ages 14 to 17 - Quiver Quantitative",
+      "summary": "Ambow Education Announces Free AI + Design Micro-Credential Program for 1,000 Students Ages 14 to 17 &nbsp;&nbsp; Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlZpS01MV1ZuZGlKTEc2T1l1RHBKM0VlS1VyQjhsTmg5MTFzdlZDUGtzM2lkZzRWcEF3QWFKdnRIcTgxZU1HYjQxYlJTMU4wSllwTldmZVc5RVVLNHhTRW1ERDJLLWtGcHpzTTJHSVJ6N1VoVkRMMHRDVlBYVzB1cjVPTnh3TUFDVEJjcnlfRGt2bU5fS0I4bW8zTklkMExsTS1WbXlzUXJPbUZkOTIzZ2hMMFNEUFIyVEItVWtWQ3hyTVBjSVVWLXBGOWVZd1lNRm9r?oc=5",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
