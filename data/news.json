@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-08-27T03:16:44.015Z",
+  "updatedAt": "2026-08-28T06:05:37.773Z",
   "items": [
+    {
+      "id": "17757f975cab",
+      "title": "Floral Pavilion / genarchitects",
+      "summary": "\"Floral Pavilion\" and the small railway station are two buildings located not far from one another in Tangshan, Jiangning District, Nanjing ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183973/floral-pavilion-genarchitects",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect",
+        "building"
+      ]
+    },
+    {
+      "id": "05e8d6807632",
+      "title": "The First AI Chip Designed End-to-End by AI - The Innermost Loop",
+      "summary": "The First AI Chip Designed End-to-End by AI &nbsp;&nbsp; The Innermost Loop",
+      "source": "The Innermost Loop",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KXzVyNDVfdkExWU8zN0dhNU5GUmo0NG1CQlJOMlRDbWRkMElWWm1FMzJ4NWExWE9GMWplY3JjWnZlajk4VWlqdmFRMk9jcXVPYklLa2l0R25tSDYtc2hiTnVpemR3V1RzVXAyRTZPVktxeVJMd3o3QlV1clR6dw?oc=5",
+      "publishedAt": "2026-08-27T21:20:40.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "d65e649d117b",
+      "title": "Architect Labs Unveils Redwood: The World’s First Fully AI-Designed AI Chip That Runs AI Models - WebWire",
+      "summary": "Architect Labs Unveils Redwood: The World’s First Fully AI-Designed AI Chip That Runs AI Models &nbsp;&nbsp; WebWire",
+      "source": "WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GdUcwQVM3ajlRbHAxX1ZCV3dUTndwYmN5LUFEazdmOXhKa1I3dzdhcE1udnVoeERGUkhHN3o1Ykk2bXpYNkJvaGhDMF9hSkY3Q3JNZG9YOWFTUElfSzhYbg?oc=5",
+      "publishedAt": "2026-08-27T17:37:33.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "e95118a85658",
+      "title": "Architect Labs Unveils AI-Designed Chip Built In Two Weeks That Could Upend The Semiconductor Industry - citybiz",
+      "summary": "Architect Labs Unveils AI-Designed Chip Built In Two Weeks That Could Upend The Semiconductor Industry &nbsp;&nbsp; citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZU9nazNpZmF1Qzd2YURaUEU4ZDFSME5rcWc4NGt1NUY5Mkx2R3YtS1JJRnlER25RT0lrT0dFSll4UDM1LXFRMnFFMkFPM0wzVWdHbzVHZnJsVHdPQUhDcFZ0YklWRFhyY0duNXF0TW9PcE1GTHdLZk5BWFNkd3VqaS1CcUpTVVlHZUNKVjhQay1Fa3J6eEJVWkM1REZIdGFzRm16QUVycy1lMW5JbkJNaFl2SmI3R1hvbnJNM1VPRWs5TWlpNGlrdFhIdXdyc3d3cE1sVkVRc0g?oc=5",
+      "publishedAt": "2026-08-27T17:33:18.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "7932a296e1e3",
+      "title": "Startup Architect Labs says its AI-designed chip beats NVIDIA’s Jetson Orin Nano - R&D World",
+      "summary": "Startup Architect Labs says its AI-designed chip beats NVIDIA’s Jetson Orin Nano &nbsp;&nbsp; R&D World",
+      "source": "R&D World",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2hKVXpTN3dJY1lwenNBTmJUVDVRQU11Wm1HYTJaT0JOM3lhdDktS0oxaHpXNlVaRXJpN0R2ekVuQ01mMlFfVVY3dUNZTEkwaERDS0pGVGgyVmhtcUVoZDJ0S1A1azFaOW5rSWtPbHhDMGpGa3ZnVkswRHczVlBRUDZYTk5OLTZlUG1wODAwWkFJUHUtOWdmVm5HU0JSQ0tTWXRjWk5EbHl4SVVZM1pR?oc=5",
+      "publishedAt": "2026-08-27T17:02:34.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "74efe7c0af05",
+      "title": "The architecture advantage: Rethinking power for AI data centers - Data Center Dynamics",
+      "summary": "The architecture advantage: Rethinking power for AI data centers &nbsp;&nbsp; Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnN2N01raTJhX3NzeUh3bFE5MnlRWnEta1BpRnkyRzl0MTVVYWFDSVVGRE91YXc0ZExKTXhWN2E1MTR2WTJpbHBKQ3FjZWxKLUk4XzFPckdUd1A0XzBxVk4zaWN0T05xLTMwZG1fVUJtaXZBUEUyNEdMSkU4M3ZXSm5uQ0VmNExYT2g5eXB6OE5KNjctV0tVb1JCaFRqckRvbFRiWV9xQng4anBJMUJOcEZLT1k?oc=5",
+      "publishedAt": "2026-08-27T07:02:35.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "0449ca677de7",
+      "title": "Why Connectivity Has Become an Edge AI Design Decision - EE Times",
+      "summary": "Why Connectivity Has Become an Edge AI Design Decision &nbsp;&nbsp; EE Times",
+      "source": "EE Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUS1RN09BRDlabUxTRWJLQl92RG54c0ZReHlDdmJfNkJPbHZVTlh3b2JaSy1oZlJReTVtcmxaN29yS3N0dzlRbkxaa2gySElrUU8zMTREdmE3QllmTHYzb2o1bmR1RUgzQ1gxSF9laVJ1Vkg5QllrSElvZVhfeXl1bHZpb0NtUQ?oc=5",
+      "publishedAt": "2026-08-27T07:00:54.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "9b52b1044ba4",
+      "title": "AI lab enables UTA students to create immersive architecture models - The Shorthorn",
+      "summary": "AI lab enables UTA students to create immersive architecture models &nbsp;&nbsp; The Shorthorn",
+      "source": "The Shorthorn",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGtrZUExOGlaRHA0cDhLeHhVbmpObW1STlJRd0FOZVdqNl95bzNzR3VWQWhPVlZleTlkSk1PN1A2ZzBJX1p0OVFtcG13c2tTVlVoV2xnellnUXlVZnZ4R3Fzdnh1X3JzTmFXQ3FqXzBydnRiTHNSbVJzbXRtdWpDWElfd1VPS1l2OGFOMFRZcDNzcUxmSTRMbWpYRG5PYjB2RzBZMU9BazE1QUxZLVBuZTI5YXprMUcyMzVrWjRXYzV0NVVzeW1sZXgwT0NWdWxjbEFONENlMVlQeGQtcmRtenZOYzlvaUxwcm52N1FrOA?oc=5",
+      "publishedAt": "2026-08-27T04:15:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "fa77d97ba692",
       "title": "Intel unwraps three-pronged architecture strategy to go after agentic AI - Network World",
@@ -43,19 +148,6 @@
       ]
     },
     {
-      "id": "0fd3965357a8",
-      "title": "Timbercraft: Lost Tectonics from East Asia",
-      "summary": "At a time when timber is again reshaping architectural practice, Timbercraft: Lost Tectonics from East Asia revisits the enduring legacy of ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184021/timbercraft-lost-tectonics-from-east-asia",
-      "publishedAt": "2026-08-26T09:10:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "d5b50cada6c4",
       "title": "How AI and Material Agency Are Reshaping Architecture Amid Its Crisis - Bioengineer.org",
       "summary": "How AI and Material Agency Are Reshaping Architecture Amid Its Crisis &nbsp;&nbsp; Bioengineer.org",
@@ -70,30 +162,6 @@
       ]
     },
     {
-      "id": "ac14c4fef8cf",
-      "title": "Pelli Clarke & Partners' City Tower One and Dubai Cityscape Under the Lens of Ahmad Alnaji",
-      "summary": "City Tower One is a 358-meter-tall (1,175 ft.) tower in Dubai designed by Pelli Clarke & Partners . The 93-story mixed-use skyscraper comple...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183975/pelli-clarke-and-partners-city-tower-one-and-dubai-city-life-under-the-lens-of-ahmad-alnaji",
-      "publishedAt": "2026-08-26T05:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "98211534025e",
-      "title": "How to Actually Scale Multi-Agent AI (A Chip Designer's Playbook) - HackerNoon",
-      "summary": "How to Actually Scale Multi-Agent AI (A Chip Designer's Playbook) &nbsp;&nbsp; HackerNoon",
-      "source": "HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEp6T1dUOG05OG9QVDBKWi0tdEd5RmVQWEJ1TUVHT09SdThsenpEQjJELWI0dTEyZl83RTdqS0x3YXFiQUFaeWtoSmRjM1NZbW9aM1p3U0JPRDh4Y1ozbHdzdVR1QnhYcHA3ei1lR2FuSnQybS1wWXgwYnc0QTRuVm81cnhVX1FvMmk4T3hR?oc=5",
-      "publishedAt": "2026-08-26T04:47:45.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "ebdd719c3061",
       "title": "Architecture doesn't need AI to transform it; it needs AI to make it calmer - IT Brief New Zealand",
       "summary": "Architecture doesn't need AI to transform it; it needs AI to make it calmer &nbsp;&nbsp; IT Brief New Zealand",
@@ -105,46 +173,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "4a873336c7d1",
-      "title": "Apple Unveils M6 and M5 Ultra, Bringing 2nm Architecture and Major AI Performance Gains to Mac - KLGadgetGuy",
-      "summary": "Apple Unveils M6 and M5 Ultra, Bringing 2nm Architecture and Major AI Performance Gains to Mac &nbsp;&nbsp; KLGadgetGuy",
-      "source": "KLGadgetGuy",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ29pZ1BHWkdKdTczVE9pU0Z1WlZiRWNoazZnS05rOVFkc1pWandOQ2ExanVtaFNKN0FTbkRmZ2FRR2tNb1BVZ0thOVJtWmd3STRrcTlqNy1naFNQMTBXOWExYlc0WW5mMG5qNGtKbFFKVVQ4cHEwdkZ3dFBIZVNuNllnRkdJTFdiMzFfRmlBRzdNd2pwTVRCMDhVU0VPMWgyRGlTbUpMSUxFUlFhOUVKenFTa2J5T1VsQVE?oc=5",
-      "publishedAt": "2026-08-26T02:31:11.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "3723eb69f227",
-      "title": "AI Data Center Power Architecture: The new currency of the world - Flextronics",
-      "summary": "AI Data Center Power Architecture: The new currency of the world &nbsp;&nbsp; Flextronics",
-      "source": "Flextronics",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hTFJWbFpsSjZDaUdPb0daaFkwLVBkRjdFWnJXMEM1UHZ2aEtFZ0F4dHVDSWhhM2Rwc2N0ZEg0Y3FlODA4MlB3S3JLVmpnMVRVdVZtNzBnazNrbTFzcVNIZ1hRZTVSYWtYd0QxNEl6OA?oc=5",
-      "publishedAt": "2026-08-25T17:20:44.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "50de56bfb23a",
-      "title": "Forest House / Lucas Gonçalves Arquitetura",
-      "summary": "Located in Franca, São Paulo, Casa da Mata was designed for a family that values a peaceful lifestyle and a daily connection with nature.",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183946/forest-house-lucas-goncalves-arquitetura",
-      "publishedAt": "2026-08-25T17:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -187,6 +215,18 @@
       ]
     },
     {
+      "id": "92de97f47752",
+      "title": "How AI workloads affect enterprise network design - TechTarget",
+      "summary": "How AI workloads affect enterprise network design &nbsp;&nbsp; TechTarget",
+      "source": "TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjJlRDRvUVJKVWVpZnVBVk5vN2JfQWJXTjltZ2F0cDZ1cFFHUEpKM0R3ZTd1X3lGbnFKZWRhTldxdlFQUEpOUGZTZWthUUNSTjIyZ21UY181RDdEcVl0YzV2NFMxcG5MY3VJRjdSYVdnOG5uYjV1eDhveEVvdHBCMWpaMXlCRUpvUXp2ZnhXdV9yZWg0TndKdENla2NHMjA?oc=5",
+      "publishedAt": "2026-08-25T02:27:46.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "408023733f51",
       "title": "How Do Arm Holdings (NASDAQ:ARM) Designs Power the AI Era? - Kalkine Media",
       "summary": "How Do Arm Holdings (NASDAQ:ARM) Designs Power the AI Era? &nbsp;&nbsp; Kalkine Media",
@@ -205,20 +245,6 @@
       "source": "Intel Newsroom",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3pPUGQ5SFlqYndHbURabk5kUzE5d09FRDIxR3BRX0dhb29DT3JtX051cXY5VXlJcFE2aHgydmFUSnNQUmJwclJZQkNJaWhScExRQTNSeTcyUlJsN2UzekJkUXhBRWdFT1BqZjgyekJyQzRTMXdRU3I5c1RHdDFlMV91aGVieTJXMFVpWlRYOWpkUE1Rd2xMeHNGOXhUTlRoR194dmZUbVQ?oc=5",
       "publishedAt": "2026-08-24T14:35:34.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "6e273610c220",
-      "title": "IBM Unveils First Dual-Architecture Mainframe Processor With Arm Technology - Eurasia Business News",
-      "summary": "IBM Unveils First Dual-Architecture Mainframe Processor With Arm Technology &nbsp;&nbsp; Eurasia Business News",
-      "source": "Eurasia Business News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkh5RjF4TzFoUk9xSmo5UFlEMjI2cl9YczN5TXZsRGp0VndDS1RmUGlIUjFGeUFrdlNENXN0ZmVQaG50ZjJaQ2VGZGFuY1pxYUtHOTNUVDdUZ2gzN3h4QzhMTU56S3Axa2xad2ZiZEpHb25ZbVdrSmt6ckpUX013dEM2WjBsNUQ2Tk0wdHZGVzFaUjVyU3Q2SHhjbjYzT2NGQWd5RS1hSDVjRHNYWmVvbDNkY3Y1WW1LVXZB?oc=5",
-      "publishedAt": "2026-08-24T12:29:51.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -269,6 +295,20 @@
       ]
     },
     {
+      "id": "ee5e8c38cd70",
+      "title": "Micron Evolving Memory Architectures for AI at Hot Chips 2026 - ServeTheHome",
+      "summary": "Micron Evolving Memory Architectures for AI at Hot Chips 2026 &nbsp;&nbsp; ServeTheHome",
+      "source": "ServeTheHome",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0lEMFlNU3F1Q1dJYnd3N0FkWER5ZGxEdHB0S1hvUTVzZUdkbDUybjBNUWxOMVVodzVqS2NwVTNCbWhWVm9Cek9uUkVCem1EZlhKTV9tdXFfS2w5VEI5cmZtRm9mSnFzUzRRZGhpNEs1YlUyMGRoZWRXNnFWNDEtakhSNXpwZXVSUG1JUWlubmdHVFBCYUE?oc=5",
+      "publishedAt": "2026-08-23T17:55:32.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "13b11c73d25a",
       "title": "CPU LLMs: Architecture First, Size Later - StartupHub.ai",
       "summary": "CPU LLMs: Architecture First, Size Later &nbsp;&nbsp; StartupHub.ai",
@@ -283,12 +323,25 @@
       ]
     },
     {
-      "id": "7103f0556c84",
-      "title": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture &nbsp;&nbsp; Nasscom",
-      "source": "Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
-      "publishedAt": "2026-08-21T05:10:37.000Z",
+      "id": "8074010fc1c9",
+      "title": "AI is the new design tool, not the next architect - Daily Tribune",
+      "summary": "AI is the new design tool, not the next architect &nbsp;&nbsp; Daily Tribune",
+      "source": "Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdTNqWGw1U1Y5QmlGcUdZOXpCcjlNeGVaMWNNSUtabG1kN24zZDNkdkttYXAtQldRNWVKVkRkei1sT1I1eVNkd3R3d044cDQ1UUtKNTRJX0NUblJXREQwNEtTMzdLalZzZUM1dk5CZDd0NFdCeG12WE55N1I1MHFFQkdaUWNWTWluYWc?oc=5",
+      "publishedAt": "2026-08-21T17:14:23.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "2413ae082198",
+      "title": "Network architecture pay climbs amid AI shift - Network World",
+      "summary": "Network architecture pay climbs amid AI shift &nbsp;&nbsp; Network World",
+      "source": "Network World",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdklOdW0td3N4YVFyNnZtaG1WUEJ2Y0Fld2EwZnRFT2pCSVdzXzJpV1JONXJFd1AwUDU2OGVaZno5NEZTSGFrSWxOT0Noc2gxTzFVQ0xNSDA3dVBDaUFIN0cteFhTN3RDZUlOVkFpV1FZMndHd0NBbDYxNWdwMjJad0x3U1FtcUstZ2xBeGRrT0xqc2RLazV1RFU5WQ?oc=5",
+      "publishedAt": "2026-08-21T11:41:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -356,34 +409,7 @@
       "summary": "Cerebras reimagines AI cluster design with switchless CS-4 architecture &nbsp;&nbsp; Network World",
       "source": "Network World",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZi02a3phcjBWd3pqWTdlZUZPYUZpRDEyMWpOQWhVOVZlZUpCSkRWWFg1dGxpYk1xa1Z6R3c1MGNQQnVZUUZ6NmJ3QWpjZVNTaTY1MUtVOXZaSi1nNzF0aUNaM3MzSjlnd3J5bUo1Ml9kRkt5dzFYMzNGSzI4VHlna291UDkxdEhrd3A2OXBQOW05NUk1R3p1bVAzaFRFb0FrNG5rd2p4cy1aNzdqcXI4UU5GcjctVlB2MVBuMVpn?oc=5",
-      "publishedAt": "2026-08-19T10:26:40.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "1d0f9b14562b",
-      "title": "Where do I start with AI? - Building Design",
-      "summary": "Where do I start with AI? &nbsp;&nbsp; Building Design",
-      "source": "Building Design",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDZvcmRYWXFQZVg1elBlQWxHV2FZZFJqQTFZZVplck9fTEUxZ1lLS1lRbTdHSXBib0NMRWlpOVNvRWVoaXhzZHgtVms5aktUUmhVTnpEZm5tNTB1aTIwd1hMVVU1LXdEWXQyT21zVXlkMmRPU3lhYzZhb2NIZUZScA?oc=5",
-      "publishedAt": "2026-08-18T07:05:42.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "52ff8a97ef13",
-      "title": "AI pressures expose outdated data pipeline architecture - TechTarget",
-      "summary": "AI pressures expose outdated data pipeline architecture &nbsp;&nbsp; TechTarget",
-      "source": "TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2NuNzNOS2hVZWJHRDdQeWkwRkREaDFUZzdGMEhwZ3pzOElha1Myd2FaTEpWM2RsajI3WG5Yc0lmRlh4ZHNoajMtUXRIcmZDVEJhNWNEdDVWSlJWNUdtX0VfNUdCSnFCYjdFWFdIdGxIbHpJTDlSRkgwdWJrQ1VHWFhYQzgyX21VeXpSS1RaSnZIRUhyYmZmNk9GVThhdXlyZm1xSy1QZHQ5c0t4NzBQZg?oc=5",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "publishedAt": "2026-08-19T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -420,32 +446,6 @@
       ]
     },
     {
-      "id": "1192fcb5cb9b",
-      "title": "3 E Network Technology completes AI storage controller architecture spec - TipRanks",
-      "summary": "3 E Network Technology completes AI storage controller architecture spec &nbsp;&nbsp; TipRanks",
-      "source": "TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamxPZWh0cldKbEYzVUZWTF9IRFhZaU40SUpDeU9FWWM1OW5JUjNsc3FIcjJ6b0JuaUZXdjdSYWhabmpaYi1ZOXluYzdXTTdDRlBIOEJ0RGtmOGVxc1hiaGZYajFWT2NBR05udF9rWE1aekR0N2g3Ui03LWdmNXJiZ0kxeUE3anphMWZ5NzBZSUFhTTM0R19uQU9hSzFIWm1nV1EyM1B2WGhrTVg3d0Q4NG9CUzNnZTlXZlJrcHllaw?oc=5",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "c18649aa7ab0",
-      "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware",
-      "summary": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning &n...",
-      "source": "Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5",
-      "publishedAt": "2026-08-16T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "4e5963284b8d",
       "title": "Tagbin launches AI-native design and construction platform Brixx - ET Enterprise AI",
       "summary": "Tagbin launches AI-native design and construction platform Brixx &nbsp;&nbsp; ET Enterprise AI",
@@ -458,26 +458,12 @@
       ]
     },
     {
-      "id": "274410348dae",
-      "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows - Macau Business",
-      "summary": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows &nbsp;&nbsp; Macau Business",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkZDaHJ4OXZ6ZmFPZF9mMW1ZUllXYkZuc3NJUUY0Y1JLcG1xWHhZRHNkTnV6N3RNcGVERjJhdThRS2s2a2poeG5zMWR2VmtNRE56TWt1QkQwYmtwOXhKMWk4ZHF2dlZYMk41NGIwdGhqcVFCYzV2MTZZaVpyaUVTTDNiQkxWcjdWUTRyUEhJMEpheXRTV2t6TWtfSXlOT1Z1blBXaVBnRTNfNTVQY3VLY18xd1VSQTI3UlhFcmcwYTV2QzQya0U5OQ?oc=5",
+      "id": "2b4073e1c5c7",
+      "title": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving - Taiwan News",
+      "summary": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving &nbsp;&nbsp; Tai...",
+      "source": "Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xblBQTldyQWpYeVBjU01aUjhXeDV3YmxyT2JQOENvT0Q3ZlVyem5zMUZuU2QwcHRCb1R5b3ljTUZyckRMb0t2eFY1OU9LNnJ2R3h0NQ?oc=5",
       "publishedAt": "2026-08-14T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "60296accf215",
-      "title": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving - PR Newswire",
-      "summary": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving &nbsp;&nbsp; PR ...",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdkxuRkdWaFNIYlRqaERRMXpnZElPSnp0ajl2c29GZkNyTW9IN1F0blAwN3cxUm9zSjUyYWlHRk00eWk1eG9uSUNjZG9kVmk1QVJqN2sxWXJzRnBBa2ZpQXkxanU5X3Z5cG1ZNTE1dkk2TEJiQTBXSDQ3RmdVejZ2VFZJSTlsakZWMk1xSlJnRzByQ3U4UDRqZzZVTFNkVUxfSWNmVktqUFRCYmRiZU1xMnJ3am1TejR1ZVJJdDFlYUx5clBaeGIyRGdsU3RkM3N1Q3FBbG5PNnBpNFd2Ym5YeEo2TjIwdW1jZW4yNEVNMWJnVmI3VWs2MFpKb3gybDExeTZsNndnaVI?oc=5",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
