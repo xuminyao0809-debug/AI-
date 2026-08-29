@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-28T06:05:37.773Z",
+  "updatedAt": "2026-08-29T03:42:08.387Z",
   "items": [
+    {
+      "id": "b747e08012c8",
+      "title": "3D IC design for the AI era: an EDA perspective - eeworldonline.com",
+      "summary": "3D IC design for the AI era: an EDA perspective &nbsp;&nbsp; eeworldonline.com",
+      "source": "eeworldonline.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVlxNEtVN1g0eE5ZLUVISnlRaUVYUFFNQkVNd2ZPME9BU0tNYUpGeVVWU3k1Yzg0MU5HVmdqV2R0VERNWE9YWGtWWE9US2xCclNOZldRSldwUGpkUG1RcngtSExFZFNTU21LZ3JkcUt5d2x2ckVzS3JraHhBZE56UzJMMA?oc=5",
+      "publishedAt": "2026-08-28T06:16:39.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "204eb252075a",
+      "title": "Building the Future: 6 Unbuilt Research Centers from the ArchDaily Community",
+      "summary": "Research is a structured and active process of analyzing, testing, interpreting, and solving, ultimately leading to knowledge that can be co...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184113/building-the-future-6-unbuilt-research-centers-from-the-archdaily-community",
+      "publishedAt": "2026-08-28T04:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "139547aa4618",
+      "title": "Country House in Boladala Village / ARC Architects",
+      "summary": "The country house is located on the shore of the Charvak Reservoir, an artificial lake surrounded by mountains, approximately 80 km from Tas...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183707/country-house-in-boladala-village-arc-architects",
+      "publishedAt": "2026-08-28T02:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "17757f975cab",
       "title": "Floral Pavilion / genarchitects",
@@ -67,6 +105,20 @@
       ]
     },
     {
+      "id": "df9d44567617",
+      "title": "Hot Chips 2026: Cerebras lays out the future of wafer-scale AI — Nexus system architecture triples rack-scale performance, CS-6 wafer to incorporate stacked DRAM - Tom's Hardware",
+      "summary": "Hot Chips 2026: Cerebras lays out the future of wafer-scale AI — Nexus system architecture triples rack-scale performance, CS-6 wafer to inc...",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQR0tFeUdHQjFPQWdRQW1rTUpIZGtCWjU5bkFqYUpvR1E0Ui0yNk0zdXlJRVdCOHhqQ2E0dmFRazlHMEtkd3BDYUpTUlZHM2JzSTBLQTljUG1nbGdWWFY5N0NJa2RIc2dzZWx2UkttUThudjNVbmVaMFRrLTQ3T1hZREV0VWZidmRucWpXYUJTd002QUl5ZFI4SmRtUnZ0a0Utc3pIeTdIZGFZbHU1SXdiUVdXT3czWmF4MnJINXhMMTZYQkRvZFJsMm1oZGx1NWlJZm9nT21lcUFMS3RjMVR1LVNmWVdqY0lMcTNLTGN6Mms0djNsck9jTVZjVER4bEdsbDI5MUt2NEUwTzNldmtTbDljZVk0dVdzbHVYLVhBZUpGRjcyakJZV19IZExNUkEzRVlhTEFGcEdlekZ1bmlJNUFtWXM2NGM?oc=5",
+      "publishedAt": "2026-08-27T15:59:18.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "74efe7c0af05",
       "title": "The architecture advantage: Rethinking power for AI data centers - Data Center Dynamics",
       "summary": "The architecture advantage: Rethinking power for AI data centers &nbsp;&nbsp; Data Center Dynamics",
@@ -107,6 +159,18 @@
       ]
     },
     {
+      "id": "0a5ecd7c9ff8",
+      "title": "CTOs Must Bridge Design-Production Gap to Mitigate Tech Debt, AI Risks - TechGig",
+      "summary": "CTOs Must Bridge Design-Production Gap to Mitigate Tech Debt, AI Risks &nbsp;&nbsp; TechGig",
+      "source": "TechGig",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTm1uSFI0S2xmeXVVM09FdG84QWZ5dFh2dzRwRWtSY2NqYkpteHhWdE9LWkxwa2NaVnUwMkdqZzFiUXJVem1CR0lwSEtQS2d1UGVnN1JhRVliN0dvMi1mMkQ4bWZNN3hoZ3lRQWx3WWJqaG5KdWQxcDZGTDE4TC1FTDVEOXRmbW1STG9SY3l0ellqTVltUlhDN3VyRTJPSjFpNzZNQlZ1eTFLZXEzTUFvNFJkcUl2QXJHYnEwSDEzN0lLWlnSAcgBQVVfeXFMT2FWazQ1MEZOTzFaYzh3YnJLMUtzZnhBaVFPZldvWFlaNWl1TEFBMlk5ejFfZVFoNGNfYTV5WEtzWDJXQjg0OF9wYXNYY2RmSTRVbU1PdTZ4S0RFS3NuUllKM0JTT0xZa1pzRzRRS0Z6Q2xFLUpkanBsalJjQlh4YnJqNUxGR3ROeFl5V3pZYzMtbHh2azZWa3J1QkF2bWtLYk9URk1rSzktMDZnZUVQc0RqS01Idk9DSG96VDdkU3pPTkZnNDVmTUg?oc=5",
+      "publishedAt": "2026-08-27T00:53:31.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "fa77d97ba692",
       "title": "Intel unwraps three-pronged architecture strategy to go after agentic AI - Network World",
       "summary": "Intel unwraps three-pronged architecture strategy to go after agentic AI &nbsp;&nbsp; Network World",
@@ -135,19 +199,6 @@
       ]
     },
     {
-      "id": "9eba7feb6d07",
-      "title": "House in Chérive / Paul Bernier Architecte",
-      "summary": "Built in the heart of the Chérive domain in Magog , this 1970s house originally served as a recreational cottage. Renovated over the years i...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183356/house-in-cherive-paul-bernier-architecte",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "d5b50cada6c4",
       "title": "How AI and Material Agency Are Reshaping Architecture Amid Its Crisis - Bioengineer.org",
       "summary": "How AI and Material Agency Are Reshaping Architecture Amid Its Crisis &nbsp;&nbsp; Bioengineer.org",
@@ -168,6 +219,20 @@
       "source": "IT Brief New Zealand",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDBqeVdXd2VZWUZJUHdpVzZkS2owX2tYRlhILURWc0dwY0poMk9XazVDdnBrQ0ZvNzdaZjBpYk5nSnB3VzBacEpiclZlSGxzWUJJWWxacDdzRkJuZ3dIUjFsTWZ1blZ2cHVyT2daUGtQZEFNcGhyT1pXcFBOQnA4cGw5V2RHLU5oWHcyNkVITldrUUFYMU1CSk5oNzdSRFdlMmlRbg?oc=5",
       "publishedAt": "2026-08-26T03:35:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "3723eb69f227",
+      "title": "AI Data Center Power Architecture: The new currency of the world - Flextronics",
+      "summary": "AI Data Center Power Architecture: The new currency of the world &nbsp;&nbsp; Flextronics",
+      "source": "Flextronics",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hTFJWbFpsSjZDaUdPb0daaFkwLVBkRjdFWnJXMEM1UHZ2aEtFZ0F4dHVDSWhhM2Rwc2N0ZEg0Y3FlODA4MlB3S3JLVmpnMVRVdVZtNzBnazNrbTFzcVNIZ1hRZTVSYWtYd0QxNEl6OA?oc=5",
+      "publishedAt": "2026-08-25T17:20:44.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -227,15 +292,17 @@
       ]
     },
     {
-      "id": "408023733f51",
-      "title": "How Do Arm Holdings (NASDAQ:ARM) Designs Power the AI Era? - Kalkine Media",
-      "summary": "How Do Arm Holdings (NASDAQ:ARM) Designs Power the AI Era? &nbsp;&nbsp; Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOektwN1ZET0pwUHJHTi1VY1lZd3BhR0Fwb1N5WnJJYk01cmVxZ3NQUUswUFlsbU9ETnhRRmRkOU84RzR0OHQ4dWstMTl6NVdpVXM3eXkyeGs2ZTNFbjBxOTh3ajN5Y0ZsWkZEeFhJdEYxNmgxWVNJR0VuNndwNkNLQVNHOWxwaENoWTJGSUNUNkpQVURwdG9qdlZvR1JOVXNlSk9NakpWWUNoWlRBbkUwa0dadw?oc=5",
-      "publishedAt": "2026-08-24T17:53:00.000Z",
+      "id": "c383170042dd",
+      "title": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026 - HPCwire",
+      "summary": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026 &nbsp;&nbsp; HPCwire",
+      "source": "HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjd3bWltNmtDdXJWOWdpZFFvN3dZMWtTWVVLcU5UR3Ftc2xGaEFRR1RxcU5CbDJ5OXQ0akNqRV9wdVpTYzVVSkstZzdORVV6b2RZSmVTYUpmSnlfTi1GZ1VwN3VyTEdKNUN2czV4RUlyeVBSTE82bU1YdVJsRGZRbDZ4XzctcVk5MlpobVg3c194ZlRpSWlWSEstbUNMZVVm?oc=5",
+      "publishedAt": "2026-08-24T17:27:15.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -336,20 +403,6 @@
       ]
     },
     {
-      "id": "2413ae082198",
-      "title": "Network architecture pay climbs amid AI shift - Network World",
-      "summary": "Network architecture pay climbs amid AI shift &nbsp;&nbsp; Network World",
-      "source": "Network World",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdklOdW0td3N4YVFyNnZtaG1WUEJ2Y0Fld2EwZnRFT2pCSVdzXzJpV1JONXJFd1AwUDU2OGVaZno5NEZTSGFrSWxOT0Noc2gxTzFVQ0xNSDA3dVBDaUFIN0cteFhTN3RDZUlOVkFpV1FZMndHd0NBbDYxNWdwMjJad0x3U1FtcUstZ2xBeGRrT0xqc2RLazV1RFU5WQ?oc=5",
-      "publishedAt": "2026-08-21T11:41:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "4e021a4aa72d",
       "title": "STARCHIUM’s ArchiPilot Presents the Future of AI-Designed Architecture… Drawings in 2 Minutes, Productivity to 28-Fold - The Courier-Journal",
       "summary": "STARCHIUM’s ArchiPilot Presents the Future of AI-Designed Architecture… Drawings in 2 Minutes, Productivity to 28-Fold &nbsp;&nbsp; The Cour...",
@@ -364,13 +417,13 @@
       ]
     },
     {
-      "id": "a8bf3b444f9d",
-      "title": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, E - The Times of India",
-      "summary": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, E &nbsp;&nbsp; The Times of India",
+      "id": "b2874964d9ea",
+      "title": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, European Union and Fortune 100 firms - The Times of India",
+      "summary": "From Mumbai engineering student to global AI architect: How Sameer built solutions for Microsoft, ISRO, European Union and Fortune 100 firms...",
       "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPQWRKTTBabGRvZV9TbEZXREpNbFFKdVFOZGxfYm9ERl9scWNfR0pMN0otOE9TSDUxajVncmpkS05XMWNLSkpRQzF4d3BPYzZ6UDY4MTN5SXhqNnlzOWxGMmRpVDlJX3lOZnM0M1F2cU9MdkNGZmdzWVFiV0pTRExSdmR2VlVrSmhXTGh3aGF2SWU4Q3dkZERhMGtJR2RLd3BFMjRZdjlaV1FKeTd1LXJZVG5oNHBGUy1nSVZWWWYzUmxXWUN6bDRzdldUa0xteHhzaVVpX1JjRVVkY3NBT3JQNG5FSF9JTXhRei1QS0htaG45YmVPTEF1US1xeFVKTVlOdFBsSzdla3k2TXJhMXlobkVrRk9HNzB2U0FSWUUtQzJoclJDN2RxM0k4VEg3SDBzMElqRGtBdjNJcnpBcXI40gHEAkFVX3lxTE1xYklzcElSRG5yeDZ0X1U2YzY1Y1h2LXJiSHJlR2M4MFYyQ3VPLVNFVkpaMmdMSkNzcVZOSEhIVEJwR0ljU2xVUGl6eTRhd0oybkZqbnVkR2RBUXFoRkZudm9GcGRzVVNiZWdEM2pxbklEX2dvNmRlejlSUVpLYW5BRjZ3Y19qVWYxa1ZUa1pXTmhMc213R2plN1llbzY3eW9JbHhIenFhSUpnUEFocjhEYzZqTXQ4M1h1YTk3TnBGekxScnliaE1OS0FWcGc2bkVoakYzSXA0cm1UTEo4bzhLOTVwY0d4U3NkRldlbW1EdDVJajN6X0VnNGVhX3VrT1RpeWNudXRZdGRUd1FsU2stTFM5dHRIa2V3ZDlSdzNVSVRmRjhic05mSW40aDFxaERNSVF1bUpQNFdKMHNrbkRmUXVPUg?oc=5",
-      "publishedAt": "2026-08-20T04:51:00.000Z",
-      "category": "研究",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPQWRKTTBabGRvZV9TbEZXREpNbFFKdVFOZGxfYm9ERl9scWNfR0pMN0otOE9TSDUxajVncmpkS05XMWNLSkpRQzF4d3BPYzZ6UDY4MTN5SXhqNnlzOWxGMmRpVDlJX3lOZnM0M1F2cU9MdkNGZmdzWVFiV0pTRExSdmR2VlVrSmhXTGh3aGF2SWU4Q3dkZERhMGtJR2RLd3BFMjRZdjlaV1FKeTd1LXJZVG5oNHBGUy1nSVZWWWYzUmxXWUN6bDRzdldUa0xteHhzaVVpX1JjRVVkY3NBT3JQNG5FSF9JTXhRei1QS0htaG45YmVPTEF1US1xeFVKTVlOdFBsSzdla3k2TXJhMXlobkVrRk9HNzB2U0FSWUUtQzJoclJDN2RxM0k4VEg3SDBzMElqRGtBdjNJcnpBcXI4?oc=5",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "category": "案例",
       "tags": [
         "ai",
         "architect"
@@ -392,18 +445,6 @@
       ]
     },
     {
-      "id": "2bb2f0739d62",
-      "title": "How to Answer AI System Design Interview Questions - KDnuggets",
-      "summary": "How to Answer AI System Design Interview Questions &nbsp;&nbsp; KDnuggets",
-      "source": "KDnuggets",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWJnOE1YQ2d1TE5CUUFLSVh2dDlFMGV4Q05pQVRyU3FTeHAxd191aWtJYnlZMFJrOExadnZTT2gwUkJlMHpIUmJFZGNVMElGOWczcEZOdVRnNHJpZnl5VGM2eVFNTjJVemE1SGwteUdwRzdsQ2w1R3NUUFAxNFk0N1V3?oc=5",
-      "publishedAt": "2026-08-19T14:09:34.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "7eb2fca9d52d",
       "title": "Cerebras reimagines AI cluster design with switchless CS-4 architecture - Network World",
       "summary": "Cerebras reimagines AI cluster design with switchless CS-4 architecture &nbsp;&nbsp; Network World",
@@ -418,6 +459,18 @@
       ]
     },
     {
+      "id": "2bb2f0739d62",
+      "title": "How to Answer AI System Design Interview Questions - KDnuggets",
+      "summary": "How to Answer AI System Design Interview Questions &nbsp;&nbsp; KDnuggets",
+      "source": "KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWJnOE1YQ2d1TE5CUUFLSVh2dDlFMGV4Q05pQVRyU3FTeHAxd191aWtJYnlZMFJrOExadnZTT2gwUkJlMHpIUmJFZGNVMElGOWczcEZOdVRnNHJpZnl5VGM2eVFNTjJVemE1SGwteUdwRzdsQ2w1R3NUUFAxNFk0N1V3?oc=5",
+      "publishedAt": "2026-08-19T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "613d4291e042",
       "title": "Tagbin Unveils Brixx, an AI Platform for Architecture and Construction - analyticsindiamag.com",
       "summary": "Tagbin Unveils Brixx, an AI Platform for Architecture and Construction &nbsp;&nbsp; analyticsindiamag.com",
@@ -429,44 +482,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "618f22f7271f",
-      "title": "Energy efficient storage architecture in the AI era - TechTarget",
-      "summary": "Energy efficient storage architecture in the AI era &nbsp;&nbsp; TechTarget",
-      "source": "TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0lPZzRXbG03dTAwY2VKTUJqRkVLbjF5dXdoQWxnY0dxUk11dl9Mc0JBVmgxUHo0ZGg5cThhc1hJaUNyYmhJTlRDYks5QmFfUk52dWFaZTVsZHpYaG1kcE14bzRTU3cwcjFTVTRFdjIzSndtUnNobnZrbGpzeHZEcTVNMVczd2EtRFFjeHRRR2hRQTJYTUc2bHJLQ2FMaGFWVnc?oc=5",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "4e5963284b8d",
-      "title": "Tagbin launches AI-native design and construction platform Brixx - ET Enterprise AI",
-      "summary": "Tagbin launches AI-native design and construction platform Brixx &nbsp;&nbsp; ET Enterprise AI",
-      "source": "ET Enterprise AI",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV19zQ3VvMG0xQXZEam9tb0RGSVVRWVRteVJoSTZtaVdFcW5hbHJYRjhRQVNTNkFELUNOUmVOYnBIeGs0eTBMeHFISVhESHBOSEd0UFhOX1llRE5kY2Z1SWdYTW1nd1BqNXJocmh1elNDakVuYUV4WWZ1RGw1UVBtVkV5ek9VcWo0UHNHRXczWFBBVFd5REw4SzF3Ty1aeUVia0hFcE1PVnZFOHBwWlFKeVdPR2JjTG0tMHJSQ3NXZkNvSERMLU9tcHdGOVJwekJ2NWt2ZdIB2gFBVV95cUxNVk5raFN4WWNrN2hIZWI5X3ZQLUpROGNLTnEwSkRhY0VGUWtYd2dKMXlkT3pIcXVvMDhYUzhWRnpOeTdjdmUtVUZCR2lDemhYNm9SQTZCNmRJT25BSFgtRkZZQmpkc2M1elI4UXJiR3dzemNiWU9zUXdIeTVRTHc4YTFNYlRnWnozMVo0V0NnMjZTRnlZcng4d1VuS0w3Q05LVU1NcElXbUhTb3ozVHpaakloUG43bi1lanlEQmpvTWhESEtMWjRNbnBXOUVVd1pjTHVkeTloWHlIUQ?oc=5",
-      "publishedAt": "2026-08-14T12:16:28.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "2b4073e1c5c7",
-      "title": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving - Taiwan News",
-      "summary": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving &nbsp;&nbsp; Tai...",
-      "source": "Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xblBQTldyQWpYeVBjU01aUjhXeDV3YmxyT2JQOENvT0Q3ZlVyem5zMUZuU2QwcHRCb1R5b3ljTUZyckRMb0t2eFY1OU9LNnJ2R3h0NQ?oc=5",
-      "publishedAt": "2026-08-14T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     }
   ]
