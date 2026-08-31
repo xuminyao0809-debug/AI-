@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-08-30T00:17:30.746Z",
+  "updatedAt": "2026-08-31T00:35:14.555Z",
   "items": [
+    {
+      "id": "7741b988ce01",
+      "title": "Boroló / AR-AR Martínez Arquitectura y Paisaje + María Paula González Bozzi",
+      "summary": "Located in the Teusaquillo neighborhood—a central area of the city characterized by its historic brick architecture and vibrant cultural dyn...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184067/borolo-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
+      "publishedAt": "2026-08-30T16:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "e62eb67db4f6",
+      "title": "Intel outlines three chip architectures aimed at the next phase of agentic AI - Tech Edition",
+      "summary": "Intel outlines three chip architectures aimed at the next phase of agentic AI &nbsp;&nbsp; Tech Edition",
+      "source": "Tech Edition",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjc4UDBvTlRoeGFQbXhCdXU1YUFxUWIyMlRVdHJyMFhTUnNPelVDcHpkV3BETkY0LXlMb3Uxa2lvd0cxUVkydGdrSE5GV2pwQkp6SXJxYlhYZGNQSmI4alVKNm5SWmRyaExreG5BY1pMYVNhWklJLWRDaEVuQk5NdEx4VExiX0xEaURuYTFuQ0dsZDNVZ3hjbk10bmhYVkVHVW84?oc=5",
+      "publishedAt": "2026-08-30T14:27:29.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "6c63e014b706",
+      "title": "Historic Monadnock Building Harmonizes Modern AI Office with Craftsman Heritage - freeyork",
+      "summary": "Historic Monadnock Building Harmonizes Modern AI Office with Craftsman Heritage &nbsp;&nbsp; freeyork",
+      "source": "freeyork",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHlOZ1FjOFUyWGw3SURkX2k1U19vSjFTU1lsZGJUWlQtS3F2bllrYklsUDZWMDRUYVdYUGtPVjN5bUdXcDlaZzgxR0JuX1BGM00tVHVQOFBscl93T1Roa0hyTlVaaEZmRW1WamU5NDI0MG1vdk5Qd09XOUxWdXlKaGh2UERiZ00?oc=5",
+      "publishedAt": "2026-08-30T05:51:06.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "5a13c90fd722",
+      "title": "Ripples Becoming Everyday Ground / TJAD Original Design Studio",
+      "summary": "The embankment dissolves into a chain of gentle mounds—undulating along the river's grain, as if wind-swept ripples were spreading across th...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184066/ripples-becoming-everyday-ground-tjad-original-design-studio",
+      "publishedAt": "2026-08-30T02:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "0229c9d478b8",
       "title": "Semi-construction Site Office / ARCHWASTE",
@@ -26,52 +79,12 @@
       ]
     },
     {
-      "id": "204eb252075a",
-      "title": "Building the Future: 6 Unbuilt Research Centers from the ArchDaily Community",
-      "summary": "Research is a structured and active process of analyzing, testing, interpreting, and solving, ultimately leading to knowledge that can be co...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184113/building-the-future-6-unbuilt-research-centers-from-the-archdaily-community",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "139547aa4618",
-      "title": "Country House in Boladala Village / ARC Architects",
-      "summary": "The country house is located on the shore of the Charvak Reservoir, an artificial lake surrounded by mountains, approximately 80 km from Tas...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183707/country-house-in-boladala-village-arc-architects",
-      "publishedAt": "2026-08-28T02:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "17757f975cab",
-      "title": "Floral Pavilion / genarchitects",
-      "summary": "\"Floral Pavilion\" and the small railway station are two buildings located not far from one another in Tangshan, Jiangning District, Nanjing ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1183973/floral-pavilion-genarchitects",
-      "publishedAt": "2026-08-28T00:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "43dd9cc380f5",
-      "title": "Kyndryl Expands Alliance with Broadcom to Drive Secure by Design Private Cloud for AI Era - HPCwire",
-      "summary": "Kyndryl Expands Alliance with Broadcom to Drive Secure by Design Private Cloud for AI Era &nbsp;&nbsp; HPCwire",
-      "source": "HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYkprQXJoeGFyZi1hdkNVNW9uT1RtREpYQUtxYkNFUV9NaUFPelFBOE8zdjFKelFZWDRkV1VtcWZTbmdlNVQxQXZQdkhtbXJybWhXaXJYdUxOV0NtbmpIT2JkdFduVHl6NU1zakNDLXJXVzI0WkE3eEdZV0JWYkhISVY3OFo1ek1ZV194dmFwdFNrNHg4a1dlZVBzX1EzYU1NUFIyR0ZTaTFyZ0p3ZDY4ZnBsVkJoZXAxX0pSVEhYLV9FZnhDRUhaSXprd0k?oc=5",
-      "publishedAt": "2026-08-27T18:14:14.000Z",
+      "id": "05e8d6807632",
+      "title": "The First AI Chip Designed End-to-End by AI - The Innermost Loop",
+      "summary": "The First AI Chip Designed End-to-End by AI &nbsp;&nbsp; The Innermost Loop",
+      "source": "The Innermost Loop",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KXzVyNDVfdkExWU8zN0dhNU5GUmo0NG1CQlJOMlRDbWRkMElWWm1FMzJ4NWExWE9GMWplY3JjWnZlajk4VWlqdmFRMk9jcXVPYklLa2l0R25tSDYtc2hiTnVpemR3V1RzVXAyRTZPVktxeVJMd3o3QlV1clR6dw?oc=5",
+      "publishedAt": "2026-08-27T21:20:40.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -123,6 +136,20 @@
       "source": "Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQR0tFeUdHQjFPQWdRQW1rTUpIZGtCWjU5bkFqYUpvR1E0Ui0yNk0zdXlJRVdCOHhqQ2E0dmFRazlHMEtkd3BDYUpTUlZHM2JzSTBLQTljUG1nbGdWWFY5N0NJa2RIc2dzZWx2UkttUThudjNVbmVaMFRrLTQ3T1hZREV0VWZidmRucWpXYUJTd002QUl5ZFI4SmRtUnZ0a0Utc3pIeTdIZGFZbHU1SXdiUVdXT3czWmF4MnJINXhMMTZYQkRvZFJsMm1oZGx1NWlJZm9nT21lcUFMS3RjMVR1LVNmWVdqY0lMcTNLTGN6Mms0djNsck9jTVZjVER4bEdsbDI5MUt2NEUwTzNldmtTbDljZVk0dVdzbHVYLVhBZUpGRjcyakJZV19IZExNUkEzRVlhTEFGcEdlekZ1bmlJNUFtWXM2NGM?oc=5",
       "publishedAt": "2026-08-27T15:59:18.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "01fe2bec581b",
+      "title": "Intel reveals three next-gen architectures for AI workloads - KitGuru",
+      "summary": "Intel reveals three next-gen architectures for AI workloads &nbsp;&nbsp; KitGuru",
+      "source": "KitGuru",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQzlKQmJkckhrM2czVlU2a0t2ejI5dFdDcHh3Z243cVNBcWdSd3N4czE1aHRRWUVSbEVWU0VWMk15WVQteGxFblZ6ajZwc0FoQ3ZEU2lkc0dEY0VRSnJ2UTdIb3BfV2RxeTlQd1FIMTVRdzRnbGhheDJrYXY4Uk9uNkV3SXhEMWVoRHNfdHNLTmNTNmJJM1hmOHdacWxrWjRiWmJ6V0RGLVBrU2JfQTlzeG9hX1ctajNQUjNz?oc=5",
+      "publishedAt": "2026-08-27T14:00:43.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -197,12 +224,12 @@
       ]
     },
     {
-      "id": "e1e3655960c0",
-      "title": "IBM stock edges higher as new dual-architecture mainframe chip targets AI workloads - AD HOC NEWS",
-      "summary": "IBM stock edges higher as new dual-architecture mainframe chip targets AI workloads &nbsp;&nbsp; AD HOC NEWS",
-      "source": "AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcnQ3dXRCNWw2SFE0VGZWWDI0Z0staGVETGhIUHJ3N0V5RDNfUEFhZkVfVEF4NlYwRnY2cTFodUZBOGlHZ0xUTVI2R0xfUHZsZ1NaN3lkVWhzTEJuVThPTU5YQ042VUt0MUpITTh1ZUpOWUJ3VTdLV181VWI5RElUb1kyNU5KaTI0ZGs4WlFxVG5hYk5LR0EyUFV0bFhMQ0pLdlV5MVpNVWh5Y2pycWN2WFk1ZVAtZEZqdFNST2xwS094eUVYYTRBTEd1THRpcl8xZEE?oc=5",
-      "publishedAt": "2026-08-26T15:37:40.000Z",
+      "id": "fa1dc4522715",
+      "title": "Arman Vaziri: Ramp's Go-to-Market AI Began With a Pre-Meeting Brief, Not a Grand Architecture - finance.biggo.com",
+      "summary": "Arman Vaziri: Ramp's Go-to-Market AI Began With a Pre-Meeting Brief, Not a Grand Architecture &nbsp;&nbsp; finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsY1ZlWnZ6MW1OQXJIdWExTmRUMHhxc2FhZjhsVmo2UW56UjlRWXFlNWVWbTNwN0RHUm5UU2hFMGxqcVo5WGVMQ1NzX2NvTVBCOTBIS0Y5YU9GMXc?oc=5",
+      "publishedAt": "2026-08-26T16:08:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -211,17 +238,15 @@
       ]
     },
     {
-      "id": "d5b50cada6c4",
-      "title": "How AI and Material Agency Are Reshaping Architecture Amid Its Crisis - Bioengineer.org",
-      "summary": "How AI and Material Agency Are Reshaping Architecture Amid Its Crisis &nbsp;&nbsp; Bioengineer.org",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQi1JeERQS19rblhYX1R5RHpmTmVPUVJIeERMMHozZV9DVFZsNjV0T2N5clltMlVjUG1faDhBdVFYTHRjQ1U2U1UzUncya1FFVm93UF9WZWdYdjluNHFmczlEU1JFQTJORFIwT1BxQkhYY2hSUHhsTXB4eFhZWG80aTgyWjROLTN3WDB1bERUa2FQaWwwUnBKR21B?oc=5",
-      "publishedAt": "2026-08-26T06:17:07.000Z",
+      "id": "98211534025e",
+      "title": "How to Actually Scale Multi-Agent AI (A Chip Designer's Playbook) - HackerNoon",
+      "summary": "How to Actually Scale Multi-Agent AI (A Chip Designer's Playbook) &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEp6T1dUOG05OG9QVDBKWi0tdEd5RmVQWEJ1TUVHT09SdThsenpEQjJELWI0dTEyZl83RTdqS0x3YXFiQUFaeWtoSmRjM1NZbW9aM1p3U0JPRDh4Y1ozbHdzdVR1QnhYcHA3ei1lR2FuSnQybS1wWXgwYnc0QTRuVm81cnhVX1FvMmk4T3hR?oc=5",
+      "publishedAt": "2026-08-26T04:47:45.000Z",
       "category": "研究",
       "tags": [
-        "ai",
-        "architecture",
-        "architect"
+        "ai"
       ]
     },
     {
@@ -345,18 +370,6 @@
       ]
     },
     {
-      "id": "9ef37e7bdfee",
-      "title": "Designing the modern AI cooling stack - IT News Africa",
-      "summary": "Designing the modern AI cooling stack &nbsp;&nbsp; IT News Africa",
-      "source": "IT News Africa",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1Z5Qi01UjhrVXYyMDczYlhuWFZjdXpDX0ZpYll0UzZvVEpXT2hzbFAyQlVYRVpwODNrR28yNVhJZG9mTHZGQm5VdC1yWmJqRDNfaEE0emk2SkVCV1VWWEFTYUdPYWhZRk5OUW5fRUNMazhOX0MtZDBLbWRlcll6UQ?oc=5",
-      "publishedAt": "2026-08-24T09:43:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "05d60a13e926",
       "title": "Architects are sitting on a data gold mine, and Anthropic and other frontier AI labs can’t get to it - Fast Company",
       "summary": "Architects are sitting on a data gold mine, and Anthropic and other frontier AI labs can’t get to it &nbsp;&nbsp; Fast Company",
@@ -464,18 +477,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "2bb2f0739d62",
-      "title": "How to Answer AI System Design Interview Questions - KDnuggets",
-      "summary": "How to Answer AI System Design Interview Questions &nbsp;&nbsp; KDnuggets",
-      "source": "KDnuggets",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWJnOE1YQ2d1TE5CUUFLSVh2dDlFMGV4Q05pQVRyU3FTeHAxd191aWtJYnlZMFJrOExadnZTT2gwUkJlMHpIUmJFZGNVMElGOWczcEZOdVRnNHJpZnl5VGM2eVFNTjJVemE1SGwteUdwRzdsQ2w1R3NUUFAxNFk0N1V3?oc=5",
-      "publishedAt": "2026-08-19T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     }
   ]
