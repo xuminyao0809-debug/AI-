@@ -1,16 +1,72 @@
 {
-  "updatedAt": "2026-09-02T00:10:06.781Z",
+  "updatedAt": "2026-09-03T00:12:19.385Z",
   "items": [
     {
-      "id": "4ac530874c60",
-      "title": "Redwood tests AI-designed silicon - Jon Peddie Research",
-      "summary": "Redwood tests AI-designed silicon &nbsp;&nbsp; Jon Peddie Research",
-      "source": "Jon Peddie Research",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqM3Jxc21rcGdxWDVBSlFjSklzdW5yRGJxcEprcUxhYjZPblhGbG13Z1V5SEdUaEMzZVVpUWhGeDd6M19vbW00MktkbDRpZUNhazVLRGg5OFgtamRkZXdnMTB6UC12Tk5ZOVhaOUlwbHpmM0puZlF4SUVR?oc=5",
-      "publishedAt": "2026-09-01T15:15:36.000Z",
+      "id": "06c35501e783",
+      "title": "Spain’s AEPD Issues First EU Supervisory Authority Guidance on Agentic AI Architecture - forkast.news",
+      "summary": "Spain’s AEPD Issues First EU Supervisory Authority Guidance on Agentic AI Architecture &nbsp;&nbsp; forkast.news",
+      "source": "forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjc0VEM4WnFMSGlwbWhZM0p1SGlON25RZ251TWZrWmZ1VTVRUjlUYkFUNnJTOVhQT2NMWFRzRTRnWGRfbUdscEtPOWh4ZTVXdUlsekJTLXJNOHNOb3dTZXNUOUxCeFBhaE1LaWJTOXVrbTZXOExjZGV3T0tRc1NCbHhCOUd1MFg0OEY0T1VEb3hmdnFoa1Q2SG9jT0lYQ2ZXV2tsV0ZranNONHM?oc=5",
+      "publishedAt": "2026-09-02T08:37:34.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "9545821e3fc8",
+      "title": "Tallinn Architecture City Guide: 13 Projects in a Capital Reclaiming its Waterfront",
+      "summary": "Seen from the water, Tallinn presents the skyline of a Hanseatic merchant town. During the Soviet period, most of the seafront was a restric...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183823/tallinn-architecture-city-guide-13-projects-in-a-capital-reclaiming-its-waterfront",
+      "publishedAt": "2026-09-02T04:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "9eaae97168fa",
+      "title": "Lighthouse Residence / Architecture Discipline",
+      "summary": "True luxury isn't characterized by excess, but the simple interplay of light, air, and landscape with the built. Lighthouse, a residence des...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline",
+      "publishedAt": "2026-09-02T02:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "41a6fe5e9e9b",
+      "title": "Chengdu Haiyang Road Middle School / Changwu Architects",
+      "summary": "When most urban campuses are compressed into efficiency-first functional containers, Chengdu Haiyang Road Middle School seeks to cultivate t...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184290/chengdu-haiyang-road-middle-school-changwu-architects",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "8928ac5a518f",
+      "title": "How Does Architectural Knowledge Get Passed On in the AI Office? - Common Edge",
+      "summary": "How Does Architectural Knowledge Get Passed On in the AI Office? &nbsp;&nbsp; Common Edge",
+      "source": "Common Edge",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnl6OWR4bE9WdEM5ZUNwS3JXcWltM3kwa1V0ZDI2RG9wRk4tN3ZVVkRfZHhoaVFLeUhlMFQ4NmNkcDE1TkdJOXNyc0pyUjlJUkZ2dGtHOC1BaTJCWWlTOGFENnVEaU5IUXVGeWU0aUpLakpCOEdMZ2Jzci10enhPdjVkaXl0dUhDc2g3WUpGZ1k?oc=5",
+      "publishedAt": "2026-09-01T15:52:25.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
       ]
     },
     {
@@ -53,109 +109,29 @@
       ]
     },
     {
-      "id": "605bbddb3307",
-      "title": "Skin the Architect",
-      "summary": "SKIN THE ARCHITECT is an interactive installation by LAIDA - the Latvian Architecture and Design Union - created in response to the theme of...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184322/skin-the-architect",
-      "publishedAt": "2026-09-01T09:15:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "1f08b4fe4445",
-      "title": "2026 in:situ Conference + CAA General Assembly",
-      "summary": "Be Part of the most influential architectural gathering ever held in Aotearoa New Zealand. Te Kāhui Whaihanga New Zealand Institute of Archi...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184305/2026-in-situ-conference-plus-caa-general-assembly",
-      "publishedAt": "2026-09-01T09:05:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "3e53b5fd7c56",
-      "title": "Trapped in Testing? 3 Intensive AI Programmes Designed to Help QA Engineers Pivot to AI Product Architects - ANI News",
-      "summary": "Trapped in Testing? 3 Intensive AI Programmes Designed to Help QA Engineers Pivot to AI Product Architects &nbsp;&nbsp; ANI News",
-      "source": "ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaG56TjV2Q0Q5RmRDb0Ffc1lXdlZGRXhQcTNSdWVBclRxRWNEcklIMU5fTHNhNGVUVkx0Q2Ffd1gwa2k4THgza1VlLVZuVEdacTZVR1M3eFFwdmhwVzBYcWZlS25lS0QzTkwtakowNHZNeGVZaVpEdFF1YzZ0M3BJWElxdDRGemZJNHl2dWt0ZzR4eUVRaWJEc3pvX3hrdlFwc0ZscWJzelBxS1M1WWdYTHFMT0tzWENpQzhuZXZHZUY5dWNlcHNfU08tekhhTjN0OXVVSHVZRDVrMUl0VmVhNzhpZWVIWkhZNjY2cQ?oc=5",
-      "publishedAt": "2026-09-01T08:24:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "fe0d52dfc179",
-      "title": "Escapism in Architecture: ArchDaily's September Editorial Focus",
-      "summary": "At a moment when architects across the globe are revisiting earthen construction, reassessing vernacular technologies, and forging visceral ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184284/escapism-in-architecture-archdailys-september-editorial-focus",
-      "publishedAt": "2026-09-01T08:00:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "689ae91e50dc",
-      "title": "NVIDIA CUDA’s 20-Year Moat Shattered: Zero-Code, Zero-Human AI Designs a Fully Functional Real Chip in Just 14 Days - 36 Kr",
-      "summary": "NVIDIA CUDA’s 20-Year Moat Shattered: Zero-Code, Zero-Human AI Designs a Fully Functional Real Chip in Just 14 Days &nbsp;&nbsp; 36 Kr",
-      "source": "36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55cFJ3bXdtNDR6NklabXdzQVhuWGVfdEQ5YUNiczVpeDRCUnBFT19lcjg3N2NXX1JISWpodDJRdXFRMHVZZ19EUmFDdXd4RTF5MFdZ?oc=5",
-      "publishedAt": "2026-09-01T06:02:02.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "36f372177ad3",
-      "title": "AI Designs Real Chip in 14 Days, Bypassing CUDA - KuCoin",
-      "summary": "AI Designs Real Chip in 14 Days, Bypassing CUDA &nbsp;&nbsp; KuCoin",
-      "source": "KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXJwcXVXc3JRemFtZUVvQjNOTHpUd2hWQmxIUkRjZmdHVVRaSWZmTUlTZ2lySDVBdXVpTDVLQ0NfdmliVFdJWFQzalRvVzhNZUlCQm9ueG9HY0VMZF9nc1NkYW5zSWpzMDBkM19INEozQWdubnpwU1Q4NWFiYmpacXdreTRyTWs?oc=5",
-      "publishedAt": "2026-09-01T04:40:22.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "c50d27440702",
-      "title": "House Klaus / Neo Architects",
-      "summary": "The project brief called for the design of a contemporary six-bedroom coastal residence on a steeply sloping site within the Romansbaai Esta...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184212/house-klaus-neo-architects",
-      "publishedAt": "2026-09-01T03:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "817eabd96b4e",
-      "title": "The Yakisugi Cabin / Alki Architecture + Design Studio",
-      "summary": "The Yakisugi Cabin explores architecture shaped by what is already available — where material constraint becomes a generative design tool ra...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184115/the-yakisugi-cabin-alki-architecture-plus-design-studio",
-      "publishedAt": "2026-09-01T02:00:00.000Z",
+      "id": "b82e6a0416c2",
+      "title": "$4.1 Billion Deal: How SLB and Kelvion Could Reshape AI Data Center Architecture - Parametric Architecture",
+      "summary": "$4.1 Billion Deal: How SLB and Kelvion Could Reshape AI Data Center Architecture &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lVHlEMlIzY0tLMnJnMWRKLTBSdmRIZGlON2d6bWRIMDIwUnh5YXQ3SjJDSlV6TktXUEJUbDh4c3k2Ny1heEtiTFBmaDdVazhGMFd5R3hLVHhudTRtRU90Z3ByTE9NcHlMaFBIVGdUdG0?oc=5",
+      "publishedAt": "2026-09-01T06:40:29.000Z",
       "category": "生成式设计",
       "tags": [
         "ai",
-        "generative",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "403753f73d21",
+      "title": "Two Engineers Complete Chip Design and Verification in Two Weeks with AI - finance.biggo.com",
+      "summary": "Two Engineers Complete Chip Design and Verification in Two Weeks with AI &nbsp;&nbsp; finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DMS15ZHpEeG1hZlBLVm5CSU5hNzdaaFdPdGdCb09KZXpvSGxlUEFZVDk0b0ZrYi1oMHpmMVBuUHJLRnp6cEpteGxEUGJqZjV0V1NtTTF0bE9QWnFiV3hFcUlodHJVV3lreUppQWhFbGJrUmdfWlE?oc=5",
+      "publishedAt": "2026-09-01T04:26:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -168,19 +144,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "640aa291a50d",
-      "title": "Parque IV House / Ricardo Azevedo Arquitecto",
-      "summary": "The building had long stood suspended in time and space, gradually falling into a state of disrepair&mdash;partially occupied, yet steadily ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1030597/parque-iv-house-ricardo-azevedo-arquitecto",
-      "publishedAt": "2026-08-31T17:40:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
       ]
     },
     {
@@ -198,24 +161,12 @@
       ]
     },
     {
-      "id": "6f959726e057",
-      "title": "Stop Prompting in Plain English: How Design Patterns Make You a Better AI Collaborator - Technology Org",
-      "summary": "Stop Prompting in Plain English: How Design Patterns Make You a Better AI Collaborator &nbsp;&nbsp; Technology Org",
-      "source": "Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHd0ZkRzTkJtNi1tUlVqUGR6TkxpMmtpZWI4MFk2dVhlOWJfRGRRZUEzTmd2bnpVaXV2WXBqYzMwSTlGVTI2bHplNWhER3ZjT1E5cS1aSVpGVVBwbE9acm9qSzVsOGFqQkZmbFhFZDVrYWZMMDcxNklEODdBVVdQSUJRbmFCRGlISXhyeE54VE1rUWpaWmUxbGZYalFrbDYzR0xVdnF5aFIzdmQ5Zm1jdk1HUEZtQUF6a2NnV2thbVJBQQ?oc=5",
-      "publishedAt": "2026-08-30T04:39:55.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "3c5a614de4dc",
-      "title": "Inside Claude Code Architecture: Why Today's Most Advanced AI Coding Agents are Powered by Infrastructure, Not Just Intelligence - Intelligent Living",
-      "summary": "Inside Claude Code Architecture: Why Today's Most Advanced AI Coding Agents are Powered by Infrastructure, Not Just Intelligence &nbsp;&nbsp...",
-      "source": "Intelligent Living",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVTnJ3OUt5VWRZb3J0WlQ3QVNOdWxkcy1hWFZpSjJvekdPal9zNjBTQ3R3M2ZjVE1yVGdzd1RKMjJxMXVfNS1ZWEVUZi1hTV93aWRpMEJJSU1La0tCaU11RF9xMXZ4bkdxTmpVRU5YYzZ1SWc?oc=5",
-      "publishedAt": "2026-08-29T20:07:13.000Z",
+      "id": "e62eb67db4f6",
+      "title": "Intel outlines three chip architectures aimed at the next phase of agentic AI - Tech Edition",
+      "summary": "Intel outlines three chip architectures aimed at the next phase of agentic AI &nbsp;&nbsp; Tech Edition",
+      "source": "Tech Edition",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjc4UDBvTlRoeGFQbXhCdXU1YUFxUWIyMlRVdHJyMFhTUnNPelVDcHpkV3BETkY0LXlMb3Uxa2lvd0cxUVkydGdrSE5GV2pwQkp6SXJxYlhYZGNQSmI4alVKNm5SWmRyaExreG5BY1pMYVNhWklJLWRDaEVuQk5NdEx4VExiX0xEaURuYTFuQ0dsZDNVZ3hjbk10bmhYVkVHVW84?oc=5",
+      "publishedAt": "2026-08-30T14:27:29.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -224,29 +175,29 @@
       ]
     },
     {
-      "id": "f3ae1b672e58",
-      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture - MarkTechPost",
-      "summary": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture &nbsp;&nbsp; MarkTechPost",
-      "source": "MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMDJmcjZXM2x0R2t1Ym9DRnpOMzdpOGFwZVoyUWtxNzRRd1ZnbFZGdU1TLTFibU83Z0FGU3VhbG1xWkxfV1hJMUxTaF9xc3h5all2T0FTT3MzczR1MFhjM2ZqVG9scC1jRXFCR2dWSF9jSUNuaVJ6ZjJ2T1RmUzlnTzNGNG1yQVpDanBkU1ZJN0ZtQmc4MW5BZ0Njbnl2Nkw2QW5HVnUxVWU2cTZpbURKM0M0RXZROHVkWUJwN2toVFlETW50QXQxekZUMlhPZFBkMEcwYlB6WWIyMjM4MFJIRUloUEzSAeoBQVVfeXFMTTBBeDBFTW1jYnMybmtNQTZMenJudWJFc3ZvalJHLVZTQm5QUHVIRk9McG5KYXlSSUNrQmhzaHV4SVpkRnZBaFR3OG9ZU0otVXBQSFlqMXEwT2NWalZMS2hsaHBMd1NOYlVkTkJVT24yYS1FMEkxU1NWM3JWODl3Nm05THFOeXFLdGhWYTBIUlZLdUk3bng4LWNLc3g0WmI3Rlo4U2JqYzktU0tLS2prdjIzNnI0bm1OVGR0SFNoMkVsM2lvNzRMYnZpSDVjcWdhMWtsRzIxUTdVdS04Zm0tcEJ6SWtxaGVpRlJn?oc=5",
-      "publishedAt": "2026-08-28T19:12:21.000Z",
+      "id": "c0c5c1f0a28f",
+      "title": "Intellect Design Arena Deploys eMach.AI Retail 6DX Platform At OnCost Kuwait - scanx.trade",
+      "summary": "Intellect Design Arena Deploys eMach.AI Retail 6DX Platform At OnCost Kuwait &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWmhRY1BGSDhITXk3czVOSjc1VjlRX1Uxb1JCOXRnRC03eXBmUkpBOG82bXR5d3R5VTh6eGZvRnV2VTQxblRUYXJnUTZFUVZBN2lITmhQVU5nZE9CWmpTdmdsS1ZKQTBSZk9ad2FxZktTb2lydk54OXFVaGRvd0xTLTBZMkl0TUdfVm1FelNDZklnQVE2WmpJcXEwdndfTDFBZ1ZhcGl3QVl4RzVGQ093Ry1xVTRIWTMwcmlZUUQxRm9odFh1Q1VCSEpQdjRqMjdOZ0dXZUZIeGRpdTc4RW9zQWlhSUlhVVJubGRUZVBsMA?oc=5",
+      "publishedAt": "2026-08-30T03:31:42.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "d2145b065098",
+      "title": "AI data center 800VDC power architecture takes shape; future hurdles require balancing multiple key factors - digitimes",
+      "summary": "AI data center 800VDC power architecture takes shape; future hurdles require balancing multiple key factors &nbsp;&nbsp; digitimes",
+      "source": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fRFVMRmZPNkZ2UTg4bUNpZWxfZloxcEZrYUhrcjI0ZTNyeHN3VDRFY05ianU5emJSS0RLTE9PYkoxUXg0NE00Rzc5aUFXaHBQUWx4TFR3YUFnZUpyLXpyT0RTZFAtZndYdnNJ?oc=5",
+      "publishedAt": "2026-08-28T09:11:46.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "b747e08012c8",
-      "title": "3D IC design for the AI era: an EDA perspective - eeworldonline.com",
-      "summary": "3D IC design for the AI era: an EDA perspective &nbsp;&nbsp; eeworldonline.com",
-      "source": "eeworldonline.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVlxNEtVN1g0eE5ZLUVISnlRaUVYUFFNQkVNd2ZPME9BU0tNYUpGeVVWU3k1Yzg0MU5HVmdqV2R0VERNWE9YWGtWWE9US2xCclNOZldRSldwUGpkUG1RcngtSExFZFNTU21LZ3JkcUt5d2x2ckVzS3JraHhBZE56UzJMMA?oc=5",
-      "publishedAt": "2026-08-28T06:16:39.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -262,12 +213,12 @@
       ]
     },
     {
-      "id": "d65e649d117b",
-      "title": "Architect Labs Unveils Redwood: The World’s First Fully AI-Designed AI Chip That Runs AI Models - WebWire",
-      "summary": "Architect Labs Unveils Redwood: The World’s First Fully AI-Designed AI Chip That Runs AI Models &nbsp;&nbsp; WebWire",
-      "source": "WebWire",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GdUcwQVM3ajlRbHAxX1ZCV3dUTndwYmN5LUFEazdmOXhKa1I3dzdhcE1udnVoeERGUkhHN3o1Ykk2bXpYNkJvaGhDMF9hSkY3Q3JNZG9YOWFTUElfSzhYbg?oc=5",
-      "publishedAt": "2026-08-27T17:37:33.000Z",
+      "id": "7932a296e1e3",
+      "title": "Startup Architect Labs says its AI-designed chip beats NVIDIA’s Jetson Orin Nano - R&D World",
+      "summary": "Startup Architect Labs says its AI-designed chip beats NVIDIA’s Jetson Orin Nano &nbsp;&nbsp; R&D World",
+      "source": "R&D World",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2hKVXpTN3dJY1lwenNBTmJUVDVRQU11Wm1HYTJaT0JOM3lhdDktS0oxaHpXNlVaRXJpN0R2ekVuQ01mMlFfVVY3dUNZTEkwaERDS0pGVGgyVmhtcUVoZDJ0S1A1azFaOW5rSWtPbHhDMGpGa3ZnVkswRHczVlBRUDZYTk5OLTZlUG1wODAwWkFJUHUtOWdmVm5HU0JSQ0tTWXRjWk5EbHl4SVVZM1pR?oc=5",
+      "publishedAt": "2026-08-27T17:02:34.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -275,30 +226,42 @@
       ]
     },
     {
-      "id": "e95118a85658",
-      "title": "Architect Labs Unveils AI-Designed Chip Built In Two Weeks That Could Upend The Semiconductor Industry - citybiz",
-      "summary": "Architect Labs Unveils AI-Designed Chip Built In Two Weeks That Could Upend The Semiconductor Industry &nbsp;&nbsp; citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZU9nazNpZmF1Qzd2YURaUEU4ZDFSME5rcWc4NGt1NUY5Mkx2R3YtS1JJRnlER25RT0lrT0dFSll4UDM1LXFRMnFFMkFPM0wzVWdHbzVHZnJsVHdPQUhDcFZ0YklWRFhyY0duNXF0TW9PcE1GTHdLZk5BWFNkd3VqaS1CcUpTVVlHZUNKVjhQay1Fa3J6eEJVWkM1REZIdGFzRm16QUVycy1lMW5JbkJNaFl2SmI3R1hvbnJNM1VPRWs5TWlpNGlrdFhIdXdyc3d3cE1sVkVRc0g?oc=5",
-      "publishedAt": "2026-08-27T17:33:18.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "43f14323134e",
-      "title": "AI marketing needs a new martech architecture - Okoone",
-      "summary": "AI marketing needs a new martech architecture &nbsp;&nbsp; Okoone",
-      "source": "Okoone",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa0VHd3pkQ0ZQc09QQmMtM0xMLWMxd0lIT20yTzNrNHo3RXlOV1lEQS0wRDNQUVo4MF81aUYwb2JoVXdWNzRheTFWVmFjazRsLVpJSHpvbW1LRmZ6MGFVTXFYZTQxd056ZjJJZjhkUkl5dldHcl9jNjc2d0hITklBbE9lX3paWTVfNC1tNk9xampNSDJ3eWFJ?oc=5",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "id": "01fe2bec581b",
+      "title": "Intel reveals three next-gen architectures for AI workloads - KitGuru",
+      "summary": "Intel reveals three next-gen architectures for AI workloads &nbsp;&nbsp; KitGuru",
+      "source": "KitGuru",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQzlKQmJkckhrM2czVlU2a0t2ejI5dFdDcHh3Z243cVNBcWdSd3N4czE1aHRRWUVSbEVWU0VWMk15WVQteGxFblZ6ajZwc0FoQ3ZEU2lkc0dEY0VRSnJ2UTdIb3BfV2RxeTlQd1FIMTVRdzRnbGhheDJrYXY4Uk9uNkV3SXhEMWVoRHNfdHNLTmNTNmJJM1hmOHdacWxrWjRiWmJ6V0RGLVBrU2JfQTlzeG9hX1ctajNQUjNz?oc=5",
+      "publishedAt": "2026-08-27T14:00:43.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "0449ca677de7",
+      "title": "Why Connectivity Has Become an Edge AI Design Decision - EE Times",
+      "summary": "Why Connectivity Has Become an Edge AI Design Decision &nbsp;&nbsp; EE Times",
+      "source": "EE Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUS1RN09BRDlabUxTRWJLQl92RG54c0ZReHlDdmJfNkJPbHZVTlh3b2JaSy1oZlJReTVtcmxaN29yS3N0dzlRbkxaa2gySElrUU8zMTREdmE3QllmTHYzb2o1bmR1RUgzQ1gxSF9laVJ1Vkg5QllrSElvZVhfeXl1bHZpb0NtUQ?oc=5",
+      "publishedAt": "2026-08-27T07:00:54.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "35a6f7076df1",
+      "title": "A' Generative, Algorithmic, Parametric and AI-Assisted Design Awards 2026 Call for Entries Announced - EIN News",
+      "summary": "A' Generative, Algorithmic, Parametric and AI-Assisted Design Awards 2026 Call for Entries Announced &nbsp;&nbsp; EIN News",
+      "source": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbG4zZ2EtLTBObExwazAzYXNUR2Q2R0I2ZEVfdzNCTU9rQ1dnNjZlWGttNHpTcFBxUjdjdVJ3amtpM3U0T1NJTGJ1R2ZHY0x4dEtEZkFQYmdIelJJbnk5QXNBb2p1XzVKUEg3MldIQzNhVmQ3a3hVb2M5M0VVbkVhcDlYZFJlSFItaHFLLVptb1p5eUtJNHlhdFYxXzUyeV9WcDJYYUJuMnptSmo5WTJ0cHd6N3VyRXhXcG5UUTFGMC1xSnBvMW5nbm1zU1lVSzlLWU9kNEJ3?oc=5",
+      "publishedAt": "2026-08-27T06:40:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative"
       ]
     },
     {
@@ -356,37 +319,12 @@
       ]
     },
     {
-      "id": "e98b8f1c040c",
-      "title": "Baya Systems Expands to Japan to Support Next-Generation AI Semiconductor Design - Business Wire",
-      "summary": "Baya Systems Expands to Japan to Support Next-Generation AI Semiconductor Design &nbsp;&nbsp; Business Wire",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWpwYTduYndLaUZicnlqZ0dBRllsLUlyZ0Q1Q0laZmpCbUZEMjlwZGd2enloT0FqOXVRWnJ3dFpEdld2ZW16VnFfR2p0RWJzZEsxWTdIT0FpTzZXR1luUU5NU1E1T3pxR1BlWWhGcnFlT0hINjI4aUR3ZGhEa0U2Y2lqNl85N3Iyb0s0OVlEYTNwSFNQbkloNnB5bFZDbWwzLWViS0R1TGtiUjBLUWk5UER5MDJkQWNBVFFMV3AxWElWUGI5WlJVWklBLXp0aU5kSkhR?oc=5",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "4579044c4d69",
-      "title": "Big-name studios encouraging architects to use AI - Dezeen",
-      "summary": "Big-name studios encouraging architects to use AI &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkFQcWpoV2oyLW5FOUhiU1dYR0RiN3Rxd1ZheVVmTzB4WXNxQTBMOGMwckFfZnY0cmxaZlFzS0J1d1MwelQtVTh0VXp1bjdtdmczalU5YU95YzZtdjg4OUNjWWZlWV9DM3pkR3VSc2pRM182NmdNT0hVeE9yUDZkMUNuNnk?oc=5",
-      "publishedAt": "2026-08-25T08:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "e23d933b4248",
-      "title": "Elon Musk's xAI Multi-Agent Architecture Explained 2026 - StartupHub.ai",
-      "summary": "Elon Musk's xAI Multi-Agent Architecture Explained 2026 &nbsp;&nbsp; StartupHub.ai",
-      "source": "StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzdCd29relJPeUliVXh6S3pha0ZJa284LVFvUUplTE50SGZja0N0alFmaEVaMWV1SnZhbUp2djNHRTFXbkUwNmRKcVltRjdReHVSZWhialZtYzFqa1NJbzRUVkZQSktYZWF1bUlaQ2NiV3Zndy1kc0pLakNvOGs2UFhGV1dHQnNXekdGYUVoaUktN0pvY3ctRXdralJHV1pMTEJzaGpSbWo5b0E?oc=5",
-      "publishedAt": "2026-08-25T08:00:00.000Z",
+      "id": "ec9cc7715db0",
+      "title": "XCENA Details MX1 Architecture Integrating Memory Expansion and Near-Memory Computing at Hot Chips 2026 - businesswire.com",
+      "summary": "XCENA Details MX1 Architecture Integrating Memory Expansion and Near-Memory Computing at Hot Chips 2026 &nbsp;&nbsp; businesswire.com",
+      "source": "businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbmFjaHlYWHhjcUVtdkJ5SVRESzJjQ05PMEVLVzB3YkNHNEVUN254cFI0V1k2QXF6cFV6MDQ0eFVnUHN2a2RGd0xxOVp2dHhiTFBiNDVtT3J0Y0g3SmRITGoxSTJhdDJsbWpNMWpYcnA1YnF3OGdoQndkVHllaGhLRnk2dzMwaWdkd3ZBY2VrSktIS2JybXNCU0l3LWZiY1Y5Rl9YU21LNlVyWVdKQkswWUdUcEphN2ZlUTJfMzVyQUdWNjdfWTl1ZWNJSG1hQ083em5OcHozYkZaTHpMTUNRUjA3RFJLYjF6N0RoYnRHTXRmdw?oc=5",
+      "publishedAt": "2026-08-25T18:47:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -395,24 +333,52 @@
       ]
     },
     {
-      "id": "92de97f47752",
-      "title": "How AI workloads affect enterprise network design - TechTarget",
-      "summary": "How AI workloads affect enterprise network design &nbsp;&nbsp; TechTarget",
-      "source": "TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjJlRDRvUVJKVWVpZnVBVk5vN2JfQWJXTjltZ2F0cDZ1cFFHUEpKM0R3ZTd1X3lGbnFKZWRhTldxdlFQUEpOUGZTZWthUUNSTjIyZ21UY181RDdEcVl0YzV2NFMxcG5MY3VJRjdSYVdnOG5uYjV1eDhveEVvdHBCMWpaMXlCRUpvUXp2ZnhXdV9yZWg0TndKdENla2NHMjA?oc=5",
-      "publishedAt": "2026-08-25T02:27:46.000Z",
+      "id": "e98b8f1c040c",
+      "title": "Baya Systems Expands to Japan to Support Next-Generation AI Semiconductor Design - businesswire.com",
+      "summary": "Baya Systems Expands to Japan to Support Next-Generation AI Semiconductor Design &nbsp;&nbsp; businesswire.com",
+      "source": "businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWpwYTduYndLaUZicnlqZ0dBRllsLUlyZ0Q1Q0laZmpCbUZEMjlwZGd2enloT0FqOXVRWnJ3dFpEdld2ZW16VnFfR2p0RWJzZEsxWTdIT0FpTzZXR1luUU5NU1E1T3pxR1BlWWhGcnFlT0hINjI4aUR3ZGhEa0U2Y2lqNl85N3Iyb0s0OVlEYTNwSFNQbkloNnB5bFZDbWwzLWViS0R1TGtiUjBLUWk5UER5MDJkQWNBVFFMV3AxWElWUGI5WlJVWklBLXp0aU5kSkhR?oc=5",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
       ]
     },
     {
+      "id": "2c0fb52e59cd",
+      "title": "Hà Nội adopts digital architecture framework to drive AI-powered governance - vietnamnews.vn",
+      "summary": "Hà Nội adopts digital architecture framework to drive AI-powered governance &nbsp;&nbsp; vietnamnews.vn",
+      "source": "vietnamnews.vn",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWUhKZWJsSzJrSmdEOXZTNWRpNVlsaU50d3M5WlpDRG5iSkJxaURmNGdUelRzbTA3T29KSmsyOVdLbndaZG9zYVhsNDlnMUJOVDRyd0Q0OUhsVFc5UnZCRU9zY3RManAwaUQ3LVh6M2UwaUxCQi1xOGYwekZJaWZiLW1wQjJsVkR2U0JZc2FTdnpFY0pRcFFZVnRGc2hmX1ExUnQ5cC1LRG5WMnVxVE9UZEVxU1NxTFJxdGZZ?oc=5",
+      "publishedAt": "2026-08-25T07:58:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "d829d996c6ed",
-      "title": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026 - newsroom.intel.com",
-      "summary": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026 &nbsp;&nbsp; newsroom.intel.com",
-      "source": "newsroom.intel.com",
+      "title": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026 - Intel Newsroom",
+      "summary": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026 &nbsp;&nbsp; Intel Newsroom",
+      "source": "Intel Newsroom",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3pPUGQ5SFlqYndHbURabk5kUzE5d09FRDIxR3BRX0dhb29DT3JtX051cXY5VXlJcFE2aHgydmFUSnNQUmJwclJZQkNJaWhScExRQTNSeTcyUlJsN2UzekJkUXhBRWdFT1BqZjgyekJyQzRTMXdRU3I5c1RHdDFlMV91aGVieTJXMFVpWlRYOWpkUE1Rd2xMeHNGOXhUTlRoR194dmZUbVQ?oc=5",
       "publishedAt": "2026-08-24T14:35:34.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "6e273610c220",
+      "title": "IBM Unveils First Dual-Architecture Mainframe Processor With Arm Technology - Eurasia Business News",
+      "summary": "IBM Unveils First Dual-Architecture Mainframe Processor With Arm Technology &nbsp;&nbsp; Eurasia Business News",
+      "source": "Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkh5RjF4TzFoUk9xSmo5UFlEMjI2cl9YczN5TXZsRGp0VndDS1RmUGlIUjFGeUFrdlNENXN0ZmVQaG50ZjJaQ2VGZGFuY1pxYUtHOTNUVDdUZ2gzN3h4QzhMTU56S3Axa2xad2ZiZEpHb25ZbVdrSmt6ckpUX013dEM2WjBsNUQ2Tk0wdHZGVzFaUjVyU3Q2SHhjbjYzT2NGQWd5RS1hSDVjRHNYWmVvbDNkY3Y1WW1LVXZB?oc=5",
+      "publishedAt": "2026-08-24T12:29:51.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -436,24 +402,26 @@
       ]
     },
     {
-      "id": "9ef37e7bdfee",
-      "title": "Designing the modern AI cooling stack - IT News Africa",
-      "summary": "Designing the modern AI cooling stack &nbsp;&nbsp; IT News Africa",
-      "source": "IT News Africa",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1Z5Qi01UjhrVXYyMDczYlhuWFZjdXpDX0ZpYll0UzZvVEpXT2hzbFAyQlVYRVpwODNrR28yNVhJZG9mTHZGQm5VdC1yWmJqRDNfaEE0emk2SkVCV1VWWEFTYUdPYWhZRk5OUW5fRUNMazhOX0MtZDBLbWRlcll6UQ?oc=5",
-      "publishedAt": "2026-08-24T09:43:00.000Z",
+      "id": "ee5e8c38cd70",
+      "title": "Micron Evolving Memory Architectures for AI at Hot Chips 2026 - ServeTheHome",
+      "summary": "Micron Evolving Memory Architectures for AI at Hot Chips 2026 &nbsp;&nbsp; ServeTheHome",
+      "source": "ServeTheHome",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0lEMFlNU3F1Q1dJYnd3N0FkWER5ZGxEdHB0S1hvUTVzZUdkbDUybjBNUWxOMVVodzVqS2NwVTNCbWhWVm9Cek9uUkVCem1EZlhKTV9tdXFfS2w5VEI5cmZtRm9mSnFzUzRRZGhpNEs1YlUyMGRoZWRXNnFWNDEtakhSNXpwZXVSUG1JUWlubmdHVFBCYUE?oc=5",
+      "publishedAt": "2026-08-23T07:00:00.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
-      "id": "408023733f51",
-      "title": "How Do Arm Holdings (NASDAQ:ARM) Designs Power the AI Era? - Kalkine Media",
-      "summary": "How Do Arm Holdings (NASDAQ:ARM) Designs Power the AI Era? &nbsp;&nbsp; Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOektwN1ZET0pwUHJHTi1VY1lZd3BhR0Fwb1N5WnJJYk01cmVxZ3NQUUswUFlsbU9ETnhRRmRkOU84RzR0OHQ4dWstMTl6NVdpVXM3eXkyeGs2ZTNFbjBxOTh3ajN5Y0ZsWkZEeFhJdEYxNmgxWVNJR0VuNndwNkNLQVNHOWxwaENoWTJGSUNUNkpQVURwdG9qdlZvR1JOVXNlSk9NakpWWUNoWlRBbkUwa0dadw?oc=5",
-      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "id": "1ef211058a92",
+      "title": "South Korea's 8.4GW AI Data Center Buildout Faces Biggest Bottleneck in Internal Power Design - finance.biggo.com",
+      "summary": "South Korea's 8.4GW AI Data Center Buildout Faces Biggest Bottleneck in Internal Power Design &nbsp;&nbsp; finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UbU90VWFIQy1VbXd5NERyTGMzSUpoZnZEV2JBbENLSER2VGhzNjREeWdyMVBEV0FVMjlVODVETl9ZMVpDZEx0YVJzN2ZRRkRmNkUxZEotNlpNSUJXSjV1S0UzdXNRZTBKMWR1aU5qRDZiNlB4Umc?oc=5",
+      "publishedAt": "2026-08-22T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -469,6 +437,33 @@
       "category": "工具",
       "tags": [
         "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "200e0e286fe8",
+      "title": "Jayant Swamy, Chief Enterprise Architect at Genpact – Interview Series - Unite.AI",
+      "summary": "Jayant Swamy, Chief Enterprise Architect at Genpact – Interview Series &nbsp;&nbsp; Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX01senA5aDdyMUprOW1zQVlXVjI5VFlRU002NkdVdk9hTUJUbXpvdGpUV3Z5ZnRyMXp3QjU1RXJkTElhcnh6N3IwUmNGMXV0VnozbFN4Y21BNW1KUmVzU19qci11QmUxbXh1YUU2cUtKQ21fa2d5cnJES3lSbExmMUtkTTBwbHdqYUIwd1pseUhSQUE?oc=5",
+      "publishedAt": "2026-08-21T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "2f2a2282b781",
+      "title": "STARCHIUM’s ArchiPilot Presents the Future of AI-Designed Architecture… Drawings in 2 Minutes, Productivity to 28-Fold - EIN News",
+      "summary": "STARCHIUM’s ArchiPilot Presents the Future of AI-Designed Architecture… Drawings in 2 Minutes, Productivity to 28-Fold &nbsp;&nbsp; EIN News",
+      "source": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOajQ0dmcyOEh4NThIVTdGQmhUajVJZ1FfaE1Ucmw1Ynl3X2NrbDRsWnN3WHZtLW9jaE5LbkxvNF85NVZlUFphbFRsS01nU1RaS2t2bUhLa09qc0xfSWZ2emRpZnlYYXZDQW02YUJxNlR6a2h3QkFWZzRXQzBYSkZWTlVfM2wwOVNBb3RZT2gtdTVaTTNHNHZmMXhxczNHbEVhbDZScnAtTHlDbDhoMFpuVGhBWmVRcjlUeV9MS0FBWU5NTHJhX00yWEJjV1A4aWpmWmdBdHdiYWdnRUdvektrNXhoVmRzcHZoSnJ4eXcyNA?oc=5",
+      "publishedAt": "2026-08-20T08:10:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
         "architect"
       ]
     }
