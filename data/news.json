@@ -1,17 +1,108 @@
 {
-  "updatedAt": "2026-09-05T00:01:30.455Z",
+  "updatedAt": "2026-09-05T23:52:45.722Z",
   "items": [
+    {
+      "id": "dbbc6b6c35b2",
+      "title": "Yarumos Apartment / Trópico Arquitectura",
+      "summary": "An apartment designed for a young couple, aimed at optimizing financial resources while taking advantage of the structural spatial character...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184609/yarumos-apartment-tropico-arquitectura",
+      "publishedAt": "2026-09-05T16:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "a6c8d723988a",
+      "title": "Building Enterprise AI Agents: Architecture, Governance, and Best Practices for UAE Organizations - Pune Mirror",
+      "summary": "Building Enterprise AI Agents: Architecture, Governance, and Best Practices for UAE Organizations &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQjB6N0FOTVlPRzIyc2QwcENmdjY2NWlZSkhkWGk5cE9halJvajdEc09EWlVweFNFX3A0UTlpYl9TbUFqVksxLTZFT0otcEU0V3UweElwelRIM1EwTU56dm9SVG9qb1hfVFA2bFhCZ0NwMUtwc1FYY01uQ1F4NmdWbHVMYjFHNTA0UUhnc05pSFV6Zw?oc=5",
+      "publishedAt": "2026-09-05T12:16:24.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "building"
+      ]
+    },
+    {
+      "id": "d3f84e5230f7",
+      "title": "Mr. Fool Moves a Mountain / Schwartz and Architecture",
+      "summary": "For almost nine years, we have been helping our client, Qing, build a 730-square-foot cottage on the water in Bodega Bay , California, the f...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183499/mr-fool-moves-a-mountain-schwartz-and-architecture",
+      "publishedAt": "2026-09-05T11:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "837071cb0bf0",
+      "title": "Five anti-AI designs that give an element of control back to humans - Dezeen",
+      "summary": "Five anti-AI designs that give an element of control back to humans &nbsp;&nbsp; Dezeen",
+      "source": "Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtMkF4RXU2c2d2aUpxdFl0VTBrcVFEcWpwTFNBRWtLZGJ6cllDdHJveDdmdHhrZm52RE8zNFJyRUQ2TjdjbDR3MGFyVlJPdFpyMHVxRHNER19nczQ4T1Y5TFVYVXJidDRjbnByMVBONA?oc=5",
+      "publishedAt": "2026-09-05T09:00:01.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "8dd18b4b4b3a",
+      "title": "Architects Face AI Trust Deficit, Need Continuous Design Oversight - TechGig",
+      "summary": "Architects Face AI Trust Deficit, Need Continuous Design Oversight &nbsp;&nbsp; TechGig",
+      "source": "TechGig",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjlMNEcwUkJBQzFZZThZekNmQ0ZKXzd0Qm0yVUprTExYTGJpUERRRE9VWmtKYTEwbFVIa0xGQlF2a0s2WndtVWdkcDFDQVE3SmNQWGdyUFE5WC1lRVpCLTlWVTBBU2NqTGxKVGVYTHFKX2hYQk5NUUFtX25zc2N2VDJPNjUyU3JxZnBkM3pjRktONm94S3lhSDVUc19sSlJWd0ZXNmhQaEktaktYNHFON0p4elpsSUJzT1lTS3pn0gHDAUFVX3lxTE5xSlBhNEVJaTVBczl5Mk56RWxQNVk3dE5fOTE3cUt0TU4xS25SaE5VUzdLQXJYNzVTLXRsOHlId3lZOFk5b2JYZkU0NXpTcUJfdkJ6akx3Tkl6M24yQ241dVl0WlZQQkh2b2RBdEZwZm4yRXNvcmRHM3BMeXExWFdrTXBIT0RVNjR4ZDFfSm9nYUJhZ3RicGdrSkFCUkMxLUFNazdCYkpDVndPWlRvN3FLVjRxdktBVVh2amhqYm53R2FJYw?oc=5",
+      "publishedAt": "2026-09-05T00:57:53.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "b6025d9bbad0",
       "title": "Flex Pays $4.4B for EPC Power as AI Data Centers Push 800V Architecture - Data Center Knowledge",
       "summary": "Flex Pays $4.4B for EPC Power as AI Data Centers Push 800V Architecture &nbsp;&nbsp; Data Center Knowledge",
       "source": "Data Center Knowledge",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZG1YVkN1UmxvTTVudmNvRWtkcmJCQzhxLVY0U014c19TdFZGelVkWXpIek5tUklrakJsUUFhU3JTUHl0Z0tCemNJUGlzSVZRNFhCWmVXQnV5bkpsVWxQeHBLdUxRS3dBYXkyYndQaUsxZ1k3akE1aE9wOVpaSUp2XzJDOEpaSXZ6M1JLMmd0anphY3dhZzBLRGFBa2hZVDd2VTB6ajNTNWJkRnNJV0VtVmtocWRFbncyS0RwcFZrNGpXenZN?oc=5",
-      "publishedAt": "2026-09-04T20:48:45.000Z",
+      "publishedAt": "2026-09-04T20:51:10.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "2ecac7c82fba",
+      "title": "OFA Group Shares Jump 16% as AI Design Platform Signs First Paying Customers - finance.biggo.com",
+      "summary": "OFA Group Shares Jump 16% as AI Design Platform Signs First Paying Customers &nbsp;&nbsp; finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lem05dDFzZzU2MUgxWHJOSGNKdEFrVE11bmpwUElBbXJ0b3phd0hnM05DaFBHMm93ZV9RUTd3dWVGRWlOU0VPaFA0d0RiazNVSW4xN3JBSFY1ZzZCWUNtTXlBOU1hXzg0WTFHSUs3bUdlX1pVQkE?oc=5",
+      "publishedAt": "2026-09-04T18:27:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "3085983acdb5",
+      "title": "A Cloud Architect’s Work on AI That Helps Keep Organizations Running - USA Today",
+      "summary": "A Cloud Architect’s Work on AI That Helps Keep Organizations Running &nbsp;&nbsp; USA Today",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPek16OHBSajBoMk9ndlZ0LXdhbEYxYkoybE1tYXB1dHI4aTNRSldiTjBxdHZpanJ4UEpzV2VONlBQQTR2YTZyY1QtR2dpOXVnWmkzdEc2MG1SMHdIa0xkSm81bC1Fc0oxTksxWTB0cEdvbVNMTVBzYkp0RXdNZHJVNkdjbURKNGxiaFc3Nk9hWE5IYktYR28zeWRQamEwSjVtYXBJZFhNTFZLX3BsWHVWNFZqR1RMTHM1elRDd0xZWUlZYmE1UHRzR3NNSGFwNU5BUjZVVWZoRUhIQUxmN2hpdW1tNjE?oc=5",
+      "publishedAt": "2026-09-04T17:54:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
         "architect"
       ]
     },
@@ -52,19 +143,6 @@
       "tags": [
         "ai",
         "architect"
-      ]
-    },
-    {
-      "id": "a1da12b0c5f6",
-      "title": "QikBIM Goes Viral: OFA Group’s AI-Powered BIM Platform Surges Past 281,000 Views and Adds Thousands of New Followers in 90 Days, Converts First Paying Subscribers and Targets Over $1 Million in Savings Per Project - manilatimes.net",
-      "summary": "QikBIM Goes Viral: OFA Group’s AI-Powered BIM Platform Surges Past 281,000 Views and Adds Thousands of New Followers in 90 Days, Converts Fi...",
-      "source": "manilatimes.net",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxON2VOS1RNXzV3WjZrWXFSaGdhcGgtcHdadVdWQjVVSXRBVWhMeTNvZmRvYlhuZk9BVWRESjJHcVRnV2FucFBsQ0JOMUVTUklrNnlMODlMV3RCZVhYdEp4RXAzVy1tN1d2cWwzY0QyY09DTWVIWFZNLS1sckN5TDZDMWJBSmxybXI1VlFEOEtMRURRRDZzUHo4TkpIYjB6YXd0Wk5yamdEdl9FNUo4anR6anZuZmpTdnFKaTNwQ05mMlg1QWl3QmMxNTdtMEd1Nkc2bFg5ZnNhWExvT0k0cFBMUWhPYWtyT2REN0xucmVINkpWZE5pejEzbEloc1NFMGRvb05SR3NvRDVUemVhcFRPVm94WGZxMmxWRmRPOXQxbzZKSWp2emh5Ym1WTTNvVVVDa1ZKdXQ2MjJISE5uSkRzTDJHeFdJNm50cFNNT0RBVElDWjg4NG41VGd1MmJ0bnI4NnhnR01nOWpFMHhhWUw0OWpUV2pRa0FZa2M3WUhNOHVraXFtQTM0QVl1am9kNmJUeGhYdtIBmgNBVV95cUxQaTdTeTlyWHZpSDdDS0s1QUtCTFRuR1RFWkNIVmVhZzVxWFJ6clg3WVFJdnNHZ29zZkQ4aVliNHJMdWRsZVJOMmpZWTBiMnM3UTJud1dXRGpHU3VRdmJ5NUdCMVc5VndmUW9sSVJka2F5WFVnTW43aGtyQ3ZLOHUzbVE4a2tQZ1NTSHlmcEhqYU1CcHBqcmFFOFU0VGJkc1gwN19Lb1loRDYtZVo3enI5MGI5cmRQcHRYNGNGa3BETFBPWW01aEVxX3djSTNTT0VTZkhzcC1VZjRxUl9UVEsxVVZoRjRrRkVHa2xxeWx2aHAzb3pRYVdYcU41Z0R0UndFZVRndkE0ZFZ4UmN1Tm5JR0VkWjc1cGZFM1dic0ZqNm8xMnRsUmxoQlhTc0hsR1VQSmZXazJVVU5NcHNpdHRyNm1WYkh6a1U0Unl2bXRINEt2R3NOTkgyUjhkZ2JCQUp2UXlVZHNfRUN3SERpOUU4QXptendEUFVVc2hTUnVuUnJkcl9VRXNBdkdNcHVXMU96X2pPa1l1dzFrZw?oc=5",
-      "publishedAt": "2026-09-04T12:13:20.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "bim"
       ]
     },
     {
@@ -138,9 +216,9 @@
     },
     {
       "id": "d7d6a11e2208",
-      "title": "London Creates Showcases AI and Ancient Design as the Future of Architecture - construction-property.com",
-      "summary": "London Creates Showcases AI and Ancient Design as the Future of Architecture &nbsp;&nbsp; construction-property.com",
-      "source": "construction-property.com",
+      "title": "London Creates Showcases AI and Ancient Design as the Future of Architecture - Construction & Property News",
+      "summary": "London Creates Showcases AI and Ancient Design as the Future of Architecture &nbsp;&nbsp; Construction & Property News",
+      "source": "Construction & Property News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDhjTVpqV25LS1lyaUphRi11OHc5Y1FqZFo1dlZQUGo4dm9ickNKdmhOay1Oakx3eDRybk1vaHJ4azJRZEM4X3JoZlZ0bGJhUzBFbEdQb2dYc3dkWEEzbU9NaDR2RTNCUHN4TkxoWHdBdldnck54ZWIwWW1MTVU2TnFhQWV0ZlU2bmJTYlR0NXlsOHhTQUYwUzhPdGlhOTd3R2szc0VaYXZDQlBvbjlGaw?oc=5",
       "publishedAt": "2026-09-04T03:25:31.000Z",
       "category": "BIM / AEC",
@@ -176,9 +254,9 @@
     },
     {
       "id": "daf2303f90d0",
-      "title": "Bringing AI into the heart of public building design with ArchSD in Hong Kong - WebWire",
-      "summary": "Bringing AI into the heart of public building design with ArchSD in Hong Kong &nbsp;&nbsp; WebWire",
-      "source": "WebWire",
+      "title": "Bringing AI into the heart of public building design with ArchSD in Hong Kong - webwire.com",
+      "summary": "Bringing AI into the heart of public building design with ArchSD in Hong Kong &nbsp;&nbsp; webwire.com",
+      "source": "webwire.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rS0xvWkJMOXdOZFpSei0yeDZrYUZjWlJOY0pzeWVaQURGdURWWEg0dGdaRWloZHhvN0VkQVczb3RjWHA3TG9TY2RDcjlrR1RUT3FlTVFmeXlJODh6MjVUbg?oc=5",
       "publishedAt": "2026-09-03T15:23:37.000Z",
       "category": "案例",
@@ -229,18 +307,6 @@
       ]
     },
     {
-      "id": "fdd7c007a6db",
-      "title": "Studios turning to AI floor plan generator to speed up design process - Dezeen",
-      "summary": "Studios turning to AI floor plan generator to speed up design process &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckVWMGd4ZXppeUtJYjJfcEF4elcxcmVqUk0tZGJ6S29BcUh4SDIyUWo3eHBLOE55SjBaVjFSZ2VqMUN4RDBnZklieUpJRHYtNHhDYW5GMDdvd1kyQTBBNDZyX1dtcnRVcU02Q3haSENYZzRUSnRqT3NFV3Vxd0tlQkNaMkNtc2M?oc=5",
-      "publishedAt": "2026-09-03T04:00:19.000Z",
-      "category": "案例",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "9902cba9ae0f",
       "title": "World's First 100% AI-Designed Chip: Revolutionary Breakthrough in Semiconductor Technology - 36 Kr",
       "summary": "World's First 100% AI-Designed Chip: Revolutionary Breakthrough in Semiconductor Technology &nbsp;&nbsp; 36 Kr",
@@ -253,25 +319,26 @@
       ]
     },
     {
+      "id": "3c5a614de4dc",
+      "title": "Inside Claude Code Architecture: Why Today's Most Advanced AI Coding Agents are Powered by Infrastructure, Not Just Intelligence - Intelligent Living",
+      "summary": "Inside Claude Code Architecture: Why Today's Most Advanced AI Coding Agents are Powered by Infrastructure, Not Just Intelligence &nbsp;&nbsp...",
+      "source": "Intelligent Living",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVTnJ3OUt5VWRZb3J0WlQ3QVNOdWxkcy1hWFZpSjJvekdPal9zNjBTQ3R3M2ZjVE1yVGdzd1RKMjJxMXVfNS1ZWEVUZi1hTV93aWRpMEJJSU1La0tCaU11RF9xMXZ4bkdxTmpVRU5YYzZ1SWc?oc=5",
+      "publishedAt": "2026-09-02T01:11:17.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "b9b66f1e0303",
       "title": "Trapped in Testing? 3 Intensive AI Programmes Designed to Help QA Engineers Pivot to AI Product Architects - India's News.Net",
       "summary": "Trapped in Testing? 3 Intensive AI Programmes Designed to Help QA Engineers Pivot to AI Product Architects &nbsp;&nbsp; India's News.Net",
       "source": "India's News.Net",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb3RmbnpHdjFiY3RGdHg2ZmctSzkxQ2ZMbk9JQTFSVmlfMWlyT3o3RlR0QkNVYUxJcnozdTlDQUlaaVFaV3FlbUh2LS1GMndMWWR5c19WUnNNTTlEYVJwekJWdWZoU0dueFF2MnZYdUVlVmdQM3BPUnNTY2FjVVBPZi0xWFhlMFJoSnNXWmVQSEdUTXZRWUpiZWFZcG5BR0huQUhBWEJRV1hWZmFNdXFfNjZLcWtvUXZ1MllrNmQxQWM4LTg4eGZLam5fdWF5Z1RIWlJTbUh0VTVON2s1dW9DYQ?oc=5",
       "publishedAt": "2026-09-01T20:02:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "8928ac5a518f",
-      "title": "How Does Architectural Knowledge Get Passed On in the AI Office? - Common Edge",
-      "summary": "How Does Architectural Knowledge Get Passed On in the AI Office? &nbsp;&nbsp; Common Edge",
-      "source": "Common Edge",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnl6OWR4bE9WdEM5ZUNwS3JXcWltM3kwa1V0ZDI2RG9wRk4tN3ZVVkRfZHhoaVFLeUhlMFQ4NmNkcDE1TkdJOXNyc0pyUjlJUkZ2dGtHOC1BaTJCWWlTOGFENnVEaU5IUXVGeWU0aUpLakpCOEdMZ2Jzci10enhPdjVkaXl0dUhDc2g3WUpGZ1k?oc=5",
-      "publishedAt": "2026-09-01T15:52:25.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -292,9 +359,9 @@
     },
     {
       "id": "8e6fc47964ac",
-      "title": "Architecture in Motion: AI Cinematic Workflows - parametric-architecture.com",
-      "summary": "Architecture in Motion: AI Cinematic Workflows &nbsp;&nbsp; parametric-architecture.com",
-      "source": "parametric-architecture.com",
+      "title": "Architecture in Motion: AI Cinematic Workflows - Parametric Architecture",
+      "summary": "Architecture in Motion: AI Cinematic Workflows &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUpuVWNnd0tBeVY4WHhIYzNfd2RGRXlsZVJRSnBDb3hmbHAwLTBGT21sVzdUWVBTclFUbU96VFF0QjBQU3piMWJkbGZWdlpXMnFhZkdKa0JmNndNaUhfVGdHU0VtVlEwR0lBUlVLazhKRDZYb2VHdmJWc0o2dWU3Mk40RklHRVlEMnc?oc=5",
       "publishedAt": "2026-09-01T11:04:44.000Z",
       "category": "生成式设计",
@@ -306,9 +373,9 @@
     },
     {
       "id": "b82e6a0416c2",
-      "title": "$4.1 Billion Deal: How SLB and Kelvion Could Reshape AI Data Center Architecture - parametric-architecture.com",
-      "summary": "$4.1 Billion Deal: How SLB and Kelvion Could Reshape AI Data Center Architecture &nbsp;&nbsp; parametric-architecture.com",
-      "source": "parametric-architecture.com",
+      "title": "$4.1 Billion Deal: How SLB and Kelvion Could Reshape AI Data Center Architecture - Parametric Architecture",
+      "summary": "$4.1 Billion Deal: How SLB and Kelvion Could Reshape AI Data Center Architecture &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lVHlEMlIzY0tLMnJnMWRKLTBSdmRIZGlON2d6bWRIMDIwUnh5YXQ3SjJDSlV6TktXUEJUbDh4c3k2Ny1heEtiTFBmaDdVazhGMFd5R3hLVHhudTRtRU90Z3ByTE9NcHlMaFBIVGdUdG0?oc=5",
       "publishedAt": "2026-09-01T06:40:29.000Z",
       "category": "生成式设计",
@@ -325,18 +392,6 @@
       "source": "36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55cFJ3bXdtNDR6NklabXdzQVhuWGVfdEQ5YUNiczVpeDRCUnBFT19lcjg3N2NXX1JISWpodDJRdXFRMHVZZ19EUmFDdXd4RTF5MFdZ?oc=5",
       "publishedAt": "2026-09-01T06:02:02.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "36f372177ad3",
-      "title": "AI Designs Real Chip in 14 Days, Bypassing CUDA - KuCoin",
-      "summary": "AI Designs Real Chip in 14 Days, Bypassing CUDA &nbsp;&nbsp; KuCoin",
-      "source": "KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXJwcXVXc3JRemFtZUVvQjNOTHpUd2hWQmxIUkRjZmdHVVRaSWZmTUlTZ2lySDVBdXVpTDVLQ0NfdmliVFdJWFQzalRvVzhNZUlCQm9ueG9HY0VMZF9nc1NkYW5zSWpzMDBkM19INEozQWdubnpwU1Q4NWFiYmpacXdreTRyTWs?oc=5",
-      "publishedAt": "2026-09-01T04:40:22.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -388,7 +443,7 @@
       "summary": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture &nbsp;&nbsp; MarkTechPost",
       "source": "MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMDJmcjZXM2x0R2t1Ym9DRnpOMzdpOGFwZVoyUWtxNzRRd1ZnbFZGdU1TLTFibU83Z0FGU3VhbG1xWkxfV1hJMUxTaF9xc3h5all2T0FTT3MzczR1MFhjM2ZqVG9scC1jRXFCR2dWSF9jSUNuaVJ6ZjJ2T1RmUzlnTzNGNG1yQVpDanBkU1ZJN0ZtQmc4MW5BZ0Njbnl2Nkw2QW5HVnUxVWU2cTZpbURKM0M0RXZROHVkWUJwN2toVFlETW50QXQxekZUMlhPZFBkMEcwYlB6WWIyMjM4MFJIRUloUEzSAeoBQVVfeXFMTTBBeDBFTW1jYnMybmtNQTZMenJudWJFc3ZvalJHLVZTQm5QUHVIRk9McG5KYXlSSUNrQmhzaHV4SVpkRnZBaFR3OG9ZU0otVXBQSFlqMXEwT2NWalZMS2hsaHBMd1NOYlVkTkJVT24yYS1FMEkxU1NWM3JWODl3Nm05THFOeXFLdGhWYTBIUlZLdUk3bng4LWNLc3g0WmI3Rlo4U2JqYzktU0tLS2prdjIzNnI0bm1OVGR0SFNoMkVsM2lvNzRMYnZpSDVjcWdhMWtsRzIxUTdVdS04Zm0tcEJ6SWtxaGVpRlJn?oc=5",
-      "publishedAt": "2026-08-28T19:12:21.000Z",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -419,59 +474,6 @@
       "tags": [
         "ai",
         "architect"
-      ]
-    },
-    {
-      "id": "7932a296e1e3",
-      "title": "Startup Architect Labs says its AI-designed chip beats NVIDIA’s Jetson Orin Nano - R&D World",
-      "summary": "Startup Architect Labs says its AI-designed chip beats NVIDIA’s Jetson Orin Nano &nbsp;&nbsp; R&D World",
-      "source": "R&D World",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2hKVXpTN3dJY1lwenNBTmJUVDVRQU11Wm1HYTJaT0JOM3lhdDktS0oxaHpXNlVaRXJpN0R2ekVuQ01mMlFfVVY3dUNZTEkwaERDS0pGVGgyVmhtcUVoZDJ0S1A1azFaOW5rSWtPbHhDMGpGa3ZnVkswRHczVlBRUDZYTk5OLTZlUG1wODAwWkFJUHUtOWdmVm5HU0JSQ0tTWXRjWk5EbHl4SVVZM1pR?oc=5",
-      "publishedAt": "2026-08-27T17:02:34.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "df9d44567617",
-      "title": "Hot Chips 2026: Cerebras lays out the future of wafer-scale AI — Nexus system architecture triples rack-scale performance, CS-6 wafer to incorporate stacked DRAM - Tom's Hardware",
-      "summary": "Hot Chips 2026: Cerebras lays out the future of wafer-scale AI — Nexus system architecture triples rack-scale performance, CS-6 wafer to inc...",
-      "source": "Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQR0tFeUdHQjFPQWdRQW1rTUpIZGtCWjU5bkFqYUpvR1E0Ui0yNk0zdXlJRVdCOHhqQ2E0dmFRazlHMEtkd3BDYUpTUlZHM2JzSTBLQTljUG1nbGdWWFY5N0NJa2RIc2dzZWx2UkttUThudjNVbmVaMFRrLTQ3T1hZREV0VWZidmRucWpXYUJTd002QUl5ZFI4SmRtUnZ0a0Utc3pIeTdIZGFZbHU1SXdiUVdXT3czWmF4MnJINXhMMTZYQkRvZFJsMm1oZGx1NWlJZm9nT21lcUFMS3RjMVR1LVNmWVdqY0lMcTNLTGN6Mms0djNsck9jTVZjVER4bEdsbDI5MUt2NEUwTzNldmtTbDljZVk0dVdzbHVYLVhBZUpGRjcyakJZV19IZExNUkEzRVlhTEFGcEdlekZ1bmlJNUFtWXM2NGM?oc=5",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "9b52b1044ba4",
-      "title": "AI lab enables UTA students to create immersive architecture models - theshorthorn.com",
-      "summary": "AI lab enables UTA students to create immersive architecture models &nbsp;&nbsp; theshorthorn.com",
-      "source": "theshorthorn.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGtrZUExOGlaRHA0cDhLeHhVbmpObW1STlJRd0FOZVdqNl95bzNzR3VWQWhPVlZleTlkSk1PN1A2ZzBJX1p0OVFtcG13c2tTVlVoV2xnellnUXlVZnZ4R3Fzdnh1X3JzTmFXQ3FqXzBydnRiTHNSbVJzbXRtdWpDWElfd1VPS1l2OGFOMFRZcDNzcUxmSTRMbWpYRG5PYjB2RzBZMU9BazE1QUxZLVBuZTI5YXprMUcyMzVrWjRXYzV0NVVzeW1sZXgwT0NWdWxjbEFONENlMVlQeGQtcmRtenZOYzlvaUxwcm52N1FrOA?oc=5",
-      "publishedAt": "2026-08-27T04:15:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "0a5ecd7c9ff8",
-      "title": "CTOs Must Bridge Design-Production Gap to Mitigate Tech Debt, AI Risks - TechGig",
-      "summary": "CTOs Must Bridge Design-Production Gap to Mitigate Tech Debt, AI Risks &nbsp;&nbsp; TechGig",
-      "source": "TechGig",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTm1uSFI0S2xmeXVVM09FdG84QWZ5dFh2dzRwRWtSY2NqYkpteHhWdE9LWkxwa2NaVnUwMkdqZzFiUXJVem1CR0lwSEtQS2d1UGVnN1JhRVliN0dvMi1mMkQ4bWZNN3hoZ3lRQWx3WWJqaG5KdWQxcDZGTDE4TC1FTDVEOXRmbW1STG9SY3l0ellqTVltUlhDN3VyRTJPSjFpNzZNQlZ1eTFLZXEzTUFvNFJkcUl2QXJHYnEwSDEzN0lLWlnSAcgBQVVfeXFMT2FWazQ1MEZOTzFaYzh3YnJLMUtzZnhBaVFPZldvWFlaNWl1TEFBMlk5ejFfZVFoNGNfYTV5WEtzWDJXQjg0OF9wYXNYY2RmSTRVbU1PdTZ4S0RFS3NuUllKM0JTT0xZa1pzRzRRS0Z6Q2xFLUpkanBsalJjQlh4YnJqNUxGR3ROeFl5V3pZYzMtbHh2azZWa3J1QkF2bWtLYk9URk1rSzktMDZnZUVQc0RqS01Idk9DSG96VDdkU3pPTkZnNDVmTUg?oc=5",
-      "publishedAt": "2026-08-27T00:53:31.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     }
   ]
