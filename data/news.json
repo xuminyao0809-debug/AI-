@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-05T23:52:45.722Z",
+  "updatedAt": "2026-09-06T23:50:52.639Z",
   "items": [
+    {
+      "id": "4da8f7efc464",
+      "title": "GPT-6 Astra Reshapes AI Architecture Workflows, Moving from Assistant to Operator - Parametric Architecture",
+      "summary": "GPT-6 Astra Reshapes AI Architecture Workflows, Moving from Assistant to Operator &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aY3I4YzZrUjh1QnI5VTVreEZTLXR3d2N2d1Q5RUZDa2RCV1ZKQXV0VUstaVE1ZnctOEkyNnAwcjdtUWF4OTM3b2cyQ0laVXlqbnFlQ1R3RmFEZDROZ3VhNmRYQXJXNzhiR1BmMnhzbkxnbDU2NDRua3h1dmdhVlk?oc=5",
+      "publishedAt": "2026-09-06T09:57:10.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "83e27f02913f",
+      "title": "Chleboteka \"Okrąglak\" / CUDO:",
+      "summary": "The main inspiration was Okrąglak itself – one of Wrocław's iconic modernist buildings. Rather than recreating its historical interior, we t...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
+      "publishedAt": "2026-09-06T06:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
     {
       "id": "dbbc6b6c35b2",
       "title": "Yarumos Apartment / Trópico Arquitectura",
@@ -146,6 +173,19 @@
       ]
     },
     {
+      "id": "a1da12b0c5f6",
+      "title": "QikBIM Goes Viral: OFA Group’s AI-Powered BIM Platform Surges Past 281,000 Views and Adds Thousands of New Followers in 90 Days, Converts First Paying Subscribers and Targets Over $1 Million in Savings Per Project - manilatimes.net",
+      "summary": "QikBIM Goes Viral: OFA Group’s AI-Powered BIM Platform Surges Past 281,000 Views and Adds Thousands of New Followers in 90 Days, Converts Fi...",
+      "source": "manilatimes.net",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxON2VOS1RNXzV3WjZrWXFSaGdhcGgtcHdadVdWQjVVSXRBVWhMeTNvZmRvYlhuZk9BVWRESjJHcVRnV2FucFBsQ0JOMUVTUklrNnlMODlMV3RCZVhYdEp4RXAzVy1tN1d2cWwzY0QyY09DTWVIWFZNLS1sckN5TDZDMWJBSmxybXI1VlFEOEtMRURRRDZzUHo4TkpIYjB6YXd0Wk5yamdEdl9FNUo4anR6anZuZmpTdnFKaTNwQ05mMlg1QWl3QmMxNTdtMEd1Nkc2bFg5ZnNhWExvT0k0cFBMUWhPYWtyT2REN0xucmVINkpWZE5pejEzbEloc1NFMGRvb05SR3NvRDVUemVhcFRPVm94WGZxMmxWRmRPOXQxbzZKSWp2emh5Ym1WTTNvVVVDa1ZKdXQ2MjJISE5uSkRzTDJHeFdJNm50cFNNT0RBVElDWjg4NG41VGd1MmJ0bnI4NnhnR01nOWpFMHhhWUw0OWpUV2pRa0FZa2M3WUhNOHVraXFtQTM0QVl1am9kNmJUeGhYdtIBmgNBVV95cUxQaTdTeTlyWHZpSDdDS0s1QUtCTFRuR1RFWkNIVmVhZzVxWFJ6clg3WVFJdnNHZ29zZkQ4aVliNHJMdWRsZVJOMmpZWTBiMnM3UTJud1dXRGpHU3VRdmJ5NUdCMVc5VndmUW9sSVJka2F5WFVnTW43aGtyQ3ZLOHUzbVE4a2tQZ1NTSHlmcEhqYU1CcHBqcmFFOFU0VGJkc1gwN19Lb1loRDYtZVo3enI5MGI5cmRQcHRYNGNGa3BETFBPWW01aEVxX3djSTNTT0VTZkhzcC1VZjRxUl9UVEsxVVZoRjRrRkVHa2xxeWx2aHAzb3pRYVdYcU41Z0R0UndFZVRndkE0ZFZ4UmN1Tm5JR0VkWjc1cGZFM1dic0ZqNm8xMnRsUmxoQlhTc0hsR1VQSmZXazJVVU5NcHNpdHRyNm1WYkh6a1U0Unl2bXRINEt2R3NOTkgyUjhkZ2JCQUp2UXlVZHNfRUN3SERpOUU4QXptendEUFVVc2hTUnVuUnJkcl9VRXNBdkdNcHVXMU96X2pPa1l1dzFrZw?oc=5",
+      "publishedAt": "2026-09-04T12:13:20.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "bim"
+      ]
+    },
+    {
       "id": "65cff0ab80bb",
       "title": "AI-generated designs can create unrealistic expectations: Prashant Parmar - realty.economictimes.indiatimes.com",
       "summary": "AI-generated designs can create unrealistic expectations: Prashant Parmar &nbsp;&nbsp; realty.economictimes.indiatimes.com",
@@ -169,35 +209,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "c7fb53017968",
-      "title": "ArchDaily Next Practices Awards 2026: Meet the Jury",
-      "summary": "Since its launch in 2020, the ArchDaily Next Practices Awards have spotlighted forward-thinking architecture practices that are redefining t...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184370/archdaily-next-practices-awards-2026-meet-the-jury",
-      "publishedAt": "2026-09-04T08:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "b0d6957cca00",
-      "title": "Nairobi Architecture City Guide: 11 Projects Building a Post-Independence Identity",
-      "summary": "Nairobi 's architectural identity was transformed by Kenya 's independence in 1963. As the new nation sought to define itself, the city beca...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184396/nairobi-architecture-city-guide-11-projects-building-a-post-independence-identity",
-      "publishedAt": "2026-09-04T07:30:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
       ]
     },
     {
@@ -254,9 +265,9 @@
     },
     {
       "id": "daf2303f90d0",
-      "title": "Bringing AI into the heart of public building design with ArchSD in Hong Kong - webwire.com",
-      "summary": "Bringing AI into the heart of public building design with ArchSD in Hong Kong &nbsp;&nbsp; webwire.com",
-      "source": "webwire.com",
+      "title": "Bringing AI into the heart of public building design with ArchSD in Hong Kong - WebWire",
+      "summary": "Bringing AI into the heart of public building design with ArchSD in Hong Kong &nbsp;&nbsp; WebWire",
+      "source": "WebWire",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rS0xvWkJMOXdOZFpSei0yeDZrYUZjWlJOY0pzeWVaQURGdURWWEg0dGdaRWloZHhvN0VkQVczb3RjWHA3TG9TY2RDcjlrR1RUT3FlTVFmeXlJODh6MjVUbg?oc=5",
       "publishedAt": "2026-09-03T15:23:37.000Z",
       "category": "案例",
@@ -276,19 +287,6 @@
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "fe0bb8894c5c",
-      "title": "Train Your Own Architectural AI-Model – Advanced level at My ArchiSchool - Dezeen",
-      "summary": "Train Your Own Architectural AI-Model – Advanced level at My ArchiSchool &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGNfVHBFbEVGVkdhc25pcW80azA3WnZOMEhsWERDbjR1VzVUODNtUWZmRzVoOU14TG5QNnlUeE9pN21hQVg3UVZMVXowTF9wejI2TFVEUFhucldHejZmenlPY1dCMzFRRmlkYUQzRzhmdWgzLVNaVmZ0alVlTXJnYzd3cFZqdmxlS1hzTHBWZlZZT1d6V1VHeDN1Z0FkdWhVQmtLWQ?oc=5",
-      "publishedAt": "2026-09-03T09:54:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architect"
       ]
     },
@@ -319,20 +317,6 @@
       ]
     },
     {
-      "id": "3c5a614de4dc",
-      "title": "Inside Claude Code Architecture: Why Today's Most Advanced AI Coding Agents are Powered by Infrastructure, Not Just Intelligence - Intelligent Living",
-      "summary": "Inside Claude Code Architecture: Why Today's Most Advanced AI Coding Agents are Powered by Infrastructure, Not Just Intelligence &nbsp;&nbsp...",
-      "source": "Intelligent Living",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVTnJ3OUt5VWRZb3J0WlQ3QVNOdWxkcy1hWFZpSjJvekdPal9zNjBTQ3R3M2ZjVE1yVGdzd1RKMjJxMXVfNS1ZWEVUZi1hTV93aWRpMEJJSU1La0tCaU11RF9xMXZ4bkdxTmpVRU5YYzZ1SWc?oc=5",
-      "publishedAt": "2026-09-02T01:11:17.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "b9b66f1e0303",
       "title": "Trapped in Testing? 3 Intensive AI Programmes Designed to Help QA Engineers Pivot to AI Product Architects - India's News.Net",
       "summary": "Trapped in Testing? 3 Intensive AI Programmes Designed to Help QA Engineers Pivot to AI Product Architects &nbsp;&nbsp; India's News.Net",
@@ -347,9 +331,9 @@
     },
     {
       "id": "4ac530874c60",
-      "title": "Redwood tests AI-designed silicon - Jon Peddie Research",
-      "summary": "Redwood tests AI-designed silicon &nbsp;&nbsp; Jon Peddie Research",
-      "source": "Jon Peddie Research",
+      "title": "Redwood tests AI-designed silicon - jonpeddie.com",
+      "summary": "Redwood tests AI-designed silicon &nbsp;&nbsp; jonpeddie.com",
+      "source": "jonpeddie.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqM3Jxc21rcGdxWDVBSlFjSklzdW5yRGJxcEprcUxhYjZPblhGbG13Z1V5SEdUaEMzZVVpUWhGeDd6M19vbW00MktkbDRpZUNhazVLRGg5OFgtamRkZXdnMTB6UC12Tk5ZOVhaOUlwbHpmM0puZlF4SUVR?oc=5",
       "publishedAt": "2026-09-01T15:15:36.000Z",
       "category": "研究",
@@ -425,9 +409,9 @@
     },
     {
       "id": "e62eb67db4f6",
-      "title": "Intel outlines three chip architectures aimed at the next phase of agentic AI - Tech Edition",
-      "summary": "Intel outlines three chip architectures aimed at the next phase of agentic AI &nbsp;&nbsp; Tech Edition",
-      "source": "Tech Edition",
+      "title": "Intel outlines three chip architectures aimed at the next phase of agentic AI - techedt.com",
+      "summary": "Intel outlines three chip architectures aimed at the next phase of agentic AI &nbsp;&nbsp; techedt.com",
+      "source": "techedt.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjc4UDBvTlRoeGFQbXhCdXU1YUFxUWIyMlRVdHJyMFhTUnNPelVDcHpkV3BETkY0LXlMb3Uxa2lvd0cxUVkydGdrSE5GV2pwQkp6SXJxYlhYZGNQSmI4alVKNm5SWmRyaExreG5BY1pMYVNhWklJLWRDaEVuQk5NdEx4VExiX0xEaURuYTFuQ0dsZDNVZ3hjbk10bmhYVkVHVW84?oc=5",
       "publishedAt": "2026-08-30T14:27:29.000Z",
       "category": "研究",
@@ -470,6 +454,19 @@
       "source": "citybiz",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZU9nazNpZmF1Qzd2YURaUEU4ZDFSME5rcWc4NGt1NUY5Mkx2R3YtS1JJRnlER25RT0lrT0dFSll4UDM1LXFRMnFFMkFPM0wzVWdHbzVHZnJsVHdPQUhDcFZ0YklWRFhyY0duNXF0TW9PcE1GTHdLZk5BWFNkd3VqaS1CcUpTVVlHZUNKVjhQay1Fa3J6eEJVWkM1REZIdGFzRm16QUVycy1lMW5JbkJNaFl2SmI3R1hvbnJNM1VPRWs5TWlpNGlrdFhIdXdyc3d3cE1sVkVRc0g?oc=5",
       "publishedAt": "2026-08-27T17:33:18.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "7932a296e1e3",
+      "title": "Startup Architect Labs says its AI-designed chip beats NVIDIA’s Jetson Orin Nano - R&D World",
+      "summary": "Startup Architect Labs says its AI-designed chip beats NVIDIA’s Jetson Orin Nano &nbsp;&nbsp; R&D World",
+      "source": "R&D World",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2hKVXpTN3dJY1lwenNBTmJUVDVRQU11Wm1HYTJaT0JOM3lhdDktS0oxaHpXNlVaRXJpN0R2ekVuQ01mMlFfVVY3dUNZTEkwaERDS0pGVGgyVmhtcUVoZDJ0S1A1azFaOW5rSWtPbHhDMGpGa3ZnVkswRHczVlBRUDZYTk5OLTZlUG1wODAwWkFJUHUtOWdmVm5HU0JSQ0tTWXRjWk5EbHl4SVVZM1pR?oc=5",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
