@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-14T00:09:14.828Z",
+  "updatedAt": "2026-09-15T00:36:12.178Z",
   "items": [
+    {
+      "id": "aa1a4d5e92a4",
+      "title": "Technical Architecture for AI-Ready Websites - HackerNoon",
+      "summary": "Technical Architecture for AI-Ready Websites &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LWdTQ0NyU0Q5TW1OSHd2Qi1vN1BxbmdwZkVwTXN4ZndpTWxkVi1kbW8wTU1ZRzVtUU5yMjI4OWdCeGpRNmVUMUM3MVpZMFVTUEJ4X3d2dnd6M0Q2TFd1b2VQbkJuZXNYckdlY1lvY0ZXQTU3QVE?oc=5",
+      "publishedAt": "2026-09-14T16:46:38.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "911ed5aad89b",
+      "title": "Reinterpreting the Ruyi Knot as a Cultural Symbol in Contemporary Metalwork",
+      "summary": "Symbols have always traveled through architecture. They appear in carved stone, woven textiles, painted ceilings and walls, door hardware, a...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184531/reinterpreting-the-ruyi-knot-as-a-cultural-symbol-in-contemporary-metalwork",
+      "publishedAt": "2026-09-14T06:45:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "569a9f2dcaf2",
+      "title": "Modern Remnants: Calque Studio and the Race Against Tehran's Architectural Erasure",
+      "summary": "Nestled at the foot of the Alborz mountain range, Tehran grows beneath a ridge that protects and suffocates it at the same time. The same la...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184461/modern-remnants-calque-studio-and-the-race-against-tehrans-architectural-erasure",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "1a9d5ae39d73",
       "title": "BISIDI Introduces a Chat-Based AI Image Editor for Architecture, Interior Design and E-Commerce - HackerNoon",
@@ -26,19 +67,6 @@
       "tags": [
         "ai",
         "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "f10aa8899e05",
-      "title": "Enso / Compartment S4",
-      "summary": "Industrial buildings are typically designed as fixed objects—efficient, economical, and tailored to immediate production requirements. When ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184968/enso-compartment-s4",
-      "publishedAt": "2026-09-12T17:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
         "building"
       ]
     },
@@ -164,40 +192,12 @@
       ]
     },
     {
-      "id": "2e65e0b7fd84",
-      "title": "Why AI Workloads Need a New Cloud Infrastructure Architecture - Nasscom",
-      "summary": "Why AI Workloads Need a New Cloud Infrastructure Architecture &nbsp;&nbsp; Nasscom",
-      "source": "Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1pYdE8wMVRFTElCY2N1Qnd2eGpDRmJ0VnE4RE1RcFJvY28xZ3YxSUtiRGpBQmc4ek5xRnJ1a09CcnJidWtJS2p4N3I3elM3MmRJRGg4Q004YXZwUWZpNjJROFpveGdReFhWSHNRSFlXbnhVdWFaXzA2RnV5WEdzbG1VMDBTWmxHYWRXbGFqQjk3cW8wRGFFcHltWWZXMXVEVms3NnJR?oc=5",
-      "publishedAt": "2026-09-10T04:20:53.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "f611f70512ed",
-      "title": "Why AI Factories Need A New Industrial Automation Architecture - automationworld.com",
-      "summary": "Why AI Factories Need A New Industrial Automation Architecture &nbsp;&nbsp; automationworld.com",
-      "source": "automationworld.com",
+      "title": "Why AI Factories Need A New Industrial Automation Architecture - Automation World",
+      "summary": "Why AI Factories Need A New Industrial Automation Architecture &nbsp;&nbsp; Automation World",
+      "source": "Automation World",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2hKYTZ3bkdITkREbmwzZ19oYUZKV05ab3NDd01uLWdOS3hkRDJDYjl5NFZJUlZBc0RuYXFvVzV0SmxEaUEyMjFXUGh0RERpMF9lZm1IMGRqVlUyRE93XzZRdjZRYVhvZW9mbnpsU0drb3kyaHZCb2VYR0pFRE5vLWdMS3BQaXBNZkF4dE9pazBfUVRQajcwR0s0bmd4NXlvLUJEaU9lZV9OTVVXNG5Ic0cyOFQ1U2NJa0JzMmMzTGFtWmg3NFlRMXh0TzdOTXBWd3ZSbHdLTzNnNmZuVWc?oc=5",
       "publishedAt": "2026-09-09T23:05:32.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "1bf80c8ec27d",
-      "title": "HP Extends Data-Center AI Architecture to the Edge - hp.com",
-      "summary": "HP Extends Data-Center AI Architecture to the Edge &nbsp;&nbsp; hp.com",
-      "source": "hp.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkhmaE42andVakRrUTNERlEyTWNGbnc4RmNTXzJUOWJpWFY2TGJ4OXZLamh6Rkl0aW16c0tidnI2NVhabF9mNXRuWEdTd2lxSnRQWU5KVmdvVG1BWXV4ZHlJTmJpVG1sSGd5Q01tbl9Tb2ZyZDZ3QmtSU2R0U0RpTG5ZUTZmVEJIYkZsRWxMWkpUMVBvcjdUUUxneFZWLXhKbXBjWWxidmVOYU9WckE?oc=5",
-      "publishedAt": "2026-09-09T12:00:05.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -219,9 +219,9 @@
     },
     {
       "id": "10dacd7ca943",
-      "title": "TUE showcases edge AI chip design to cut energy use - bits-chips.com",
-      "summary": "TUE showcases edge AI chip design to cut energy use &nbsp;&nbsp; bits-chips.com",
-      "source": "bits-chips.com",
+      "title": "TUE showcases edge AI chip design to cut energy use - Bits&Chips",
+      "summary": "TUE showcases edge AI chip design to cut energy use &nbsp;&nbsp; Bits&Chips",
+      "source": "Bits&Chips",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDdKTk9XcmUtTkRlYVhQMGdmOWd4aWltTjZCaHJ2ZmlFOHBDY2dWSGUyTkZJS0RkOXhBWHRiMGJyV043ZVBkQkpwNE9DTlNEWVhBUEFjQmJtM3dzc0pYbUR5d3dqV0VGWVhITi1WTTZ3X053d2RfSDhIU1JLZkVQOG8xajBhX3VrRzNJ?oc=5",
       "publishedAt": "2026-09-09T08:14:54.000Z",
       "category": "研究",
@@ -268,6 +268,18 @@
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "b02c24545d4e",
+      "title": "Design overtakes retail as biggest contributor to UK economy - Dezeen",
+      "summary": "Design overtakes retail as biggest contributor to UK economy &nbsp;&nbsp; Dezeen",
+      "source": "Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UenpTcmhralRfSTV1THI4ak5TVjJPbUJ6VV9FZUZWRWtUbmRkb3Q3c3EzZk5uM0gxSWJtUHVvNGdxc2wwWFd5T0JjdXozTmxMYmVHb283UnNEU2lnRDFKOG5lVVVYNzRWa29ON2MtYkdTQQ?oc=5",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -348,19 +360,6 @@
       ]
     },
     {
-      "id": "1452d4a1276e",
-      "title": "AI can assist architects but cannot replace design knowledge: Reza Kabul - realty.economictimes.indiatimes.com",
-      "summary": "AI can assist architects but cannot replace design knowledge: Reza Kabul &nbsp;&nbsp; realty.economictimes.indiatimes.com",
-      "source": "realty.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGhaT3dNeWY5Y00tanJxeEJWY2JNeHgwazB6M0tWSDJhc3I1SWYwUk5wdU5mZFRVV2Uwdlh6OXdCelNoMC1keG9CUFN6dE9PT0NnRUQ1ZFJnSUdrWjFvdHNscTJsM3NNdXVtdXhvdkZxTDlUdHVWV08wMjhXRUZra2gyNnI2QnVwa2hQT1RVdEI1eUxjTDJpUnppWkd6MWpYV2NXUnF1SlFMaEZXVzh3SkhVQy1TaHczWkhKNmFlRU5XOUc4MUd5alFOaHTSAdIBQVVfeXFMTW9FSVh6QmxBMnd1dkNtMVFuenlyNnRQMEFVVlVjaVlPNlUyVDUySldVY1ZUbEsyODNFS3Z1clk1UUlJT1ltb3puREJyT3lSbkE1S1Rkc0hLYmM0NDh6VnlCeXJNOEprTWFsTGQxQzdkR3NVWFJ1dEJBbnNBS1d1Tmswc3VpOW0yQjlvTUlBc2tpWGZ6bW5qLURJSEdMR3VJa3RHel9JRjNSMk5QQVBDYTIzWENubmh6YmQ4MG1aWkVUUlViVkRVd3g1M01YemdWUldB?oc=5",
-      "publishedAt": "2026-09-04T13:18:23.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "a1da12b0c5f6",
       "title": "QikBIM Goes Viral: OFA Group’s AI-Powered BIM Platform Surges Past 281,000 Views and Adds Thousands of New Followers in 90 Days, Converts First Paying Subscribers and Targets Over $1 Million in Savings Per Project - The Manila Times",
       "summary": "QikBIM Goes Viral: OFA Group’s AI-Powered BIM Platform Surges Past 281,000 Views and Adds Thousands of New Followers in 90 Days, Converts Fi...",
@@ -371,18 +370,6 @@
       "tags": [
         "ai",
         "bim"
-      ]
-    },
-    {
-      "id": "65cff0ab80bb",
-      "title": "AI-generated designs can create unrealistic expectations: Prashant Parmar - realty.economictimes.indiatimes.com",
-      "summary": "AI-generated designs can create unrealistic expectations: Prashant Parmar &nbsp;&nbsp; realty.economictimes.indiatimes.com",
-      "source": "realty.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWU9GTi1DVlhjcmhmNHVINzdsd3pRMmYtNWFpbkFvSmZGdmd5SUJPVmt5VTBrZElwRVlpS3d3YkRDTVVUUXZ6aWFvV1VCc3VydXczd3FtaWNVTll0dDdQQng1WHlMYW5aR29sd2ZoemRvY2FkNnJxLThmVnE5SkwyLW0xV3A3YV85YVV0eDNEbUt2YURBaWdpdVFaUVJIRzBERjZjMlR4bXNEY0Yza0pVZ1pfVHV1ajJmaFBLX2YwYzA0SEVxeWV2TUZfTXY0UdIB0wFBVV95cUxPOTRSYW5fR0xsT2k3dTZUTUxVRnpYbDFxbFRCUmNsSU1NZWdIR1NueW1BS3A2cFVhVEFJYWZtekZCMEhucXl1NWltWUNyX3dKTkZ6ZGQ2dmUwMGQtODJLa2RGR1pNMUFTM0I5OXFLeDlYdVdRUmkzd3hYNk1ZTU5DTWlBRWRSbWdsR002MVpjRFdTZHREM0p4TE5UVTZac2tQejVlNXdEbUJ1UGoxb3QtVmZYTHlfSnFqRGFibm1xcF9PSFFzQno2YlhzQ1FsOThlMlBJ?oc=5",
-      "publishedAt": "2026-09-04T12:03:38.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -415,9 +402,9 @@
     },
     {
       "id": "af09a93e5f6f",
-      "title": "Silicon Motion unveils SSD reference design for AI infrastructure - Military Aerospace",
-      "summary": "Silicon Motion unveils SSD reference design for AI infrastructure &nbsp;&nbsp; Military Aerospace",
-      "source": "Military Aerospace",
+      "title": "Silicon Motion unveils SSD reference design for AI infrastructure - militaryaerospace.com",
+      "summary": "Silicon Motion unveils SSD reference design for AI infrastructure &nbsp;&nbsp; militaryaerospace.com",
+      "source": "militaryaerospace.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHRZbl9PbUZFZGY0LUlsVEdVcllReDZqdWZEYkI5cnljbnlZb0dUMUZ3dGNvVHo1U0FROHJSdnhyNFVEcUZEOVhCekx1cDBrbzZhaGYwYXNXRW1XamNPMDJ5V1h4elh1X09qN3FnN01veS1hN2dEQnJLRHZxRWp1ZmRDU2pDenZ3R0VHMFNNY0lNWlFfR3dkSkc2aHk1QVlSaU1sWTJWLS16Q3ZiRmFGak9Vc3FuMjZsY1oxbENn?oc=5",
       "publishedAt": "2026-09-04T06:49:19.000Z",
       "category": "研究",
@@ -459,6 +446,20 @@
       "source": "Arkeonews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkdaQjQ1Wms0RTNTMHZ0UEE3LVRtUXpxT1dpR0ZITWFvRTNrOTlzTkpqSUJLcVBRNXpzWTRabDUtMHZxcXJkXzBCVFFOQ2R4M0RNWE1ValV6RTk5SnlPMElPS3FIVnowWnV1akRGTnpWaF9SNUVlN1l0Y1J2VmJVMktPQWFlUQ?oc=5",
       "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "5ac8dc60510e",
+      "title": "Spain’s AEPD Issues First EU Supervisory Authority Guidance on Agentic AI Architecture - CryptoRank",
+      "summary": "Spain’s AEPD Issues First EU Supervisory Authority Guidance on Agentic AI Architecture &nbsp;&nbsp; CryptoRank",
+      "source": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3BzVWJLYzdXWTJiYWU0d2xoYU5ueVJOY2Q3cDU5bGN2T2d6MXhocmFxM3BCU3NzZzNtaTBxNEJ6bkkzUjdkaGhzalZldHhEOEFCamRSRkNidVRfQmYxLXJ2d05Tc1BnMFp0eU5OYjJTT2sydktVTjJocGQ4TkpocVlRNU9nUFJZQ3JmRDR1SWJtTFFUbEpNZE8tMm1tSlBNZElmdW5oSjJwRXUya245UlBiNDV3TnNmTDZpZk5RRmo?oc=5",
+      "publishedAt": "2026-09-02T10:18:04.000Z",
       "category": "研究",
       "tags": [
         "ai",
