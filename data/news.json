@@ -1,37 +1,74 @@
 {
-  "updatedAt": "2026-09-30T01:16:35.809Z",
+  "updatedAt": "2026-10-01T01:16:10.572Z",
   "items": [
     {
-      "id": "3304418d1043",
-      "title": "Next Practices Live in Mexico",
-      "summary": "ArchDaily invites you to the launch of the 6th edition of its Next Practices Awards . Taking place during Design Week Mexico , the event wil...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185724/next-practices-live-in-mexico",
-      "publishedAt": "2026-09-29T07:15:00.000Z",
+      "id": "8fae8a650907",
+      "title": "AI Data Center Power Design: Architectural and Control Challenges - News and Statistics - IndexBox",
+      "summary": "AI Data Center Power Design: Architectural and Control Challenges - News and Statistics &nbsp;&nbsp; IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDNWRnc2YzNqNV9OeHplb3l2bmlhLUZ6MlhYV0piZmpuMEJWZFNJZG5xTGNyVmJheXdidGJkaDdRakZuakpQZ2R1YjZLUGUwb0hzaS1adXdHY1hjT2sxTDNoZEQySEU4SjJwektIVUExS1JERTdSaGliNDMza0cyR1lzeDFGdHUzZGktNDk0blZPOWFKbTVtY2J2V3F4U0Fhazh5cUlyVXVzQzVjcU1BczJ0blVDQUw1Ymc?oc=5",
+      "publishedAt": "2026-09-30T13:33:08.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "31b8d40dc684",
+      "title": "Using AI to integrate design and finance - Penn Today",
+      "summary": "Using AI to integrate design and finance &nbsp;&nbsp; Penn Today",
+      "source": "Penn Today",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbk1jdHFWRVg5ajhNZGMxUXZGRWlkR3M1ejY2Y2tuajFNeFBwRnBxaTlLczgyY0laeGt2UVZGQmJQUEhocl9wMDN0LWpGN203bldhdS1zU3pMUEdzSkh5X0NmYkt0TlptVDdkMTdkNTZwRURROG5Gdkttb1RHVjdyMkJ1MFoxQQ?oc=5",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "7bd48fc4a942",
-      "title": "Casa Piva / B.E Architecture",
-      "summary": "Casa Piva is discreetly sited off a quiet suburban laneway in Malvern East . Its prevailing sense of privacy and intimacy is created through...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185828/casa-piva-be-architecture",
-      "publishedAt": "2026-09-29T02:00:00.000Z",
+      "id": "c60f32c3eca5",
+      "title": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification - EE Times Asia",
+      "summary": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMm5lZXdrbXhuZUkzdXp5cUNUbEVqVU5SYmRZR01VYlVBaE8tS3lwam9XNEtDaTVKMEVUbEhJQTZPVlpRa3FndkNYWmNKcEx5YTdKNVg5WmRGQWw1SjlsdWZiRTdjbjRVNW4tSjVqWFRSanhQWUs1ZGg0YUtrNjNMa3hhbWozTVp2WnRHLUhhckZjMXFnbTRNc3lMdTVORHREczdWWg?oc=5",
+      "publishedAt": "2026-09-30T08:24:06.000Z",
       "category": "研究",
       "tags": [
         "ai",
-        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "09a14ca47741",
+      "title": "AI reshapes chip design from optimization to autonomous creation - news.lavx.hu",
+      "summary": "AI reshapes chip design from optimization to autonomous creation &nbsp;&nbsp; news.lavx.hu",
+      "source": "news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVDlXd2QxaUtDU3B5aVFRWUlicDNRX2lwSDk0bzFTeEsxRXFuS0x0Z25qTnlPVjhiVy1aWFdhTFp0SVFPWWJCV0xzWTJzTF9hTWY3Vm9GQmJ6V0wzM1FIeDNMN0lJdjV3MjZWNWZIdDdEaE5qcXRkMlpyVnVPWU9QMGVScTQ2YmxpLV91SjZZYmdWM1k0VGRuMQ?oc=5",
+      "publishedAt": "2026-09-30T04:15:39.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1099cfcdb277",
+      "title": "PANE MixC Shenyang Flagship Store / say architects",
+      "summary": "PANE folds the rationality of ancient Greece and the spirit of the East into a pair of everyday shoes, shaping enduring pieces that bridge t...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1185881/pane-mixc-shenyang-flagship-store-say-architects",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
         "architect"
       ]
     },
     {
       "id": "a16bf1d9b0d7",
-      "title": "AI coding agents enhance software architecture, security, and development - TechGig",
-      "summary": "AI coding agents enhance software architecture, security, and development &nbsp;&nbsp; TechGig",
-      "source": "TechGig",
+      "title": "AI coding agents enhance software architecture, security, and development - techgig.com",
+      "summary": "AI coding agents enhance software architecture, security, and development &nbsp;&nbsp; techgig.com",
+      "source": "techgig.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXE0WkYtdjNqZmhPekRQZGF3bmtobTJwelNhUDd1QmtSZ2RNV3AyR2g1Tk4zYks3YW1JaU5BT29GeHFtZ2dBT1kxQlBZN0szcV9UZ043MjF1ZmtVOElTYnR2aHRlRU15RTRaODI5TFpMcTRMZF9MdFRYYkN1LXVxSmpHZkFuaTdPT0Nua1hKcEdQN0RIdVF3QUxpWV9nRVhBaDhxZ0RzcWMtWFpTTlHSAbMBQVVfeXFMTkl3V2NReDg0aC1jMWRjMFpWUHZ5cUdZLTgxdVhiVGpGdnlqMUtCcE83cEZiNzY4SEw0R29kRXQ4OXo2Q3d3VVNCSTYzRVAweTVUOWVrYS1HUjBLTWk4STQzUy1aYncwRlFuN2paR0liOC1zTnpYbmk5cTRyT2NPZlhtOGtnVUNJTWFnN2IzbEJtaGZxSjZfZWUxUEx4Wl9RbzB5WVpBa1pYZ1VBQ0ZxNzktQWM?oc=5",
       "publishedAt": "2026-09-29T00:53:14.000Z",
       "category": "工具",
@@ -70,20 +107,6 @@
       ]
     },
     {
-      "id": "1815ab902447",
-      "title": "Son Llodrà House: Merge into the Landscape / Bastidas Architecture",
-      "summary": "At the top of a Mediterranean hill, where low vegetation and the horizon define the landscape, this house seeks to disappear. Its main strat...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185947/son-llodra-house-merge-into-the-landscape-bastidas-architecture",
-      "publishedAt": "2026-09-28T19:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "bd811df1c52b",
       "title": "AI x Gaudi: Architecture Competition + AI Course - ArchDaily",
       "summary": "AI x Gaudi: Architecture Competition + AI Course &nbsp;&nbsp; ArchDaily",
@@ -112,37 +135,11 @@
       ]
     },
     {
-      "id": "6e61cadfbd5c",
-      "title": "AI x Gaudi: Architecture Competition + AI Course",
-      "summary": "The Archademy.ai platform presents an initiative, developed in partnership with the Antoni Gaudí Foundation, that combines practical trainin...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185927/ai-x-gaudi-architecture-competition-plus-ai-course",
-      "publishedAt": "2026-09-28T12:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "99c82ac23667",
-      "title": "Koto Niwa Cabin / Koto",
-      "summary": "Koto's new Niwa flatpack collection is an evolution of our commitment to thoughtful, sustainable modular design. Born from a desire to creat...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1029387/koto-niwa-cabin-koto",
-      "publishedAt": "2026-09-28T12:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "40a6defaa581",
-      "title": "Software architecture critical for AI development trust, control - TechGig",
-      "summary": "Software architecture critical for AI development trust, control &nbsp;&nbsp; TechGig",
-      "source": "TechGig",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDJhdFFCN0ZpUEJfaHNuYnhmZWJxamVJTUlqdFVGUDZ1dGE0dnFCeTJvd3VvaFRFVnpJeUhGQkRpTDhRVGZjZ01xWm5YRFloTTJNRC1BUFVQdFBCY1VTSFJSbkpjWFUtODRUT2ttVTV0ZE9OWjE4MGNqVXc3V0RMZmcyU2ZieDVPOVZzVnZwc1daeFY2NE5SRUE4bTg0TkJUVEQ3MjlMN1BDZjY0VzY1R0gxZXJFdXNMQXl4cU5sZ1_SAcABQVVfeXFMTlgyYXRRQjdGaVBCX2hzbmJ4ZmVicWplSU1JanRVRlA2dXRhNHZxQnkyb3d1b2hURVZ6SXlIRkJEaUw4UVRmY2dNcVpuWERZaE0yTUQtQVBVUHRQQmNVU0hSUm5KY1hVLTg0VE9rbVU1dGRPTloxODBjalV3N1dETGZnMlNmYng1TzlWc1Z2cHNXWnhWNjROUkVBOG04NE5CVFRENzI5TDdQQ2Y2NFc2NUdIMWVyRXVzTEF5eHFObGdf?oc=5",
+      "id": "e384230b912c",
+      "title": "Software architecture critical for AI development trust, control - techgig.com",
+      "summary": "Software architecture critical for AI development trust, control &nbsp;&nbsp; techgig.com",
+      "source": "techgig.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFF0bWNoUVNMS2thR0JKY1V2X2hUTjA0WjNyRzBCVUoycFVVZ29OOWVFX3dDbVhOcVNkV2Rpc1JqUGpyX3JRRDZaLU5EV2FyNXQ1OXdfLUpNdkx6OXU3ZWtZVlRDdFVJX1VUaUtrZlIxRDNUZ1B1c3prOHNUYnpZNVZXT3NlZUlLZkJkNnhQZ3BfNndFZzNPX1hrT3pKbnVDWEdBcXBBZTcxR01UbDFhSWxiVG1rM3plUUVZ0gHAAUFVX3lxTE5YMmF0UUI3RmlQQl9oc25ieGZlYnFqZUlNSWp0VUZQNnV0YTR2cUJ5Mm93dW9oVEVWekl5SEZCRGlMOFFUZmNnTXFablhEWWhNMk1ELUFQVVB0UEJjVVNIUlJuSmNYVS04NFRPa21VNXRkT05aMTgwY2pVdzdXRExmZzJTZmJ4NU85VnNWdnBzV1p4VjY0TlJFQThtODROQlRURDcyOUw3UENmNjRXNjVHSDFlckV1c0xBeXhxTmxnXw?oc=5",
       "publishedAt": "2026-09-27T23:35:10.000Z",
       "category": "工具",
       "tags": [
@@ -153,9 +150,9 @@
     },
     {
       "id": "f804e082b048",
-      "title": "CUBE Consultants launches AI-powered architectural, engineering design lab - Daily News Egypt",
-      "summary": "CUBE Consultants launches AI-powered architectural, engineering design lab &nbsp;&nbsp; Daily News Egypt",
-      "source": "Daily News Egypt",
+      "title": "CUBE Consultants launches AI-powered architectural, engineering design lab - Dailynewsegypt",
+      "summary": "CUBE Consultants launches AI-powered architectural, engineering design lab &nbsp;&nbsp; Dailynewsegypt",
+      "source": "Dailynewsegypt",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0VIZ0lkS1BOd0lsckdhUDY2VmRERGJEUkZYR0JhaU1zSXkwaEJKY2pXN2ZuVVB0cFlZdE9iblZnaGhNV3dFVE96Vk1jSGJUTTJ4VEVYQlExTjZnOHhXQ3NYU0kydURuZTVHNGxfX1NRRmNra012eUZaOU5USGZaRVNqX2NiYk83VUtVUGVzY2lZVHRsRzV3VVNHTGZKbjBKSFFFdVVBM3lNcFV4RDlNNkRud1BudHM?oc=5",
       "publishedAt": "2026-09-27T16:12:07.000Z",
       "category": "研究",
@@ -232,24 +229,10 @@
       ]
     },
     {
-      "id": "126582b58558",
-      "title": "Architects call for AI reforms focused on public value - Architecture & Design",
-      "summary": "Architects call for AI reforms focused on public value &nbsp;&nbsp; Architecture & Design",
-      "source": "Architecture & Design",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2N5bmpMdjR0RUtuZ0lHOGtHZlRNckE2dFFjeFYzaUhUSFMzVTh5bEVESjB0alBEMmZRU0JkQmcyS2oyTlZjWGtqRVg4Zmx0TXJTX1FLei1IT3ZxQkRkY251bmdLWHU5V0RXNy12SkI4Ymh6MzU2UEZTaDBMRFZzbzlQTlhuRGZ3WTFkRGREdGllLXZtRzctcW54Y01Ia3lZNXJzZEJaWEM0MGVrSjJYeHhVVUc?oc=5",
-      "publishedAt": "2026-09-24T22:53:35.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "8c7de1b095e8",
-      "title": "Rethinking AI Architecture: How FPGAs Enable Intelligence at the Edge - electronicdesign.com",
-      "summary": "Rethinking AI Architecture: How FPGAs Enable Intelligence at the Edge &nbsp;&nbsp; electronicdesign.com",
-      "source": "electronicdesign.com",
+      "title": "Rethinking AI Architecture: How FPGAs Enable Intelligence at the Edge - Electronic Design",
+      "summary": "Rethinking AI Architecture: How FPGAs Enable Intelligence at the Edge &nbsp;&nbsp; Electronic Design",
+      "source": "Electronic Design",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYXU3dWQ2cC1nTi00UnB3S3BGY3I4YWtTV2xLTHhMRXU0TFZ5cXhzV0NOeFRyTDZtb2dmcUtnMlhKNm9uTXd1Z1RJaEJIV0J4ZkFuTGxLSERSSGhCRzBtZ1NQUmFuRl9mWlEyWkFCNHY0S3hmNl9VVU5FSEgzcThsWFdOWk5mZ3RwSlBybE4zNlVLb3FuMTNkUXRYaG5kd3RoZGhzeWpqT0MxSWM1S1BSblduUXc0cFJocU1FNks1SFRvdjZ3SS04R1JwRWVNZkVKY29kOXRNT1VDeWJLRnFFSl93dFB5V2RsbVlCTEtXMEp3OXhxVjVV?oc=5",
       "publishedAt": "2026-09-24T15:49:06.000Z",
       "category": "研究",
@@ -261,9 +244,9 @@
     },
     {
       "id": "009a53ee77a0",
-      "title": "QC Design’s Meridian Outperforms Published Methods and General-Purpose AI in Quantum Computer Design - businesswire.com",
-      "summary": "QC Design’s Meridian Outperforms Published Methods and General-Purpose AI in Quantum Computer Design &nbsp;&nbsp; businesswire.com",
-      "source": "businesswire.com",
+      "title": "QC Design’s Meridian Outperforms Published Methods and General-Purpose AI in Quantum Computer Design - Business Wire",
+      "summary": "QC Design’s Meridian Outperforms Published Methods and General-Purpose AI in Quantum Computer Design &nbsp;&nbsp; Business Wire",
+      "source": "Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVFY0aDRkWWZqTDM0NS1ibjA1ZEpXN2ZSMnNId1B6TjhjbEo4Z3FIc1VrbjJwNXhESDg0OTItcXZ2NUtGdGVKZGhRRjhoa3h1NGRuNXc2VXNUMlpBTjlIdHE0eVAwMlNvVEZhWVk2R01YcVgwSk5DNDJQdkdKVkZKZE9FRDZxUjBYSVVkS0dVaDdDOXRkZzR1RnNuVHEzZGN2a1M1SE9RQ2Vla1RCd1N1cmI0aFFGRHlxNGtTV29CN1FhNFBpNmFFZ05qQmxjU2N1N3g3ZkJiVlFWd2lnUHBaQV9FM0Y0Z3FQR0hzVw?oc=5",
       "publishedAt": "2026-09-24T13:00:00.000Z",
       "category": "研究",
@@ -297,22 +280,10 @@
       ]
     },
     {
-      "id": "8b1351ac94ad",
-      "title": "Illoca Highlights AI-Driven 3D Design Capabilities With Plamo - TipRanks",
-      "summary": "Illoca Highlights AI-Driven 3D Design Capabilities With Plamo &nbsp;&nbsp; TipRanks",
-      "source": "TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWdsbGVfTm5LWVdYZHcyMlNSb0VBemRKNFU1TGRBNXFZY3RBVUlZbld1MFZYZjUxb0hLM1pMRllvMlRqSks2OFVUY01Rclo1WHI1V2JDbExKcUdmNGxRLW5rS3hBLWw1WmFUb1NTeGRqSmJWSk9sNi05MjFORk52SWkzd1lFVmowMFNhbG14NElWZkdERV9uWWJwZ0pUcEFBdHBKYnI5UFZvbWE4ZkE?oc=5",
-      "publishedAt": "2026-09-24T00:17:07.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "44be99d20e64",
-      "title": "Netherlands and Germany Bet EUR40M on AI Chip Architecture, Not New Factories - techtimes.com",
-      "summary": "Netherlands and Germany Bet EUR40M on AI Chip Architecture, Not New Factories &nbsp;&nbsp; techtimes.com",
-      "source": "techtimes.com",
+      "title": "Netherlands and Germany Bet EUR40M on AI Chip Architecture, Not New Factories - Tech Times",
+      "summary": "Netherlands and Germany Bet EUR40M on AI Chip Architecture, Not New Factories &nbsp;&nbsp; Tech Times",
+      "source": "Tech Times",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU0zYlUtZmJ3TE9Td2kyVUE4aGNOdVBodlNubVIzb2tJbkJEZTdUZ25PSUx6QUFrMktiUnR0eGtsWE1QTExPWEl6UFFhaEVBNV9WbnpIcW5ub0txdzNOU1RKeEhreDE4dkE0SktGMjV2d2ZIOFY4WmNVTzdwWU52NWtFMnlmVFdpSVc2THpPOTkxbzdNMnNpWENkRTM3dnN2azhZdnBaOXVHSE5ZODVkOExLdk1SdG1oTG9ZSmVNbnlHdw?oc=5",
       "publishedAt": "2026-09-23T21:16:36.000Z",
       "category": "研究",
@@ -378,9 +349,9 @@
     },
     {
       "id": "5c60c4c7caf9",
-      "title": "3 E Network Develops Multi-Megawatt Green Energy Architecture for Finnish AI Data Center - Stock Titan",
-      "summary": "3 E Network Develops Multi-Megawatt Green Energy Architecture for Finnish AI Data Center &nbsp;&nbsp; Stock Titan",
-      "source": "Stock Titan",
+      "title": "3 E Network Develops Multi-Megawatt Green Energy Architecture for Finnish AI Data Center - stocktitan.net",
+      "summary": "3 E Network Develops Multi-Megawatt Green Energy Architecture for Finnish AI Data Center &nbsp;&nbsp; stocktitan.net",
+      "source": "stocktitan.net",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2ZXVVB5QjY3a0oycHNEQkhLN3lkal82bHVnZ2hmYVhSRVBDXzlHNXRCYkEtNUU2RFZQanpqWEdfQnZvSllQUzN3RklFRmxZcklELXM5V2hpOXRTeGpFRmpFeERfaThXVHVaTVJtc01ZNnhHM2tVeGtaSXRhZnJRcXlyOFp3TmJrbGp5UmE4Q0x4VkVnaUVqemhYTUJLZkQ5TlJBN3hNdEU3R1h0dTllUGcxUUFpcGZSNXk4Tg?oc=5",
       "publishedAt": "2026-09-22T11:50:00.000Z",
       "category": "研究",
@@ -391,12 +362,12 @@
       ]
     },
     {
-      "id": "42be01bc1e23",
-      "title": "Huawei’s new computing architecture targets million-processor AI systems - iNews Zoombangla",
-      "summary": "Huawei’s new computing architecture targets million-processor AI systems &nbsp;&nbsp; iNews Zoombangla",
-      "source": "iNews Zoombangla",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajdqbjdOWTJFRkx4aVRveWdTUUhPUW5GZE1aakZ0MUJjZVMxUTZLZFlfWEZVUXhlZUwyTjRTMGpId2pRbmp5TWRHN1E4UjdEUE9aVXpOTjBBNUYtajlPaDhyYW00T3RrX2FYZ0ViUWxCVE9EYmdXNzZ2OHBQQW81YjktRUxTbTdSbkRvajNpeVV0TGFhcndV?oc=5",
-      "publishedAt": "2026-09-21T15:43:10.000Z",
+      "id": "2d443e4da82b",
+      "title": "MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture - EE Times Asia",
+      "summary": "MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcURwaUZmOUNla1VUMkFlMEc3OFliNWZaM29qVVZlTDJzTFdrMXNkNV9JUTFBaU5ucFd4Y2YwT3M0WDNpR2w0dHkza2dDdXNZSTVEd2dtU0lybWQzN2FEazhkb0xIcXZHZlBSRkFkZW1URXRqQXNadUlUc3c3ekNna2NzeEh3cE1Sc1BHcHRqM3hkeEY3?oc=5",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -458,12 +429,12 @@
       ]
     },
     {
-      "id": "9fdec1d17798",
-      "title": "Stuckeman School to host interdisciplinary symposium on AI use in arts, design - The Pennsylvania State University",
-      "summary": "Stuckeman School to host interdisciplinary symposium on AI use in arts, design &nbsp;&nbsp; The Pennsylvania State University",
-      "source": "The Pennsylvania State University",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSnU5MTY5YnEyVU41VDRGRkxZVDlhZFF5a0JteE9mX1k5cjNUbWlSTmRMUS1OeGhBOC1GdlNnMS1lNnlHTlA4QkVKREVvaXgyLS15NFhXamEyMFJtejBoN2F6cGtjU0l0dVdMY1NXNmVMRnV3bjByZWpneUNuMi1kdzJTS2k3SVFyYVJpejRsTU1FRjlDT1lRalc4eTRsZFBjWDlHY25CbGViVWVncWQ4WjVkbzhSRENXY0FPOW5R?oc=5",
-      "publishedAt": "2026-09-18T11:58:00.000Z",
+      "id": "927426592260",
+      "title": "Stuckeman School Hosts AI in Arts & Design Symposium - Mirage News",
+      "summary": "Stuckeman School Hosts AI in Arts & Design Symposium &nbsp;&nbsp; Mirage News",
+      "source": "Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORG4xNE13U2xUd2t0R2tBRndoU0lHLWVPcm5fNS1KdHZGTkxMSkdpWmV4T2dTaENWYWdmNnJwZDJrcnlFdEg1RlZSRVFxVl9FZWIzTlB0V1dBMjhaalZsNjZLanJmNFVBVkdzS0JsX1dUNW9YQkg5UDZXeVNEa09MdXVB?oc=5",
+      "publishedAt": "2026-09-18T13:43:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -479,6 +450,32 @@
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "3d1f5e6ec0af",
+      "title": "AI platform targets earlier stages of connected-device design - IOT Insider",
+      "summary": "AI platform targets earlier stages of connected-device design &nbsp;&nbsp; IOT Insider",
+      "source": "IOT Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN201cGZ4R19obzN6UHNLWFQ5cXBRd2JJNW1BMlU5TW50MTRFUGk1Y2hiOWdpOWN6ZmhrV3NaQU51b3JTWkhnbzl4NWZqMGV0djlLZ196c3R3cWZia1lsSTlxOXZBLWRtREhaMzZOMTB4Z1JjaDVueEI0UUQwdUlYY0pwUkFFLUFyVDA4NHRCQnNOakJ5cXNna2d0VmpnaHM?oc=5",
+      "publishedAt": "2026-09-17T15:03:23.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "397b3fd92127",
+      "title": "onsemi Introduces the Embedded Power Platform, a Breakthrough Architecture for the AI Era - Taiwan News",
+      "summary": "onsemi Introduces the Embedded Power Platform, a Breakthrough Architecture for the AI Era &nbsp;&nbsp; Taiwan News",
+      "source": "Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9URlU4Wm91M0hiNUFsSm9KMmxwSW9uMWRLVUNpUzVZOUh2d0VsZmZtaUJQVEp0SktQdS1pQ3l6R3ZVQy1qRTZXbTZhSS1xSVdGSnh2Nw?oc=5",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
       ]
     }
   ]
