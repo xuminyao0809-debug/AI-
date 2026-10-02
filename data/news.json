@@ -1,10 +1,197 @@
 {
-  "updatedAt": "2026-10-01T01:16:10.572Z",
+  "updatedAt": "2026-10-02T01:39:37.541Z",
   "items": [
     {
+      "id": "106cf592979c",
+      "title": "Architecture Reimagined: FORMAS.AI + CARTESIAN 3D - Parametric Architecture",
+      "summary": "Architecture Reimagined: FORMAS.AI + CARTESIAN 3D &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmZwaTg2VDhFamNFUndQRW9CX0lFWXpETEtqX0s3bW5QT0paNHBXU1RDWFpDSmRWZ0hyY0RwRDk1clp4UUs2VGNnUk5TTlplWi00M0ppcXdPaGRwTDdsd1FIQXRkWEhoaURqei1YVmVFSDVTYXBvSm04Rkd3WHlTelhiMmNxTzlScXF3?oc=5",
+      "publishedAt": "2026-10-01T18:00:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "5af5a52c9e53",
+      "title": "Architecture Drift: How AI-Generated Code Quietly Rewrites Your System's Design - SitePoint",
+      "summary": "Architecture Drift: How AI-Generated Code Quietly Rewrites Your System's Design &nbsp;&nbsp; SitePoint",
+      "source": "SitePoint",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNU93TWh2S2hwNVJkSDJfT29VVHZrcnRHWTZUc1VVNnNkT3VHbThqN3BaWDFlR1R2TVVNUGFXQVBUWWxPNW1HUk80aEg0cFN4WGd5aHNLSWZrdjdiNWRfaWYtYmtHYzFIeE5Db3dXbVp3SFkzZVBHbWxTQlVfWkFEbzZyUnpKNzAzakl3UkJMWTFEQWhORjZTdUZ4Vl9qeWJyVjlBamlqckY?oc=5",
+      "publishedAt": "2026-10-01T15:00:07.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "e4926af1c452",
+      "title": "Generative AI arrives at architecture’s stoop - Canadian Architect",
+      "summary": "Generative AI arrives at architecture’s stoop &nbsp;&nbsp; Canadian Architect",
+      "source": "Canadian Architect",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWxoY2k2aF9yVmVVTU8zRlYzazJJdU81bnNsV1JWS3pqTFBKMXNJTG5SUXJrakFtamRlZkxfTlM2QVgzeEU5M1l6dnFBWVNJckRUUHpEbmJaWTFsX050VldhTXd0UW5veUU2YjBlcW1VaENMWXVZYTJnQWZSdzk5bQ?oc=5",
+      "publishedAt": "2026-10-01T12:02:09.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "10c452ffd960",
+      "title": "A New Lens on Modern Heritage: ArchDaily Partners with World Monuments Fund",
+      "summary": "What makes a building worth preserving? Age is the most common answer, but not always the best one. A building from the 1950s or 70s may car...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1185940/a-new-lens-on-modern-heritage-archdaily-partners-with-the-world-monuments-fund",
+      "publishedAt": "2026-10-01T08:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "d4393dc92dbd",
+      "title": "The Hidden Challenges of Edge AI Design - Semiconductor Engineering",
+      "summary": "The Hidden Challenges of Edge AI Design &nbsp;&nbsp; Semiconductor Engineering",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oMVdJMW9UTFBhMDlpa283X3FvVWpkTnpURGw5TWNXVjl4YW5hZ0ZmZDBfY1dHMV9Gc3JyNFI2RXRpaWc1dUdFSHRScG9yaEZ6VWxLeGo2SzFPNzVmaVluTjJxUV84aW0wUF9Cb2ZhUXJPeXBGbGtn?oc=5",
+      "publishedAt": "2026-10-01T07:36:44.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1c75c999c635",
+      "title": "Mitte Oblique Garden / RAD+ar (Research Artistic Design + architecture)",
+      "summary": "The Mitte Oblique Garden positions design as a spatial intervention—a project that reclaims the human scale within the hyper-density of Jaka...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186064/mitte-oblique-garden-rad-plus-ar-research-artistic-design-plus-architecture",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "4239690937d7",
+      "title": "Lech Mountain Mirror / Snøhetta",
+      "summary": "In the Lech mountain region in Austria, Snøhetta has designed a landscape installation on the roof of the Zugerbergbahn's mountain station. ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta",
+      "publishedAt": "2026-10-01T06:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "14f20e86ac4b",
+      "title": "Ornamentation in the Age of Algorithms: Can Technology Bring Back Architectural Detail?",
+      "summary": "Architectural ornamentation has been a recurrent subject of debate across the industry for decades. A practice that was largely abandoned du...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1036298/ornamentation-in-the-age-of-algorithms-and-robotics-can-technology-bring-back-architectural-detail",
+      "publishedAt": "2026-10-01T04:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "f696046264ec",
+      "title": "House Around the Corner in Kugahara / some ( ) + Tezzo Nishizawa Architects",
+      "summary": "A house on a corner lot in Ota, Tokyo . The site was subdivided from a family estate, placing the new home at its south-western corner. Agai...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1185996/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "a7f06c3342b3",
+      "title": "New AI Network Maps Retinal Blood Vessels by Ditching a Classic Design Rule - Bioengineer.org",
+      "summary": "New AI Network Maps Retinal Blood Vessels by Ditching a Classic Design Rule &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTk5rbjNDa01XajR1Tk1fdVpsaWRlQkxnUE1FTENjd0ZURmMyb1MzU2RmMW1oNTRBZHVSaC1qdmxEVFh1NHcxYWRwbnpycmhNQ2FqeGpVcm9xbUNIa2ZoNGNuQmxBZ2Q3QXRDakZWZGRYdXVFN3YzNFJqcmhHeF9fYVFXYy0tWUJnb293cnR0X29ucFBNeTAzcFVmWmF5bDhOOWc?oc=5",
+      "publishedAt": "2026-10-01T02:58:05.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "4423b9882e9c",
+      "title": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors - KLGadgetGuy",
+      "summary": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors &nbsp;&nbsp; KLGadgetGuy",
+      "source": "KLGadgetGuy",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fdHVXdDB4dG5TTEtLOUlLcmY2TGNWaWNHbHpZdjR6ekEzWEphNnpxN0hHS2VaV0ItLUdGUDNaRzR2R2tGaW5OenFWOEVKNUZLdW5qN3hVVVBJdDJoZVZXako3SzVtTDNQcFRFUWRVQ1lMZVhDVzVGeWRESVFXbDQ?oc=5",
+      "publishedAt": "2026-10-01T01:50:10.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "b6ab20732e7b",
+      "title": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors - newswav.com",
+      "summary": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors &nbsp;&nbsp; newswav.com",
+      "source": "newswav.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ0tZS2c4ei1LcmFxWG1iZUFpY2pVS1BOQkRNeElYWkR0bk83dlh4VGFkVXJrMG1zazVsbVdZM0FkbTlwSG9BTWNvSmZRejNGbnAzWk5ncjEyRFB5SGlVY1VmZThid0k1dTFOZzRXTmttTGVyX1BJX3NBNnhWZUxBTE5jMTdLMjZ4XzBrVU5LREJjOW0xbHhZZTc1eWhpVE5fLTlYVUM3eGRsdXJvWGo5dFJER0dKWkE?oc=5",
+      "publishedAt": "2026-10-01T01:50:10.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "d49a29bf77fb",
+      "title": "Huawei Pioneers a New Computing Architecture for the AI Era: Making One Million Processors Work as One Computer — Summary of Roundtable Meeting Between Eric Xu and International Media Outlets on September 17 - newswav.com",
+      "summary": "Huawei Pioneers a New Computing Architecture for the AI Era: Making One Million Processors Work as One Computer — Summary of Roundtable Meet...",
+      "source": "newswav.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTJiQ2hmUE52RWJVM2tPcFZ4RW9SbHhZeHBLUi16dVZpblhVZnJqSTJtTklJMVpDVkt6OHVHdnBudFA5bDVEenpEc0lReWFySV80UTNqMEpyZ1BlUnRtUzZHdXFVQkRldW56YkxvUmw5UDQ0bUZyejFmRTctbHZQUzdRcW9jOHFWeFIyQXlBYXdPaHI3R2pfN0o1UDI3QTV5SkRnMi1hRm5MZzlHTmtwSm96WjB2RFU?oc=5",
+      "publishedAt": "2026-10-01T00:00:28.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "517a9c0a75f0",
+      "title": "Lixue Primary School of KeWai Group / temp architects",
+      "summary": "Lixue Primary School of Kewai Group, Longgang District, Shenzhen , is one of the projects in the 2021 program \"Towards a New Campus, Season ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1185955/lixue-primary-school-of-kewai-group-temp-architects",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "8fae8a650907",
-      "title": "AI Data Center Power Design: Architectural and Control Challenges - News and Statistics - IndexBox",
-      "summary": "AI Data Center Power Design: Architectural and Control Challenges - News and Statistics &nbsp;&nbsp; IndexBox",
+      "title": "AI Data Center Power Design Enters a New Phase With Architectural and Control Challenges - IndexBox",
+      "summary": "AI Data Center Power Design Enters a New Phase With Architectural and Control Challenges &nbsp;&nbsp; IndexBox",
       "source": "IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDNWRnc2YzNqNV9OeHplb3l2bmlhLUZ6MlhYV0piZmpuMEJWZFNJZG5xTGNyVmJheXdidGJkaDdRakZuakpQZ2R1YjZLUGUwb0hzaS1adXdHY1hjT2sxTDNoZEQySEU4SjJwektIVUExS1JERTdSaGliNDMza0cyR1lzeDFGdHUzZGktNDk0blZPOWFKbTVtY2J2V3F4U0Fhazh5cUlyVXVzQzVjcU1BczJ0blVDQUw1Ymc?oc=5",
       "publishedAt": "2026-09-30T13:33:08.000Z",
@@ -52,23 +239,10 @@
       ]
     },
     {
-      "id": "1099cfcdb277",
-      "title": "PANE MixC Shenyang Flagship Store / say architects",
-      "summary": "PANE folds the rationality of ancient Greece and the spirit of the East into a pair of everyday shoes, shaping enduring pieces that bridge t...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185881/pane-mixc-shenyang-flagship-store-say-architects",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "a16bf1d9b0d7",
-      "title": "AI coding agents enhance software architecture, security, and development - techgig.com",
-      "summary": "AI coding agents enhance software architecture, security, and development &nbsp;&nbsp; techgig.com",
-      "source": "techgig.com",
+      "title": "AI coding agents enhance software architecture, security, and development - TechGig",
+      "summary": "AI coding agents enhance software architecture, security, and development &nbsp;&nbsp; TechGig",
+      "source": "TechGig",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXE0WkYtdjNqZmhPekRQZGF3bmtobTJwelNhUDd1QmtSZ2RNV3AyR2g1Tk4zYks3YW1JaU5BT29GeHFtZ2dBT1kxQlBZN0szcV9UZ043MjF1ZmtVOElTYnR2aHRlRU15RTRaODI5TFpMcTRMZF9MdFRYYkN1LXVxSmpHZkFuaTdPT0Nua1hKcEdQN0RIdVF3QUxpWV9nRVhBaDhxZ0RzcWMtWFpTTlHSAbMBQVVfeXFMTkl3V2NReDg0aC1jMWRjMFpWUHZ5cUdZLTgxdVhiVGpGdnlqMUtCcE83cEZiNzY4SEw0R29kRXQ4OXo2Q3d3VVNCSTYzRVAweTVUOWVrYS1HUjBLTWk4STQzUy1aYncwRlFuN2paR0liOC1zTnpYbmk5cTRyT2NPZlhtOGtnVUNJTWFnN2IzbEJtaGZxSjZfZWUxUEx4Wl9RbzB5WVpBa1pYZ1VBQ0ZxNzktQWM?oc=5",
       "publishedAt": "2026-09-29T00:53:14.000Z",
       "category": "工具",
@@ -127,20 +301,6 @@
       "source": "news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1V6R3J6STR5Uks2Yk9ZbWNWUTlScW95bGVPODZDNHl5ay1Kek92bFJSck5uUXRnN1lWQndRQl9abEkzaXBBb0RKWExZMkpGWDZKejNjSGphLTM4enFZNHhCOW11MzFCV2lpZllNZW5wR3hVbGdGUVRjMlBqTHJiTVJlQnMzc2tUc203ancwVFF4Q2M?oc=5",
       "publishedAt": "2026-09-28T12:23:23.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e384230b912c",
-      "title": "Software architecture critical for AI development trust, control - techgig.com",
-      "summary": "Software architecture critical for AI development trust, control &nbsp;&nbsp; techgig.com",
-      "source": "techgig.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFF0bWNoUVNMS2thR0JKY1V2X2hUTjA0WjNyRzBCVUoycFVVZ29OOWVFX3dDbVhOcVNkV2Rpc1JqUGpyX3JRRDZaLU5EV2FyNXQ1OXdfLUpNdkx6OXU3ZWtZVlRDdFVJX1VUaUtrZlIxRDNUZ1B1c3prOHNUYnpZNVZXT3NlZUlLZkJkNnhQZ3BfNndFZzNPX1hrT3pKbnVDWEdBcXBBZTcxR01UbDFhSWxiVG1rM3plUUVZ0gHAAUFVX3lxTE5YMmF0UUI3RmlQQl9oc25ieGZlYnFqZUlNSWp0VUZQNnV0YTR2cUJ5Mm93dW9oVEVWekl5SEZCRGlMOFFUZmNnTXFablhEWWhNMk1ELUFQVVB0UEJjVVNIUlJuSmNYVS04NFRPa21VNXRkT05aMTgwY2pVdzdXRExmZzJTZmJ4NU85VnNWdnBzV1p4VjY0TlJFQThtODROQlRURDcyOUw3UENmNjRXNjVHSDFlckV1c0xBeXhxTmxnXw?oc=5",
-      "publishedAt": "2026-09-27T23:35:10.000Z",
       "category": "工具",
       "tags": [
         "ai",
@@ -315,163 +475,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LbzdHek5HYmxDa1FydjdYZ2Z6Tzhia1Q2dDdhYW5oVHpxY3dZQldTNnhrb0tkTDJOSldsSklrdTZDTkRJQTZseE1OUWJ2RXplN3NDcVdGa1F4X216aFhpS2Rxa1dpbDM0QlZlVUtwZk55Ukd5ZU42eQ?oc=5",
       "publishedAt": "2026-09-23T14:00:00.000Z",
       "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "640da8d311fd",
-      "title": "Cargills Bank Partners with Intellect Design Arena for eMACH.ai Core Banking Modernisation - FF News",
-      "summary": "Cargills Bank Partners with Intellect Design Arena for eMACH.ai Core Banking Modernisation &nbsp;&nbsp; FF News",
-      "source": "FF News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUI3bEVFNUJFZHZ1ZldWemM5Y3RMcDMtQVFHSGF6OFE4YzBIN2VZQldLbFh6WGtxSEVJRExYbWtyUFRyT2xDQkxaQVU2ejZjLWFrN1gyeVBlbjByeDhqdzdsMFo5OTJzTC1iXzNiaF9vTnpjbXpPSkxoOUxrZ05Gc1VrR0lpT0M3aWJRZmtNcXhiRGFOaE5IV2ctSDdFSkdadE9mU0c3OUNZclNWRTk1V2p2bw?oc=5",
-      "publishedAt": "2026-09-23T13:44:40.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "fc3776857603",
-      "title": "3 E Network Technology Group Limited Announces High-Capacity Green Energy Architecture for Finland AI Data Center - Quiver Quantitative",
-      "summary": "3 E Network Technology Group Limited Announces High-Capacity Green Energy Architecture for Finland AI Data Center &nbsp;&nbsp; Quiver Quanti...",
-      "source": "Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYjRyd3pxVEJzMWpMNUtDNFByamY2bHdsVlM1M29FQ054MzR5YW84N3pma1JwYlpuY2k0UC1OSHg4QVlPV1diV1FrN3hlVm5DSXpKM0pFY2pBd0NGank1MG1uMVEta0IwcGE5aEZFdmRnVGNvUGEzUzZ0ejNqeVZiOURta0VfSUtqY2RHWDJiVEtURndrLXNTQnlMMktmdEh2RTEwTE1ya0h2TDQzQ1FBN29ZNlFzNXlHTnRDTWtkLUpNSFlJNzBWVUFJNWdhUHJJVWFrRWplV0R0NnFZQ2Y4?oc=5",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "5c60c4c7caf9",
-      "title": "3 E Network Develops Multi-Megawatt Green Energy Architecture for Finnish AI Data Center - stocktitan.net",
-      "summary": "3 E Network Develops Multi-Megawatt Green Energy Architecture for Finnish AI Data Center &nbsp;&nbsp; stocktitan.net",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2ZXVVB5QjY3a0oycHNEQkhLN3lkal82bHVnZ2hmYVhSRVBDXzlHNXRCYkEtNUU2RFZQanpqWEdfQnZvSllQUzN3RklFRmxZcklELXM5V2hpOXRTeGpFRmpFeERfaThXVHVaTVJtc01ZNnhHM2tVeGtaSXRhZnJRcXlyOFp3TmJrbGp5UmE4Q0x4VkVnaUVqemhYTUJLZkQ5TlJBN3hNdEU3R1h0dTllUGcxUUFpcGZSNXk4Tg?oc=5",
-      "publishedAt": "2026-09-22T11:50:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "2d443e4da82b",
-      "title": "MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture - EE Times Asia",
-      "summary": "MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture &nbsp;&nbsp; EE Times Asia",
-      "source": "EE Times Asia",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcURwaUZmOUNla1VUMkFlMEc3OFliNWZaM29qVVZlTDJzTFdrMXNkNV9JUTFBaU5ucFd4Y2YwT3M0WDNpR2w0dHkza2dDdXNZSTVEd2dtU0lybWQzN2FEazhkb0xIcXZHZlBSRkFkZW1URXRqQXNadUlUc3c3ekNna2NzeEh3cE1Sc1BHcHRqM3hkeEY3?oc=5",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e09dc3cd42c9",
-      "title": "Connectivity Moves to the Core of Edge AI System Design - EE Times Asia",
-      "summary": "Connectivity Moves to the Core of Edge AI System Design &nbsp;&nbsp; EE Times Asia",
-      "source": "EE Times Asia",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWhROWtpa0JPTDRuVGVGT0NGa0xzTGI1akZ1dllqNVlibThrQ01RVkJzdUJiUVd3MFljUTJUWHNZMFhsM24wTkEzdXp2bm5oSVhJQ09MUDk5ZkdNRHVSRG9Dc0RBTHRuRGdUenpKeXVYS3NxcU05N2hvT2NaWktucW1qTFFOc2M?oc=5",
-      "publishedAt": "2026-09-20T23:59:17.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "c13baee2c60f",
-      "title": "Nigerian Architect Dodo Advances Sustainable Design Research In Saudi Arabia - Independent Newspaper Nigeria",
-      "summary": "Nigerian Architect Dodo Advances Sustainable Design Research In Saudi Arabia &nbsp;&nbsp; Independent Newspaper Nigeria",
-      "source": "Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0xsbEY0LXBhM1lvWXl3R1hqY2FLUEV0Z2c0Mndxa2hfSGNPVGlfMUNUV0FDWTRWNE9RS0tzczFkYnpRMG10d3VFSmZpVlRyNEZPekFuV0JVdjFta0hSZ2NGckg2d1Q2RGxMMnlUaGprTGFpSlItaDJfRjVBMTREZUVJZk9hVG5yLUJCaGNXaUZkNFg0cEtZaTI5RDEwaktLcFE?oc=5",
-      "publishedAt": "2026-09-19T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "bfc6c2752311",
-      "title": "What Is BISIDI? A prompt-free AI visualisation platform for architecture, design and e-commerce - Fast Company South Africa",
-      "summary": "What Is BISIDI? A prompt-free AI visualisation platform for architecture, design and e-commerce &nbsp;&nbsp; Fast Company South Africa",
-      "source": "Fast Company South Africa",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzRWTUhrY2Q1N3laa051Smk0d1dZSUpSWi1RSFMxekkxN3JCUEw1YmZ0ekFJQWlqVVBpN2plSW5sNzRMejNaSjFQV2M0QmQ1bjd5Vl9wX3V0U1h5VFlKQ2FyeUN4ZG1wdFNEbEpvdjZtVGVxQnlrSmZ0SmZNbWY2dFZVMndaT1hDT2NGUHBUQWFZMS11djBBZDRzaTFKemFIUDNtYXlwaU9Eckk0MmNhaVhTVkx3N1hhMTMxQ1RWR05sVEpNQ2hfNmFweHlxQ0V0dzVSVQ?oc=5",
-      "publishedAt": "2026-09-18T18:17:02.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "8827a79f41df",
-      "title": "Who Controls AI in Architecture? Alex Josephson and Arturo Tedeschi on the Future of Design - Parametric Architecture",
-      "summary": "Who Controls AI in Architecture? Alex Josephson and Arturo Tedeschi on the Future of Design &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VOWJPeWxqaVJsM1ZTZnc2VWhFTkROTzhzUXhVOVdUQTRlSm9Ed3M4Y0x6N2tLUmhKZVBTOWd2ZGRIVUtUUE93dkc5VEZnY0tVRll0Ml9KNmxqbmZJcHJGUTJHaTBvV1g3RG16RmxuN3JDNVJncWJQYkJiT250LWs?oc=5",
-      "publishedAt": "2026-09-18T14:24:52.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "927426592260",
-      "title": "Stuckeman School Hosts AI in Arts & Design Symposium - Mirage News",
-      "summary": "Stuckeman School Hosts AI in Arts & Design Symposium &nbsp;&nbsp; Mirage News",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORG4xNE13U2xUd2t0R2tBRndoU0lHLWVPcm5fNS1KdHZGTkxMSkdpWmV4T2dTaENWYWdmNnJwZDJrcnlFdEg1RlZSRVFxVl9FZWIzTlB0V1dBMjhaalZsNjZLanJmNFVBVkdzS0JsX1dUNW9YQkg5UDZXeVNEa09MdXVB?oc=5",
-      "publishedAt": "2026-09-18T13:43:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "0659d5ab79d1",
-      "title": "AI shrinks chip design cycle to weeks - VentureBeat",
-      "summary": "AI shrinks chip design cycle to weeks &nbsp;&nbsp; VentureBeat",
-      "source": "VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUDM5bHQtNDctbEpIVFVuT0MxSnhjU3dtSFdNdWU3SGNHUjNlNzhYTVBrTFlBYVNLbzJ0MlpqTnAyOVVhU09XZlp0alc2VTBpYVV0aWduXzExRy1EWkIyTVJfYkJXTEdkWmZjQUtaZjd1M1JFU1R5QTlKUThhRlczOUYxdEgyWE0ySkhLem5zem9PTHhtVlc5RDZvbHdsUHpfcVl2ZUNYbHFLNU5Vck4wQ0c4Ym5rQll0OEprS3NnOGxXWHVZUXJsTGx6Q2Fwc3dUNEhGQ2JfWGY3ZFl1Y182U0ZLMEszQQ?oc=5",
-      "publishedAt": "2026-09-18T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "3d1f5e6ec0af",
-      "title": "AI platform targets earlier stages of connected-device design - IOT Insider",
-      "summary": "AI platform targets earlier stages of connected-device design &nbsp;&nbsp; IOT Insider",
-      "source": "IOT Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN201cGZ4R19obzN6UHNLWFQ5cXBRd2JJNW1BMlU5TW50MTRFUGk1Y2hiOWdpOWN6ZmhrV3NaQU51b3JTWkhnbzl4NWZqMGV0djlLZ196c3R3cWZia1lsSTlxOXZBLWRtREhaMzZOMTB4Z1JjaDVueEI0UUQwdUlYY0pwUkFFLUFyVDA4NHRCQnNOakJ5cXNna2d0VmpnaHM?oc=5",
-      "publishedAt": "2026-09-17T15:03:23.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "397b3fd92127",
-      "title": "onsemi Introduces the Embedded Power Platform, a Breakthrough Architecture for the AI Era - Taiwan News",
-      "summary": "onsemi Introduces the Embedded Power Platform, a Breakthrough Architecture for the AI Era &nbsp;&nbsp; Taiwan News",
-      "source": "Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9URlU4Wm91M0hiNUFsSm9KMmxwSW9uMWRLVUNpUzVZOUh2d0VsZmZtaUJQVEp0SktQdS1pQ3l6R3ZVQy1qRTZXbTZhSS1xSVdGSnh2Nw?oc=5",
-      "publishedAt": "2026-09-17T07:00:00.000Z",
-      "category": "工具",
       "tags": [
         "ai",
         "architecture",
