@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-03T01:10:07.037Z",
+  "updatedAt": "2026-10-04T00:35:04.409Z",
   "items": [
+    {
+      "id": "652e63ad5f5a",
+      "title": "Ross Lovegrove on AI, Organic Design, and Why the Future Belongs to the Inquiring Mind - Parametric Architecture",
+      "summary": "Ross Lovegrove on AI, Organic Design, and Why the Future Belongs to the Inquiring Mind &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lNW1SaXF2cUNPSHhFNjR4M3hnMU1ub014TUQtbXB2d1RFYWY4Z09DelJNT0JqanZ2Zm1EaGItd2szZnhEY3Y2d3NMdVdDd0VvUS1YN294VmpteUpWQzlrQUEtME0zSVF6R2JCNDNtdVVjUVg3N1JLdw?oc=5",
+      "publishedAt": "2026-10-03T12:02:02.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "1af1461b9e38",
+      "title": "Under the Drying Nets / Multi-Architecture",
+      "summary": "At the invitation of the Art at Qiaoshan – Art Field Nanhai ， Multi-Architecture designed an installation for the \"Yugengyueyun Section--Fis...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186023/under-the-drying-nets-multi-architecture",
+      "publishedAt": "2026-10-03T02:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "af5f7833033f",
       "title": "CARTESIAN by FORMAS Brings AI Agents Into Editable 3D Design - Parametric Architecture",
@@ -70,9 +98,9 @@
     },
     {
       "id": "e62fc1c0407d",
-      "title": "Trane Technologies adds two 250 MW AI factory cooling designs - refindustry.com",
-      "summary": "Trane Technologies adds two 250 MW AI factory cooling designs &nbsp;&nbsp; refindustry.com",
-      "source": "refindustry.com",
+      "title": "Trane Technologies adds two 250 MW AI factory cooling designs - Refindustry",
+      "summary": "Trane Technologies adds two 250 MW AI factory cooling designs &nbsp;&nbsp; Refindustry",
+      "source": "Refindustry",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmVrRWIyNWZNTlcxUVIyNGZKUEJjcWVJU1lXZnZEQVpJZjZUSUFsbE1iR1c5WnU4SGJ5Z2g4TEtwQ2hNWVc0eDkyMTJ3Ym5Mb2xOenM0MlFTVlZIUDVvMWp6cVU4U3ZDWHlkS3pReGt2RjY1azN6QjhvVlFsWjBhUjRsaWI0NnltN0dfalhaRTRtQzJ4cXc?oc=5",
       "publishedAt": "2026-10-01T22:20:00.000Z",
       "category": "研究",
@@ -81,11 +109,11 @@
       ]
     },
     {
-      "id": "ccc55d175772",
-      "title": "Volantis Raises $88M to Build New AI Inference Architecture - Ventureburn",
-      "summary": "Volantis Raises $88M to Build New AI Inference Architecture &nbsp;&nbsp; Ventureburn",
-      "source": "Ventureburn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wYkFHd2xJWGFjcXBRMlBweXp2YmtISFZSNndpeHRXcnBSdmlxMllBZkVnQ2RwQ1VMSDEzckpoalFwUC0tZzB1a0wzVjV3ejQtcEhSMzZHWDVyeDVZWEVSTnBEMjBKMWdjRjJvM0xKOETSAXBBVV95cUxOcGJBR3dsSVhhY3FwUTJQcHl6dmJrSEhWUjZ3aXh0V3JwUnZpcTJZQWZFZ0NkcENVTEgxM3JKaGpRcFAtLWcwdWtMM1Y1d3o0LXBIUjM2R1g1cng1WVhFUk5wRDIwSjFnY0YybzNMSjhE?oc=5",
+      "id": "fac3525e2767",
+      "title": "Volantis Raises $88M to Build New AI Inference Architecture - ventureburn.com",
+      "summary": "Volantis Raises $88M to Build New AI Inference Architecture &nbsp;&nbsp; ventureburn.com",
+      "source": "ventureburn.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUm9iUVJTSEQzVzBEeGVqZnMwdExjay1LbDJhM0t6bUN3VkFSZWRwd2R5UFBCZURreDBjckJWZjVLb21JTE84NHM5YXpGMmttUDBjR3RnVXM1SnU2U3lqcFNDTWtNQ1dm0gFoQVVfeXFMT2RSb2JRUlNIRDNXMER4ZWpmczB0TGNrLUtsMmEzS3ptQ3dWQVJlZHB3ZHlQUEJlRGt4MGNyQlZmNUtvbUlMTzg0czlhekYya21QMGNHdGdVczVKdTZTeWpwU0NNa01DV2Y?oc=5",
       "publishedAt": "2026-10-01T21:10:54.000Z",
       "category": "研究",
       "tags": [
@@ -137,19 +165,6 @@
       ]
     },
     {
-      "id": "10c452ffd960",
-      "title": "A New Lens on Modern Heritage: ArchDaily Partners with World Monuments Fund",
-      "summary": "What makes a building worth preserving? Age is the most common answer, but not always the best one. A building from the 1950s or 70s may car...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185940/a-new-lens-on-modern-heritage-archdaily-partners-with-the-world-monuments-fund",
-      "publishedAt": "2026-10-01T08:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
       "id": "d4393dc92dbd",
       "title": "The Hidden Challenges of Edge AI Design - Semiconductor Engineering",
       "summary": "The Hidden Challenges of Edge AI Design &nbsp;&nbsp; Semiconductor Engineering",
@@ -189,6 +204,20 @@
       ]
     },
     {
+      "id": "2bf72bffd6b5",
+      "title": "800V Data Center Architecture: Why AI Is Raising the Voltage - QuantumScape",
+      "summary": "800V Data Center Architecture: Why AI Is Raising the Voltage &nbsp;&nbsp; QuantumScape",
+      "source": "QuantumScape",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnk5a1dxRmprci03M1RDWm52OXV2ZExOMlZILU1FT3NuTURueXFPRm16c1BjNmFUbEtSdDZybVk5Vl9aeG42Z1BUQnhYV2dGb3ZRdjBKaUtGS0Z4RzdoQ2VGOG5rU3phQzBLbTlQWXpWRktUc3pQcHA1dWJyWW1GM0pvbEhkWFlrUnlNZjJJT0FaR0pyN3B5RFJuYVR0eVU?oc=5",
+      "publishedAt": "2026-10-01T02:32:53.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "4423b9882e9c",
       "title": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors - KLGadgetGuy",
       "summary": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors &nbsp;&nbsp; KLGadgetGuy",
@@ -204,9 +233,9 @@
     },
     {
       "id": "b6ab20732e7b",
-      "title": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors - Newswav",
-      "summary": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors &nbsp;&nbsp; Newswav",
-      "source": "Newswav",
+      "title": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors - newswav.com",
+      "summary": "Huawei Details Peerium AI Architecture Designed to Link One Million Processors &nbsp;&nbsp; newswav.com",
+      "source": "newswav.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ0tZS2c4ei1LcmFxWG1iZUFpY2pVS1BOQkRNeElYWkR0bk83dlh4VGFkVXJrMG1zazVsbVdZM0FkbTlwSG9BTWNvSmZRejNGbnAzWk5ncjEyRFB5SGlVY1VmZThid0k1dTFOZzRXTmttTGVyX1BJX3NBNnhWZUxBTE5jMTdLMjZ4XzBrVU5LREJjOW0xbHhZZTc1eWhpVE5fLTlYVUM3eGRsdXJvWGo5dFJER0dKWkE?oc=5",
       "publishedAt": "2026-10-01T01:50:10.000Z",
       "category": "研究",
@@ -231,9 +260,9 @@
     },
     {
       "id": "31b8d40dc684",
-      "title": "Using AI to integrate design and finance - Penn Today",
-      "summary": "Using AI to integrate design and finance &nbsp;&nbsp; Penn Today",
-      "source": "Penn Today",
+      "title": "Using AI to integrate design and finance - penntoday.upenn.edu",
+      "summary": "Using AI to integrate design and finance &nbsp;&nbsp; penntoday.upenn.edu",
+      "source": "penntoday.upenn.edu",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbk1jdHFWRVg5ajhNZGMxUXZGRWlkR3M1ejY2Y2tuajFNeFBwRnBxaTlLczgyY0laeGt2UVZGQmJQUEhocl9wMDN0LWpGN203bldhdS1zU3pMUEdzSkh5X0NmYkt0TlptVDdkMTdkNTZwRURROG5Gdkttb1RHVjdyMkJ1MFoxQQ?oc=5",
       "publishedAt": "2026-09-30T12:00:00.000Z",
       "category": "研究",
@@ -243,9 +272,9 @@
     },
     {
       "id": "c60f32c3eca5",
-      "title": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification - eetasia.com",
-      "summary": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification &nbsp;&nbsp; eetasia.com",
-      "source": "eetasia.com",
+      "title": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification - EE Times Asia",
+      "summary": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMm5lZXdrbXhuZUkzdXp5cUNUbEVqVU5SYmRZR01VYlVBaE8tS3lwam9XNEtDaTVKMEVUbEhJQTZPVlpRa3FndkNYWmNKcEx5YTdKNVg5WmRGQWw1SjlsdWZiRTdjbjRVNW4tSjVqWFRSanhQWUs1ZGg0YUtrNjNMa3hhbWozTVp2WnRHLUhhckZjMXFnbTRNc3lMdTVORHREczdWWg?oc=5",
       "publishedAt": "2026-09-30T08:24:06.000Z",
       "category": "研究",
@@ -338,9 +367,9 @@
     },
     {
       "id": "ca6ea79c776c",
-      "title": "Real-Time Data for Real-Time AI: Designing Event-Driven Cloud Architectures for Autonomous Decision - hackernoon.com",
-      "summary": "Real-Time Data for Real-Time AI: Designing Event-Driven Cloud Architectures for Autonomous Decision &nbsp;&nbsp; hackernoon.com",
-      "source": "hackernoon.com",
+      "title": "Real-Time Data for Real-Time AI: Designing Event-Driven Cloud Architectures for Autonomous Decision - HackerNoon",
+      "summary": "Real-Time Data for Real-Time AI: Designing Event-Driven Cloud Architectures for Autonomous Decision &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalpBcmM2bEhpT2JTSlprNWtpOG9xd1YzN2k3TjBGWW0zZUVWdElwX3NMaHN3ZkxNeGxKNTVEdzE4dG5FV21CTWNqVzNKamE3ZmJrd3VsQUJ6a1NkY0JXOEVTRnE0ZGQ2YVF1cFBOQ21wRlAteGlhcFd5enFWdTN4LVFod0wzdFlCbmlSQThlZkcyRzN4NFQ4NGhKUEFHN3BNNGk5WG94R2RTYkh2M1V4VXRPRkdYTzdXdkFiUDZB?oc=5",
       "publishedAt": "2026-09-27T11:48:23.000Z",
       "category": "研究",
@@ -352,9 +381,9 @@
     },
     {
       "id": "4c7b1a3d9aca",
-      "title": "Mark Mistur, dean of Kent State's College of Architecture, talks AI - Akron Beacon Journal",
-      "summary": "Mark Mistur, dean of Kent State's College of Architecture, talks AI &nbsp;&nbsp; Akron Beacon Journal",
-      "source": "Akron Beacon Journal",
+      "title": "Mark Mistur, dean of Kent State's College of Architecture, talks AI - beaconjournal.com",
+      "summary": "Mark Mistur, dean of Kent State's College of Architecture, talks AI &nbsp;&nbsp; beaconjournal.com",
+      "source": "beaconjournal.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDhjMUwwTkx3VVl0MUEwUWkzYnBtY3VaZlJjNE14dzRheVh1bmE3aGYwWC13UzNUVGs3ZUE4Ry03TGpuZWxlcEpGdkFMemRHbjFTZERtam0zcm84cE96NlhtLVNFYWc4RnNiLXhhWTJZdnJ6NHE1TXNxdmREcXBOWGJKMk5hVWJtRUpQbTd1N1FoUUFCemhfX2VEaUljRnFfUUU2NW91X1BEOGk4MnNsWF9LRWZjeUhHNHpNZ1hHSGpra0NLNHdaVWFZeWM5Zw?oc=5",
       "publishedAt": "2026-09-26T07:00:00.000Z",
       "category": "研究",
@@ -388,6 +417,20 @@
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "b391e6822838",
+      "title": "QC Design Unveils Meridian: Purpose-Built AI Architecture System Demonstrates Over 10× Reduction in Logical Error Rates - Quantum Computing Report",
+      "summary": "QC Design Unveils Meridian: Purpose-Built AI Architecture System Demonstrates Over 10× Reduction in Logical Error Rates &nbsp;&nbsp; Quantum...",
+      "source": "Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ3JwZ1U3V1hRcjNEcTNycV9XMm1jWGR6V3N1b1Z1a3RGYnZHTUlPU0pmYjJLZVVrekMtblp3M3IwMDRUMVFqWEc3UUVFTjduOHI1UUMtUHRHckRNRjY4OUdWVk9rTmtUaFFONzhlNUZJbXgwVlVFQ1pLQS15dzQ5VlFmS0xONnhFSmQtNjZMc3dOTzk5TTg5ZGJqY28wVG1jWW56a1JvOGFibVpSWUNaLUNYWkstT1lnMF9SZU5UNDJ2dHFzZzVRcUwtdGtSZFN2T25NNEUtTGJ6NVJLTzdGZ2liS3YyN29Wa3fSAe8BQVVfeXFMUExYZFNzV3ZNdTF0VDliMXR0TFZlblU0aWpHcExUekt3SUFSWkU2WUVIYnJPUllwZ2Q2d202bFViUkNUQWJ0OFVqR2N4QUx6TmNsakptSnRjekpURXd5RjUzSXdiTzZKQ0dzYTlva0tNZ0xZX0hiTHdVaWI4VkxxSU1td1VWYk5MVVZwZWtTa3k1NDRudlVhUklWcGl6aXpZb290eWJlVnY4QzRxRC1zamJ6VG5ZaExDb1FOSEduUUJsdC1mc0ttNlhDTlRYb0lyNzhYaWhjWjV2YTZmNmlLVlJzT1hkemVJNEdLaDlyOGc?oc=5",
+      "publishedAt": "2026-09-25T05:32:23.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -437,48 +480,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "44be99d20e64",
-      "title": "Netherlands and Germany Bet EUR40M on AI Chip Architecture, Not New Factories - Tech Times",
-      "summary": "Netherlands and Germany Bet EUR40M on AI Chip Architecture, Not New Factories &nbsp;&nbsp; Tech Times",
-      "source": "Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU0zYlUtZmJ3TE9Td2kyVUE4aGNOdVBodlNubVIzb2tJbkJEZTdUZ25PSUx6QUFrMktiUnR0eGtsWE1QTExPWEl6UFFhaEVBNV9WbnpIcW5ub0txdzNOU1RKeEhreDE4dkE0SktGMjV2d2ZIOFY4WmNVTzdwWU52NWtFMnlmVFdpSVc2THpPOTkxbzdNMnNpWENkRTM3dnN2azhZdnBaOXVHSE5ZODVkOExLdk1SdG1oTG9ZSmVNbnlHdw?oc=5",
-      "publishedAt": "2026-09-23T21:16:36.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "317d5b8f1f7e",
-      "title": "Cargills Bank Expands Strategic Partnership with Intellect, Upgrades to Composable eMACH.ai Core Banking Architecture to Power the Next Decade of Banking - Colombo Gazette",
-      "summary": "Cargills Bank Expands Strategic Partnership with Intellect, Upgrades to Composable eMACH.ai Core Banking Architecture to Power the Next Deca...",
-      "source": "Colombo Gazette",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZTVxeEhjQmtLeXM4ckUyWHlHWWI2MHNoT0trOGk4WjV4dy1ETjlTSXp6eTJXRkRmdkFGTnRQU2daQ3pNZkRPQlk3Q1hUdWpYeHdlaFBuN0cwaE9pVWdwY0xPaTNPQmpGLU1fdE5GQXRwdTlKTTdnQ3ZnRndoTS1xTjBmVVg3MFNtNzZxVUJqNXJGSjVORl9qYlZtOEJUeTYyNmluSWoyUjRoTkE3aUJId3BQa0w2LV9RVGhDdDJ3TWJ5TUlfVkQ4M2c5empSM3hUN2p0Z3hmMjhTenFEMzRsMnZfTzdsVWdWRjJBb3Rxc3Q5dDR5TUs2TjQ3S3lidWJYVU1ZYzFMZFJWVVV1S3p4bTZob3JvTHQ0MUE?oc=5",
-      "publishedAt": "2026-09-23T14:16:01.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e2601f2d0427",
-      "title": "MicroVision Introduces Advanced Photonics Technology for Next-Generation AI Data Center Scale-Up Architecture - TradingView",
-      "summary": "MicroVision Introduces Advanced Photonics Technology for Next-Generation AI Data Center Scale-Up Architecture &nbsp;&nbsp; TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNWxOU2Z1TjVyNS1lQXozR0hYSFQ5WHBlRGo2dzhPczlqZTctT1gtRE1SQlBlaDhxb20wQ0Z5Um9pbEo4MTRuUnExNUlzUVNabzUyUUFzbndyNTdzZERXcmp6Z3RMX25HcVVHVE96dkZZQ2xkXzRJSE56akoyUXViOENZYVUteVRiSjBqRUxXUEFDOXNob3hLNjZOZmtVdTdReGdOME9BNUFEWmJlUUtPSlRkUEJhZGVqbFE1aVR0TlhhckdfZnNwWFgxc3YxX1RuSHdDWlRzeFVZUThaRUpmNjg3Vlh5TU1SRjdkbGQzQ2tSd08xd05DYVlLUkVTZw?oc=5",
-      "publishedAt": "2026-09-22T13:20:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     }
