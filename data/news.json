@@ -1,14 +1,40 @@
 {
-  "updatedAt": "2026-10-05T00:53:33.261Z",
+  "updatedAt": "2026-10-06T02:16:27.941Z",
   "items": [
     {
-      "id": "5aab7d7c0749",
-      "title": "ABC Apartment / agência campo espacial",
-      "summary": "The project was designed for a young couple in their first apartment, who were looking for a space that could accommodate the daily routine ...",
+      "id": "5c3858224488",
+      "title": "Call for Entries Open | 1st Design + AI Hackathon URP 2026: Transformable Multifunctional Furniture - ArchDaily",
+      "summary": "Call for Entries Open | 1st Design + AI Hackathon URP 2026: Transformable Multifunctional Furniture &nbsp;&nbsp; ArchDaily",
       "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186035/abc-apartment-agencia-campo-espacial",
-      "publishedAt": "2026-10-04T13:00:00.000Z",
-      "category": "案例",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaldPYTFPV0didlVsbnBoQXFtWjJqRkZ4WmhMOFhrVVFuZ3NvMVAxSlhST3ZUUTltQzlUbmtJWEZ6a3BrTElHSUxYa2FJWmFMRktCem9CdjdOVVNBOUo4am1SRUMya1NwaWZRdGlfalVlN2o0cXg5Z09EZ3B2cjU4aXlwUWJYR3dMQ1dSNjZmTDh4d0YyTEROcVZmbUZPc0h3Z2NuOEFoMXVEbVZOTUE3SUN4YlI4WjZhYThxWWNQSTh2VFhWcE55cjI1a3M5UQ?oc=5",
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "514b127358d8",
+      "title": "New AI Architecture Sharpens Breast Tumor Detection Across Four Imaging Modalities - Bioengineer.org",
+      "summary": "New AI Architecture Sharpens Breast Tumor Detection Across Four Imaging Modalities &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUy1UUUdMWTFuQjZHMTFwdEFhcnF1eXpncHRvZDZYNER6NWx5ZFZ5by03OGxWV2h4S1hlc3FqUlN4dnF5QUI1RENINGpheEtuUmRxMF9qWkVKX2FYTU0yaXlJM092UXlDa3duZzI2UlYzSXhVcHA2eG1PWXlZcmZOYXpocHp5NmZQMGprN1VvSTVZZHlheGh3cTNYd29QSzhReFA4T1ZPQkRjOGc?oc=5",
+      "publishedAt": "2026-10-05T15:39:53.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "eb0e99890457",
+      "title": "Call for Entries Open | 1st Design + AI Hackathon URP 2026: Transformable Multifunctional Furniture",
+      "summary": "On Friday, October 9, 2026, Ricardo Palma University will host the 1st URP Design + AI Hackathon 2026, an intensive one-day event where stud...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186350/call-for-entries-open-1st-design-plus-ai-hackathon-urp-2026-transformable-multifunctional-furniture",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "category": "研究",
       "tags": [
         "ai"
       ]
@@ -26,19 +52,6 @@
       ]
     },
     {
-      "id": "62a3c1487b6b",
-      "title": "Van Peborgh Lodge / Claesson Koivisto Rune Architects",
-      "summary": "The brief said to create a contemporary log cabin in the Swedish mountains. A ski lodge for winter, but as well for all other seasons. To be...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185636/van-peborgh-lodge-claesson-koivisto-rune-architects",
-      "publishedAt": "2026-10-04T10:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "bec69c0475ac",
       "title": "Anant Srivastava Says Your Enterprise AI Architecture Was Accumulated, Not Designed - finance.biggo.com",
       "summary": "Anant Srivastava Says Your Enterprise AI Architecture Was Accumulated, Not Designed &nbsp;&nbsp; finance.biggo.com",
@@ -53,19 +66,6 @@
       ]
     },
     {
-      "id": "65550b3e384b",
-      "title": "Yaesu Daibiru Office Building / Nikken Sekkei",
-      "summary": "Project Background and Inheritance of Design Thinking - This project is the redevelopment of a tenant office building facing Yaesu-dori Ave....",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186086/yaesu-daibiru-office-building-nikken-sekkei",
-      "publishedAt": "2026-10-03T21:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
       "id": "652e63ad5f5a",
       "title": "Ross Lovegrove on AI, Organic Design, and Why the Future Belongs to the Inquiring Mind - Parametric Architecture",
       "summary": "Ross Lovegrove on AI, Organic Design, and Why the Future Belongs to the Inquiring Mind &nbsp;&nbsp; Parametric Architecture",
@@ -73,20 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lNW1SaXF2cUNPSHhFNjR4M3hnMU1ub014TUQtbXB2d1RFYWY4Z09DelJNT0JqanZ2Zm1EaGItd2szZnhEY3Y2d3NMdVdDd0VvUS1YN294VmpteUpWQzlrQUEtME0zSVF6R2JCNDNtdVVjUVg3N1JLdw?oc=5",
       "publishedAt": "2026-10-03T12:02:02.000Z",
       "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "1af1461b9e38",
-      "title": "Under the Drying Nets / Multi-Architecture",
-      "summary": "At the invitation of the Art at Qiaoshan – Art Field Nanhai ， Multi-Architecture designed an installation for the \"Yugengyueyun Section--Fis...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186023/under-the-drying-nets-multi-architecture",
-      "publishedAt": "2026-10-03T02:00:00.000Z",
-      "category": "研究",
       "tags": [
         "ai",
         "architecture",
@@ -109,27 +95,14 @@
     },
     {
       "id": "edf20b7051ce",
-      "title": "APOD Studio Lab trains YABATECH students in digital design - guardian.ng",
-      "summary": "APOD Studio Lab trains YABATECH students in digital design &nbsp;&nbsp; guardian.ng",
-      "source": "guardian.ng",
+      "title": "APOD Studio Lab trains YABATECH students in digital design - The Guardian Nigeria News",
+      "summary": "APOD Studio Lab trains YABATECH students in digital design &nbsp;&nbsp; The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXFSNXVjalEzMkZ4ZjlTemxUMEpLM0hTc1c4cmhGMU9NTTYtMk1ZTkl4Mzk0R2V4QTBvRFozZVJHR0pGUGY1ZFhlVWVhS1pjVEVoMDNIa2xRSDJzX1Z4M082cVlFWmI4TVR3SXIxVVN2YnJNNlZRb1BDUFVsb2dLQV84QllQQ3NzbGs3V3FoWVNVdDA?oc=5",
       "publishedAt": "2026-10-02T14:16:00.000Z",
       "category": "案例",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "4b72558bec17",
-      "title": "Cabreira House / ARE ARCHITECTS STUDIO",
-      "summary": "The site was defined by rigorous constraints: a strict regulatory framework of a suburban subdivision with its defined setbacks and property...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186032/cabreira-house-are-architects-studio",
-      "publishedAt": "2026-10-02T13:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect"
       ]
     },
     {
@@ -228,18 +201,6 @@
       ]
     },
     {
-      "id": "a7f06c3342b3",
-      "title": "New AI Network Maps Retinal Blood Vessels by Ditching a Classic Design Rule - Bioengineer.org",
-      "summary": "New AI Network Maps Retinal Blood Vessels by Ditching a Classic Design Rule &nbsp;&nbsp; Bioengineer.org",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTk5rbjNDa01XajR1Tk1fdVpsaWRlQkxnUE1FTENjd0ZURmMyb1MzU2RmMW1oNTRBZHVSaC1qdmxEVFh1NHcxYWRwbnpycmhNQ2FqeGpVcm9xbUNIa2ZoNGNuQmxBZ2Q3QXRDakZWZGRYdXVFN3YzNFJqcmhHeF9fYVFXYy0tWUJnb293cnR0X29ucFBNeTAzcFVmWmF5bDhOOWc?oc=5",
-      "publishedAt": "2026-10-01T02:58:05.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "2bf72bffd6b5",
       "title": "800-volt architecture for data centers: why AI is raising the voltage - QuantumScape",
       "summary": "800-volt architecture for data centers: why AI is raising the voltage &nbsp;&nbsp; QuantumScape",
@@ -282,6 +243,20 @@
       ]
     },
     {
+      "id": "d49a29bf77fb",
+      "title": "Huawei Pioneers a New Computing Architecture for the AI Era: Making One Million Processors Work as One Computer — Summary of Roundtable Meeting Between Eric Xu and International Media Outlets on September 17 - Newswav",
+      "summary": "Huawei Pioneers a New Computing Architecture for the AI Era: Making One Million Processors Work as One Computer — Summary of Roundtable Meet...",
+      "source": "Newswav",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTJiQ2hmUE52RWJVM2tPcFZ4RW9SbHhZeHBLUi16dVZpblhVZnJqSTJtTklJMVpDVkt6OHVHdnBudFA5bDVEenpEc0lReWFySV80UTNqMEpyZ1BlUnRtUzZHdXFVQkRldW56YkxvUmw5UDQ0bUZyejFmRTctbHZQUzdRcW9jOHFWeFIyQXlBYXdPaHI3R2pfN0o1UDI3QTV5SkRnMi1hRm5MZzlHTmtwSm96WjB2RFU?oc=5",
+      "publishedAt": "2026-10-01T00:00:28.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "e4563acf17bc",
       "title": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33% - blog.google",
       "summary": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33% &nbsp;&n...",
@@ -310,14 +285,27 @@
     },
     {
       "id": "31b8d40dc684",
-      "title": "Using AI to integrate design and finance - Penn Today",
-      "summary": "Using AI to integrate design and finance &nbsp;&nbsp; Penn Today",
-      "source": "Penn Today",
+      "title": "Using AI to integrate design and finance - penntoday.upenn.edu",
+      "summary": "Using AI to integrate design and finance &nbsp;&nbsp; penntoday.upenn.edu",
+      "source": "penntoday.upenn.edu",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbk1jdHFWRVg5ajhNZGMxUXZGRWlkR3M1ejY2Y2tuajFNeFBwRnBxaTlLczgyY0laeGt2UVZGQmJQUEhocl9wMDN0LWpGN203bldhdS1zU3pMUEdzSkh5X0NmYkt0TlptVDdkMTdkNTZwRURROG5Gdkttb1RHVjdyMkJ1MFoxQQ?oc=5",
       "publishedAt": "2026-09-30T12:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "c60f32c3eca5",
+      "title": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification - EE Times Asia",
+      "summary": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMm5lZXdrbXhuZUkzdXp5cUNUbEVqVU5SYmRZR01VYlVBaE8tS3lwam9XNEtDaTVKMEVUbEhJQTZPVlpRa3FndkNYWmNKcEx5YTdKNVg5WmRGQWw1SjlsdWZiRTdjbjRVNW4tSjVqWFRSanhQWUs1ZGg0YUtrNjNMa3hhbWozTVp2WnRHLUhhckZjMXFnbTRNc3lMdTVORHREczdWWg?oc=5",
+      "publishedAt": "2026-09-30T08:24:06.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
       ]
     },
     {
@@ -328,18 +316,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVDlXd2QxaUtDU3B5aVFRWUlicDNRX2lwSDk0bzFTeEsxRXFuS0x0Z25qTnlPVjhiVy1aWFdhTFp0SVFPWWJCV0xzWTJzTF9hTWY3Vm9GQmJ6V0wzM1FIeDNMN0lJdjV3MjZWNWZIdDdEaE5qcXRkMlpyVnVPWU9QMGVScTQ2YmxpLV91SjZZYmdWM1k0VGRuMQ?oc=5",
       "publishedAt": "2026-09-30T04:15:39.000Z",
       "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "a0c075ad7077",
-      "title": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond - Tom's Hardware",
-      "summary": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond &nbsp;&nbsp; Tom'...",
-      "source": "Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSE1IOHVhdTJ5MTEyUDNvSUdaNmdZOVJmWDZBalF1RUJpYnFTc1JnMzcyemI4b1dXd0w4dUhrRXdLM1VITkV2dTJUMVozbkRucUhpWC1kYVUwelljcnNaNEE1c2d3RW5fdkl6dGlvVFlmTlJEYmJEaHBiaDNERVAzM29GODZsMWFObE5JOEo5MnNBUllmUVIzclIwWlRTNXRSTlhCdGN0NFZwZDRyZ2c3dmpEU3BzTXFLZTNuXzdVc1NCeVpmNG4teVpVam1GSndiMkV4cmpGdGhfcUVlODJhMVlfUVFKc2pxREU2cThJUlpGQUdFcGZnc1N2cWt2SFltY2U1elkwVQ?oc=5",
-      "publishedAt": "2026-09-29T12:40:00.000Z",
-      "category": "工具",
       "tags": [
         "ai"
       ]
@@ -430,9 +406,9 @@
     },
     {
       "id": "4c7b1a3d9aca",
-      "title": "Mark Mistur, dean of Kent State's College of Architecture, talks AI - Akron Beacon Journal",
-      "summary": "Mark Mistur, dean of Kent State's College of Architecture, talks AI &nbsp;&nbsp; Akron Beacon Journal",
-      "source": "Akron Beacon Journal",
+      "title": "Mark Mistur, dean of Kent State's College of Architecture, talks AI - beaconjournal.com",
+      "summary": "Mark Mistur, dean of Kent State's College of Architecture, talks AI &nbsp;&nbsp; beaconjournal.com",
+      "source": "beaconjournal.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDhjMUwwTkx3VVl0MUEwUWkzYnBtY3VaZlJjNE14dzRheVh1bmE3aGYwWC13UzNUVGs3ZUE4Ry03TGpuZWxlcEpGdkFMemRHbjFTZERtam0zcm84cE96NlhtLVNFYWc4RnNiLXhhWTJZdnJ6NHE1TXNxdmREcXBOWGJKMk5hVWJtRUpQbTd1N1FoUUFCemhfX2VEaUljRnFfUUU2NW91X1BEOGk4MnNsWF9LRWZjeUhHNHpNZ1hHSGpra0NLNHdaVWFZeWM5Zw?oc=5",
       "publishedAt": "2026-09-26T07:00:00.000Z",
       "category": "研究",
@@ -469,12 +445,36 @@
       ]
     },
     {
-      "id": "bd28a838c265",
-      "title": "Architects should put AI to work on the submission set - e-architect",
-      "summary": "Architects should put AI to work on the submission set &nbsp;&nbsp; e-architect",
-      "source": "e-architect",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmRiZmswQkV3UGlMXzc4U19UYWhmbFdNNk5OOWZ0QWV6M1NQVjNkTWVJN2NjT2VzWVBiRUJmT0RKTXd3bEwxd01qZFZoWFBFRk1NRG5iWmtMN0UxYTVWU0gxQ0JXcjBDa1RhYjluUWpFZnFtcFlCM0tJNnJDUy1yNGRnelpDM1pjblV0TlFoZDMwUnBuNVE?oc=5",
-      "publishedAt": "2026-09-24T23:06:13.000Z",
+      "id": "5e06a8b0ed4e",
+      "title": "ProcessMind Unites Process Design and Intelligence for the AI Era - AiThority",
+      "summary": "ProcessMind Unites Process Design and Intelligence for the AI Era &nbsp;&nbsp; AiThority",
+      "source": "AiThority",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTVrMEg2dmxRNWcwMnBBZmZpOG5vdzNJa05rbkNHazQ4TjV6bThXUlNDWDJRSzh3X00yRUd2Vk5lSDB4TTNkVTNEbUZ2cnZUVFh1LTRmZ1ZqNE9vQVpyRzYyR0lpVy1PcWp5YXJEVktHWUVKT2hlaWlqMVJOZW5SdlJCdlM1MFpldklaWkUyaGxfMkFNZU90OGlIZVJFZ2s0dVplNGFPN2Y2Zw?oc=5",
+      "publishedAt": "2026-09-24T11:47:40.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "009a53ee77a0",
+      "title": "QC Design’s Meridian Outperforms Published Methods and General-Purpose AI in Quantum Computer Design - Business Wire",
+      "summary": "QC Design’s Meridian Outperforms Published Methods and General-Purpose AI in Quantum Computer Design &nbsp;&nbsp; Business Wire",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVFY0aDRkWWZqTDM0NS1ibjA1ZEpXN2ZSMnNId1B6TjhjbEo4Z3FIc1VrbjJwNXhESDg0OTItcXZ2NUtGdGVKZGhRRjhoa3h1NGRuNXc2VXNUMlpBTjlIdHE0eVAwMlNvVEZhWVk2R01YcVgwSk5DNDJQdkdKVkZKZE9FRDZxUjBYSVVkS0dVaDdDOXRkZzR1RnNuVHEzZGN2a1M1SE9RQ2Vla1RCd1N1cmI0aFFGRHlxNGtTV29CN1FhNFBpNmFFZ05qQmxjU2N1N3g3ZkJiVlFWd2lnUHBaQV9FM0Y0Z3FQR0hzVw?oc=5",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "943f93a35c3a",
+      "title": "Australian architects urge government to reform national AI policy - buildaustralia.com.au",
+      "summary": "Australian architects urge government to reform national AI policy &nbsp;&nbsp; buildaustralia.com.au",
+      "source": "buildaustralia.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkJlcjA0ZzUycVVWYUxBR0RUN2V0dmFzTzR1cnpRblNHaTE3VnpNQkJhYzR5YnBGaUl0Skl3MGkwMzF0bWc3ZjdSU3QxY21nd0tueVdxZ2c5MW5MaTg2dkNYZngyeTBxZDA5M3Y0MFVxTld3TGUyOWNJenpRdlpaLTdJQk5FNTgzWTFmeExzbDYxYzc0S1hfMFdDdHZ4aWl1V2o1YWJwMmZmSERkS3pOa0VUb2M?oc=5",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
