@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-10T01:44:36.007Z",
+  "updatedAt": "2026-10-11T00:58:46.560Z",
   "items": [
+    {
+      "id": "6d195bb6802c",
+      "title": "AI Learns to Design Parks by Thinking in Graphs, Not Pixels - Bioengineer.org",
+      "summary": "AI Learns to Design Parks by Thinking in Graphs, Not Pixels &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHV4dE1IOWl2VGlCVldkTUtoVlB4NnFjUTlHajl3ZE05NGZnVWNjV2NVUDcyLU1tVUN1ZWdmV0Y2ODhJb25QaUZ4RjctU19qQUNwWXZzd0RvWnEzM1lfS1JtZFE4dkZNWTh4NGM4U1pNVGJRNjRySXFZNUNEWEVaaWM3UHFTVW00WnBv?oc=5",
+      "publishedAt": "2026-10-10T15:37:04.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "a5731d012a9a",
+      "title": "Generative Design vs. Generative AI: Clarifying the New Workflow Landscape - Parametric Architecture",
+      "summary": "Generative Design vs. Generative AI: Clarifying the New Workflow Landscape &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XMEZ1V0JWS2JVamd2UDA1UlRMY2xuM0pFM1pteHZqYkl1dWV1Nkd5XzIzd19OV3Y0dEVIcWhFOS1ObTBPOHEtUWhzX1p3Z05tVlR5bUQ2OEdQQnkydEZwblUyUW5JTmY3bklZM3dYX2dCN1Atdzd0bHpRQQ?oc=5",
+      "publishedAt": "2026-10-10T10:03:35.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "46f08eb22f67",
       "title": "No. 1 on TOP500 and HPCG: LineShine Supercomputer Introduces a New Architecture for HPC-AI Converged Scientific Computing | Newswise - Newswise",
@@ -162,18 +189,6 @@
       ]
     },
     {
-      "id": "24b83696c00b",
-      "title": "Design Week Mexico 2026: A Dialogue Between Identity, Craftsmanship, and the Future of Design in Latin America",
-      "summary": "Through October 11, 2026, Mexico City once again becomes a global epicenter of innovation and creative excellence with the opening of Design...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186536/design-week-mexico-2026-a-dialogue-between-identity-craftsmanship-and-the-future-of-design-in-latin-america",
-      "publishedAt": "2026-10-08T05:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "bfcf182012d4",
       "title": "New AI Architecture Tames Extreme Data Imbalance in Multi-Task Recommendation - Bioengineer.org",
       "summary": "New AI Architecture Tames Extreme Data Imbalance in Multi-Task Recommendation &nbsp;&nbsp; Bioengineer.org",
@@ -219,7 +234,7 @@
       "summary": "New AI Architecture Sharpens Breast Tumor Detection Across Four Imaging Modalities &nbsp;&nbsp; Bioengineer.org",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUy1UUUdMWTFuQjZHMTFwdEFhcnF1eXpncHRvZDZYNER6NWx5ZFZ5by03OGxWV2h4S1hlc3FqUlN4dnF5QUI1RENINGpheEtuUmRxMF9qWkVKX2FYTU0yaXlJM092UXlDa3duZzI2UlYzSXhVcHA2eG1PWXlZcmZOYXpocHp5NmZQMGprN1VvSTVZZHlheGh3cTNYd29QSzhReFA4T1ZPQkRjOGc?oc=5",
-      "publishedAt": "2026-10-05T15:39:53.000Z",
+      "publishedAt": "2026-10-05T15:18:05.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -260,20 +275,6 @@
       "source": "Parametric Architecture",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lNW1SaXF2cUNPSHhFNjR4M3hnMU1ub014TUQtbXB2d1RFYWY4Z09DelJNT0JqanZ2Zm1EaGItd2szZnhEY3Y2d3NMdVdDd0VvUS1YN294VmpteUpWQzlrQUEtME0zSVF6R2JCNDNtdVVjUVg3N1JLdw?oc=5",
       "publishedAt": "2026-10-03T12:02:02.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "af5f7833033f",
-      "title": "CARTESIAN by FORMAS Brings AI Agents Into Editable 3D Design - Parametric Architecture",
-      "summary": "CARTESIAN by FORMAS Brings AI Agents Into Editable 3D Design &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54X0l4dUpYcEVpZFRYR1pjYWhVYTllOXRFR2ZUMGE2Nk1vZV9ZS2xNdUZtWWt6OGcwSWNiLS1jTHZ2Z2dBUUR1dURlMk5qU3RKQUdwQmduRUdrOEc1Z0V4YXd6WmFteFNlSkx5Z2ZkbmJLUQ?oc=5",
-      "publishedAt": "2026-10-02T16:35:34.000Z",
       "category": "生成式设计",
       "tags": [
         "ai",
@@ -407,7 +408,7 @@
       "summary": "Using AI to integrate design and finance &nbsp;&nbsp; Penn Today",
       "source": "Penn Today",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbk1jdHFWRVg5ajhNZGMxUXZGRWlkR3M1ejY2Y2tuajFNeFBwRnBxaTlLczgyY0laeGt2UVZGQmJQUEhocl9wMDN0LWpGN203bldhdS1zU3pMUEdzSkh5X0NmYkt0TlptVDdkMTdkNTZwRURROG5Gdkttb1RHVjdyMkJ1MFoxQQ?oc=5",
-      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -420,18 +421,6 @@
       "source": "Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa29ybkh0TE1EQm9NNlNPVGlCZjczWGU2Q0JtSUNUNTRsaUNwVEdPRzN6TUxzVnJBVzhwZ3RxTUIzMXh3LUp0RXBlYmVQODJtR1cyLWlJTktwUkxlbXhwa3JtMDJjQmJCRXg4V3lvamwyYnQ3VWh4WFlrWUlhYm1QUVMyajdqc2JTQ3NSYTFzdVpfOS1KdklxSmx3ZWgwVkRYVVBhYmhUbm5jeVFncjgyZWNtUVYxSi1UeWtjcWFFb2Z2NTNPcTc4YjdPR1hGUTZETnc0ZnctUU5IQlhPdFJUZGpLT1JGYS1SbFZMaldCSQ?oc=5",
       "publishedAt": "2026-09-30T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "09a14ca47741",
-      "title": "AI reshapes chip design from optimization to autonomous creation - news.lavx.hu",
-      "summary": "AI reshapes chip design from optimization to autonomous creation &nbsp;&nbsp; news.lavx.hu",
-      "source": "news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVDlXd2QxaUtDU3B5aVFRWUlicDNRX2lwSDk0bzFTeEsxRXFuS0x0Z25qTnlPVjhiVy1aWFdhTFp0SVFPWWJCV0xzWTJzTF9hTWY3Vm9GQmJ6V0wzM1FIeDNMN0lJdjV3MjZWNWZIdDdEaE5qcXRkMlpyVnVPWU9QMGVScTQ2YmxpLV91SjZZYmdWM1k0VGRuMQ?oc=5",
-      "publishedAt": "2026-09-30T04:15:39.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -468,6 +457,20 @@
       "source": "news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1V6R3J6STR5Uks2Yk9ZbWNWUTlScW95bGVPODZDNHl5ay1Kek92bFJSck5uUXRnN1lWQndRQl9abEkzaXBBb0RKWExZMkpGWDZKejNjSGphLTM4enFZNHhCOW11MzFCV2lpZllNZW5wR3hVbGdGUVRjMlBqTHJiTVJlQnMzc2tUc203ancwVFF4Q2M?oc=5",
       "publishedAt": "2026-09-28T12:23:23.000Z",
+      "category": "工具",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "53282680a0b3",
+      "title": "Trane Technologies Expands System Architecture with Two New AI Factory Reference Designs Based on NVIDIA DSX AI Factory Platform - Business Wire",
+      "summary": "Trane Technologies Expands System Architecture with Two New AI Factory Reference Designs Based on NVIDIA DSX AI Factory Platform &nbsp;&nbsp...",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNXzh4c2pRVUNfMjlLTzV0WFJ1T0ZBQjBKaDB0Q0pFblk0UGRnRlNsRHBYYTBhTzljVU9yRWJGVHNlbkdqczZGR1NYMHUtS3lEeHVQZTBvdDZRcy1TN3BmajY2Z01ZRHc4NmN4RzdONVBCWVVLTkVSVkxOZVY1RUMzM2RaU3VKYW1XQVBvYmV4UzRGQVBqdXE5QWdkeGFRTXVTeGE4VFk1bndXY0xIM2RVZDRwRUpZTnRGZUNGSS12NWxIT1pjb3FJS05oM3BBRzA0ZF9XOWtqc3hHU0NVYjFuYmJiSmpGY2tXOGFqNzU3OWhPalRteHJqbXVPTDUxY1lJeGs1aVROd1NUYlZpc2VRRzVlOA?oc=5",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
       "category": "工具",
       "tags": [
         "ai",
