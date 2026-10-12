@@ -1,16 +1,93 @@
 {
-  "updatedAt": "2026-10-11T00:58:46.560Z",
+  "updatedAt": "2026-10-12T01:18:24.635Z",
   "items": [
     {
-      "id": "6d195bb6802c",
-      "title": "AI Learns to Design Parks by Thinking in Graphs, Not Pixels - Bioengineer.org",
-      "summary": "AI Learns to Design Parks by Thinking in Graphs, Not Pixels &nbsp;&nbsp; Bioengineer.org",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHV4dE1IOWl2VGlCVldkTUtoVlB4NnFjUTlHajl3ZE05NGZnVWNjV2NVUDcyLU1tVUN1ZWdmV0Y2ODhJb25QaUZ4RjctU19qQUNwWXZzd0RvWnEzM1lfS1JtZFE4dkZNWTh4NGM4U1pNVGJRNjRySXFZNUNEWEVaaWM3UHFTVW00WnBv?oc=5",
-      "publishedAt": "2026-10-10T15:37:04.000Z",
+      "id": "0d2beb9b62c3",
+      "title": "Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum",
+      "summary": "Master AI Chip Principles With New IEEE Design Program &nbsp;&nbsp; IEEE Spectrum",
+      "source": "IEEE Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVHZxZXZONXNjaFJnUU9pdW13Vlk2WEEtdXdKMHVlYTJXcGRZUzBMbFlfaklCN2toZzdDZ2FPZDZhMjUwWGlQMXhPOFNCcFJfaGlrYUpqRzQ3V0lndnhHSnFzRmxtNU0?oc=5",
+      "publishedAt": "2026-10-11T20:44:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "f82a4efda33e",
+      "title": "The System Around the Model: Agentic AI Lessons From Anthropic’s Claude Certified Architect Exam - Medium",
+      "summary": "The System Around the Model: Agentic AI Lessons From Anthropic’s Claude Certified Architect Exam &nbsp;&nbsp; Medium",
+      "source": "Medium",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalZzOUlyVklCTV9rMDFTWnZ3SlhONGN2dUVOMXFhZlpEVHhfVnNrRGJ1NjdGZDJnWDk5OXF6RElmZTdoNjc1YVdVUlh6YnpXck9GSXdhM08yY0cwTXNFVnBPV1I0UXVIWVh6UmxLdUNDdjJTMEE3X0lmdUJMQmRScDl5TEtVaC1FS09ScGRDNmIyZThWZVhaSHAtSGJzcVJxSnNnZjczc0VOeFhZTjhpajZnNlZVdEdMaEFUSFhJTHYxanJiUU0xQ2dramxtdnZ6RHVvSmNn?oc=5",
+      "publishedAt": "2026-10-11T19:31:01.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "160c83c884c4",
+      "title": "Designing Default-Deny Egress Controls and Inline Policy Inspection for AI Agents - HackerNoon",
+      "summary": "Designing Default-Deny Egress Controls and Inline Policy Inspection for AI Agents &nbsp;&nbsp; HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWFVY19pSTVEY2gzd1JwVWhXQzZZUFZPT29CT2lPU21rdWtQd0czaWc5RU9pTzBIZVNqVm11WEJxVHprcGN1cThkV3BjZFB1OWhBZHhabGFpRi0weWwwLXJVTDZTTlo5T3I0ay0yLVN2ZVdfeU5fRm9fWWZ5RU15eEk0M2xwUTlUM1htMmI2SDBkZWhvNV9sZGowNTkxdE96emxlcFR3WQ?oc=5",
+      "publishedAt": "2026-10-11T15:04:52.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "242fd9a38d5c",
+      "title": "Adam Back Criticizes Ethereum Design as AI Raises New Crypto Security Concerns - Hokanews",
+      "summary": "Adam Back Criticizes Ethereum Design as AI Raises New Crypto Security Concerns &nbsp;&nbsp; Hokanews",
+      "source": "Hokanews",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcVVvQVBfQVlQOEdZd08tUmhzQ296SUZCUVNoVU94UTN5VmQyUXhTelF6YVpxdFdQOGxPcXVsdnF0OGxRUzdycGJ4cFAzZ0ZtcFpOb2tmWlFHTkhrNm8waFlvNFloNnlaQXhBUnkyWHlWeURyMDQyeG1JeG4yal8xQVRiSQ?oc=5",
+      "publishedAt": "2026-10-11T12:19:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "e0b2a2037887",
+      "title": "RESONANCE - Tallinn Architecture Biennale Installation / Aru Ma- Architects",
+      "summary": "Set against Tallinn's rapidly commercializing urban backdrop, the installation offers a sheltered courtyard detached from its surroundings, ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186616/resonance-tallinn-architecture-biennale-installation-aru-ma-architects",
+      "publishedAt": "2026-10-11T02:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "3c916005e344",
+      "title": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms - Pandaily",
+      "summary": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms &nbsp;&nbsp; Pandaily",
+      "source": "Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3hYUWQtSWZ5ejNfWlk3bEVFMUhoNDJLTDBNRU1JRGxzZEhQa0owby1NRGZLd2llcmx6bGlPSmMxYjBPVWdYVkhFR2sxVVNqY1VvVmsyZXhpQlFNNWxIT3F0cDJpNnQzSV9aYS1mREtVT3h2UGFoamtqN3l2QUNMa0UtS241QzU3R0JtZUE5VFdHUGFFVnc?oc=5",
+      "publishedAt": "2026-10-11T01:52:02.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "b883d7304369",
+      "title": "Mahachai Residence / Patara Architects",
+      "summary": "Mahachai Residence occupies a riverside plot on the Tha Chin River, on land once occupied by the owner's boat-repair warehouse. Rather than ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186228/mahachai-residence-patara-architects",
+      "publishedAt": "2026-10-10T21:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
       ]
     },
     {
@@ -69,20 +146,6 @@
       ]
     },
     {
-      "id": "ec7d7525641c",
-      "title": "Flat Land, Hidden Water: Architecture on Reclaimed Ground",
-      "summary": "Reclaimed land is often presented as new ground: flat , available, and ready for architecture. It promises cities more space where space is ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186463/flat-land-hidden-water-architecture-on-reclaimed-ground",
-      "publishedAt": "2026-10-09T04:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "1223e008a33e",
       "title": "Arista Networks unleashes ESUN-based rack-scale architecture targeting AI infra - SDxCentral",
       "summary": "Arista Networks unleashes ESUN-based rack-scale architecture targeting AI infra &nbsp;&nbsp; SDxCentral",
@@ -111,12 +174,12 @@
       ]
     },
     {
-      "id": "226043c6fad8",
+      "id": "5f3a98dfab0d",
       "title": "Architectural design market has grown tenfold as the profession prepares for AI and climate risks - The Romania Journal",
       "summary": "Architectural design market has grown tenfold as the profession prepares for AI and climate risks &nbsp;&nbsp; The Romania Journal",
       "source": "The Romania Journal",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUtIVzh5NDNMSk5LVmdBMXN5N0lVVmRmbmhFVnVfYldGZWFSYWVGTUNrQnFPTUdSV1AyQ0pEV0tRUDE1YUVHRjlHSW50d0VtaC1TRTNWYWtveGd3N3pHa2h4aWhYZmVmUUZvREktY1hRelNrVXYxVmhjdVNQQk4wUEJlMUVtdm55UENpZDV2Y2tSRm16dERoaXFCTERqenNrTXhQb2ZfMDg3MFJtbEY2M0ZkZHA2U2Ryb3FQWFRxbjVzRUtxblZTbm4taU1wd2I5M0pJUzNR0gHWAUFVX3lxTE1lS0hXOHk0M0xKTktWZ0Exc3k3SVVWZGZuaEVWdV9iV0ZlYVJhZUZNQ2tCcU9NR1JXUDJDSkRXS1FQMTVhRUdGOUdJbnR3RW1oLVNFM1Zha294Z3c3ekdraHhpaFhmZWZRRm9ESS1jWFF6U2tVdjFWaGN1U1BCTjBQQmUxRW12bnlQQ2lkNXZja1JGbXp0RGhpcUJMRGp6c2tNeFBvZl8wODcwUm1sRjYzRmRkcDZTZHJvcVBYVHFuNXNFS3FuVlNubi1pTXB3YjkzSklTM1E?oc=5",
-      "publishedAt": "2026-10-08T16:18:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjZOTGxjTzVvRTVuZE5tMm1pYkU5VnNtVG5ON3Nsd29PYUpGNEg3RE1KdUxrRThEanJObVFjWFJqcWZrRl9TWXZGT3NzcWdxbHJMUFNVMk94LUszSFYxTV9hSnZESHNlek9abnVTUVplb3hDVU93U2Utc2pFaVFBeHRGSVdjTG5BT3pzUjBzRDFnRFg1cjRwVTVBTldneC1PMXliN0FfVTJwSU1neXgtcFVlZGw0RE9FY0RpdENzWjBuYjJCN0dfdkN2aFV0Nm1v0gHWAUFVX3lxTE1lS0hXOHk0M0xKTktWZ0Exc3k3SVVWZGZuaEVWdV9iV0ZlYVJhZUZNQ2tCcU9NR1JXUDJDSkRXS1FQMTVhRUdGOUdJbnR3RW1oLVNFM1Zha294Z3c3ekdraHhpaFhmZWZRRm9ESS1jWFF6U2tVdjFWaGN1U1BCTjBQQmUxRW12bnlQQ2lkNXZja1JGbXp0RGhpcUJMRGp6c2tNeFBvZl8wODcwUm1sRjYzRmRkcDZTZHJvcVBYVHFuNXNFS3FuVlNubi1pTXB3YjkzSklTM1E?oc=5",
+      "publishedAt": "2026-10-08T16:14:41.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -163,18 +226,6 @@
       ]
     },
     {
-      "id": "0d2beb9b62c3",
-      "title": "Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum",
-      "summary": "Master AI Chip Principles With New IEEE Design Program &nbsp;&nbsp; IEEE Spectrum",
-      "source": "IEEE Spectrum",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVHZxZXZONXNjaFJnUU9pdW13Vlk2WEEtdXdKMHVlYTJXcGRZUzBMbFlfaklCN2toZzdDZ2FPZDZhMjUwWGlQMXhPOFNCcFJfaGlrYUpqRzQ3V0lndnhHSnFzRmxtNU0?oc=5",
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "1984b452b39a",
       "title": "Law as Architecture in the Age of AI? - www.iconnectblog.com",
       "summary": "Law as Architecture in the Age of AI? &nbsp;&nbsp; www.iconnectblog.com",
@@ -203,17 +254,15 @@
       ]
     },
     {
-      "id": "fa640b23dfd7",
-      "title": "QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale - infoq.com",
-      "summary": "QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale &nbsp;&nbsp; infoq.com",
-      "source": "infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nOXZjR2NfWjh0N2dXUUMwMy1kaFBaRXFHNGY5aE5DaExIZWNuT2wyd1lOUlBoQXpqcDV4ZzlvNzBaakVDWnhhSnRBRnpuYWxIMkdPRXgtX0o4ckFxdnd5eENyYVZ4cWFI?oc=5",
-      "publishedAt": "2026-10-06T10:03:41.000Z",
+      "id": "c162aa7b4f02",
+      "title": "AMD launches 'Ross' agentic AI assistant to speed up embedded design, development - electronics.economictimes.indiatimes.com",
+      "summary": "AMD launches 'Ross' agentic AI assistant to speed up embedded design, development &nbsp;&nbsp; electronics.economictimes.indiatimes.com",
+      "source": "electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeHV6ZUhDbFdnaWQxX1FERE54VUNlMWZOWkVsWGlMR0RkdU9sLTVkVklHYVR4TXAtMGtJMXhJckJyWi1rTFZOd1c1bng3VnJMS0o0MTF5LU96ZXVVV2phd3BlYjhwNDViZmtZRzBBXy1VMkJXS3ExUFVpQWp0dDZPQmlCbDFUR1JtMTZjcWNPd0l5MlV2dmFRcE9raThOTDFZS2l5WDN1OS0tSzhWNk9fcGttZDJuelhObTU2Uml3V2hOY2VadWNOQlhmdDBiTHJ2WnM2RkVJZlktTTBQQXluYnRQRDlWYm44bjJR0gHwAUFVX3lxTE1NMXFJOG14SE5ZZTZkUTB6WWtKamVQZ3NqbWtNN1VJTkdfZjExVzRGWHJVeEZXWWljWl9zSDAzcW9hN2kwakNPSnZXRXk1bHVhdnMwNmdXanRQQTNZcUIyYnFkSnFCYTBJa3kzSkNaT1dBZzhGVWxaU05kQzViRy11UHpNWVVkYTl3UEczWkpSSVlocFhxYjFGTURsRFg4WXhFaGM2aGxySjJVUm1OckQyZXhJMEg1amp5ajA0Y1dWdW03NU1yUXh1VTF3TGw4eVgwZjBEVkE1cFhiRnViNzlKZDNIMWZlNVh4ZklwV0dpZw?oc=5",
+      "publishedAt": "2026-10-06T05:53:23.000Z",
       "category": "研究",
       "tags": [
-        "ai",
-        "architecture",
-        "architect"
+        "ai"
       ]
     },
     {
@@ -226,20 +275,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "514b127358d8",
-      "title": "New AI Architecture Sharpens Breast Tumor Detection Across Four Imaging Modalities - Bioengineer.org",
-      "summary": "New AI Architecture Sharpens Breast Tumor Detection Across Four Imaging Modalities &nbsp;&nbsp; Bioengineer.org",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUy1UUUdMWTFuQjZHMTFwdEFhcnF1eXpncHRvZDZYNER6NWx5ZFZ5by03OGxWV2h4S1hlc3FqUlN4dnF5QUI1RENINGpheEtuUmRxMF9qWkVKX2FYTU0yaXlJM092UXlDa3duZzI2UlYzSXhVcHA2eG1PWXlZcmZOYXpocHp5NmZQMGprN1VvSTVZZHlheGh3cTNYd29QSzhReFA4T1ZPQkRjOGc?oc=5",
-      "publishedAt": "2026-10-05T15:18:05.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -283,6 +318,20 @@
       ]
     },
     {
+      "id": "af5f7833033f",
+      "title": "CARTESIAN by FORMAS Brings AI Agents Into Editable 3D Design - Parametric Architecture",
+      "summary": "CARTESIAN by FORMAS Brings AI Agents Into Editable 3D Design &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54X0l4dUpYcEVpZFRYR1pjYWhVYTllOXRFR2ZUMGE2Nk1vZV9ZS2xNdUZtWWt6OGcwSWNiLS1jTHZ2Z2dBUUR1dURlMk5qU3RKQUdwQmduRUdrOEc1Z0V4YXd6WmFteFNlSkx5Z2ZkbmJLUQ?oc=5",
+      "publishedAt": "2026-10-02T16:35:34.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "edf20b7051ce",
       "title": "APOD Studio Lab trains YABATECH students in digital design - The Guardian Nigeria News",
       "summary": "APOD Studio Lab trains YABATECH students in digital design &nbsp;&nbsp; The Guardian Nigeria News",
@@ -304,20 +353,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "106cf592979c",
-      "title": "Architecture Reimagined: FORMAS.AI + CARTESIAN 3D - Parametric Architecture",
-      "summary": "Architecture Reimagined: FORMAS.AI + CARTESIAN 3D &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmZwaTg2VDhFamNFUndQRW9CX0lFWXpETEtqX0s3bW5QT0paNHBXU1RDWFpDSmRWZ0hyY0RwRDk1clp4UUs2VGNnUk5TTlplWi00M0ppcXdPaGRwTDdsd1FIQXRkWEhoaURqei1YVmVFSDVTYXBvSm04Rkd3WHlTelhiMmNxTzlScXF3?oc=5",
-      "publishedAt": "2026-10-01T18:00:00.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -354,10 +389,24 @@
       "summary": "The Hidden Challenges of Edge AI Design &nbsp;&nbsp; Semiconductor Engineering",
       "source": "Semiconductor Engineering",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oMVdJMW9UTFBhMDlpa283X3FvVWpkTnpURGw5TWNXVjl4YW5hZ0ZmZDBfY1dHMV9Gc3JyNFI2RXRpaWc1dUdFSHRScG9yaEZ6VWxLeGo2SzFPNzVmaVluTjJxUV84aW0wUF9Cb2ZhUXJPeXBGbGtn?oc=5",
-      "publishedAt": "2026-10-01T07:36:44.000Z",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "106cf592979c",
+      "title": "Architecture Reimagined: FORMAS.AI + CARTESIAN 3D - Parametric Architecture",
+      "summary": "Architecture Reimagined: FORMAS.AI + CARTESIAN 3D &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmZwaTg2VDhFamNFUndQRW9CX0lFWXpETEtqX0s3bW5QT0paNHBXU1RDWFpDSmRWZ0hyY0RwRDk1clp4UUs2VGNnUk5TTlplWi00M0ppcXdPaGRwTDdsd1FIQXRkWEhoaURqei1YVmVFSDVTYXBvSm04Rkd3WHlTelhiMmNxTzlScXF3?oc=5",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -424,58 +473,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "2bebd25f921e",
-      "title": "Astribot Brings T1 to North America, Showcasing a Physical AI Stack Built on Design for AI - The Tennessean",
-      "summary": "Astribot Brings T1 to North America, Showcasing a Physical AI Stack Built on Design for AI &nbsp;&nbsp; The Tennessean",
-      "source": "The Tennessean",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY1I2OE94TU9yeXhIM2FyaHV6TkpGZU0zYzNHMzAwVk1OTGd0dUdQd0ZMa0txbjVKUFRGcHpreW1Pb2JCaThnc29UX3VFNnhPSGI4UjhUbF9OM2hMRWcySTUwRzhjUEM4TmFKWDVuSE9ZdzRUMEtDYnZIYlZJa0s5ak10RkJrcDNFdWNLWm1JS21sV0ViNjhUWWtWblcxUEVRSDQteWZpZFRsMkNBUmx5NFJBSm95a1dwRXRhNi1mM055dC00dXR6UnJTc1k4VEdXZTdFclRIMEJ3bmM0?oc=5",
-      "publishedAt": "2026-09-29T14:57:54.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "a0c075ad7077",
-      "title": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond - Tom's Hardware",
-      "summary": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond &nbsp;&nbsp; Tom'...",
-      "source": "Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSE1IOHVhdTJ5MTEyUDNvSUdaNmdZOVJmWDZBalF1RUJpYnFTc1JnMzcyemI4b1dXd0w4dUhrRXdLM1VITkV2dTJUMVozbkRucUhpWC1kYVUwelljcnNaNEE1c2d3RW5fdkl6dGlvVFlmTlJEYmJEaHBiaDNERVAzM29GODZsMWFObE5JOEo5MnNBUllmUVIzclIwWlRTNXRSTlhCdGN0NFZwZDRyZ2c3dmpEU3BzTXFLZTNuXzdVc1NCeVpmNG4teVpVam1GSndiMkV4cmpGdGhfcUVlODJhMVlfUVFKc2pxREU2cThJUlpGQUdFcGZnc1N2cWt2SFltY2U1elkwVQ?oc=5",
-      "publishedAt": "2026-09-29T07:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "365426f9fee3",
-      "title": "Five ways AI coding agents can improve software architecture - news.lavx.hu",
-      "summary": "Five ways AI coding agents can improve software architecture &nbsp;&nbsp; news.lavx.hu",
-      "source": "news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1V6R3J6STR5Uks2Yk9ZbWNWUTlScW95bGVPODZDNHl5ay1Kek92bFJSck5uUXRnN1lWQndRQl9abEkzaXBBb0RKWExZMkpGWDZKejNjSGphLTM4enFZNHhCOW11MzFCV2lpZllNZW5wR3hVbGdGUVRjMlBqTHJiTVJlQnMzc2tUc203ancwVFF4Q2M?oc=5",
-      "publishedAt": "2026-09-28T12:23:23.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "53282680a0b3",
-      "title": "Trane Technologies Expands System Architecture with Two New AI Factory Reference Designs Based on NVIDIA DSX AI Factory Platform - Business Wire",
-      "summary": "Trane Technologies Expands System Architecture with Two New AI Factory Reference Designs Based on NVIDIA DSX AI Factory Platform &nbsp;&nbsp...",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNXzh4c2pRVUNfMjlLTzV0WFJ1T0ZBQjBKaDB0Q0pFblk0UGRnRlNsRHBYYTBhTzljVU9yRWJGVHNlbkdqczZGR1NYMHUtS3lEeHVQZTBvdDZRcy1TN3BmajY2Z01ZRHc4NmN4RzdONVBCWVVLTkVSVkxOZVY1RUMzM2RaU3VKYW1XQVBvYmV4UzRGQVBqdXE5QWdkeGFRTXVTeGE4VFk1bndXY0xIM2RVZDRwRUpZTnRGZUNGSS12NWxIT1pjb3FJS05oM3BBRzA0ZF9XOWtqc3hHU0NVYjFuYmJiSmpGY2tXOGFqNzU3OWhPalRteHJqbXVPTDUxY1lJeGs1aVROd1NUYlZpc2VRRzVlOA?oc=5",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     }
   ]
