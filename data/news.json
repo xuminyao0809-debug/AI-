@@ -1,18 +1,135 @@
 {
-  "updatedAt": "2026-10-15T00:30:06.796Z",
+  "updatedAt": "2026-10-16T00:21:36.698Z",
   "items": [
     {
-      "id": "825133f3cf77",
-      "title": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fastest On Earth” - Wccftech",
-      "summary": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fa...",
-      "source": "Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcXVTeGNzZDRld0lVbDJmZmNfbElXaTVEb2g2S2w0enBiYm8zWUQ3UEJVakpZNXN2QWpqLWhHV2g4RkJvd1N3R0lEWFUwckVGQ2lDamFHSHQ4bmV1NzNldUdFQ2d0cDNISTFFNTlpcF9lbGtGS0tMMkVvLVVVYmJQdFh1cTI3elJ2N1JXS3FOQlFoeno2bWFERmxwTHFuc2NHUVdyM2xaRS1YQ053eWRfWnBlZFR6OWsxS1BXYnlSMVN2ekppejlPbTRIN3dmaEpfS0F1eFppeHl4WjJ4MC12bW5KUG81Slk2d19fVHpCUy1qc1pDS1VSdldvc01fVV83aENBMFhmb9IBhwJBVV95cUxQcXVTeGNzZDRld0lVbDJmZmNfbElXaTVEb2g2S2w0enBiYm8zWUQ3UEJVakpZNXN2QWpqLWhHV2g4RkJvd1N3R0lEWFUwckVGQ2lDamFHSHQ4bmV1NzNldUdFQ2d0cDNISTFFNTlpcF9lbGtGS0tMMkVvLVVVYmJQdFh1cTI3elJ2N1JXS3FOQlFoeno2bWFERmxwTHFuc2NHUVdyM2xaRS1YQ053eWRfWnBlZFR6OWsxS1BXYnlSMVN2ekppejlPbTRIN3dmaEpfS0F1eFppeHl4WjJ4MC12bW5KUG81Slk2d19fVHpCUy1qc1pDS1VSdldvc01fVV83aENBMFhmbw?oc=5",
-      "publishedAt": "2026-10-14T22:05:00.000Z",
+      "id": "56dd0430aa6d",
+      "title": "Data centre security: ASIO's 2026 warning for AI facilities - Architecture & Design",
+      "summary": "Data centre security: ASIO's 2026 warning for AI facilities &nbsp;&nbsp; Architecture & Design",
+      "source": "Architecture & Design",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck9TWnV4eGZ4MGFkZGFJc2ZIRHhYdG5US1FHbDV2SzV4U3ZBTnR1bnZGUXFhcEpvWnUtakdNc1h3MzJwakVhZC0tVTR3VFdIbXozZFNTaGlfb2N5WWlDbnpNTEp1OGtFZTFmSzJkVFhiXzBieHJ5VUtBajlJbUlQRm5uLTZhTnRqaVNwRVRBRzdqWDk1Y01ZZnhXZXBQcGFFSTc0ZU9rUzRYY0ZySEFnWGtIbw?oc=5",
+      "publishedAt": "2026-10-15T23:51:37.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architecture",
         "architect"
+      ]
+    },
+    {
+      "id": "9bcf6d2efa43",
+      "title": "Ibitipoca House / Gávea Arquitetos",
+      "summary": "The Ibitipoca House is born from the logic of reuse. Faced with an old ruined building in the Serra do Ibitipoca, in Minas Gerais, the proje...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186971/ibitipoca-house-gavea-arquitetos",
+      "publishedAt": "2026-10-15T17:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "078d8cf2de77",
+      "title": "AI Ready Plan Drafting: Blueprints AI Turns a Sketch Into Permit-Ready Building Plans… - Trend Hunter",
+      "summary": "AI Ready Plan Drafting: Blueprints AI Turns a Sketch Into Permit-Ready Building Plans… &nbsp;&nbsp; Trend Hunter",
+      "source": "Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MHVCbWpBZ04yajZ6eW9STzdvRWJORjBpWlV5WlJBZGRybHhMLVJQVmNTMlJfenJGcVU1ZVpvakQ5LTBJalBITXhMVncycmZsNTFGNUJJWm1GQ29xeUhSaldPcnhZaTli?oc=5",
+      "publishedAt": "2026-10-15T15:53:07.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "5c2be8153d7e",
+      "title": "Why Hyperscalers Design Their Own AI Chips - Kings Research",
+      "summary": "Why Hyperscalers Design Their Own AI Chips &nbsp;&nbsp; Kings Research",
+      "source": "Kings Research",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwdWJKckxwZngxUmFRRk9LbXlEcVFMUEtNZGdaWDJSSFNjdXRiV1ZvS1dOejBWYWlGWlVOcGQtT1dlU3BRaUdkUEduZzVpVS1LMFpDMzZnTy1ST3lWd0l1U0VaQjNiX1ZuSU1jUWQ5TWpjX0d1Y0htbFhB?oc=5",
+      "publishedAt": "2026-10-15T14:25:03.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "d8660e69b2bd",
+      "title": "Artificial intelligence now turns a sketch into a 3D model of a building (VIDEO) ᐉ News from Fakti.bg - Properties - Fakti.bg",
+      "summary": "Artificial intelligence now turns a sketch into a 3D model of a building (VIDEO) ᐉ News from Fakti.bg - Properties &nbsp;&nbsp; Fakti.bg",
+      "source": "Fakti.bg",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalRoZmJOZWUwY0U4alNyMVhucTFhM29pbmZ2amxlb3hvdVg4STZ4UHlrZlMxWFJLdkNMZzFTZnFoVXpDbVhieHNwWHJRbTFINGtqX2gyZnR5V0g2ZVpRSm5sWG9uY3VhS3JsUmdjaUtNT2V6c1NKOG1QdDY1YnExSjJpaGhkVDh6VTNlRXBuSWhVeFF4dWYzZVdMakFkYTlOclZGNzV6SExvSWpCdlJWdm9FR0F1WTg?oc=5",
+      "publishedAt": "2026-10-15T13:51:00.000Z",
+      "category": "案例",
+      "tags": [
+        "artificial intelligence",
+        "building"
+      ]
+    },
+    {
+      "id": "86e52be900af",
+      "title": "Catching Fog: How Architecture Collects Water from the Air",
+      "summary": "Where rivers, reservoirs, and rainfall can no longer be relied upon consistently, water is increasingly being sought in the atmosphere. Fog,...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186242/catching-fog-how-architecture-collects-water-from-the-air",
+      "publishedAt": "2026-10-15T07:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "dcef52dce7ac",
+      "title": "La Maison en bord de mer / Terres terres",
+      "summary": "The project involves the renovation of a 1970s detached house located in a residential neighborhood close to the sea. The design draws inspi...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186572/la-maison-en-bord-de-mer",
+      "publishedAt": "2026-10-15T06:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "a1a0690a43b1",
+      "title": "Architecture Between Land and Water: Design Lessons from the Bayou",
+      "summary": "A bayou is a slow-moving body of water, typically a creek or river that winds through low, flat terrain in a broader wetland landscape. Foun...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186701/architecture-between-land-and-water-design-lessons-from-the-bayou",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "10af55b7aadf",
+      "title": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fastest On Earth” - Wccftech",
+      "summary": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fa...",
+      "source": "Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU0kyNWlVVUpMcjJoQmpHRUtiSE43M3J2YllZNHJpaFEzWWVzNkpfbXNqQjh1N1M1alFXdHJXTVZsbkppYUZlenFBNXlPYmhoNGpTbENFU1hIRVN0UWV2ZG5XcTFCN2k0SVRBTDVmdVZDNk9pcVVROW1ySE80QVNpY2dydFYxQ1lQRjhrR05IWmhWS251TzZQUW5tQk1XWDlyaTN6WVVVOTB4ZzNzZkpuSDdsUzNaRXBZdjlfWkxtSmRBanpscVJIdVIyT05PQWktUUJONS1xcGdtYUZkaEkzOG9xcTFGWjZjZ0Rlbl9uZHdyX1lJd0tkVXdEdjJoMTQ1cWfSAYcCQVVfeXFMUHF1U3hjc2Q0ZXdJVWwyZmZjX2xJV2k1RG9oNktsNHpwYmJvM1lEN1BCVWpKWTVzdkFqai1oR1doOEZCb3dTd0dJRFhVMHJFRkNpQ2phR0h0OG5ldTczZXVHRUNndHAzSEkxRTU5aXBfZWxrRktLTDJFby1VVWJiUHRYdXEyN3pSdjdSV0txTkJRaHp6Nm1hREZscExxbnNjR1FXcjNsWkUtWENOd3lkX1pwZWRUejlrMUtQV2J5UjFTdnpKaXo5T200SDd3ZmhKX0tBdXhaaXh5eFoyeDAtdm1uSlBvNUpZNndfX1R6QlMtanNaQ0tVUnZXb3NNX1VfN2hDQTBYZm8?oc=5",
+      "publishedAt": "2026-10-14T22:05:41.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "74127845f67f",
+      "title": "Swamp Ushers in the Second AI Frontier with Behavior-Centric Design - FinancialContent",
+      "summary": "Swamp Ushers in the Second AI Frontier with Behavior-Centric Design &nbsp;&nbsp; FinancialContent",
+      "source": "FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzI0N0Z0NGRLS2ZObDY0ZWVfbzgtRXVuY1htZnFBeEJuUVAzTGRIcUtuWjBmZkstSjhaX1RrUTVsWlZDam5SdVFUUm9SYW11V0hxRkMtUXFCTjh1aDNTbl9DOUNtdlJQQ25QTzdqRXlocndxYjJLY2xTYjlBTjBrb294MWY3MkVGYkJfQmNWZW8wZUlpYWtDZGt6UEl5VlQwV2t1ci1aWVhTWHRncHRaMFdVM25BNWpQek9CSW16UDlsQmc2ZUE?oc=5",
+      "publishedAt": "2026-10-14T20:32:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -56,21 +173,6 @@
       ]
     },
     {
-      "id": "e8a640835352",
-      "title": "Beyond the Box: What Shipping Container Architecture Gets Right and Where It Falls Short",
-      "summary": "Using shipping containers as the basis for a structure—also known as \"cargotecture\"—seems like a simple approach to building. Perhaps decept...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185946/beyond-the-box-what-shipping-container-architecture-gets-right-and-where-it-falls-short",
-      "publishedAt": "2026-10-14T05:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
       "id": "9ce323cef089",
       "title": "LG Electronics, GS E&C to Jointly Develop Immersion Cooling Standard Design for AI Data Centers - BigGo Finance",
       "summary": "LG Electronics, GS E&C to Jointly Develop Immersion Cooling Standard Design for AI Data Centers &nbsp;&nbsp; BigGo Finance",
@@ -111,29 +213,16 @@
       ]
     },
     {
-      "id": "4c355ae4ed28",
-      "title": "Main House / messina | rivas",
-      "summary": "The design of the Main House is located in the valleys of the Serra do Mar near Pedra da Macela, a tourist spot in the region of Cunha , whe...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1034259/house-sede-messina-rivas",
-      "publishedAt": "2026-10-13T17:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "068d9cd61369",
-      "title": "Coral House / Sidney Quintela Architecture + Urban Planning",
-      "summary": "Located on Praia do Forte , on the northern coast of Bahia, Casa Coral is a project designed by architect Sidney Quintela that accurately tr...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning",
-      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "id": "ae995427f1d6",
+      "title": "AI service Blueprints AI promises to create building blueprints ready for approval in minutes - NEWS.am TECH",
+      "summary": "AI service Blueprints AI promises to create building blueprints ready for approval in minutes &nbsp;&nbsp; NEWS.am TECH",
+      "source": "NEWS.am TECH",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uTUV3ZzJMS3VBTUl5MGVMNW9Kblc5bU1FQUMzZUo4di1Qakc4R0NCUF9wczd2dF91cTBMX3dTbUx3cW5qZzZubg?oc=5",
+      "publishedAt": "2026-10-13T16:50:00.000Z",
       "category": "案例",
       "tags": [
         "ai",
-        "architecture",
-        "architect"
+        "building"
       ]
     },
     {
@@ -157,6 +246,20 @@
       "source": "Engineering.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2xGRWdocXNWeHR4MFpiZjVRNXZYWVJpM09DNzlhU2EtOFcya0xEbDhGSnRYSkt5cFNrMU95M0xWM1lmckhRZXktTmZzSFZpZ1g5YUpRMklrdnM4a3ZiYXNxOE5FM2FST3dGTW1rQnBMTHRjVzMyVFdidFRmYTNvYS0taG9udjJ0SjNJ?oc=5",
       "publishedAt": "2026-10-13T07:39:12.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "4d3231b3ed8a",
+      "title": "Why AI-Native Workflows Could Change the Architecture & Design Technology Stack - TheTechPanda",
+      "summary": "Why AI-Native Workflows Could Change the Architecture & Design Technology Stack &nbsp;&nbsp; TheTechPanda",
+      "source": "TheTechPanda",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0tYcDVmYTRPVlhzdjNYanJQN1lvUS1SLUQxbW0tY1ZCWTRZOEtyVlppY25xSUlFU3ZJZk9ZX2ZtN2UxTTg1NGxlY1dzS3doaHBvenZxdUFkMFVpOWdJTEZOSXlURVlETHdaY01wTy11UW8tYXNWVllvOGVMZENxd0xKMHBkeGl2RnNPeVRmYUhEY290ZF92QW54ckZwQ0NGYWNUMFVhRTlpLU1ickE?oc=5",
+      "publishedAt": "2026-10-13T06:02:53.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -209,6 +312,20 @@
       "source": "NVIDIA Blog",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHRtZFJkSHY5UmNqNElRSWs1Uk4tNTFMb09nWHl5Y0haeU1DcVVTYU1zdldja3lfY2hiTnZsNGJxek1OZzMtaDhMLWtyRUpqZHZtbzNvb19HYm1wbVVlcmR3cC1Qbk12VjU0U3V5cHduTW9ZQ1M1WlZaQzVNYnltLW5SYUQ?oc=5",
       "publishedAt": "2026-10-12T15:14:23.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "5da756fdd952",
+      "title": "Deep dive into Azure Maia 300 architecture - Microsoft Azure",
+      "summary": "Deep dive into Azure Maia 300 architecture &nbsp;&nbsp; Microsoft Azure",
+      "source": "Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUlZ6RzdwazdNcW5ieTRZZ2RERjI5S21PQXFCR1NZUk1OSHVvdDdLQ3NWeWo4YzNDUnB3RWtvNHdteUpkanppZUszMDZ1QVNJbjVGTGhpQm9lMFFqcmVLSURqUjFBZl95djAybHN2MGpUVU8yazY0ZGhTNkItRFZ4WVpqSGpwUzhDNkE?oc=5",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -353,122 +470,6 @@
       "source": "Parametric Architecture",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rLUVhRzJjaXNxTGlyMDhWUEYwZjIwaEh6blpQbkcxX01NeEY5ay1nTkhpY3VYNXlTcTk4OHR4LVVXT3NVb0IzWXRfeGFTMTFQV1UySHlfanVNa0J0RWFOcjIybHpaVUtLc0t3dUFLSU5qY2FjVWc?oc=5",
       "publishedAt": "2026-10-08T07:34:00.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "ea63162d0e5a",
-      "title": "Graphisoft unveils 2026 product portfolio, led by Archicad and AI-enabled design intelligence - Nemetschek",
-      "summary": "Graphisoft unveils 2026 product portfolio, led by Archicad and AI-enabled design intelligence &nbsp;&nbsp; Nemetschek",
-      "source": "Nemetschek",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF91VG04a1BxX3REY1JCay10TWZGQnVXNFJpdFlSalVMZmduNGdVZEdkUS1xZXdPNmtMRHNBOVFacFc3THBqRkJkVVFuOHV1N1poN0xTcjdMT1I0b2o0QUxqRnI0aTBZTEtLYjlUR01OcllHNzRSUzJMdzRSTXZXNmdQVzNBVmVhN2t1ZEtqX1NmSlJCYTR1Z3B5amIzOHQySnJwb1pZdEVWUUhtZHpBMFpSamZSNXBQ?oc=5",
-      "publishedAt": "2026-10-08T07:03:26.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "e20b394134d3",
-      "title": "Open-source tool designs LEGO builds with more than 2,000 real pieces — their programs output detailed CAD files, but no models have been built yet - Tom's Hardware",
-      "summary": "Open-source tool designs LEGO builds with more than 2,000 real pieces — their programs output detailed CAD files, but no models have been bu...",
-      "source": "Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOZUhfVW9SZm1GeGI2WDFfRjZ5cFhNaVRGTGc4NldoWk1KRmR0S3oyY0Q2Y2VlLUFRdThlejFnOEplb1ZXazVXa0Q3WS1uWkxza1Z6TUtVM04xNkt2S1hyUW0xQWs3bHpMVVhpWlU2Y29DZjRBR1JNMGNhdFhQTXBiOC1OekJ3cTFYdm8zYzVvd294X1Z2QUFfSm1TQ2RKdFd6V20wbEdORGIzZUVHeEt0UDNzQ0Z4ZUx3NDhkSjNmcmxuejNUR0FTSzNPUEN6VXc0UHJESk5PaDM5U0VpSkJhNVhkX2gyNlFVNTlvNngwMWhpaDdtZk9FdG1IYnVyX0VKSk5xdTJxQ0NFclFJVlNOTktOaTJXQy16NkY0Y3lsNjJTaU40TE9OZjNQc1IxV3Ewc0VfN3Rn?oc=5",
-      "publishedAt": "2026-10-04T07:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "bec69c0475ac",
-      "title": "Anant Srivastava Says Your Enterprise AI Architecture Was Accumulated, Not Designed - BigGo Finance",
-      "summary": "Anant Srivastava Says Your Enterprise AI Architecture Was Accumulated, Not Designed &nbsp;&nbsp; BigGo Finance",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzXzlDQnE5MnZXLXh2UmVGWUxrSVpUeVhmLXVNNTRfMWF3R3VCTjJmNW1QXzdrVnZUVm9zdElrTVNvTFhwbTlBQ252c3NNT1ZyUnJVXzV2OGROUXM?oc=5",
-      "publishedAt": "2026-10-04T02:08:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "652e63ad5f5a",
-      "title": "Ross Lovegrove on AI, Organic Design, and Why the Future Belongs to the Inquiring Mind - Parametric Architecture",
-      "summary": "Ross Lovegrove on AI, Organic Design, and Why the Future Belongs to the Inquiring Mind &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lNW1SaXF2cUNPSHhFNjR4M3hnMU1ub014TUQtbXB2d1RFYWY4Z09DelJNT0JqanZ2Zm1EaGItd2szZnhEY3Y2d3NMdVdDd0VvUS1YN294VmpteUpWQzlrQUEtME0zSVF6R2JCNDNtdVVjUVg3N1JLdw?oc=5",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "edf20b7051ce",
-      "title": "APOD Studio Lab trains YABATECH students in digital design - The Guardian Nigeria News",
-      "summary": "APOD Studio Lab trains YABATECH students in digital design &nbsp;&nbsp; The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXFSNXVjalEzMkZ4ZjlTemxUMEpLM0hTc1c4cmhGMU9NTTYtMk1ZTkl4Mzk0R2V4QTBvRFozZVJHR0pGUGY1ZFhlVWVhS1pjVEVoMDNIa2xRSDJzX1Z4M082cVlFWmI4TVR3SXIxVVN2YnJNNlZRb1BDUFVsb2dLQV84QllQQ3NzbGs3V3FoWVNVdDA?oc=5",
-      "publishedAt": "2026-10-02T14:16:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "e62fc1c0407d",
-      "title": "Trane Technologies adds two 250 MW AI factory cooling designs - Refindustry",
-      "summary": "Trane Technologies adds two 250 MW AI factory cooling designs &nbsp;&nbsp; Refindustry",
-      "source": "Refindustry",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmVrRWIyNWZNTlcxUVIyNGZKUEJjcWVJU1lXZnZEQVpJZjZUSUFsbE1iR1c5WnU4SGJ5Z2g4TEtwQ2hNWVc0eDkyMTJ3Ym5Mb2xOenM0MlFTVlZIUDVvMWp6cVU4U3ZDWHlkS3pReGt2RjY1azN6QjhvVlFsWjBhUjRsaWI0NnltN0dfalhaRTRtQzJ4cXc?oc=5",
-      "publishedAt": "2026-10-01T22:20:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "5af5a52c9e53",
-      "title": "Architecture Drift: How AI-Generated Code Quietly Rewrites Your System's Design - SitePoint",
-      "summary": "Architecture Drift: How AI-Generated Code Quietly Rewrites Your System's Design &nbsp;&nbsp; SitePoint",
-      "source": "SitePoint",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNU93TWh2S2hwNVJkSDJfT29VVHZrcnRHWTZUc1VVNnNkT3VHbThqN3BaWDFlR1R2TVVNUGFXQVBUWWxPNW1HUk80aEg0cFN4WGd5aHNLSWZrdjdiNWRfaWYtYmtHYzFIeE5Db3dXbVp3SFkzZVBHbWxTQlVfWkFEbzZyUnpKNzAzakl3UkJMWTFEQWhORjZTdUZ4Vl9qeWJyVjlBamlqckY?oc=5",
-      "publishedAt": "2026-10-01T15:00:07.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "d4393dc92dbd",
-      "title": "The Hidden Challenges of Edge AI Design - Semiconductor Engineering",
-      "summary": "The Hidden Challenges of Edge AI Design &nbsp;&nbsp; Semiconductor Engineering",
-      "source": "Semiconductor Engineering",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oMVdJMW9UTFBhMDlpa283X3FvVWpkTnpURGw5TWNXVjl4YW5hZ0ZmZDBfY1dHMV9Gc3JyNFI2RXRpaWc1dUdFSHRScG9yaEZ6VWxLeGo2SzFPNzVmaVluTjJxUV84aW0wUF9Cb2ZhUXJPeXBGbGtn?oc=5",
-      "publishedAt": "2026-10-01T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "106cf592979c",
-      "title": "Architecture Reimagined: FORMAS.AI + CARTESIAN 3D - Parametric Architecture",
-      "summary": "Architecture Reimagined: FORMAS.AI + CARTESIAN 3D &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmZwaTg2VDhFamNFUndQRW9CX0lFWXpETEtqX0s3bW5QT0paNHBXU1RDWFpDSmRWZ0hyY0RwRDk1clp4UUs2VGNnUk5TTlplWi00M0ppcXdPaGRwTDdsd1FIQXRkWEhoaURqei1YVmVFSDVTYXBvSm04Rkd3WHlTelhiMmNxTzlScXF3?oc=5",
-      "publishedAt": "2026-10-01T07:00:00.000Z",
       "category": "生成式设计",
       "tags": [
         "ai",
