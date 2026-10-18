@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-17T00:26:03.019Z",
+  "updatedAt": "2026-10-18T00:00:16.295Z",
   "items": [
+    {
+      "id": "252a9421dbd9",
+      "title": "Major American architect uses AI to solve a unique problem at APEC Phu Quoc. - Vietnam.vn",
+      "summary": "Major American architect uses AI to solve a unique problem at APEC Phu Quoc. &nbsp;&nbsp; Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDkzSzFZdlpxZFJZd00zdkxXbEFjN3F3VDhvbVZqeUt3VXU5eWtDNVcxSFRkYVZBS0tTLXRJOHhISzE5NjJXTWZwYUVqdkZ0b0VjeklvZzlVYTN3aTNQSW1zUE1FUEVPbWI1TVNTbVFIXzlUU2VwUUw3QVBmcnh1T1VyN29jdGplZFhidjdqcEVvMjNxU0hDbmRFcw?oc=5",
+      "publishedAt": "2026-10-17T07:39:13.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "981260e8efa0",
       "title": "Two Multi-Family Housing Units / Aplomb",
@@ -68,20 +81,6 @@
       ]
     },
     {
-      "id": "89c24b43d476",
-      "title": "Renovation of the Core Area of TAFA Art Block / Mix Architecture",
-      "summary": "To the west of the Tianjin Academy of Fine Arts lies a century-old urban fabric. With the completion of the Tianjin Eye, the Haihe River's c...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "56dd0430aa6d",
       "title": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on urgent notice - Architecture & Design",
       "summary": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on urgent notice &nbsp;&nbsp; Architecture & Design",
@@ -93,19 +92,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "9bcf6d2efa43",
-      "title": "Ibitipoca House / Gávea Arquitetos",
-      "summary": "The Ibitipoca House is born from the logic of reuse. Faced with an old ruined building in the Serra do Ibitipoca, in Minas Gerais, the proje...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186971/ibitipoca-house-gavea-arquitetos",
-      "publishedAt": "2026-10-15T17:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
       ]
     },
     {
@@ -267,20 +253,6 @@
       ]
     },
     {
-      "id": "03b7b414e824",
-      "title": "Astera Labs unveils modular Orion AI rack architecture - Engineering.com",
-      "summary": "Astera Labs unveils modular Orion AI rack architecture &nbsp;&nbsp; Engineering.com",
-      "source": "Engineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2xGRWdocXNWeHR4MFpiZjVRNXZYWVJpM09DNzlhU2EtOFcya0xEbDhGSnRYSkt5cFNrMU95M0xWM1lmckhRZXktTmZzSFZpZ1g5YUpRMklrdnM4a3ZiYXNxOE5FM2FST3dGTW1rQnBMTHRjVzMyVFdidFRmYTNvYS0taG9udjJ0SjNJ?oc=5",
-      "publishedAt": "2026-10-13T07:39:12.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "4d3231b3ed8a",
       "title": "Why AI-Native Workflows Could Change the Architecture & Design Technology Stack - TheTechPanda",
       "summary": "Why AI-Native Workflows Could Change the Architecture & Design Technology Stack &nbsp;&nbsp; TheTechPanda",
@@ -306,30 +278,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "b38e532da3f7",
-      "title": "AMD Helion aims to reshape data center design for agentic AI - digitimes",
-      "summary": "AMD Helion aims to reshape data center design for agentic AI &nbsp;&nbsp; digitimes",
-      "source": "digitimes",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0N1QTl0WHRJeDh6NjhweTRsbHd0YUV0Y2pBSS0wYnVfcWxQdDdhbDFOVFN3QnZDQUNWZFpHelFGNER4OXNsZ1d4N1ZISDQyWUZnNEhmekxVSVhuY1RsV3dvUmpHQS02dlRTV1cydzJxRUhGaUEwNnFqSWhJOVZqUWgweUdJQVl5b2JHSHFkSmNRQW8?oc=5",
-      "publishedAt": "2026-10-13T01:55:28.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "25ff97644b88",
-      "title": "Designing AI Data Center Fabrics with PCIe 6.0 High-Radix Switches - www.embedded.com",
-      "summary": "Designing AI Data Center Fabrics with PCIe 6.0 High-Radix Switches &nbsp;&nbsp; www.embedded.com",
-      "source": "www.embedded.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdUg5T1ZQeG5yUzRvZDdTb2pqUkxaa2lsYXdHNFRqMTdkSjBWeDVvZ1Y5RWhhdHpsVFg5UmdDQWZQWGtMQ1hIOWZ6cnNfdnJpemJVSmxfSmlRMm41WDFHNEdaVDhnZmFLa0YwRmluZU5EMTRJSk5ldWp5c1NndTExVURzakxQcUF2LU4wY2o1ekxKMkJPTjRv?oc=5",
-      "publishedAt": "2026-10-12T16:55:14.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -398,21 +346,6 @@
       ]
     },
     {
-      "id": "a5731d012a9a",
-      "title": "Generative Design vs. Generative AI: Clarifying the New Workflow Landscape - Parametric Architecture",
-      "summary": "Generative Design vs. Generative AI: Clarifying the New Workflow Landscape &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XMEZ1V0JWS2JVamd2UDA1UlRMY2xuM0pFM1pteHZqYkl1dWV1Nkd5XzIzd19OV3Y0dEVIcWhFOS1ObTBPOHEtUWhzX1p3Z05tVlR5bUQ2OEdQQnkydEZwblUyUW5JTmY3bklZM3dYX2dCN1Atdzd0bHpRQQ?oc=5",
-      "publishedAt": "2026-10-10T10:03:35.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "generative",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "0d2beb9b62c3",
       "title": "Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum",
       "summary": "Master AI Chip Principles With New IEEE Design Program &nbsp;&nbsp; IEEE Spectrum",
@@ -451,20 +384,6 @@
       ]
     },
     {
-      "id": "fb3bdb9f0c84",
-      "title": "What Does Authorship in Architecture Mean in the Age of AI? - Archinect",
-      "summary": "What Does Authorship in Architecture Mean in the Age of AI? &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeC10ODY4TnFMY3VUQUlFLWdjaFN6SnZiVWgyb2dxOGVKZ05jOXI5SXhNMHhWYXRzTFEwc2QwcVppb0lnWE8wbkY2aWFENWRRT1FMSlI4b3REU00xenNGT3R6YzVpTmJ1NjVPWlFRalQzMVRTNDNEaW5Mbm1iZ0NlcXNJMzJCc29wWUVpT21BZy16RGJhMl9heGVCNENPMUtwMExSREFURjRNbGM?oc=5",
-      "publishedAt": "2026-10-08T19:56:13.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "5f3a98dfab0d",
       "title": "Architectural design market has grown tenfold as the profession prepares for AI and climate risks - The Romania Journal",
       "summary": "Architectural design market has grown tenfold as the profession prepares for AI and climate risks &nbsp;&nbsp; The Romania Journal",
@@ -474,6 +393,59 @@
       "category": "研究",
       "tags": [
         "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "746e017fb8f0",
+      "title": "AI in architectural projects webinar - RIBA Journal",
+      "summary": "AI in architectural projects webinar &nbsp;&nbsp; RIBA Journal",
+      "source": "RIBA Journal",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HSlM5TXVDMjZwLVlCenVQdVliQXhfLTV5TWlROEtDMFpGWDdxOHQwVW9fTmRyVWFNVjBibWZCSmpNLWtMbkwxVzZQQ1BOR2E4a0hyaHBJUWRJMTJUQ0dRNlpvODFUMmw2Q3U5TlB3Q1VTZw?oc=5",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "670e6e3698c6",
+      "title": "Georgia Tech Uses AI to Reconstruct Ancient Architecture, But the Real Story Is Architectural Grammar - Parametric Architecture",
+      "summary": "Georgia Tech Uses AI to Reconstruct Ancient Architecture, But the Real Story Is Architectural Grammar &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rLUVhRzJjaXNxTGlyMDhWUEYwZjIwaEh6blpQbkcxX01NeEY5ay1nTkhpY3VYNXlTcTk4OHR4LVVXT3NVb0IzWXRfeGFTMTFQV1UySHlfanVNa0J0RWFOcjIybHpaVUtLc0t3dUFLSU5qY2FjVWc?oc=5",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "e20b394134d3",
+      "title": "Open-source tool designs LEGO builds with more than 2,000 real pieces — their programs output detailed CAD files, but no models have been built yet - Tom's Hardware",
+      "summary": "Open-source tool designs LEGO builds with more than 2,000 real pieces — their programs output detailed CAD files, but no models have been bu...",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOZUhfVW9SZm1GeGI2WDFfRjZ5cFhNaVRGTGc4NldoWk1KRmR0S3oyY0Q2Y2VlLUFRdThlejFnOEplb1ZXazVXa0Q3WS1uWkxza1Z6TUtVM04xNkt2S1hyUW0xQWs3bHpMVVhpWlU2Y29DZjRBR1JNMGNhdFhQTXBiOC1OekJ3cTFYdm8zYzVvd294X1Z2QUFfSm1TQ2RKdFd6V20wbEdORGIzZUVHeEt0UDNzQ0Z4ZUx3NDhkSjNmcmxuejNUR0FTSzNPUEN6VXc0UHJESk5PaDM5U0VpSkJhNVhkX2gyNlFVNTlvNngwMWhpaDdtZk9FdG1IYnVyX0VKSk5xdTJxQ0NFclFJVlNOTktOaTJXQy16NkY0Y3lsNjJTaU40TE9OZjNQc1IxV3Ewc0VfN3Rn?oc=5",
+      "publishedAt": "2026-10-04T07:00:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "bec69c0475ac",
+      "title": "Anant Srivastava Says Your Enterprise AI Architecture Was Accumulated, Not Designed - BigGo Finance",
+      "summary": "Anant Srivastava Says Your Enterprise AI Architecture Was Accumulated, Not Designed &nbsp;&nbsp; BigGo Finance",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzXzlDQnE5MnZXLXh2UmVGWUxrSVpUeVhmLXVNNTRfMWF3R3VCTjJmNW1QXzdrVnZUVm9zdElrTVNvTFhwbTlBQ252c3NNT1ZyUnJVXzV2OGROUXM?oc=5",
+      "publishedAt": "2026-10-04T02:08:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
         "architect"
       ]
     }
