@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-10-18T00:00:16.295Z",
+  "updatedAt": "2026-10-19T00:11:36.291Z",
   "items": [
+    {
+      "id": "0d2beb9b62c3",
+      "title": "Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum",
+      "summary": "Master AI Chip Principles With New IEEE Design Program &nbsp;&nbsp; IEEE Spectrum",
+      "source": "IEEE Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVHZxZXZONXNjaFJnUU9pdW13Vlk2WEEtdXdKMHVlYTJXcGRZUzBMbFlfaklCN2toZzdDZ2FPZDZhMjUwWGlQMXhPOFNCcFJfaGlrYUpqRzQ3V0lndnhHSnFzRmxtNU0?oc=5",
+      "publishedAt": "2026-10-18T13:30:57.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "86e52be900af",
+      "title": "Catching Fog: How Architecture Collects Water from the Air",
+      "summary": "Where rivers, reservoirs, and rainfall can no longer be relied upon consistently, water is increasingly being sought in the atmosphere. Fog,...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186242/catching-fog-how-architecture-collects-water-from-the-air",
+      "publishedAt": "2026-10-18T07:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "252a9421dbd9",
       "title": "Major American architect uses AI to solve a unique problem at APEC Phu Quoc. - Vietnam.vn",
@@ -12,6 +38,19 @@
       "tags": [
         "ai",
         "architect"
+      ]
+    },
+    {
+      "id": "8be930aeeee9",
+      "title": "AI Can Draw Any Building. But Can It Imagine One? - Sixth Tone",
+      "summary": "AI Can Draw Any Building. But Can It Imagine One? &nbsp;&nbsp; Sixth Tone",
+      "source": "Sixth Tone",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3NZZUFHOXo1ay0yS2FvakJqZkFfdlFOb1dpRXMwQWxmbjBKUnQ5cklrVWxQczZ2RkZEVFEwN0xwai1xaUdjc3lhN29aQmdZYkdvSnlzWDFjb014cS1CcDNJZjhLS2tLQzFhd0Z3ME83WkNXcVhaTEtyVkFUem1ManRxbXRLTEt2eFZyeVlTWHhHOXV2?oc=5",
+      "publishedAt": "2026-10-17T05:24:42.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
       ]
     },
     {
@@ -45,34 +84,6 @@
       "source": "AiThority",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1h4NE04Z3BWNTY0N0NVNnlHMHdOOVRBWG02clVaRE1MMWlRZHFtNDd2X2lZSkQxMG5jNnVFclY3N250STg0NVF1RzJWTGJ0SmxSSl9hM0VvaFFhTkhCaFEzNGF5THB3bUU0Slhpa1BGd2tCLUZyM1NWVUNVTW1JVnNPUzhvanZzR2dELTZjck5RbU9nZmRnME1PVFRaOGhHMWI2QTNvTUVXMFBEcHNXWGJVeUdheDdZWGlrRTltVGd4ZnNFdGF0cUVQRmROWkY0a2pwYlZ0YmhxN3MxSm90Wkg0MVhEbV9OTWQ0dE8yYUJzQUpv?oc=5",
       "publishedAt": "2026-10-16T07:49:17.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "162d1f0c7ca0",
-      "title": "World Monuments Watch 2027 Nominations Point to Government Austerity, Climate Impact and Skills Shortages as Main Threats to Heritage",
-      "summary": "The World Monuments Fund (WMF), an independent nonprofit organization dedicated to the preservation of historic architecture and cultural he...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186995/world-monuments-watch-2027-nominations-point-to-government-austerity-climate-impact-and-skills-shortages-as-main-threats-to-heritage",
-      "publishedAt": "2026-10-16T05:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "3f42a716891f",
-      "title": "Holland Grove / Blair Smith Architecture",
-      "summary": "Located in Melbourne , Holland Grove involved the comprehensive refurbishment of a two-level residence originally constructed in 2005, paire...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186205/holland-grove-blair-smith-architecture",
-      "publishedAt": "2026-10-16T02:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -281,6 +292,18 @@
       ]
     },
     {
+      "id": "25ff97644b88",
+      "title": "Designing AI Data Center Fabrics with PCIe 6.0 High-Radix Switches - www.embedded.com",
+      "summary": "Designing AI Data Center Fabrics with PCIe 6.0 High-Radix Switches &nbsp;&nbsp; www.embedded.com",
+      "source": "www.embedded.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdUg5T1ZQeG5yUzRvZDdTb2pqUkxaa2lsYXdHNFRqMTdkSjBWeDVvZ1Y5RWhhdHpsVFg5UmdDQWZQWGtMQ1hIOWZ6cnNfdnJpemJVSmxfSmlRMm41WDFHNEdaVDhnZmFLa0YwRmluZU5EMTRJSk5ldWp5c1NndTExVURzakxQcUF2LU4wY2o1ekxKMkJPTjRv?oc=5",
+      "publishedAt": "2026-10-12T16:55:14.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "801114030048",
       "title": "Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide - NVIDIA Blog",
       "summary": "Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide &nbsp;&nbsp; NVIDIA Blog",
@@ -334,24 +357,25 @@
       ]
     },
     {
+      "id": "3c916005e344",
+      "title": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms - Pandaily",
+      "summary": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms &nbsp;&nbsp; Pandaily",
+      "source": "Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3hYUWQtSWZ5ejNfWlk3bEVFMUhoNDJLTDBNRU1JRGxzZEhQa0owby1NRGZLd2llcmx6bGlPSmMxYjBPVWdYVkhFR2sxVVNqY1VvVmsyZXhpQlFNNWxIT3F0cDJpNnQzSV9aYS1mREtVT3h2UGFoamtqN3l2QUNMa0UtS241QzU3R0JtZUE5VFdHUGFFVnc?oc=5",
+      "publishedAt": "2026-10-11T01:52:02.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "6d195bb6802c",
       "title": "AI Learns to Design Parks by Thinking in Graphs, Not Pixels - Bioengineer.org",
       "summary": "AI Learns to Design Parks by Thinking in Graphs, Not Pixels &nbsp;&nbsp; Bioengineer.org",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHV4dE1IOWl2VGlCVldkTUtoVlB4NnFjUTlHajl3ZE05NGZnVWNjV2NVUDcyLU1tVUN1ZWdmV0Y2ODhJb25QaUZ4RjctU19qQUNwWXZzd0RvWnEzM1lfS1JtZFE4dkZNWTh4NGM4U1pNVGJRNjRySXFZNUNEWEVaaWM3UHFTVW00WnBv?oc=5",
       "publishedAt": "2026-10-10T15:37:04.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "0d2beb9b62c3",
-      "title": "Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum",
-      "summary": "Master AI Chip Principles With New IEEE Design Program &nbsp;&nbsp; IEEE Spectrum",
-      "source": "IEEE Spectrum",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVHZxZXZONXNjaFJnUU9pdW13Vlk2WEEtdXdKMHVlYTJXcGRZUzBMbFlfaklCN2toZzdDZ2FPZDZhMjUwWGlQMXhPOFNCcFJfaGlrYUpqRzQ3V0lndnhHSnFzRmxtNU0?oc=5",
-      "publishedAt": "2026-10-09T18:05:06.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -381,6 +405,20 @@
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "fb3bdb9f0c84",
+      "title": "What Does Authorship in Architecture Mean in the Age of AI? - Archinect",
+      "summary": "What Does Authorship in Architecture Mean in the Age of AI? &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeC10ODY4TnFMY3VUQUlFLWdjaFN6SnZiVWgyb2dxOGVKZ05jOXI5SXhNMHhWYXRzTFEwc2QwcVppb0lnWE8wbkY2aWFENWRRT1FMSlI4b3REU00xenNGT3R6YzVpTmJ1NjVPWlFRalQzMVRTNDNEaW5Mbm1iZ0NlcXNJMzJCc29wWUVpT21BZy16RGJhMl9heGVCNENPMUtwMExSREFURjRNbGM?oc=5",
+      "publishedAt": "2026-10-08T19:56:13.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -424,29 +462,15 @@
       ]
     },
     {
-      "id": "e20b394134d3",
-      "title": "Open-source tool designs LEGO builds with more than 2,000 real pieces — their programs output detailed CAD files, but no models have been built yet - Tom's Hardware",
-      "summary": "Open-source tool designs LEGO builds with more than 2,000 real pieces — their programs output detailed CAD files, but no models have been bu...",
-      "source": "Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOZUhfVW9SZm1GeGI2WDFfRjZ5cFhNaVRGTGc4NldoWk1KRmR0S3oyY0Q2Y2VlLUFRdThlejFnOEplb1ZXazVXa0Q3WS1uWkxza1Z6TUtVM04xNkt2S1hyUW0xQWs3bHpMVVhpWlU2Y29DZjRBR1JNMGNhdFhQTXBiOC1OekJ3cTFYdm8zYzVvd294X1Z2QUFfSm1TQ2RKdFd6V20wbEdORGIzZUVHeEt0UDNzQ0Z4ZUx3NDhkSjNmcmxuejNUR0FTSzNPUEN6VXc0UHJESk5PaDM5U0VpSkJhNVhkX2gyNlFVNTlvNngwMWhpaDdtZk9FdG1IYnVyX0VKSk5xdTJxQ0NFclFJVlNOTktOaTJXQy16NkY0Y3lsNjJTaU40TE9OZjNQc1IxV3Ewc0VfN3Rn?oc=5",
-      "publishedAt": "2026-10-04T07:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "bec69c0475ac",
-      "title": "Anant Srivastava Says Your Enterprise AI Architecture Was Accumulated, Not Designed - BigGo Finance",
-      "summary": "Anant Srivastava Says Your Enterprise AI Architecture Was Accumulated, Not Designed &nbsp;&nbsp; BigGo Finance",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzXzlDQnE5MnZXLXh2UmVGWUxrSVpUeVhmLXVNNTRfMWF3R3VCTjJmNW1QXzdrVnZUVm9zdElrTVNvTFhwbTlBQ252c3NNT1ZyUnJVXzV2OGROUXM?oc=5",
-      "publishedAt": "2026-10-04T02:08:00.000Z",
+      "id": "ea63162d0e5a",
+      "title": "Graphisoft unveils 2026 product portfolio, led by Archicad and AI-enabled design intelligence - Nemetschek",
+      "summary": "Graphisoft unveils 2026 product portfolio, led by Archicad and AI-enabled design intelligence &nbsp;&nbsp; Nemetschek",
+      "source": "Nemetschek",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF91VG04a1BxX3REY1JCay10TWZGQnVXNFJpdFlSalVMZmduNGdVZEdkUS1xZXdPNmtMRHNBOVFacFc3THBqRkJkVVFuOHV1N1poN0xTcjdMT1I0b2o0QUxqRnI0aTBZTEtLYjlUR01OcllHNzRSUzJMdzRSTXZXNmdQVzNBVmVhN2t1ZEtqX1NmSlJCYTR1Z3B5amIzOHQySnJwb1pZdEVWUUhtZHpBMFpSamZSNXBQ?oc=5",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
       "category": "研究",
       "tags": [
-        "ai",
-        "architecture",
-        "architect"
+        "ai"
       ]
     }
   ]
