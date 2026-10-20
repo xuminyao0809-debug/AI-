@@ -1,29 +1,44 @@
 {
-  "updatedAt": "2026-10-19T00:11:36.291Z",
+  "updatedAt": "2026-10-20T01:04:33.117Z",
   "items": [
     {
-      "id": "0d2beb9b62c3",
-      "title": "Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum",
-      "summary": "Master AI Chip Principles With New IEEE Design Program &nbsp;&nbsp; IEEE Spectrum",
-      "source": "IEEE Spectrum",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVHZxZXZONXNjaFJnUU9pdW13Vlk2WEEtdXdKMHVlYTJXcGRZUzBMbFlfaklCN2toZzdDZ2FPZDZhMjUwWGlQMXhPOFNCcFJfaGlrYUpqRzQ3V0lndnhHSnFzRmxtNU0?oc=5",
-      "publishedAt": "2026-10-18T13:30:57.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "86e52be900af",
-      "title": "Catching Fog: How Architecture Collects Water from the Air",
-      "summary": "Where rivers, reservoirs, and rainfall can no longer be relied upon consistently, water is increasingly being sought in the atmosphere. Fog,...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186242/catching-fog-how-architecture-collects-water-from-the-air",
-      "publishedAt": "2026-10-18T07:30:00.000Z",
+      "id": "28181e4f4a18",
+      "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC) - Semiconductor Engineering",
+      "summary": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC) &nbsp;&nbsp; Semiconductor Engineering",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjQ1R0tnV2RjbXc4UkZEX0FIUHdFSkRZNUZXTGxoY25hbmw5ZlhjQjY5X2JtTFctMHhubVd5blp6TmRPLThRX19rTS1JeWh0eHdicG41eEoyM2NiYk40V2o3TE9oUThLZ3l3bFQta3NramJQMzd3cnY4dnVSb0k4dFAtU21MVGF0anZuMHBjejdtS21jaU9SbFE5RFVWTXBBOXl2V2FSUExva0dNTGtCZw?oc=5",
+      "publishedAt": "2026-10-19T17:47:59.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "81d824ee29d9",
+      "title": "DUA Villa / Architecture BRIO",
+      "summary": "DUA Villa is a weekend residence located in Alibaug, designed for a Mumbai-based couple and their three young adult children. As urban dwell...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186756/dua-villa-architecture-brio",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "32a10738ec42",
+      "title": "Snøhetta’s Shanghai Grand Opera House Opens With a Sweeping Roof and Panoramic River Views",
+      "summary": "The Shanghai Grand Opera House , designed by Snøhetta in collaboration with East China Architectural Design & Research Institute (ECADI) , T...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187067/snohettas-shanghai-grand-opera-house-opens-with-a-sweeping-roof-and-panoramic-river-views",
+      "publishedAt": "2026-10-19T06:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
         "architect"
       ]
     },
@@ -54,18 +69,6 @@
       ]
     },
     {
-      "id": "981260e8efa0",
-      "title": "Two Multi-Family Housing Units / Aplomb",
-      "summary": "This project involves the construction of two social housing units for SOMCO, the historical social housing provider (bailleur HLM) for the ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186600/two-multi-family-housing-units-aplomb",
-      "publishedAt": "2026-10-16T10:00:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "b60429a238e7",
       "title": "2027 design forecast: From AI-generated concepts to highly personalised spaces - Adgully",
       "summary": "2027 design forecast: From AI-generated concepts to highly personalised spaces &nbsp;&nbsp; Adgully",
@@ -75,20 +78,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "ef2e0d1e1709",
-      "title": "AI Resilience Architecture: Designing Intelligent Systems That Continue Operating When Data, Models, or Infrastructure Fail - AiThority",
-      "summary": "AI Resilience Architecture: Designing Intelligent Systems That Continue Operating When Data, Models, or Infrastructure Fail &nbsp;&nbsp; AiT...",
-      "source": "AiThority",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1h4NE04Z3BWNTY0N0NVNnlHMHdOOVRBWG02clVaRE1MMWlRZHFtNDd2X2lZSkQxMG5jNnVFclY3N250STg0NVF1RzJWTGJ0SmxSSl9hM0VvaFFhTkhCaFEzNGF5THB3bUU0Slhpa1BGd2tCLUZyM1NWVUNVTW1JVnNPUzhvanZzR2dELTZjck5RbU9nZmRnME1PVFRaOGhHMWI2QTNvTUVXMFBEcHNXWGJVeUdheDdZWGlrRTltVGd4ZnNFdGF0cUVQRmROWkY0a2pwYlZ0YmhxN3MxSm90Wkg0MVhEbV9OTWQ0dE8yYUJzQUpv?oc=5",
-      "publishedAt": "2026-10-16T07:49:17.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -131,11 +120,11 @@
       ]
     },
     {
-      "id": "d8660e69b2bd",
+      "id": "9d93eb607cad",
       "title": "Artificial intelligence now turns a sketch into a 3D model of a building (VIDEO) ᐉ News from Fakti.bg - Properties - Fakti.bg",
       "summary": "Artificial intelligence now turns a sketch into a 3D model of a building (VIDEO) ᐉ News from Fakti.bg - Properties &nbsp;&nbsp; Fakti.bg",
       "source": "Fakti.bg",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalRoZmJOZWUwY0U4alNyMVhucTFhM29pbmZ2amxlb3hvdVg4STZ4UHlrZlMxWFJLdkNMZzFTZnFoVXpDbVhieHNwWHJRbTFINGtqX2gyZnR5V0g2ZVpRSm5sWG9uY3VhS3JsUmdjaUtNT2V6c1NKOG1QdDY1YnExSjJpaGhkVDh6VTNlRXBuSWhVeFF4dWYzZVdMakFkYTlOclZGNzV6SExvSWpCdlJWdm9FR0F1WTg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2dzWjZHeFRaN1AzbzNGcW5FRXJJck1vNk5hQmY2WXItUHB4SGphYnlubmdGQnBUeE82UzBtLU1GR1RjNEliVHV4elVoZzJRWkxaMWx3OW9xSW15RElBWk9WQ2VKQWttOUM3TWs3MzhMYmtoWHVDX3JtZUhhakt6ZnlYal9TZGJ1eFVYU1RTSzZLS0lmQVlEdDVFbmhKVXh4blEwS3pmbHlWM1BsTERUSU1R?oc=5",
       "publishedAt": "2026-10-15T13:51:00.000Z",
       "category": "案例",
       "tags": [
@@ -184,6 +173,18 @@
       ]
     },
     {
+      "id": "02207d974b65",
+      "title": "AI designed to coordinate autonomous machines is still in development at VisionWave. - Stock Titan",
+      "summary": "AI designed to coordinate autonomous machines is still in development at VisionWave. &nbsp;&nbsp; Stock Titan",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGExQmJpWmNTa0tIV2s1YmFkdEYtSlpHZ1RqS0RNbHhsa1Y4NE5UQ0hxSEZ1aGJlWXZkanV6UlZXZjI2LWdzZlZ4TFJLMHY5ajJGOUVpX0w0NV9tWU9IM0tKbDVMeEhnSWdXa2pzbEdlWFVXal9kZU1LUW9pZzY0RkRTeVBjM2dGcFU1Z2xOUVN2WkpZdjRVNnhZbTNEMnVHNWFSTUVRNll2aFg2MWZRWG95Y0ZoV2Nf?oc=5",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "748bb3b0d3ba",
       "title": "VisionWave Advances Stratum AI, an Agentic AI Architecture for Autonomous Mission Intelligence and Orchestration - WBOC TV",
       "summary": "VisionWave Advances Stratum AI, an Agentic AI Architecture for Autonomous Mission Intelligence and Orchestration &nbsp;&nbsp; WBOC TV",
@@ -195,18 +196,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "02207d974b65",
-      "title": "AI designed to coordinate autonomous machines is still in development at VisionWave. - Stock Titan",
-      "summary": "AI designed to coordinate autonomous machines is still in development at VisionWave. &nbsp;&nbsp; Stock Titan",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGExQmJpWmNTa0tIV2s1YmFkdEYtSlpHZ1RqS0RNbHhsa1Y4NE5UQ0hxSEZ1aGJlWXZkanV6UlZXZjI2LWdzZlZ4TFJLMHY5ajJGOUVpX0w0NV9tWU9IM0tKbDVMeEhnSWdXa2pzbEdlWFVXal9kZU1LUW9pZzY0RkRTeVBjM2dGcFU1Z2xOUVN2WkpZdjRVNnhZbTNEMnVHNWFSTUVRNll2aFg2MWZRWG95Y0ZoV2Nf?oc=5",
-      "publishedAt": "2026-10-14T10:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -264,12 +253,26 @@
       ]
     },
     {
+      "id": "03b7b414e824",
+      "title": "Astera Labs unveils modular Orion AI rack architecture - Engineering.com",
+      "summary": "Astera Labs unveils modular Orion AI rack architecture &nbsp;&nbsp; Engineering.com",
+      "source": "Engineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2xGRWdocXNWeHR4MFpiZjVRNXZYWVJpM09DNzlhU2EtOFcya0xEbDhGSnRYSkt5cFNrMU95M0xWM1lmckhRZXktTmZzSFZpZ1g5YUpRMklrdnM4a3ZiYXNxOE5FM2FST3dGTW1rQnBMTHRjVzMyVFdidFRmYTNvYS0taG9udjJ0SjNJ?oc=5",
+      "publishedAt": "2026-10-13T07:39:12.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "4d3231b3ed8a",
       "title": "Why AI-Native Workflows Could Change the Architecture & Design Technology Stack - TheTechPanda",
       "summary": "Why AI-Native Workflows Could Change the Architecture & Design Technology Stack &nbsp;&nbsp; TheTechPanda",
       "source": "TheTechPanda",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0tYcDVmYTRPVlhzdjNYanJQN1lvUS1SLUQxbW0tY1ZCWTRZOEtyVlppY25xSUlFU3ZJZk9ZX2ZtN2UxTTg1NGxlY1dzS3doaHBvenZxdUFkMFVpOWdJTEZOSXlURVlETHdaY01wTy11UW8tYXNWVllvOGVMZENxd0xKMHBkeGl2RnNPeVRmYUhEY290ZF92QW54ckZwQ0NGYWNUMFVhRTlpLU1ickE?oc=5",
-      "publishedAt": "2026-10-13T06:02:53.000Z",
+      "publishedAt": "2026-10-13T06:37:13.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -332,15 +335,17 @@
       ]
     },
     {
-      "id": "98a90cc2280a",
-      "title": "A new AI rack design can link up to 160 chips, with buyers choosing the mix. Astera Labs designed it. - Stock Titan",
-      "summary": "A new AI rack design can link up to 160 chips, with buyers choosing the mix. Astera Labs designed it. &nbsp;&nbsp; Stock Titan",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEJRT1dXNzZia2VsZmZvbnF2Qk9UN3p2TzlkTzBvMHFPVi1La3d6OVBiMXJaQ0ZEZnBNdnRUd18ycjNMeURmRHdyZDVVeC1hd0NrQW5Mc3FqTHZ6eFQyVzlRZlhvamdfU2xfUWF1OWpaa1NvdXRpNnVpMndWRUg2ZmdYU0k0VTladHZiWlpsZXBaZTM0MjZ0Zzk5bTFiQVdnWE5NdkJ2SzR0Wkw1NWJVZUhTbGs4N0pxY1BKR2RUOTU?oc=5",
+      "id": "e332f98dc6aa",
+      "title": "Astera Labs Unveils Orion: A Compute-Agnostic Rack-Scale Architecture for Token-Efficient AI Factories - GlobeNewswire",
+      "summary": "Astera Labs Unveils Orion: A Compute-Agnostic Rack-Scale Architecture for Token-Efficient AI Factories &nbsp;&nbsp; GlobeNewswire",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQlM5U1lUdzNZWHhlNWhnaExBSkU3RUFCOEYyemhvV2lwbTM1WUVjLVNxT1BSQ1g1ZE5jOVc2NkV4NFRXUVdrdUFmOWEySjgwY2JXcGJRclJEaGQtTUw4ekFIN2JaZ1BRRnpZNHRkeWh5eGkxdE0tN1BsSjg0Yk1ZaGRPOEd4bGE0VW9RaEFYVEhGWkdPdnZ3T0MtWnRpTlJkV3M2bUJPQmp6V3VNNlZUVVlTRU50S0w0MmhOQUJ0WXJvNl9pek5PS01aNzk4Wm5mZHVWclhvVkJkWEtKckhtRno3QU9nMkVCcm9HaHVfNFJqV01ldElBY3FmOG8zVFZLQ0Z3?oc=5",
       "publishedAt": "2026-10-12T13:00:00.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -408,12 +413,24 @@
       ]
     },
     {
+      "id": "0d2beb9b62c3",
+      "title": "Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum",
+      "summary": "Master AI Chip Principles With New IEEE Design Program &nbsp;&nbsp; IEEE Spectrum",
+      "source": "IEEE Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVHZxZXZONXNjaFJnUU9pdW13Vlk2WEEtdXdKMHVlYTJXcGRZUzBMbFlfaklCN2toZzdDZ2FPZDZhMjUwWGlQMXhPOFNCcFJfaGlrYUpqRzQ3V0lndnhHSnFzRmxtNU0?oc=5",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "fb3bdb9f0c84",
       "title": "What Does Authorship in Architecture Mean in the Age of AI? - Archinect",
       "summary": "What Does Authorship in Architecture Mean in the Age of AI? &nbsp;&nbsp; Archinect",
       "source": "Archinect",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeC10ODY4TnFMY3VUQUlFLWdjaFN6SnZiVWgyb2dxOGVKZ05jOXI5SXhNMHhWYXRzTFEwc2QwcVppb0lnWE8wbkY2aWFENWRRT1FMSlI4b3REU00xenNGT3R6YzVpTmJ1NjVPWlFRalQzMVRTNDNEaW5Mbm1iZ0NlcXNJMzJCc29wWUVpT21BZy16RGJhMl9heGVCNENPMUtwMExSREFURjRNbGM?oc=5",
-      "publishedAt": "2026-10-08T19:56:13.000Z",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -459,18 +476,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "ea63162d0e5a",
-      "title": "Graphisoft unveils 2026 product portfolio, led by Archicad and AI-enabled design intelligence - Nemetschek",
-      "summary": "Graphisoft unveils 2026 product portfolio, led by Archicad and AI-enabled design intelligence &nbsp;&nbsp; Nemetschek",
-      "source": "Nemetschek",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF91VG04a1BxX3REY1JCay10TWZGQnVXNFJpdFlSalVMZmduNGdVZEdkUS1xZXdPNmtMRHNBOVFacFc3THBqRkJkVVFuOHV1N1poN0xTcjdMT1I0b2o0QUxqRnI0aTBZTEtLYjlUR01OcllHNzRSUzJMdzRSTXZXNmdQVzNBVmVhN2t1ZEtqX1NmSlJCYTR1Z3B5amIzOHQySnJwb1pZdEVWUUhtZHpBMFpSamZSNXBQ?oc=5",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     }
   ]
