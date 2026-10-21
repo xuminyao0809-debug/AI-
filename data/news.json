@@ -1,6 +1,129 @@
 {
-  "updatedAt": "2026-10-20T01:04:33.117Z",
+  "updatedAt": "2026-10-21T00:35:44.995Z",
   "items": [
+    {
+      "id": "149a11981623",
+      "title": "Op-Ed: Can AI save the world from unspeakably dull architecture? Maybe. Or make it a lot better? - Digital Journal",
+      "summary": "Op-Ed: Can AI save the world from unspeakably dull architecture? Maybe. Or make it a lot better? &nbsp;&nbsp; Digital Journal",
+      "source": "Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbV83UllTLUdzN0FoLUFFV1BFVTZ1Ui1iMG82bWdmZU50YkxMNnExc2JqY1EwdVZRc3BHTHNYV2xqZGJoTHVlMnJacGdZT04zYndoaFNaNllhSjJvb3pMUjBZS3BCY2g4NGtULXljeUZsWko2V2RsczEyR3Iwc2JYTU9EZUROdnNYS2hTb296TmJJcjA1M0RZSFBjU2hvU25wSjktVEJaOW1PVmdxcjhIUGRhbFJwNjBsSHJIQk01U0dNOUtmbnpQcG5NRmM?oc=5",
+      "publishedAt": "2026-10-20T23:07:53.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "d1ce777111a3",
+      "title": "Generative AI search finds stiffer nano-architectures by relearning as it goes - Nanowerk",
+      "summary": "Generative AI search finds stiffer nano-architectures by relearning as it goes &nbsp;&nbsp; Nanowerk",
+      "source": "Nanowerk",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zUEo0Umc0aUxUbUktOWRPYm5aMVVYRkdRSUZ6WVNXOHZTR0taUkRQckxKVjNZaHJGV0lmZm0zV195VkI4RzQzSVgwOVV1VEs1TkdKSWhUT25fS0dCeFhkMQ?oc=5",
+      "publishedAt": "2026-10-20T15:26:45.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "09abe361f2c6",
+      "title": "Ask the expert: AI and architectural visualisation - Architecture Today",
+      "summary": "Ask the expert: AI and architectural visualisation &nbsp;&nbsp; Architecture Today",
+      "source": "Architecture Today",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEJjMWdsdzRZcEtuMVZUajE1dmZTWEtQRWxoRjB6bTh1T0licWU0N0g4SHJ5MTljX2RUcWc4X1BfVEVZdEM2bG1RQWVlS1JQalJ3bTVhSE5zS3VlUHplY3FhZ2JyTTFsUjZkSGlEcW9ERTRCcm41TDh5S0NMc3Bub3E2cGRNQU95dHlJQTFtRGlrUQ?oc=5",
+      "publishedAt": "2026-10-20T15:05:03.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "ba59403b0875",
+      "title": "Cabin Budor / R21 Arkitekter",
+      "summary": "The commission consists of the design and construction of a weekend cabin in Budor. The main challenge is to integrate the volume into the l...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186292/cabin-budor-r21-arkitekter",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "5a91cb131a16",
+      "title": "Palais de Justice de Lille / OMA",
+      "summary": "Any new architectural addition to the city of Lille has to address the past, the present and the future. That is even more true on the site ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187188/palais-de-justice-de-lille-oma",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "e8250f652699",
+      "title": "Taiwan Forum Unites Healthcare, AI and Architecture to Shape the Future of Healthy Living - 天下雜誌",
+      "summary": "Taiwan Forum Unites Healthcare, AI and Architecture to Shape the Future of Healthy Living &nbsp;&nbsp; 天下雜誌",
+      "source": "天下雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YeHNLV0dYamllQUQ5UDJKYnJHa1o1SDhoRkdVMEY1dktxM2w1QWg4OXV4QmxvWFlBLU5fU1hOZUEyZzVPd3NDNWZscllxVU1PMDhBMmJBSFVaVjNKZVpnVTkwQTd1QWc?oc=5",
+      "publishedAt": "2026-10-20T06:30:34.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "843559f950ef",
+      "title": "Process as Practice: Building with Reclaimed Materials on Tarkwa Bay, Lagos",
+      "summary": "On Tarkwa Bay, off the coast of Lagos , the transformation of an abandoned building offers a way to consider how architecture might emerge f...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186983/process-as-practice-building-with-reclaimed-materials-on-tarkwa-bay-lagos",
+      "publishedAt": "2026-10-20T04:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "building"
+      ]
+    },
+    {
+      "id": "71383fd70b5a",
+      "title": "Yokohama BUNTAI Multipurpose Hub / TAISEI DESIGN Planners Architects & Engineers",
+      "summary": "As a leading project for community development in the Kannai Station area, an arena complex has been constructed to accommodate not only the...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186823/yokohama-buntai-multipurpose-hub-taisei-design-planners-architects-and-engineers",
+      "publishedAt": "2026-10-20T02:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "a0922945bb3b",
+      "title": "Sage Guangzhou Aranya Store / say architects",
+      "summary": "Rooted in Aranya Guangzhou's site DNA—\"half urban bustle, half lake-and-mountain scenery\"—and meeting Sage Studio's natural, relaxed lifesty...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186877/sage-guangzhou-aranya-store-say-architects",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "28181e4f4a18",
       "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC) - Semiconductor Engineering",
@@ -16,29 +139,16 @@
       ]
     },
     {
-      "id": "81d824ee29d9",
-      "title": "DUA Villa / Architecture BRIO",
-      "summary": "DUA Villa is a weekend residence located in Alibaug, designed for a Mumbai-based couple and their three young adult children. As urban dwell...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186756/dua-villa-architecture-brio",
-      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "id": "2e65e0b7fd84",
+      "title": "Why AI Workloads Need a New Cloud Infrastructure Architecture - Nasscom",
+      "summary": "Why AI Workloads Need a New Cloud Infrastructure Architecture &nbsp;&nbsp; Nasscom",
+      "source": "Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1pYdE8wMVRFTElCY2N1Qnd2eGpDRmJ0VnE4RE1RcFJvY28xZ3YxSUtiRGpBQmc4ek5xRnJ1a09CcnJidWtJS2p4N3I3elM3MmRJRGg4Q004YXZwUWZpNjJROFpveGdReFhWSHNRSFlXbnhVdWFaXzA2RnV5WEdzbG1VMDBTWmxHYWRXbGFqQjk3cW8wRGFFcHltWWZXMXVEVms3NnJR?oc=5",
+      "publishedAt": "2026-10-19T09:20:31.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "32a10738ec42",
-      "title": "Snøhetta’s Shanghai Grand Opera House Opens With a Sweeping Roof and Panoramic River Views",
-      "summary": "The Shanghai Grand Opera House , designed by Snøhetta in collaboration with East China Architectural Design & Research Institute (ECADI) , T...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187067/snohettas-shanghai-grand-opera-house-opens-with-a-sweeping-roof-and-panoramic-river-views",
-      "publishedAt": "2026-10-19T06:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architect"
       ]
     },
@@ -199,6 +309,18 @@
       ]
     },
     {
+      "id": "a0ee5fe1b95a",
+      "title": "From Compute-Centric Design to System-Level Integration: Marvell and the Next Transformation of AI Infrastructure - semivision",
+      "summary": "From Compute-Centric Design to System-Level Integration: Marvell and the Next Transformation of AI Infrastructure &nbsp;&nbsp; semivision",
+      "source": "semivision",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQajFzNUN0Q2xoVjZlS1NDYmNLS0pmTmFVdTR6U3ZuWGIya0pXMDJBbmROUTZrazFrTjA0VDNRbktWYmVfM0U0cUNFS2lJV28zc0JZeThqQzFxSzd1Vy1oelB3Rm1PaVIya2I4M2EzUlgxaTlqWVVoZ3Y5UHZjVkFkd0JfQzg?oc=5",
+      "publishedAt": "2026-10-14T04:19:17.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "9ce323cef089",
       "title": "LG Electronics, GS E&C to Jointly Develop Immersion Cooling Standard Design for AI Data Centers - BigGo Finance",
       "summary": "LG Electronics, GS E&C to Jointly Develop Immersion Cooling Standard Design for AI Data Centers &nbsp;&nbsp; BigGo Finance",
@@ -307,12 +429,26 @@
       ]
     },
     {
+      "id": "e332f98dc6aa",
+      "title": "Astera Labs Unveils Orion: A Compute-Agnostic Rack-Scale Architecture for Token-Efficient AI Factories - GlobeNewswire",
+      "summary": "Astera Labs Unveils Orion: A Compute-Agnostic Rack-Scale Architecture for Token-Efficient AI Factories &nbsp;&nbsp; GlobeNewswire",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQlM5U1lUdzNZWHhlNWhnaExBSkU3RUFCOEYyemhvV2lwbTM1WUVjLVNxT1BSQ1g1ZE5jOVc2NkV4NFRXUVdrdUFmOWEySjgwY2JXcGJRclJEaGQtTUw4ekFIN2JaZ1BRRnpZNHRkeWh5eGkxdE0tN1BsSjg0Yk1ZaGRPOEd4bGE0VW9RaEFYVEhGWkdPdnZ3T0MtWnRpTlJkV3M2bUJPQmp6V3VNNlZUVVlTRU50S0w0MmhOQUJ0WXJvNl9pek5PS01aNzk4Wm5mZHVWclhvVkJkWEtKckhtRno3QU9nMkVCcm9HaHVfNFJqV01ldElBY3FmOG8zVFZLQ0Z3?oc=5",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "801114030048",
       "title": "Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide - NVIDIA Blog",
       "summary": "Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide &nbsp;&nbsp; NVIDIA Blog",
       "source": "NVIDIA Blog",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHRtZFJkSHY5UmNqNElRSWs1Uk4tNTFMb09nWHl5Y0haeU1DcVVTYU1zdldja3lfY2hiTnZsNGJxek1OZzMtaDhMLWtyRUpqZHZtbzNvb19HYm1wbVVlcmR3cC1Qbk12VjU0U3V5cHduTW9ZQ1M1WlZaQzVNYnltLW5SYUQ?oc=5",
-      "publishedAt": "2026-10-12T15:14:23.000Z",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -326,21 +462,7 @@
       "summary": "Deep dive into Azure Maia 300 architecture &nbsp;&nbsp; Microsoft Azure",
       "source": "Microsoft Azure",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUlZ6RzdwazdNcW5ieTRZZ2RERjI5S21PQXFCR1NZUk1OSHVvdDdLQ3NWeWo4YzNDUnB3RWtvNHdteUpkanppZUszMDZ1QVNJbjVGTGhpQm9lMFFqcmVLSURqUjFBZl95djAybHN2MGpUVU8yazY0ZGhTNkItRFZ4WVpqSGpwUzhDNkE?oc=5",
-      "publishedAt": "2026-10-12T13:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e332f98dc6aa",
-      "title": "Astera Labs Unveils Orion: A Compute-Agnostic Rack-Scale Architecture for Token-Efficient AI Factories - GlobeNewswire",
-      "summary": "Astera Labs Unveils Orion: A Compute-Agnostic Rack-Scale Architecture for Token-Efficient AI Factories &nbsp;&nbsp; GlobeNewswire",
-      "source": "GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQlM5U1lUdzNZWHhlNWhnaExBSkU3RUFCOEYyemhvV2lwbTM1WUVjLVNxT1BSQ1g1ZE5jOVc2NkV4NFRXUVdrdUFmOWEySjgwY2JXcGJRclJEaGQtTUw4ekFIN2JaZ1BRRnpZNHRkeWh5eGkxdE0tN1BsSjg0Yk1ZaGRPOEd4bGE0VW9RaEFYVEhGWkdPdnZ3T0MtWnRpTlJkV3M2bUJPQmp6V3VNNlZUVVlTRU50S0w0MmhOQUJ0WXJvNl9pek5PS01aNzk4Wm5mZHVWclhvVkJkWEtKckhtRno3QU9nMkVCcm9HaHVfNFJqV01ldElBY3FmOG8zVFZLQ0Z3?oc=5",
-      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -358,123 +480,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "3c916005e344",
-      "title": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms - Pandaily",
-      "summary": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms &nbsp;&nbsp; Pandaily",
-      "source": "Pandaily",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3hYUWQtSWZ5ejNfWlk3bEVFMUhoNDJLTDBNRU1JRGxzZEhQa0owby1NRGZLd2llcmx6bGlPSmMxYjBPVWdYVkhFR2sxVVNqY1VvVmsyZXhpQlFNNWxIT3F0cDJpNnQzSV9aYS1mREtVT3h2UGFoamtqN3l2QUNMa0UtS241QzU3R0JtZUE5VFdHUGFFVnc?oc=5",
-      "publishedAt": "2026-10-11T01:52:02.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "6d195bb6802c",
-      "title": "AI Learns to Design Parks by Thinking in Graphs, Not Pixels - Bioengineer.org",
-      "summary": "AI Learns to Design Parks by Thinking in Graphs, Not Pixels &nbsp;&nbsp; Bioengineer.org",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHV4dE1IOWl2VGlCVldkTUtoVlB4NnFjUTlHajl3ZE05NGZnVWNjV2NVUDcyLU1tVUN1ZWdmV0Y2ODhJb25QaUZ4RjctU19qQUNwWXZzd0RvWnEzM1lfS1JtZFE4dkZNWTh4NGM4U1pNVGJRNjRySXFZNUNEWEVaaWM3UHFTVW00WnBv?oc=5",
-      "publishedAt": "2026-10-10T15:37:04.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "46f08eb22f67",
-      "title": "No. 1 on TOP500 and HPCG: LineShine Supercomputer Introduces a New Architecture for HPC-AI Converged Scientific Computing | Newswise - Newswise",
-      "summary": "No. 1 on TOP500 and HPCG: LineShine Supercomputer Introduces a New Architecture for HPC-AI Converged Scientific Computing | Newswise &nbsp;&...",
-      "source": "Newswise",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWU0VUlEaGtXNnlrNWZRdnNFOEplR1ZPMEFpWHJZM0FMOEtNQlp6azlOU3JTWERrSEVGNUdhRzBfZGxlMUtVam1QMnBSR2VJSXdkOUkzWFJiWVhHWXNNd3NlTV90WTR4Q3I4ZS1EQWNTMTg4NnJMNEJqX0pRT3dOblo5bkRzQ09uNGtIZlBERkdOUTVZSDBBV3M1Y3Voc2hzZ1NkZFl1akRJY0R3V3NmSTRFVkwzU3ZWd2cydTlCMzJ3MDdzN2FLQWgzNjdibUdjeVIzZWMtem53djRnMTFfd0hoXzRqSTVx0gHoAUFVX3lxTE1tZTRVSURoa1c2eWs1ZlF2c0U4SmVHVk8wQWlYclkzQUw4S01CWnprOU5TclNYRGtIRUY1R2FHMF9kbGUxS1VqbVAycFJHZUlJd2Q5STNYUmJZWEdZc013c2VNX3RZNHhDcjhlLURBY1MxODg2ckw0QmpfSlFPd05uWjluRHNDT240a0hmUERGR05RNVlIMEFXczVjdWhzaHNnU2RkWXVqREljRHdXc2ZJNEVWTDNTdlZ3ZzJ1OUIzMncwN3M3YUtBaDM2N2JtR2N5UjNlYy16bnd2NGcxMV93SGhfNGpJNXE?oc=5",
-      "publishedAt": "2026-10-09T12:55:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "7769edbde918",
-      "title": "Data Sovereignty is Becoming a Design Principle for Enterprise AI - Solutions Review",
-      "summary": "Data Sovereignty is Becoming a Design Principle for Enterprise AI &nbsp;&nbsp; Solutions Review",
-      "source": "Solutions Review",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0lqV1pWNU54dDhwV093dl80RXJndlplUkxPUllJYk1ZNng2ckhuQktvVk5fWWZoSmFFUW40TnRtUmo5M0g4bmJLVGJDQm5LZFc2WHFyLTJZeXdGUzYxOWZEZ1EybjBKSXVxMXFTSm9mcF82cm1xcmdRVk9XTGtLTXJtUUxQZmJ2bWFJZGNmVl9EUWZKX0gweGFhYTVvWDBvNjNDckZza2VkZklTVEp3?oc=5",
-      "publishedAt": "2026-10-09T11:04:05.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "0d2beb9b62c3",
-      "title": "Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum",
-      "summary": "Master AI Chip Principles With New IEEE Design Program &nbsp;&nbsp; IEEE Spectrum",
-      "source": "IEEE Spectrum",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVHZxZXZONXNjaFJnUU9pdW13Vlk2WEEtdXdKMHVlYTJXcGRZUzBMbFlfaklCN2toZzdDZ2FPZDZhMjUwWGlQMXhPOFNCcFJfaGlrYUpqRzQ3V0lndnhHSnFzRmxtNU0?oc=5",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "fb3bdb9f0c84",
-      "title": "What Does Authorship in Architecture Mean in the Age of AI? - Archinect",
-      "summary": "What Does Authorship in Architecture Mean in the Age of AI? &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeC10ODY4TnFMY3VUQUlFLWdjaFN6SnZiVWgyb2dxOGVKZ05jOXI5SXhNMHhWYXRzTFEwc2QwcVppb0lnWE8wbkY2aWFENWRRT1FMSlI4b3REU00xenNGT3R6YzVpTmJ1NjVPWlFRalQzMVRTNDNEaW5Mbm1iZ0NlcXNJMzJCc29wWUVpT21BZy16RGJhMl9heGVCNENPMUtwMExSREFURjRNbGM?oc=5",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "5f3a98dfab0d",
-      "title": "Architectural design market has grown tenfold as the profession prepares for AI and climate risks - The Romania Journal",
-      "summary": "Architectural design market has grown tenfold as the profession prepares for AI and climate risks &nbsp;&nbsp; The Romania Journal",
-      "source": "The Romania Journal",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjZOTGxjTzVvRTVuZE5tMm1pYkU5VnNtVG5ON3Nsd29PYUpGNEg3RE1KdUxrRThEanJObVFjWFJqcWZrRl9TWXZGT3NzcWdxbHJMUFNVMk94LUszSFYxTV9hSnZESHNlek9abnVTUVplb3hDVU93U2Utc2pFaVFBeHRGSVdjTG5BT3pzUjBzRDFnRFg1cjRwVTVBTldneC1PMXliN0FfVTJwSU1neXgtcFVlZGw0RE9FY0RpdENzWjBuYjJCN0dfdkN2aFV0Nm1v0gHWAUFVX3lxTE1lS0hXOHk0M0xKTktWZ0Exc3k3SVVWZGZuaEVWdV9iV0ZlYVJhZUZNQ2tCcU9NR1JXUDJDSkRXS1FQMTVhRUdGOUdJbnR3RW1oLVNFM1Zha294Z3c3ekdraHhpaFhmZWZRRm9ESS1jWFF6U2tVdjFWaGN1U1BCTjBQQmUxRW12bnlQQ2lkNXZja1JGbXp0RGhpcUJMRGp6c2tNeFBvZl8wODcwUm1sRjYzRmRkcDZTZHJvcVBYVHFuNXNFS3FuVlNubi1pTXB3YjkzSklTM1E?oc=5",
-      "publishedAt": "2026-10-08T16:14:41.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "746e017fb8f0",
-      "title": "AI in architectural projects webinar - RIBA Journal",
-      "summary": "AI in architectural projects webinar &nbsp;&nbsp; RIBA Journal",
-      "source": "RIBA Journal",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HSlM5TXVDMjZwLVlCenVQdVliQXhfLTV5TWlROEtDMFpGWDdxOHQwVW9fTmRyVWFNVjBibWZCSmpNLWtMbkwxVzZQQ1BOR2E4a0hyaHBJUWRJMTJUQ0dRNlpvODFUMmw2Q3U5TlB3Q1VTZw?oc=5",
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "670e6e3698c6",
-      "title": "Georgia Tech Uses AI to Reconstruct Ancient Architecture, But the Real Story Is Architectural Grammar - Parametric Architecture",
-      "summary": "Georgia Tech Uses AI to Reconstruct Ancient Architecture, But the Real Story Is Architectural Grammar &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rLUVhRzJjaXNxTGlyMDhWUEYwZjIwaEh6blpQbkcxX01NeEY5ay1nTkhpY3VYNXlTcTk4OHR4LVVXT3NVb0IzWXRfeGFTMTFQV1UySHlfanVNa0J0RWFOcjIybHpaVUtLc0t3dUFLSU5qY2FjVWc?oc=5",
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     }
