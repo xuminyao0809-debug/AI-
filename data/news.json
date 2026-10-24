@@ -1,16 +1,139 @@
 {
-  "updatedAt": "2026-10-23T00:37:51.608Z",
+  "updatedAt": "2026-10-24T00:37:52.134Z",
   "items": [
     {
-      "id": "55b306f0987a",
+      "id": "cf44e23ab743",
+      "title": "Brain Foundation Models Shift From Borrowed AI Designs to Neuro-Native Architectures - Bioengineer.org",
+      "summary": "Brain Foundation Models Shift From Borrowed AI Designs to Neuro-Native Architectures &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRm5ybUxoVU5sS1lSREtWTDBXNUpfZ3dNOVVFNDlZdjVzYW9aXzhQeG1tdFdKVjVDZFlQWVNad091QmtKblZNUnBaTUVnR0tfOG9lcTFuel9OYkJWbm8teUNUa1VKdjQwUWR1TkhzdFJUT0VsQXZVQ3RYMXRjbVZiS19RRFlzdHFvZTJrNGJFVnZmTEpJR3RLR2NkV3RjX2x2VjAwUmo4ZXVlZkV0YkE?oc=5",
+      "publishedAt": "2026-10-23T23:04:17.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "0b7ad676b913",
+      "title": "How Are Architects and Designers Navigating AI? - Metropolis Magazine",
+      "summary": "How Are Architects and Designers Navigating AI? &nbsp;&nbsp; Metropolis Magazine",
+      "source": "Metropolis Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2dnQV9hclhUVUo4amJvMm43YVNLZmQ4dFp3RFRFb0ljQVJvWHRvaURyd1d0anVPcUNXWU9XZkVnLVNxa0hJekF4MnJ2TUZnLTd6Y0J5VEQ3QnN0WjVDS1BPbmRwMkR0VDdaVm1va2lOSWtiOFNMZGRFWF9nSlVabF94QlBlWTlSRHZkaw?oc=5",
+      "publishedAt": "2026-10-23T17:02:19.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "0de611a08628",
+      "title": "Basque Museum Bilbao / VAILLO + ARCHITECTS",
+      "summary": "The project is the outcome of a competition for the comprehensive architectural and museographic renovation and rehabilitation of the Euskal...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects",
+      "publishedAt": "2026-10-23T15:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "ee602190c41e",
+      "title": "AI in Architecture: How Algorithms are Redefining the Future of Design - Realty Plus Magazine",
+      "summary": "AI in Architecture: How Algorithms are Redefining the Future of Design &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUg4VlpRWEVJeWtqUFlMSEJaeEdELWpKRjV5SnM1SWZxVjg4aHRVNjVjYndYYzNISTBWWUV3Z1lnR3EtQjJycWtHR09LeGhtMjFuZ0ZTeHg3azNPX3ZEOE9hM18wNnlncExxTkpBU0p4cEhPWS10R3VBSDMwRTdUT2RIWXAtRzh4TEhMdHF3Nk14WktNc1NqOE5fMGI1SmFzWGY5OFVtT3BTT2lOQWUwbUtsQXVhMTlBU21INnpn?oc=5",
+      "publishedAt": "2026-10-23T09:29:30.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "6cbd273acedc",
+      "title": "Architectural competition for the design and supervision of the construction of the project “Limassol Arts Centre”",
+      "summary": "Competition description The competition aims to create a contemporary, flexible, and sustainable cultural facility (&ldquo;Limassol Arts Cen...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187254/architectural-competition-for-the-design-and-supervision-of-the-construction-of-the-project-limassol-arts-centre",
+      "publishedAt": "2026-10-23T09:00:00.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "ce8d9241d8a4",
+      "title": "Buenos Aires Architecture City Guide: 31 Sites Between Heritage and the Contemporary",
+      "summary": "Buenos Aires is a city of rich history and distinct atmospheres. There are many reasons to explore its architecture: the city is the result ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187373/buenos-aires-architecture-city-guide-31-sites-between-heritage-and-the-contemporary",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "44130268af86",
+      "title": "Scaffolding as Interior Architecture: The Longevity of Temporary Structures",
+      "summary": "Scaffolding is perhaps one of architecture's most familiar temporary structures. It accompanies buildings through construction, maintenance,...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187248/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures",
+      "publishedAt": "2026-10-23T07:30:00.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "building"
+      ]
+    },
+    {
+      "id": "31bb37c7d423",
+      "title": "Pavilions as Stances: 6 Unbuilt Proposals from the ArchDaily Community",
+      "summary": "In architecture, the word \"pavilion\" can describe an endless variety of structures. It might be defined as a principle and a typology , a fr...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187233/pavilions-as-stances-6-unbuilt-proposals-from-the-archdaily-community",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "69b363172e92",
       "title": "Designing an AI serving harness built to last - MIT Technology Review",
       "summary": "Designing an AI serving harness built to last &nbsp;&nbsp; MIT Technology Review",
       "source": "MIT Technology Review",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXJMVXFTcnFyTWpUVlpPckVsQlJtakROTUIwa0RteGloQTdqR0N5aFN3Z01XNm4wWmdxTGNJaHFIbWJVTHd1SGU5V3NGNjNySzZsdldOcHlFT01IaXFQNUNHUXNMMFdxQkFUaGQwUF81bE80OUpaVUNKaXl3UkdES1I1QmM3RjBYUm5mZnhNaWRtajdaTFlfVHliVkN2dFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXJMVXFTcnFyTWpUVlpPckVsQlJtakROTUIwa0RteGloQTdqR0N5aFN3Z01XNm4wWmdxTGNJaHFIbWJVTHd1SGU5V3NGNjNySzZsdldOcHlFT01IaXFQNUNHUXNMMFdxQkFUaGQwUF81bE80OUpaVUNKaXl3UkdES1I1QmM3RjBYUm5mZnhNaWRtajdaTFlfVHliVkN2dFHSAaQBQVVfeXFMTjJRLUhTbTV3ZW5mME0wc1BhM3hwS2pKaEctYXQwUTZOOFpabmtXSG0xbjc1RXRydUI2T0ZpNURWRUxHVnRnaGMxSGtFc3NENXZLTmh6RmlabnpHdWR4LXh3VmFLM19aMlZnQ2IwS2MtdEhlTE91ZFlyZl96MDFPeHdDX29NZ1lQS1Q3Smt4c3N6SllUME5XZjlnbTlhMlBlX0FuaDg?oc=5",
       "publishedAt": "2026-10-22T21:17:29.000Z",
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "1df9990b2282",
+      "title": "Using AI to re-architect the Cisco DevNet sandbox environment – Part 1 - Cisco Blogs",
+      "summary": "Using AI to re-architect the Cisco DevNet sandbox environment – Part 1 &nbsp;&nbsp; Cisco Blogs",
+      "source": "Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEZFVVpfenByOEVRZUdZMXNsUXdrZTB5SjFYNFNncmdwaEc5eGMyalRlbTVleTY1VERNY0k0aEpPY1pUakpYQ21sUTRpc1NKQTZta2x1c2g2RkEtd1R0TjVPMGFwbjZZZ3NHV2p0NjVOSFQzOE8wTThMZzl0WEs1eXBn?oc=5",
+      "publishedAt": "2026-10-22T20:27:14.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
       ]
     },
     {
@@ -54,18 +177,6 @@
       ]
     },
     {
-      "id": "d6a8a1355bd8",
-      "title": "Snøhetta’s Shanghai Grand Opera House Opens and Chicago’s 1901 Project Advances: This Week’s Review",
-      "summary": "An international cultural venue was inaugurated this week after a decade-long construction process. Snøhetta's Shanghai Grand Opera House op...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187318/snohettas-shanghai-grand-opera-house-opens-and-chicagos-1901-project-advances-this-weeks-review",
-      "publishedAt": "2026-10-22T05:30:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "281ee26e9a3c",
       "title": "Architect Eleni Kalapoda: AI is “an instrument, not an author” - Philenews",
       "summary": "Architect Eleni Kalapoda: AI is “an instrument, not an author” &nbsp;&nbsp; Philenews",
@@ -79,12 +190,12 @@
       ]
     },
     {
-      "id": "52d5d00a580c",
-      "title": "NVIDIA Unveils OpenShell Reference Architecture to Keep AI Agents in Check, Using Dedicated Chips to Monitor Behavior - XenoSpectrum",
-      "summary": "NVIDIA Unveils OpenShell Reference Architecture to Keep AI Agents in Check, Using Dedicated Chips to Monitor Behavior &nbsp;&nbsp; XenoSpect...",
-      "source": "XenoSpectrum",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkhTLXN5bnlLYVZGLURTRmlPdDV3SW5URVBuTDhVUzZNS1dEbWtudWJ4YmRHWXFKa1I3NG9QaENGN2VYQXFTSjNBZ01JNWVNa1UxclpHUER1OU9wOG5Ob3hJQzY5MFlTNUo3VTBLWnhYWkZtNVozMFV6eF9keVJRajFuRHF5LU9fSXBqUkI0Zw?oc=5",
-      "publishedAt": "2026-10-22T02:27:46.000Z",
+      "id": "095f0f52c4a3",
+      "title": "A regulation-aware architecture for governing AI-generated content - Bioengineer.org",
+      "summary": "A regulation-aware architecture for governing AI-generated content &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGdPN3dQNzhqOXRxTkRKX2hkMkF0cHhWcnJ3QkJJR0RyclJIcTlZNFBmMFFicDI5VGV4eG8yN2lBbkNud0hJS3BoWkpMR1pNdGdKMW5leElFU2c4SjdGUldGYXpveTYtb0ZSenNTSXJJVW9QdnlSQXRTTDdtTm1ncHkwcDZsbm5qZjdRdlg2ZjhzZHNyM0E?oc=5",
+      "publishedAt": "2026-10-21T22:48:28.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -164,7 +275,7 @@
       "summary": "Op-Ed: Can AI save the world from unspeakably dull architecture? Maybe. Or make it a lot better? &nbsp;&nbsp; Digital Journal",
       "source": "Digital Journal",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbV83UllTLUdzN0FoLUFFV1BFVTZ1Ui1iMG82bWdmZU50YkxMNnExc2JqY1EwdVZRc3BHTHNYV2xqZGJoTHVlMnJacGdZT04zYndoaFNaNllhSjJvb3pMUjBZS3BCY2g4NGtULXljeUZsWko2V2RsczEyR3Iwc2JYTU9EZUROdnNYS2hTb296TmJJcjA1M0RZSFBjU2hvU25wSjktVEJaOW1PVmdxcjhIUGRhbFJwNjBsSHJIQk01U0dNOUtmbnpQcG5NRmM?oc=5",
-      "publishedAt": "2026-10-20T23:08:58.000Z",
+      "publishedAt": "2026-10-21T06:59:59.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -258,19 +369,6 @@
       ]
     },
     {
-      "id": "252a9421dbd9",
-      "title": "Major American architect uses AI to solve a unique problem at APEC Phu Quoc. - Vietnam.vn",
-      "summary": "Major American architect uses AI to solve a unique problem at APEC Phu Quoc. &nbsp;&nbsp; Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDkzSzFZdlpxZFJZd00zdkxXbEFjN3F3VDhvbVZqeUt3VXU5eWtDNVcxSFRkYVZBS0tTLXRJOHhISzE5NjJXTWZwYUVqdkZ0b0VjeklvZzlVYTN3aTNQSW1zUE1FUEVPbWI1TVNTbVFIXzlUU2VwUUw3QVBmcnh1T1VyN29jdGplZFhidjdqcEVvMjNxU0hDbmRFcw?oc=5",
-      "publishedAt": "2026-10-17T07:39:13.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "8be930aeeee9",
       "title": "AI Can Draw Any Building. But Can It Imagine One? - Sixth Tone",
       "summary": "AI Can Draw Any Building. But Can It Imagine One? &nbsp;&nbsp; Sixth Tone",
@@ -302,20 +400,6 @@
       "source": "AiThority",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1h4NE04Z3BWNTY0N0NVNnlHMHdOOVRBWG02clVaRE1MMWlRZHFtNDd2X2lZSkQxMG5jNnVFclY3N250STg0NVF1RzJWTGJ0SmxSSl9hM0VvaFFhTkhCaFEzNGF5THB3bUU0Slhpa1BGd2tCLUZyM1NWVUNVTW1JVnNPUzhvanZzR2dELTZjck5RbU9nZmRnME1PVFRaOGhHMWI2QTNvTUVXMFBEcHNXWGJVeUdheDdZWGlrRTltVGd4ZnNFdGF0cUVQRmROWkY0a2pwYlZ0YmhxN3MxSm90Wkg0MVhEbV9OTWQ0dE8yYUJzQUpv?oc=5",
       "publishedAt": "2026-10-16T07:49:17.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "56dd0430aa6d",
-      "title": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on urgent notice - Architecture & Design",
-      "summary": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on urgent notice &nbsp;&nbsp; Architecture & Design",
-      "source": "Architecture & Design",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck9TWnV4eGZ4MGFkZGFJc2ZIRHhYdG5US1FHbDV2SzV4U3ZBTnR1bnZGUXFhcEpvWnUtakdNc1h3MzJwakVhZC0tVTR3VFdIbXozZFNTaGlfb2N5WWlDbnpNTEp1OGtFZTFmSzJkVFhiXzBieHJ5VUtBajlJbUlQRm5uLTZhTnRqaVNwRVRBRzdqWDk1Y01ZZnhXZXBQcGFFSTc0ZU9rUzRYY0ZySEFnWGtIbw?oc=5",
-      "publishedAt": "2026-10-15T23:51:37.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -362,6 +446,20 @@
       ]
     },
     {
+      "id": "56dd0430aa6d",
+      "title": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on urgent notice - Architecture & Design",
+      "summary": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on urgent notice &nbsp;&nbsp; Architecture & Design",
+      "source": "Architecture & Design",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck9TWnV4eGZ4MGFkZGFJc2ZIRHhYdG5US1FHbDV2SzV4U3ZBTnR1bnZGUXFhcEpvWnUtakdNc1h3MzJwakVhZC0tVTR3VFdIbXozZFNTaGlfb2N5WWlDbnpNTEp1OGtFZTFmSzJkVFhiXzBieHJ5VUtBajlJbUlQRm5uLTZhTnRqaVNwRVRBRzdqWDk1Y01ZZnhXZXBQcGFFSTc0ZU9rUzRYY0ZySEFnWGtIbw?oc=5",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "10af55b7aadf",
       "title": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fastest On Earth” - Wccftech",
       "summary": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fa...",
@@ -385,98 +483,6 @@
       "category": "研究",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "47628cc446da",
-      "title": "AMD Unveils Helion Open Rack Architecture for Enterprise Agentic AI Infrastructure - Konsulteer",
-      "summary": "AMD Unveils Helion Open Rack Architecture for Enterprise Agentic AI Infrastructure &nbsp;&nbsp; Konsulteer",
-      "source": "Konsulteer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0RhRVFkcFJTa1VmNjgtVFl3RzJPMkVhQkE4b2xYYWh3N3NBWGR5eXEzd21nZHRCRXBCdFB3RmRrTzFBbDhaWUQ4NUR3d1l5MTlIb2pUbG9Hd2UweVJfcURTX2xrbi1DNzZmaldjNl91XzFKSDJTaTg1SDFGcDJyaElBNTl0M2RFY0lKNXFmRkVkNFJsOVA2eWstay1nU3RSblE1eFlFbGYyVTZjM1lLQWxLckdIQzRn?oc=5",
-      "publishedAt": "2026-10-14T13:03:06.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "748bb3b0d3ba",
-      "title": "VisionWave Advances Stratum AI, an Agentic AI Architecture for Autonomous Mission Intelligence and Orchestration - WBOC TV",
-      "summary": "VisionWave Advances Stratum AI, an Agentic AI Architecture for Autonomous Mission Intelligence and Orchestration &nbsp;&nbsp; WBOC TV",
-      "source": "WBOC TV",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONFBWVEkwQ3RqZkM1d2gtVklNV0c4bEg0bENEZXNLeXFpeWZHS1pTMlI5b3pWQVhEV0dzdFBoalVwRGRvcmZPeFNXd2oxemJ2TThtMU1NZEM1WEJndGRYRmU2N1JFT1RwZnJHSHM3Z1BKa25Nak9kWEEzbjhkS0h5NGJydWlUYkh2R2pjeDBFRVZPRVlDUWRQMUFycU9oRkpJbWtwSUc4Y19qTWMtaVc4aDhfODZSQk1wWURxVUxjSkVZQk0wTWtLa0J3dC01S0xqeGlnMzRsLUg0Y0hYMUswcnBwaVJ6Q0xrYXNWT2hkQVRCbkJodnR4NkwtU3FmN0xMandsQzVlb0dvV2dZek9BMVVNbFRYT3lEVFVlX255SENDeUVLOXhjRzJYazVmZnpSVUstX3EtRUs?oc=5",
-      "publishedAt": "2026-10-14T10:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "02207d974b65",
-      "title": "AI designed to coordinate autonomous machines is still in development at VisionWave. - Stock Titan",
-      "summary": "AI designed to coordinate autonomous machines is still in development at VisionWave. &nbsp;&nbsp; Stock Titan",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGExQmJpWmNTa0tIV2s1YmFkdEYtSlpHZ1RqS0RNbHhsa1Y4NE5UQ0hxSEZ1aGJlWXZkanV6UlZXZjI2LWdzZlZ4TFJLMHY5ajJGOUVpX0w0NV9tWU9IM0tKbDVMeEhnSWdXa2pzbEdlWFVXal9kZU1LUW9pZzY0RkRTeVBjM2dGcFU1Z2xOUVN2WkpZdjRVNnhZbTNEMnVHNWFSTUVRNll2aFg2MWZRWG95Y0ZoV2Nf?oc=5",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "a0ee5fe1b95a",
-      "title": "From Compute-Centric Design to System-Level Integration: Marvell and the Next Transformation of AI Infrastructure - semivision",
-      "summary": "From Compute-Centric Design to System-Level Integration: Marvell and the Next Transformation of AI Infrastructure &nbsp;&nbsp; semivision",
-      "source": "semivision",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQajFzNUN0Q2xoVjZlS1NDYmNLS0pmTmFVdTR6U3ZuWGIya0pXMDJBbmROUTZrazFrTjA0VDNRbktWYmVfM0U0cUNFS2lJV28zc0JZeThqQzFxSzd1Vy1oelB3Rm1PaVIya2I4M2EzUlgxaTlqWVVoZ3Y5UHZjVkFkd0JfQzg?oc=5",
-      "publishedAt": "2026-10-14T04:19:17.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "9ce323cef089",
-      "title": "LG Electronics, GS E&C to Jointly Develop Immersion Cooling Standard Design for AI Data Centers - BigGo Finance",
-      "summary": "LG Electronics, GS E&C to Jointly Develop Immersion Cooling Standard Design for AI Data Centers &nbsp;&nbsp; BigGo Finance",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xSldjNGQ4Sy1vclJxMFNKellCR3FoQWtVTGRQQVRUQ3YwV2ZvSzVYWWFOaEtxejdUNzllaUk1SGVjNGx1dmREUnk4RTZUTUgyMVBYX3NMdHdRcktFdXBSdk5CbVZhV3VUT282M1VqOTYzUFdUUVE?oc=5",
-      "publishedAt": "2026-10-14T03:05:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "204ff2cd84d0",
-      "title": "Blueprints AI Uses Generative AI to Automate Building Plans and Construction Documentation - Konsulteer",
-      "summary": "Blueprints AI Uses Generative AI to Automate Building Plans and Construction Documentation &nbsp;&nbsp; Konsulteer",
-      "source": "Konsulteer",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFJkSlpWYTNyVXRTNGRTSkFOaGpEeEg0dFpBY1ZZQVdEa0d2dnZBcFh1ZG8weWFpLVcydHlEUi1KdmZ5Sk5mTkplNG96SEZwTThqazdWeEdxclU4QlltNVRWdlNxY0lsMEVxZTVJTDVBd085RnFnZEp5OW5PTFVhR0hfOVRBaEpjTk04eXpXbXIwVW5qQ0dxRmlpWFBpY0pWVjBQVzdqbV91UnBsYjk5MkR0ZmNDUmI4bUswT2F6bHljRk0?oc=5",
-      "publishedAt": "2026-10-13T11:30:05.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "generative",
-        "building"
-      ]
-    },
-    {
-      "id": "a15ac7ab7708",
-      "title": "Hybrid AI architecture improves seizure prediction using EEG signals - News-Medical",
-      "summary": "Hybrid AI architecture improves seizure prediction using EEG signals &nbsp;&nbsp; News-Medical",
-      "source": "News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakQ5ZlB5M1lNOFNUQldjeTQ4dFF3ZC1SMGRuTkI2TGFwNjFLNGc4ak5rYmFhNHVJbkdNOVRULTJwb2dyenFmREpDTkoteHFzeXFpZXdXUnRsYThVREpQcDlDU1l3NFNyMnZoM1RVSGJGM3QwSDhjNmdXdkhlQ2FXYW1vWnVOWDdQZ3FhOHFrVEdGTFIwUjVnSjIxY0V2dnRRTkthNXNVT2tBZjYtS0ZLVW5jc3phR28?oc=5",
-      "publishedAt": "2026-10-13T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     }
   ]
