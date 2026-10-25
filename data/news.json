@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-10-24T00:37:52.134Z",
+  "updatedAt": "2026-10-25T00:18:49.618Z",
   "items": [
+    {
+      "id": "775411448234",
+      "title": "Legombang Treehouse / Cave Urban",
+      "summary": "Legombang Treehouse reinterprets traditional Balinese architecture as a contemporary tropical family home, using reclaimed timber, passive d...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186813/legombang-treehouse-cave-urban",
+      "publishedAt": "2026-10-24T17:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "cf44e23ab743",
       "title": "Brain Foundation Models Shift From Borrowed AI Designs to Neuro-Native Architectures - Bioengineer.org",
       "summary": "Brain Foundation Models Shift From Borrowed AI Designs to Neuro-Native Architectures &nbsp;&nbsp; Bioengineer.org",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRm5ybUxoVU5sS1lSREtWTDBXNUpfZ3dNOVVFNDlZdjVzYW9aXzhQeG1tdFdKVjVDZFlQWVNad091QmtKblZNUnBaTUVnR0tfOG9lcTFuel9OYkJWbm8teUNUa1VKdjQwUWR1TkhzdFJUT0VsQXZVQ3RYMXRjbVZiS19RRFlzdHFvZTJrNGJFVnZmTEpJR3RLR2NkV3RjX2x2VjAwUmo4ZXVlZkV0YkE?oc=5",
-      "publishedAt": "2026-10-23T23:04:17.000Z",
+      "publishedAt": "2026-10-24T00:36:05.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -109,18 +123,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "69b363172e92",
-      "title": "Designing an AI serving harness built to last - MIT Technology Review",
-      "summary": "Designing an AI serving harness built to last &nbsp;&nbsp; MIT Technology Review",
-      "source": "MIT Technology Review",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXJMVXFTcnFyTWpUVlpPckVsQlJtakROTUIwa0RteGloQTdqR0N5aFN3Z01XNm4wWmdxTGNJaHFIbWJVTHd1SGU5V3NGNjNySzZsdldOcHlFT01IaXFQNUNHUXNMMFdxQkFUaGQwUF81bE80OUpaVUNKaXl3UkdES1I1QmM3RjBYUm5mZnhNaWRtajdaTFlfVHliVkN2dFHSAaQBQVVfeXFMTjJRLUhTbTV3ZW5mME0wc1BhM3hwS2pKaEctYXQwUTZOOFpabmtXSG0xbjc1RXRydUI2T0ZpNURWRUxHVnRnaGMxSGtFc3NENXZLTmh6RmlabnpHdWR4LXh3VmFLM19aMlZnQ2IwS2MtdEhlTE91ZFlyZl96MDFPeHdDX29NZ1lQS1Q3Smt4c3N6SllUME5XZjlnbTlhMlBlX0FuaDg?oc=5",
-      "publishedAt": "2026-10-22T21:17:29.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -258,6 +260,20 @@
       ]
     },
     {
+      "id": "6ab81d4653f3",
+      "title": "Article Series: Agentic AI Architecture - infoq.com",
+      "summary": "Article Series: Agentic AI Architecture &nbsp;&nbsp; infoq.com",
+      "source": "infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDWFFHaTU1WGVUTFp2QU9IN2pjczhlR3RmLUFtYS1kNjVJNk53ZlFpcVFOaHd0MndCWTNpOURsN2oxNkdQYzlPOXo2bUVmV0JGSnF6OUVPWHZTemVRYWd6MFBDRDRhOHVGRXZqQ2FhdVFqQVA2RlQ5LUtB?oc=5",
+      "publishedAt": "2026-10-21T11:30:12.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "c15eb5d5241d",
       "title": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin - Yahoo Finance",
       "summary": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin &nbsp;&nbsp; Yahoo Finance",
@@ -313,40 +329,12 @@
       ]
     },
     {
-      "id": "e8250f652699",
-      "title": "Taiwan Forum Unites Healthcare, AI and Architecture to Shape the Future of Healthy Living - 天下雜誌",
-      "summary": "Taiwan Forum Unites Healthcare, AI and Architecture to Shape the Future of Healthy Living &nbsp;&nbsp; 天下雜誌",
-      "source": "天下雜誌",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YeHNLV0dYamllQUQ5UDJKYnJHa1o1SDhoRkdVMEY1dktxM2w1QWg4OXV4QmxvWFlBLU5fU1hOZUEyZzVPd3NDNWZscllxVU1PMDhBMmJBSFVaVjNKZVpnVTkwQTd1QWc?oc=5",
-      "publishedAt": "2026-10-20T06:30:34.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "28181e4f4a18",
       "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC) - Semiconductor Engineering",
       "summary": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC) &nbsp;&nbsp; Semiconductor Engineering",
       "source": "Semiconductor Engineering",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjQ1R0tnV2RjbXc4UkZEX0FIUHdFSkRZNUZXTGxoY25hbmw5ZlhjQjY5X2JtTFctMHhubVd5blp6TmRPLThRX19rTS1JeWh0eHdicG41eEoyM2NiYk40V2o3TE9oUThLZ3l3bFQta3NramJQMzd3cnY4dnVSb0k4dFAtU21MVGF0anZuMHBjejdtS21jaU9SbFE5RFVWTXBBOXl2V2FSUExva0dNTGtCZw?oc=5",
-      "publishedAt": "2026-10-19T17:47:59.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "2e65e0b7fd84",
-      "title": "Why AI Workloads Need a New Cloud Infrastructure Architecture - Nasscom",
-      "summary": "Why AI Workloads Need a New Cloud Infrastructure Architecture &nbsp;&nbsp; Nasscom",
-      "source": "Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1pYdE8wMVRFTElCY2N1Qnd2eGpDRmJ0VnE4RE1RcFJvY28xZ3YxSUtiRGpBQmc4ek5xRnJ1a09CcnJidWtJS2p4N3I3elM3MmRJRGg4Q004YXZwUWZpNjJROFpveGdReFhWSHNRSFlXbnhVdWFaXzA2RnV5WEdzbG1VMDBTWmxHYWRXbGFqQjk3cW8wRGFFcHltWWZXMXVEVms3NnJR?oc=5",
-      "publishedAt": "2026-10-19T09:20:31.000Z",
+      "publishedAt": "2026-10-19T16:58:15.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -365,6 +353,19 @@
       "tags": [
         "ai",
         "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "252a9421dbd9",
+      "title": "Major American architect uses AI to solve a unique problem at APEC Phu Quoc. - Vietnam.vn",
+      "summary": "Major American architect uses AI to solve a unique problem at APEC Phu Quoc. &nbsp;&nbsp; Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDkzSzFZdlpxZFJZd00zdkxXbEFjN3F3VDhvbVZqeUt3VXU5eWtDNVcxSFRkYVZBS0tTLXRJOHhISzE5NjJXTWZwYUVqdkZ0b0VjeklvZzlVYTN3aTNQSW1zUE1FUEVPbWI1TVNTbVFIXzlUU2VwUUw3QVBmcnh1T1VyN29jdGplZFhidjdqcEVvMjNxU0hDbmRFcw?oc=5",
+      "publishedAt": "2026-10-17T07:39:13.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
         "architect"
       ]
     },
@@ -460,20 +461,6 @@
       ]
     },
     {
-      "id": "10af55b7aadf",
-      "title": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fastest On Earth” - Wccftech",
-      "summary": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fa...",
-      "source": "Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU0kyNWlVVUpMcjJoQmpHRUtiSE43M3J2YllZNHJpaFEzWWVzNkpfbXNqQjh1N1M1alFXdHJXTVZsbkppYUZlenFBNXlPYmhoNGpTbENFU1hIRVN0UWV2ZG5XcTFCN2k0SVRBTDVmdVZDNk9pcVVROW1ySE80QVNpY2dydFYxQ1lQRjhrR05IWmhWS251TzZQUW5tQk1XWDlyaTN6WVVVOTB4ZzNzZkpuSDdsUzNaRXBZdjlfWkxtSmRBanpscVJIdVIyT05PQWktUUJONS1xcGdtYUZkaEkzOG9xcTFGWjZjZ0Rlbl9uZHdyX1lJd0tkVXdEdjJoMTQ1cWfSAYcCQVVfeXFMUHF1U3hjc2Q0ZXdJVWwyZmZjX2xJV2k1RG9oNktsNHpwYmJvM1lEN1BCVWpKWTVzdkFqai1oR1doOEZCb3dTd0dJRFhVMHJFRkNpQ2phR0h0OG5ldTczZXVHRUNndHAzSEkxRTU5aXBfZWxrRktLTDJFby1VVWJiUHRYdXEyN3pSdjdSV0txTkJRaHp6Nm1hREZscExxbnNjR1FXcjNsWkUtWENOd3lkX1pwZWRUejlrMUtQV2J5UjFTdnpKaXo5T200SDd3ZmhKX0tBdXhaaXh5eFoyeDAtdm1uSlBvNUpZNndfX1R6QlMtanNaQ0tVUnZXb3NNX1VfN2hDQTBYZm8?oc=5",
-      "publishedAt": "2026-10-14T22:05:41.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "74127845f67f",
       "title": "Swamp Ushers in the Second AI Frontier with Behavior-Centric Design - FinancialContent",
       "summary": "Swamp Ushers in the Second AI Frontier with Behavior-Centric Design &nbsp;&nbsp; FinancialContent",
@@ -483,6 +470,20 @@
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "47628cc446da",
+      "title": "AMD Unveils Helion Open Rack Architecture for Enterprise Agentic AI Infrastructure - Konsulteer",
+      "summary": "AMD Unveils Helion Open Rack Architecture for Enterprise Agentic AI Infrastructure &nbsp;&nbsp; Konsulteer",
+      "source": "Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0RhRVFkcFJTa1VmNjgtVFl3RzJPMkVhQkE4b2xYYWh3N3NBWGR5eXEzd21nZHRCRXBCdFB3RmRrTzFBbDhaWUQ4NUR3d1l5MTlIb2pUbG9Hd2UweVJfcURTX2xrbi1DNzZmaldjNl91XzFKSDJTaTg1SDFGcDJyaElBNTl0M2RFY0lKNXFmRkVkNFJsOVA2eWstay1nU3RSblE1eFlFbGYyVTZjM1lLQWxLckdIQzRn?oc=5",
+      "publishedAt": "2026-10-14T13:03:06.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
       ]
     }
   ]
