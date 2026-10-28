@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-10-27T01:27:34.421Z",
+  "updatedAt": "2026-10-28T01:17:41.677Z",
   "items": [
+    {
+      "id": "83b68902f9de",
+      "title": "Cadence Trains Chip-Design AI on Verified EDA Solver Results, Claiming 5x Token Efficiency - Tech Times",
+      "summary": "Cadence Trains Chip-Design AI on Verified EDA Solver Results, Claiming 5x Token Efficiency &nbsp;&nbsp; Tech Times",
+      "source": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVdzNWw5eEkybWVyZ3ZlV1lHRHBjSk1zZm5rbS1zUHJXTlRTSTlyLXM3WGdWSTJuQkN4bDk1dm1iQkgzZWhERGtJWmI1QzF2cGR3bWRhd2xjQzV3RkZBNU42ajlwWWk1cWdJMG94X3RkM3VrTUR3YjRvWnBxeVg5NDFxVlowbDNjTU52M0lReVMzdmV2bXVBaGZjMEJqVkZ1U1NycGNQdjJIZjUwMV9tVElqX3ZCWHpKN0Z3b0MzY1JxZGpoQkJUbUFMcG5DbHJlaVJaVDBnWVU?oc=5",
+      "publishedAt": "2026-10-27T11:23:53.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "c1377cb5728c",
+      "title": "Responsive Architectural Presentations with AIResponsive Architectural Presentations with AI - Parametric Architecture",
+      "summary": "Responsive Architectural Presentations with AIResponsive Architectural Presentations with AI &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcERJZjl1UTdrbURjRmVZeTJLVGFqTk5xNG5PalJ6OGtjXzhicGVQam5aRkFqZURBUE5fVkZNbFZhZGgxV2dINlE5bmdTNlJhVE5Jc09IdVVpejhZcnd0SWVaNEtLNnpLTXdUeFFyQXVSVHhWSGZkQUtJVTVvWmQwNVl6VlBVU0dZRkk4?oc=5",
+      "publishedAt": "2026-10-27T05:56:34.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "97dbcba5cd68",
+      "title": "From Asbestos to Fungi: Eight New Materials Made from Waste and Living Matter",
+      "summary": "Architecture is, above all, a material reality. The materials that surround us are the result of a chain of constructive, economic, aestheti...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187576/from-asbestos-to-fungi-eight-new-materials-made-from-waste-and-living-matter",
+      "publishedAt": "2026-10-27T05:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "5729234cd7b9",
+      "title": "Dammed Between Energy and Water Scarcity: The Grand Ethiopian Renaissance Dam and the Nile",
+      "summary": "Every large dam divides as much as it connects, and the Grand Ethiopian Renaissance Dam is no exception. A monumental feat of architecture a...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186770/dammed-between-energy-and-water-scarcity-the-grand-ethiopian-renaissance-dam-and-the-nile",
+      "publishedAt": "2026-10-27T04:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "f6276261d7db",
       "title": "Will AI Replace Traditional Architectural Software? Carlos Bañón on the Future of Architecture and Design - Parametric Architecture",
@@ -30,6 +84,19 @@
       ]
     },
     {
+      "id": "f1c362fdcf86",
+      "title": "UC Berkeley’s new AI-research building is designed for human interaction - Fast Company",
+      "summary": "UC Berkeley’s new AI-research building is designed for human interaction &nbsp;&nbsp; Fast Company",
+      "source": "Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2V5UGpuVTFmUlRpZms2amotT2xzRnB6Y1A3ZXc5cGdMNHkzZjhUVTc5UC1JZ2hoZ3ljMkFfTkQwcW9tbW5wUWhqc1JjZTJ4ejlLakZOVjZUR0dDYk41ZUpndWZPNTBRVHFXbzBPMElIMEpUODM1ZDJUX0hIZnRpSVd1eE9XMzI2cURGZDdISFpHOEVCMDBN?oc=5",
+      "publishedAt": "2026-10-26T10:41:52.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
       "id": "ff6217fd3a50",
       "title": "MOKUZAI / IT'S Studio",
       "summary": "Mokuzai is an office building that includes public health services, featuring a mixed timber and concrete structure designed by IT'S.",
@@ -43,16 +110,17 @@
       ]
     },
     {
-      "id": "479b3aa2ea9e",
-      "title": "Building the View: 4 Brazilian Houses Framing the Sea",
-      "summary": "Throughout history, people have sought ways to see the world. In Renaissance painting , linear perspective made this impulse explicit by tra...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186608/building-the-view-4-brazilian-houses-framing-the-sea",
-      "publishedAt": "2026-10-26T04:00:00.000Z",
-      "category": "案例",
+      "id": "2e5df8002c4f",
+      "title": "Who Buys Nvidia’s Packaged AI Factories in 2026 - Parametric Architecture",
+      "summary": "Who Buys Nvidia’s Packaged AI Factories in 2026 &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52aGJtempXdGRzRVJWYkFqMWpVWFBZS1BiWlpKZTBTMWw1ZTlNNDV0MXdGX1hwU0VZbW1rT0kxVWNWcFVpSEZlZ2VlR2NaM1ppX3pZekVWelhRSXR2XzVmbnNoR0FhLV9JUk1NZEpuYmFESDl3alBsU1hTTHEyQQ?oc=5",
+      "publishedAt": "2026-10-26T07:24:16.000Z",
+      "category": "生成式设计",
       "tags": [
         "ai",
-        "building"
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -152,12 +220,12 @@
       ]
     },
     {
-      "id": "bc87024a03c2",
-      "title": "Arm (NASDAQ:ARM) Climbs As AI chip-Architecture Demand Grows Today - Kalkine Media",
-      "summary": "Arm (NASDAQ:ARM) Climbs As AI chip-Architecture Demand Grows Today &nbsp;&nbsp; Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGlYbThpYWpqV2wtSWkxdVBtWWpMUXZEMHBNM1g2NlUzQTdkTkJzdkVkdUExaDc5SF83elgwUHdRajdiV2NEejFpODNSR3I5MThGSWs0bk5LMkNqUHpBNlRMd3Y3M0ZSbWlMUE5obTJHaE5VQ2NObWNNemZqNXFqMm9odHo1TFF3eWNpQ1VlMWxFa3Y2VHk1Ynk5MC1NSFNHY2xxalEzSWlYeDhVZFZjMmgyd21ucUNoeUVGQUJCUQ?oc=5",
-      "publishedAt": "2026-10-22T18:18:00.000Z",
+      "id": "732a44c09793",
+      "title": "Nvidia Unveils OpenShell Architecture to Monitor AI Agents - THE ELEC, Korea Electronics Industry Media",
+      "summary": "Nvidia Unveils OpenShell Architecture to Monitor AI Agents &nbsp;&nbsp; THE ELEC, Korea Electronics Industry Media",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80c3BucTRwZE9DUlFjQWtZNmUwY1pZWGJkaHZITDZNSE1EajNLODF3SFlEV0Y5eXU4Q3NSUExPNlpzLTMtVTdQczNxNHJmTnUwMEh2T3ZwaFFVNUFxZTR5YjJZeVFmQmM?oc=5",
+      "publishedAt": "2026-10-22T10:05:49.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -205,6 +273,20 @@
       ]
     },
     {
+      "id": "c195b8e8c4f7",
+      "title": "Nvidia launches DSX POD, claims the Vera-Rubin reference architecture will make AI data centers more water and energy efficient - Data Center Dynamics",
+      "summary": "Nvidia launches DSX POD, claims the Vera-Rubin reference architecture will make AI data centers more water and energy efficient &nbsp;&nbsp;...",
+      "source": "Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOXzdEQjg3MDRGc053TUxheklHb1JQTzloUGNiOGdKb0dVZVk4cVdZZXY3V05HNFdOTmlCaF96cTRyTnBJSGhsQmFfcUxkaFBiVnJ5QzBmODJndXFPcFVlaWNsYWJUSGZsenZ1VkpQOEVMZzRiamNPd2NKVm5hM0ZicUxfb0hON0h2RU51Y1Q2ajFIblNTa3dOOFJzUDNiWk5tbmJmWG5CX3NiM1NpQWNxOE5HUkJiVDlncFNFbzY5WVpnN2hmSkZBVDlmZFdGQ2kwanpPNjl6UVFDX2lOVlViWDRtMXhBNkE3aTRQT0RybXNVenowVEgyRkJrT3ZSNDA?oc=5",
+      "publishedAt": "2026-10-21T15:40:38.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "2fce711a02cd",
       "title": "NVIDIA details OpenShell reference architecture for AI agents - Blockchain News",
       "summary": "NVIDIA details OpenShell reference architecture for AI agents &nbsp;&nbsp; Blockchain News",
@@ -239,6 +321,20 @@
       "source": "news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVNLakpSb1VfNFBxZ1RXTWdPYUVGWEk0a2VPZHlDS0VvMVlrLS0yN0xYTHlCaVVaa09OM25KSGJWWFlvN3NHOHZjSllxTjBlczA2UTI4R2xtWVdvVEZXUEVZOXRldUtTZ2Q4WkIyd1VLU2dYQlAwOXJQekpmNGsza0FFNHlnV2xUUTVrRlBYang0WGxSVUxIYzZjRDYzX1RyeGMtMzNnaTl6RFVsQkxkdVEzdEdpSFM4djdISFk2WEVfYWtYRkN6c205SzQwSTdsU3lsR3VB?oc=5",
       "publishedAt": "2026-10-21T12:25:25.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "6ab81d4653f3",
+      "title": "Article Series: Agentic AI Architecture - infoq.com",
+      "summary": "Article Series: Agentic AI Architecture &nbsp;&nbsp; infoq.com",
+      "source": "infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDWFFHaTU1WGVUTFp2QU9IN2pjczhlR3RmLUFtYS1kNjVJNk53ZlFpcVFOaHd0MndCWTNpOURsN2oxNkdQYzlPOXo2bUVmV0JGSnF6OUVPWHZTemVRYWd6MFBDRDRhOHVGRXZqQ2FhdVFqQVA2RlQ5LUtB?oc=5",
+      "publishedAt": "2026-10-21T11:30:12.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -321,7 +417,7 @@
       "summary": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC) &nbsp;&nbsp; Semiconductor Engineering",
       "source": "Semiconductor Engineering",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjQ1R0tnV2RjbXc4UkZEX0FIUHdFSkRZNUZXTGxoY25hbmw5ZlhjQjY5X2JtTFctMHhubVd5blp6TmRPLThRX19rTS1JeWh0eHdicG41eEoyM2NiYk40V2o3TE9oUThLZ3l3bFQta3NramJQMzd3cnY4dnVSb0k4dFAtU21MVGF0anZuMHBjejdtS21jaU9SbFE5RFVWTXBBOXl2V2FSUExva0dNTGtCZw?oc=5",
-      "publishedAt": "2026-10-19T17:47:59.000Z",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -357,18 +453,6 @@
       ]
     },
     {
-      "id": "b60429a238e7",
-      "title": "2027 design forecast: From AI-generated concepts to highly personalised spaces - Adgully",
-      "summary": "2027 design forecast: From AI-generated concepts to highly personalised spaces &nbsp;&nbsp; Adgully",
-      "source": "Adgully",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2xOeldETDItUUdyU1RBdmVqalNaakRjT1IzOVJ4V1dUNUNNa1pHT0hkVHU4V0J2X1JJSDJRLVR2eV8yRFNKLUI5blFMLXhXdzZRVEwyQy11djV2X1NtOTc3YnFGR3J1aWRySGdwY1RkOUdxTzE4Tk1MTERvZVBHRlZ5RFVkR21tYks2Nld5bkFnTldjYWcwNzNHQlNCajFUWTdnYzlhdEk4TGxmR0c3cW9n?oc=5",
-      "publishedAt": "2026-10-16T08:32:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "ef2e0d1e1709",
       "title": "AI Resilience Architecture: Designing Intelligent Systems That Continue Operating When Data, Models, or Infrastructure Fail - AiThority",
       "summary": "AI Resilience Architecture: Designing Intelligent Systems That Continue Operating When Data, Models, or Infrastructure Fail &nbsp;&nbsp; AiT...",
@@ -383,6 +467,18 @@
       ]
     },
     {
+      "id": "b60429a238e7",
+      "title": "2027 design forecast: From AI-generated concepts to highly personalised spaces - Adgully",
+      "summary": "2027 design forecast: From AI-generated concepts to highly personalised spaces &nbsp;&nbsp; Adgully",
+      "source": "Adgully",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2xOeldETDItUUdyU1RBdmVqalNaakRjT1IzOVJ4V1dUNUNNa1pHT0hkVHU4V0J2X1JJSDJRLVR2eV8yRFNKLUI5blFMLXhXdzZRVEwyQy11djV2X1NtOTc3YnFGR3J1aWRySGdwY1RkOUdxTzE4Tk1MTERvZVBHRlZ5RFVkR21tYks2Nld5bkFnTldjYWcwNzNHQlNCajFUWTdnYzlhdEk4TGxmR0c3cW9n?oc=5",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "078d8cf2de77",
       "title": "AI Ready Plan Drafting: Blueprints AI Turns a Sketch Into Permit-Ready Building Plans… - Trend Hunter",
       "summary": "AI Ready Plan Drafting: Blueprints AI Turns a Sketch Into Permit-Ready Building Plans… &nbsp;&nbsp; Trend Hunter",
@@ -393,97 +489,6 @@
       "tags": [
         "ai",
         "building"
-      ]
-    },
-    {
-      "id": "5c2be8153d7e",
-      "title": "Why Hyperscalers Design Their Own AI Chips - Kings Research",
-      "summary": "Why Hyperscalers Design Their Own AI Chips &nbsp;&nbsp; Kings Research",
-      "source": "Kings Research",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwdWJKckxwZngxUmFRRk9LbXlEcVFMUEtNZGdaWDJSSFNjdXRiV1ZvS1dOejBWYWlGWlVOcGQtT1dlU3BRaUdkUEduZzVpVS1LMFpDMzZnTy1ST3lWd0l1U0VaQjNiX1ZuSU1jUWQ5TWpjX0d1Y0htbFhB?oc=5",
-      "publishedAt": "2026-10-15T14:25:03.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "9d93eb607cad",
-      "title": "Artificial intelligence now turns a sketch into a 3D model of a building (VIDEO) ᐉ News from Fakti.bg - Properties - Fakti.bg",
-      "summary": "Artificial intelligence now turns a sketch into a 3D model of a building (VIDEO) ᐉ News from Fakti.bg - Properties &nbsp;&nbsp; Fakti.bg",
-      "source": "Fakti.bg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2dzWjZHeFRaN1AzbzNGcW5FRXJJck1vNk5hQmY2WXItUHB4SGphYnlubmdGQnBUeE82UzBtLU1GR1RjNEliVHV4elVoZzJRWkxaMWx3OW9xSW15RElBWk9WQ2VKQWttOUM3TWs3MzhMYmtoWHVDX3JtZUhhakt6ZnlYal9TZGJ1eFVYU1RTSzZLS0lmQVlEdDVFbmhKVXh4blEwS3pmbHlWM1BsTERUSU1R?oc=5",
-      "publishedAt": "2026-10-15T13:51:00.000Z",
-      "category": "案例",
-      "tags": [
-        "artificial intelligence",
-        "building"
-      ]
-    },
-    {
-      "id": "56dd0430aa6d",
-      "title": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on urgent notice - Architecture & Design",
-      "summary": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on urgent notice &nbsp;&nbsp; Architecture & Design",
-      "source": "Architecture & Design",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck9TWnV4eGZ4MGFkZGFJc2ZIRHhYdG5US1FHbDV2SzV4U3ZBTnR1bnZGUXFhcEpvWnUtakdNc1h3MzJwakVhZC0tVTR3VFdIbXozZFNTaGlfb2N5WWlDbnpNTEp1OGtFZTFmSzJkVFhiXzBieHJ5VUtBajlJbUlQRm5uLTZhTnRqaVNwRVRBRzdqWDk1Y01ZZnhXZXBQcGFFSTc0ZU9rUzRYY0ZySEFnWGtIbw?oc=5",
-      "publishedAt": "2026-10-15T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "74127845f67f",
-      "title": "Swamp Ushers in the Second AI Frontier with Behavior-Centric Design - FinancialContent",
-      "summary": "Swamp Ushers in the Second AI Frontier with Behavior-Centric Design &nbsp;&nbsp; FinancialContent",
-      "source": "FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzI0N0Z0NGRLS2ZObDY0ZWVfbzgtRXVuY1htZnFBeEJuUVAzTGRIcUtuWjBmZkstSjhaX1RrUTVsWlZDam5SdVFUUm9SYW11V0hxRkMtUXFCTjh1aDNTbl9DOUNtdlJQQ25QTzdqRXlocndxYjJLY2xTYjlBTjBrb294MWY3MkVGYkJfQmNWZW8wZUlpYWtDZGt6UEl5VlQwV2t1ci1aWVhTWHRncHRaMFdVM25BNWpQek9CSW16UDlsQmc2ZUE?oc=5",
-      "publishedAt": "2026-10-14T20:32:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "a0ee5fe1b95a",
-      "title": "From Compute-Centric Design to System-Level Integration: Marvell and the Next Transformation of AI Infrastructure - semivision",
-      "summary": "From Compute-Centric Design to System-Level Integration: Marvell and the Next Transformation of AI Infrastructure &nbsp;&nbsp; semivision",
-      "source": "semivision",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQajFzNUN0Q2xoVjZlS1NDYmNLS0pmTmFVdTR6U3ZuWGIya0pXMDJBbmROUTZrazFrTjA0VDNRbktWYmVfM0U0cUNFS2lJV28zc0JZeThqQzFxSzd1Vy1oelB3Rm1PaVIya2I4M2EzUlgxaTlqWVVoZ3Y5UHZjVkFkd0JfQzg?oc=5",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "47628cc446da",
-      "title": "AMD Unveils Helion Open Rack Architecture for Enterprise Agentic AI Infrastructure - Konsulteer",
-      "summary": "AMD Unveils Helion Open Rack Architecture for Enterprise Agentic AI Infrastructure &nbsp;&nbsp; Konsulteer",
-      "source": "Konsulteer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0RhRVFkcFJTa1VmNjgtVFl3RzJPMkVhQkE4b2xYYWh3N3NBWGR5eXEzd21nZHRCRXBCdFB3RmRrTzFBbDhaWUQ4NUR3d1l5MTlIb2pUbG9Hd2UweVJfcURTX2xrbi1DNzZmaldjNl91XzFKSDJTaTg1SDFGcDJyaElBNTl0M2RFY0lKNXFmRkVkNFJsOVA2eWstay1nU3RSblE1eFlFbGYyVTZjM1lLQWxLckdIQzRn?oc=5",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "10af55b7aadf",
-      "title": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fastest On Earth” - Wccftech",
-      "summary": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fa...",
-      "source": "Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU0kyNWlVVUpMcjJoQmpHRUtiSE43M3J2YllZNHJpaFEzWWVzNkpfbXNqQjh1N1M1alFXdHJXTVZsbkppYUZlenFBNXlPYmhoNGpTbENFU1hIRVN0UWV2ZG5XcTFCN2k0SVRBTDVmdVZDNk9pcVVROW1ySE80QVNpY2dydFYxQ1lQRjhrR05IWmhWS251TzZQUW5tQk1XWDlyaTN6WVVVOTB4ZzNzZkpuSDdsUzNaRXBZdjlfWkxtSmRBanpscVJIdVIyT05PQWktUUJONS1xcGdtYUZkaEkzOG9xcTFGWjZjZ0Rlbl9uZHdyX1lJd0tkVXdEdjJoMTQ1cWfSAYcCQVVfeXFMUHF1U3hjc2Q0ZXdJVWwyZmZjX2xJV2k1RG9oNktsNHpwYmJvM1lEN1BCVWpKWTVzdkFqai1oR1doOEZCb3dTd0dJRFhVMHJFRkNpQ2phR0h0OG5ldTczZXVHRUNndHAzSEkxRTU5aXBfZWxrRktLTDJFby1VVWJiUHRYdXEyN3pSdjdSV0txTkJRaHp6Nm1hREZscExxbnNjR1FXcjNsWkUtWENOd3lkX1pwZWRUejlrMUtQV2J5UjFTdnpKaXo5T200SDd3ZmhKX0tBdXhaaXh5eFoyeDAtdm1uSlBvNUpZNndfX1R6QlMtanNaQ0tVUnZXb3NNX1VfN2hDQTBYZm8?oc=5",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     }
   ]
