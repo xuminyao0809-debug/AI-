@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-10-28T01:17:41.677Z",
+  "updatedAt": "2026-10-29T01:46:52.504Z",
   "items": [
+    {
+      "id": "4c31fdcda15f",
+      "title": "Image-conditioned AI beats text prompts and fine-tuning at architectural rendering fidelity - Bioengineer.org",
+      "summary": "Image-conditioned AI beats text prompts and fine-tuning at architectural rendering fidelity &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaU90WjJzOTl2eEZFVWRJVHNpaTdodVI5cmJvb1hhSzhtOXBxOF9wLUNLbTBBeVZndjRkSEZLbUFjWmR1WUNTdGxWUjJGczFnb3huOTJGQkl4YjFnS21jSTNIa1FZQXlfMzZsbkhrWFZuVWlHQUlpYXFkSXZwcDNGSW4wZDR3OEd4WEp0dnR4ZDN2ckIzZ1oyTW93MWdJNHJxRG9JN1EzQVhwTWdqRFFYd3phRzBHVnM?oc=5",
+      "publishedAt": "2026-10-28T21:57:28.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "279f20c56b2d",
+      "title": "Dust Egypt's Forgotten Architecture, Revised and Expanded Edition",
+      "summary": "Between 1860 and 1940, Cairo and other large cities in Egypt witnessed a major construction boom that gave birth to extraordinary palaces an...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187662/dust-egypts-forgotten-architecture-revised-and-expanded-edition",
+      "publishedAt": "2026-10-28T09:15:00.000Z",
+      "category": "BIM / AEC",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "d890426e2f71",
+      "title": "Open Call: The Tycoon's Last Desire - The Client, the House and the Architecture of Power",
+      "summary": "The Tycoon's Last Desire The Client, the House and the Architecture of Power What kind of a house could contain a man who refuses to be cont...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187653/open-call-the-tycoons-last-desire-the-client-the-house-and-the-architecture-of-power",
+      "publishedAt": "2026-10-28T09:05:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "e0e2adbfd2ca",
+      "title": "Kengo Kuma & Associates’ Water Culture House to Open in Copenhagen on December 5, 2026",
+      "summary": "Designed by Kengo Kuma & Associates in collaboration with Cornelius Vöge Atelier for Architecture and Vilhelm Lauritzen Architects , KAI Wat...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187649/kengo-kuma-and-associates-water-culture-house-to-open-in-copenhagen-on-december-5-2026",
+      "publishedAt": "2026-10-28T06:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "98959cc804db",
+      "title": "Inhabiting as Inquiry: Threads from the 20th Buenos Aires International Architecture Biennial",
+      "summary": "Inhabiting a space involves multiple economic, social, cultural, geographic, political, and environmental factors. Beyond these consideratio...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187226/inhabiting-as-inquiry-threads-from-the-20th-buenos-aires-international-architecture-biennial",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "83b68902f9de",
       "title": "Cadence Trains Chip-Design AI on Verified EDA Solver Results, Claiming 5x Token Efficiency - Tech Times",
@@ -11,6 +80,20 @@
       "category": "研究",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "56aa9483bb00",
+      "title": "On its 50th anniversary, Ho Chi Minh City University of Architecture outlines a new training direction in the era of AI. - Vietnam.vn",
+      "summary": "On its 50th anniversary, Ho Chi Minh City University of Architecture outlines a new training direction in the era of AI. &nbsp;&nbsp; Vietna...",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazRtcUZWcnRaUkRfUUtDbW9ULW9zQk5jRWxPQ1BrUkJsMmFQV3RqcW5pM2pzYWViazU0ZUJ6VTR0TDU5bEFQZ2ExUDlQSjVrTTdybVlXUFNpVzVzaWNvdlh1WGl5THFxalRjTkJ4a3J0bHZjazBaamlOVXZ1NXhhWDB6M3BrRUViZHBOYm4tWEkySFFIRkMxVkNuRzdvSjhJV0dJdVVLNjI?oc=5",
+      "publishedAt": "2026-10-27T08:20:46.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
@@ -28,26 +111,12 @@
       ]
     },
     {
-      "id": "97dbcba5cd68",
-      "title": "From Asbestos to Fungi: Eight New Materials Made from Waste and Living Matter",
-      "summary": "Architecture is, above all, a material reality. The materials that surround us are the result of a chain of constructive, economic, aestheti...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187576/from-asbestos-to-fungi-eight-new-materials-made-from-waste-and-living-matter",
-      "publishedAt": "2026-10-27T05:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "5729234cd7b9",
-      "title": "Dammed Between Energy and Water Scarcity: The Grand Ethiopian Renaissance Dam and the Nile",
-      "summary": "Every large dam divides as much as it connects, and the Grand Ethiopian Renaissance Dam is no exception. A monumental feat of architecture a...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186770/dammed-between-energy-and-water-scarcity-the-grand-ethiopian-renaissance-dam-and-the-nile",
-      "publishedAt": "2026-10-27T04:00:00.000Z",
+      "id": "379d744e131c",
+      "title": "AI is moving fast. Architecture, how are we doing? - Archinect",
+      "summary": "AI is moving fast. Architecture, how are we doing? &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWR3VHVCNVlCaXRVbERkQUh6ZFYxUXJaVWRGZS00NUg1QTY2aWxFYTA2aDFneFpCNmJ4Y0p1WUhQNERxd3dTeDFCSDl6dDBSMFJOMVcxX0xGVzJVWnkxYmNabERBREVmallWV1VpZlAzb3UxeElLZzlHY3J6cmU0SzBpT1BXTUs4VFZMVEFxTXJ5NWMwYnNv?oc=5",
+      "publishedAt": "2026-10-26T19:55:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -90,19 +159,6 @@
       "source": "Fast Company",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2V5UGpuVTFmUlRpZms2amotT2xzRnB6Y1A3ZXc5cGdMNHkzZjhUVTc5UC1JZ2hoZ3ljMkFfTkQwcW9tbW5wUWhqc1JjZTJ4ejlLakZOVjZUR0dDYk41ZUpndWZPNTBRVHFXbzBPMElIMEpUODM1ZDJUX0hIZnRpSVd1eE9XMzI2cURGZDdISFpHOEVCMDBN?oc=5",
       "publishedAt": "2026-10-26T10:41:52.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "ff6217fd3a50",
-      "title": "MOKUZAI / IT'S Studio",
-      "summary": "Mokuzai is an office building that includes public health services, featuring a mixed timber and concrete structure designed by IT'S.",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186694/mokuzai-its-studio",
-      "publishedAt": "2026-10-26T10:00:00.000Z",
       "category": "案例",
       "tags": [
         "ai",
@@ -216,6 +272,32 @@
       "category": "研究",
       "tags": [
         "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "0e0c36ed7f0c",
+      "title": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog",
+      "summary": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development &nbsp;&nbsp; Google Open Source Blog",
+      "source": "Google Open Source Blog",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEVzQWlUWnd4ekJrMDcxZDZ0TmVRcS1TMmtWbkIwSTJqRnhTcGNRMWExSW1ZR1hPSUxIYkVzbXpzY2t6dDdNLTVmLWp3d201TGZ5bjM4VnZoRFZQalc5VUVsZkM3VHotaEpjcXhHc1J2YVdua25sU3hROXRZSW52R3N3MUlxZDVUT3B0WFRmMlJNcWs?oc=5",
+      "publishedAt": "2026-10-22T18:32:12.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "bc87024a03c2",
+      "title": "Arm (NASDAQ:ARM) Climbs As AI chip-Architecture Demand Grows Today - Kalkine Media",
+      "summary": "Arm (NASDAQ:ARM) Climbs As AI chip-Architecture Demand Grows Today &nbsp;&nbsp; Kalkine Media",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGlYbThpYWpqV2wtSWkxdVBtWWpMUXZEMHBNM1g2NlUzQTdkTkJzdkVkdUExaDc5SF83elgwUHdRajdiV2NEejFpODNSR3I5MThGSWs0bk5LMkNqUHpBNlRMd3Y3M0ZSbWlMUE5obTJHaE5VQ2NObWNNemZqNXFqMm9odHo1TFF3eWNpQ1VlMWxFa3Y2VHk1Ynk5MC1NSFNHY2xxalEzSWlYeDhVZFZjMmgyd21ucUNoeUVGQUJCUQ?oc=5",
+      "publishedAt": "2026-10-22T18:18:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
         "architect"
       ]
     },
@@ -409,86 +491,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "28181e4f4a18",
-      "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC) - Semiconductor Engineering",
-      "summary": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC) &nbsp;&nbsp; Semiconductor Engineering",
-      "source": "Semiconductor Engineering",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjQ1R0tnV2RjbXc4UkZEX0FIUHdFSkRZNUZXTGxoY25hbmw5ZlhjQjY5X2JtTFctMHhubVd5blp6TmRPLThRX19rTS1JeWh0eHdicG41eEoyM2NiYk40V2o3TE9oUThLZ3l3bFQta3NramJQMzd3cnY4dnVSb0k4dFAtU21MVGF0anZuMHBjejdtS21jaU9SbFE5RFVWTXBBOXl2V2FSUExva0dNTGtCZw?oc=5",
-      "publishedAt": "2026-10-19T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "21efe9084642",
-      "title": "AI Storage Architecture: How to Keep GPUs Fed in Liquid-Cooled Clusters - Nasscom",
-      "summary": "AI Storage Architecture: How to Keep GPUs Fed in Liquid-Cooled Clusters &nbsp;&nbsp; Nasscom",
-      "source": "Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUhveGE3dzZZQURESGVETnF3b2lPZ28wblZnU2x3a2puVXl1cDNzdUhUU3JyX2YtVGJ0NEJhaVRIRi1tLXF0ZjNHMENzTXhRYjY4a1o2ZGpDMS1oV2dnaTNCRDBFTU0tOS1JM2w0Tmpma192bTRGc1A4Z09mSDBQbHdoczhyYzlfQkFvQ254ekZGS2xHNjludVZYN3NHbVpGYXF4VHJTeEtvcnJY?oc=5",
-      "publishedAt": "2026-10-19T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "8be930aeeee9",
-      "title": "AI Can Draw Any Building. But Can It Imagine One? - Sixth Tone",
-      "summary": "AI Can Draw Any Building. But Can It Imagine One? &nbsp;&nbsp; Sixth Tone",
-      "source": "Sixth Tone",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3NZZUFHOXo1ay0yS2FvakJqZkFfdlFOb1dpRXMwQWxmbjBKUnQ5cklrVWxQczZ2RkZEVFEwN0xwai1xaUdjc3lhN29aQmdZYkdvSnlzWDFjb014cS1CcDNJZjhLS2tLQzFhd0Z3ME83WkNXcVhaTEtyVkFUem1ManRxbXRLTEt2eFZyeVlTWHhHOXV2?oc=5",
-      "publishedAt": "2026-10-17T05:24:42.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "ef2e0d1e1709",
-      "title": "AI Resilience Architecture: Designing Intelligent Systems That Continue Operating When Data, Models, or Infrastructure Fail - AiThority",
-      "summary": "AI Resilience Architecture: Designing Intelligent Systems That Continue Operating When Data, Models, or Infrastructure Fail &nbsp;&nbsp; AiT...",
-      "source": "AiThority",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1h4NE04Z3BWNTY0N0NVNnlHMHdOOVRBWG02clVaRE1MMWlRZHFtNDd2X2lZSkQxMG5jNnVFclY3N250STg0NVF1RzJWTGJ0SmxSSl9hM0VvaFFhTkhCaFEzNGF5THB3bUU0Slhpa1BGd2tCLUZyM1NWVUNVTW1JVnNPUzhvanZzR2dELTZjck5RbU9nZmRnME1PVFRaOGhHMWI2QTNvTUVXMFBEcHNXWGJVeUdheDdZWGlrRTltVGd4ZnNFdGF0cUVQRmROWkY0a2pwYlZ0YmhxN3MxSm90Wkg0MVhEbV9OTWQ0dE8yYUJzQUpv?oc=5",
-      "publishedAt": "2026-10-16T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "b60429a238e7",
-      "title": "2027 design forecast: From AI-generated concepts to highly personalised spaces - Adgully",
-      "summary": "2027 design forecast: From AI-generated concepts to highly personalised spaces &nbsp;&nbsp; Adgully",
-      "source": "Adgully",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2xOeldETDItUUdyU1RBdmVqalNaakRjT1IzOVJ4V1dUNUNNa1pHT0hkVHU4V0J2X1JJSDJRLVR2eV8yRFNKLUI5blFMLXhXdzZRVEwyQy11djV2X1NtOTc3YnFGR3J1aWRySGdwY1RkOUdxTzE4Tk1MTERvZVBHRlZ5RFVkR21tYks2Nld5bkFnTldjYWcwNzNHQlNCajFUWTdnYzlhdEk4TGxmR0c3cW9n?oc=5",
-      "publishedAt": "2026-10-16T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "078d8cf2de77",
-      "title": "AI Ready Plan Drafting: Blueprints AI Turns a Sketch Into Permit-Ready Building Plans… - Trend Hunter",
-      "summary": "AI Ready Plan Drafting: Blueprints AI Turns a Sketch Into Permit-Ready Building Plans… &nbsp;&nbsp; Trend Hunter",
-      "source": "Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MHVCbWpBZ04yajZ6eW9STzdvRWJORjBpWlV5WlJBZGRybHhMLVJQVmNTMlJfenJGcVU1ZVpvakQ5LTBJalBITXhMVncycmZsNTFGNUJJWm1GQ29xeUhSaldPcnhZaTli?oc=5",
-      "publishedAt": "2026-10-15T15:53:07.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
       ]
     }
   ]
