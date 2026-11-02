@@ -1,14 +1,53 @@
 {
-  "updatedAt": "2026-11-01T01:06:25.174Z",
+  "updatedAt": "2026-11-02T01:29:17.008Z",
   "items": [
     {
-      "id": "49c697dc9ff4",
-      "title": "Dr. Ivan Del Valle Joins Leading Data & AI Consulting Firm to Accelerate Production Architecture - StreetInsider",
-      "summary": "Dr. Ivan Del Valle Joins Leading Data & AI Consulting Firm to Accelerate Production Architecture &nbsp;&nbsp; StreetInsider",
-      "source": "StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOWlORk85dTFOZ3RINEJndy1ZbU5VVXl5UnBkUnhFUTQ1NzlzNkl3TmtWRE83R1V3UW04VGxOWGhseFQzeFpPVGEzdmVvZm4tWGY2TFdKaHVWS1prMzJXNlRjVlNqY2V5LVRhYmVoN1NBVVJwVFNlZmZad2QxR2JwOEtTbXI1T3Z6a3B1YTFkSkRTLWV0cWUyajgxUHZtbGp5ZFdZQklsM3lsT0FpZ2hlNjVGU2llYjNWbXl6QmRMOUk3dUxKUERrazMtd2xyTU9vd0M5Qy16Tm41ckpHc0p0emM4dTE?oc=5",
-      "publishedAt": "2026-10-31T19:21:43.000Z",
+      "id": "f1c516ee35e0",
+      "title": "Dr. Ivan Del Valle Joins Leading Data & AI Consulting Firm to Accelerate Production Architecture - USA Today",
+      "summary": "Dr. Ivan Del Valle Joins Leading Data & AI Consulting Firm to Accelerate Production Architecture &nbsp;&nbsp; USA Today",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUVmdl95M19HbzFOY05xTXZXRDlRc01JMk5SSk1IVnU0cjlwWnpXSW9hOEFDRy13R2xBUmdZRUQxU2VrdF9sazlIZExHZmZobjZ1MjBJZm5kSVo2T2FNbjBiN3hsendCWldJcGFGQk1pd1NFVTFNVDU1ZDVHdGJYT0Q1cnpmZE02SFZRd0YzQ1FHTFBqY2dtWEZaYUwtcG1jQ1NfT3ZVUDljb1ZLbl9wT0xLdlNLSEVRSXFDOUpQc0hhWExHaHBsX1lQUFdpUU9pN1ZENDcwZ2NfdmwwdGc?oc=5",
+      "publishedAt": "2026-11-01T20:12:08.000Z",
       "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "f22d262d7f03",
+      "title": "The House of Courtyards / Studio VDGA",
+      "summary": "Set in the city of gold, Dubai , this villa was one of the most challenging projects considering the diverse architectural languages that th...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1018550/the-house-of-courtyards-studio-vdga",
+      "publishedAt": "2026-11-01T14:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "ab489abc82e9",
+      "title": "U-shaped store / MANERA",
+      "summary": "U-shaped Store is a children's store designed by MANERA atelier. The project explores the relationship between retail space, scenography, an...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187442/u-shaped-store-manera",
+      "publishedAt": "2026-11-01T09:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "a5b2a299f6d8",
+      "title": "DeepSeek's New Architecture Lets AI Start Work Without Being Asked - Trending on Weibo",
+      "summary": "DeepSeek's New Architecture Lets AI Start Work Without Being Asked &nbsp;&nbsp; Trending on Weibo",
+      "source": "Trending on Weibo",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQlJmbUxrMGFwcXE0d1pQeG4wS0F3bGV6NGMtYzZ2aThmSGpvNXFIMXNRZzJOZDJnWkVIVXhNTGF0RTBudENaVnJ4UDc0RkZuQkNBNFk0ZU5oT2NLYjBjQk13X0V5Sld6UmhrVzVZQTRfYU1fYjlXM0tXRkRGMnFMMw?oc=5",
+      "publishedAt": "2026-11-01T01:46:45.000Z",
+      "category": "研究",
       "tags": [
         "ai",
         "architecture",
@@ -87,33 +126,6 @@
       ]
     },
     {
-      "id": "2a24730b18d6",
-      "title": "From Coastal Reclamation to Data Centers: How India's Architecture Grows Around Water",
-      "summary": "Architecture has treated water either as a backdrop or a problem: a view to be framed, a hazard to be drained, or a utility to be connected ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187246/from-coastal-reclamation-to-data-centers-how-indias-architecture-grows-around-water",
-      "publishedAt": "2026-10-30T07:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "84f93226c429",
-      "title": "Linden House / Schemata Architects",
-      "summary": "The Dromgariff Rainforest is a project led by Bryan and Tara Meehan to regenerate its gardens and forest. One of Ireland's last ancient oak ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185459/linden-house-schemata-architects",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "67d0180c69f7",
       "title": "AI architecture startup Dream launches with $17M in funding - SiliconANGLE",
       "summary": "AI architecture startup Dream launches with $17M in funding &nbsp;&nbsp; SiliconANGLE",
@@ -169,20 +181,6 @@
       ]
     },
     {
-      "id": "98a98d34d217",
-      "title": "Best AI Chat in Dubai, UAE? Inside SentX's Cognitive Architecture - Digital Journal",
-      "summary": "Best AI Chat in Dubai, UAE? Inside SentX's Cognitive Architecture &nbsp;&nbsp; Digital Journal",
-      "source": "Digital Journal",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUYtSDYxZnB6ZHhQWFNtcVFkTGcwanlOX3B6X29vLXNGenFJMUJnRzFXd1VlN1dPa3dZREI1YlVuaXlvR3ZkdmxiYmc1TTI4aWcwbzZobWhsVkZsaUt0UGJ3N2hxSHZDZEgtUG9LamRRV2NKSmY1TGFFcTctYkJFelNDY1Rvc2QwUmdMSmJLZmdTMG1YbGhzNQ?oc=5",
-      "publishedAt": "2026-10-29T11:48:16.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "24c94da15443",
       "title": "\"If AI can do most of what we think an architect does, maybe we have defined the profession too narrowly\" - Dezeen",
       "summary": "\"If AI can do most of what we think an architect does, maybe we have defined the profession too narrowly\" &nbsp;&nbsp; Dezeen",
@@ -192,20 +190,6 @@
       "category": "研究",
       "tags": [
         "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "8c3e1ea8c107",
-      "title": "Nemetschek Group Scales AI Across Architecture, Engineering and Construction - SMEStreet",
-      "summary": "Nemetschek Group Scales AI Across Architecture, Engineering and Construction &nbsp;&nbsp; SMEStreet",
-      "source": "SMEStreet",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0VSTGl3SUVGeVdkSE92Vm92a2p5N09fMUdHMzZvR21EajZ5aXpNWThGRm5JMjZtLU9fa3BTdDh0c0FKWXVjVjVEbThuaUtPQzcybkxDX1pRdndjZEVIT01WM2hiYWVENEE0SkszOHQzM0NZaVJ0NG8yNW8wY1ZFUEdVb3ZYOXRBamdpa3ZfZjRzODM0bmNlU1dfbU1xYzdybV9MOU9IY200eHNteFVtMHdTa2xraUnSAbcBQVVfeXFMT1dFUkxpd0lFRnlXZEhPdlZvdmtqeTdPXzFHRzM2b0dtRGo2eWl6TVk4RkZuSTI2bS1PX2twU3Q4dHNBSll1Y1Y1RG04bmlLT0M3Mm5MQ19aUXZ3Y2RFSE9NVjNoYmFlRDRBNEpLMzh0MzNDWWlSdDRvMjVvMGNWRVBHVW92WDl0QWpnaWt2X2Y0czgzNG5jZVNXX21NcWM3cm1fTDlPSGNtNHhzbXhVbTB3U2tsa2lJ?oc=5",
-      "publishedAt": "2026-10-29T10:14:37.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -294,12 +278,26 @@
       ]
     },
     {
+      "id": "e13c94861b35",
+      "title": "GM: New vehicle architecture with AI capabilities - IAA Mobility",
+      "summary": "GM: New vehicle architecture with AI capabilities &nbsp;&nbsp; IAA Mobility",
+      "source": "IAA Mobility",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdERZeC1xLUlodmRrY1RXdnhzRnVIek9JNkU2elhGdVlFSXNDRlItN0dBd05nU190RDQ0ZXU3a2xGbnd0Zml1Z2JKWVM0X3FMUmFVS2NLdVdPZ1VncE5pOEF3cmhzTGxjSk1sbEVleGZDSXh5RDduODdIeHFmSkEzUHhGT2U1LTJLdDBqZzR5b01IV1MzY19HMXhZM1VCeUpFbzhIZFoydDJ3dVJwQlE?oc=5",
+      "publishedAt": "2026-10-22T22:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "281ee26e9a3c",
       "title": "Architect Eleni Kalapoda: AI is “an instrument, not an author” - Philenews",
       "summary": "Architect Eleni Kalapoda: AI is “an instrument, not an author” &nbsp;&nbsp; Philenews",
       "source": "Philenews",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0Z3cEpqc0FSYi0zWVpZNjdWampyc3BIWGRFZVEzUnRoeEg0WHpza0xidlpmOGo5VkQ4eGllS3Z6T1pfTGNrWnBJeGxBRW9KOGFORjlZNmw1M1JnU000MDJURThFSm1VZDVTTVJPd25wN1hkdDh1MTRjanJwLWZvbVdnaDA2VWllTG9vZzloQXN6THFRcXlqcm10OV83N0E?oc=5",
-      "publishedAt": "2026-10-22T04:00:00.000Z",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
