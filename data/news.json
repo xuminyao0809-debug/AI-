@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-11-03T03:27:29.997Z",
+  "updatedAt": "2026-11-04T02:16:33.475Z",
   "items": [
+    {
+      "id": "861cdbe59948",
+      "title": "Beyond Buildings: ArchDaily's November Editorial Focus",
+      "summary": "\"Design a cultural center on a desert coastline, in the style of Alvar Aalto, wood structure, golden hour, aerial drone shot, photorealistic...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187895/beyond-buildings-archdailys-november-editorial-focus",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "8d779fed6353",
+      "title": "Ar-Rahbah Market at Amman Design Week 2026 / Laith Matarweh Studio for Architecture",
+      "summary": "The proposal conceives Ar-Rahbah as an open urban void that mediates movement while accommodating social and commercial activities. Its cubi...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187738/ar-rahbah-market-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
+      "publishedAt": "2026-11-03T07:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "e666f5fead51",
+      "title": "Designing Furniture to Outlast the Fit-Out",
+      "summary": "Furniture waste is not always the result of physical damage that renders a product unusable. Chairs, sofas, and tables are often discarded b...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187518/designing-furniture-to-outlast-the-fit-out",
+      "publishedAt": "2026-11-03T06:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "c85760820239",
+      "title": "DeepSeek proposes super-agent architecture for AI coding coordination - TechGig",
+      "summary": "DeepSeek proposes super-agent architecture for AI coding coordination &nbsp;&nbsp; TechGig",
+      "source": "TechGig",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFpTMk9nZ3dNbmxKQ0ZpNFh5bkFQSjBqd09RcTFvZkxBSklqNXVLSldzc2NzanFWcVJhbGw2ZnNEVk5mR3hZOWo3M1VRQXMtcGdlejVOODhEOVNSaGpGbUlIbjJGUzdWYkdkTDJjSGthM3pOZEo2UUc0cTRwbUtsNTJVdko5dF9zakxncE1tYU54aEFFNVE5cllPR01NYmhxVmlOcmh4MnlPMGRoX3JlUdIBsAFBVV95cUxPRFpTMk9nZ3dNbmxKQ0ZpNFh5bkFQSjBqd09RcTFvZkxBSklqNXVLSldzc2NzanFWcVJhbGw2ZnNEVk5mR3hZOWo3M1VRQXMtcGdlejVOODhEOVNSaGpGbUlIbjJGUzdWYkdkTDJjSGthM3pOZEo2UUc0cTRwbUtsNTJVdko5dF9zakxncE1tYU54aEFFNVE5cllPR01NYmhxVmlOcmh4MnlPMGRoX3JlUQ?oc=5",
+      "publishedAt": "2026-11-03T02:50:33.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "796aeb3c26b8",
       "title": "Educating an Architect: Luca Mezzalira on Socio-Technical Design and AI Guardrails - news.lavx.hu",
@@ -29,54 +82,12 @@
       ]
     },
     {
-      "id": "87cae07dd9d1",
-      "title": "Open Call for Architecture Students: ArchDaily Student Project Awards 2027",
-      "summary": "The second edition of the ArchDaily Student Project Awards is now open for submissions, and this year we are proud to present it in partners...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187913/open-call-for-architecture-students-archdaily-student-project-awards-2027",
-      "publishedAt": "2026-11-02T07:30:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "7063c9f69544",
       "title": "DeepSeek Proposes Super-Agent Architecture to Automate AI Coding Workflows - Analytics India Magazine",
       "summary": "DeepSeek Proposes Super-Agent Architecture to Automate AI Coding Workflows &nbsp;&nbsp; Analytics India Magazine",
       "source": "Analytics India Magazine",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDV0SkprdU5GdDBUTk84eUY5WURDU1RmR3ZmUHBfZzF2RDd2MGwzM0gwR1p5b3lhUjVXWDdDdVQ3SnBJUVR4ZkpKbmFIeHVYREtVM1dNWV8tX1ZFQVZiOG5lU3pmWHBwUkVrVm9UMGpXZ0p3dGZLNGQ5UHI3NDV0WUd3YXpNN2RnZGhyZ3BxZ19ZeGdiUEdpbmVLak1faGVibDdPcDV5VjZ1OVZXcUJrRlNB?oc=5",
       "publishedAt": "2026-11-02T06:32:26.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "4dca6353327d",
-      "title": "Lion Green Road / Mary Duggan Architects",
-      "summary": "Lion Green Road is a residential-led scheme comprising five buildings containing 157 dwellings. The project sits within a verdant landscape ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187856/lion-green-road",
-      "publishedAt": "2026-11-02T05:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "efb6b0b6f989",
-      "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio - EE Times Asia",
-      "summary": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio &nbsp;&nbsp; EE Times Asia",
-      "source": "EE Times Asia",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUxJWVcwazFuYVhSMUVtRzZrZDBCWTBLWllWTThGbHZFeFYwRDN1VkcwaGdvS2I5OUVidFAzaUFvS2VMRXhBT0NpcDEydmdiem9YN1FIWThLSHlIRHpRUHp0c1c1aWFLb3JhS2djREExZmpyNnZOXzVkUzdNQVpweGNWZl9aRXVWNld1SmRRRWdoMlZiTS1B?oc=5",
-      "publishedAt": "2026-11-02T04:31:31.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -99,29 +110,16 @@
       ]
     },
     {
-      "id": "c67d69c83422",
-      "title": "Synthesis of the Arts: The Case for Beauty in Architecture and the City",
-      "summary": "This article is part of \"Thresholds\", a special edition printed newspaper by Cobe Notes x ArchDaily.",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187775/synthesis-of-the-arts-the-case-for-beauty-in-architecture-and-the-city",
-      "publishedAt": "2026-11-02T03:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "f22d262d7f03",
-      "title": "The House of Courtyards / Studio VDGA",
-      "summary": "Set in the city of gold, Dubai , this villa was one of the most challenging projects considering the diverse architectural languages that th...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1018550/the-house-of-courtyards-studio-vdga",
-      "publishedAt": "2026-11-01T14:00:00.000Z",
+      "id": "f1c516ee35e0",
+      "title": "Dr. Ivan Del Valle Joins Leading Data & AI Consulting Firm to Accelerate Production Architecture - USA Today",
+      "summary": "Dr. Ivan Del Valle Joins Leading Data & AI Consulting Firm to Accelerate Production Architecture &nbsp;&nbsp; USA Today",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUVmdl95M19HbzFOY05xTXZXRDlRc01JMk5SSk1IVnU0cjlwWnpXSW9hOEFDRy13R2xBUmdZRUQxU2VrdF9sazlIZExHZmZobjZ1MjBJZm5kSVo2T2FNbjBiN3hsendCWldJcGFGQk1pd1NFVTFNVDU1ZDVHdGJYT0Q1cnpmZE02SFZRd0YzQ1FHTFBqY2dtWEZaYUwtcG1jQ1NfT3ZVUDljb1ZLbl9wT0xLdlNLSEVRSXFDOUpQc0hhWExHaHBsX1lQUFdpUU9pN1ZENDcwZ2NfdmwwdGc?oc=5",
+      "publishedAt": "2026-11-01T20:12:08.000Z",
       "category": "案例",
       "tags": [
         "ai",
+        "architecture",
         "architect"
       ]
     },
@@ -342,20 +340,6 @@
       ]
     },
     {
-      "id": "379d744e131c",
-      "title": "AI is moving fast. Architecture, how are we doing? - Archinect",
-      "summary": "AI is moving fast. Architecture, how are we doing? &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWR3VHVCNVlCaXRVbERkQUh6ZFYxUXJaVWRGZS00NUg1QTY2aWxFYTA2aDFneFpCNmJ4Y0p1WUhQNERxd3dTeDFCSDl6dDBSMFJOMVcxX0xGVzJVWnkxYmNabERBREVmallWV1VpZlAzb3UxeElLZzlHY3J6cmU0SzBpT1BXTUs4VFZMVEFxTXJ5NWMwYnNv?oc=5",
-      "publishedAt": "2026-10-26T19:55:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "a20c407c6dcb",
       "title": "WWT and DDN Design Storage Architecture for NVIDIA Vera Rubin AI Factories - Konsulteer",
       "summary": "WWT and DDN Design Storage Architecture for NVIDIA Vera Rubin AI Factories &nbsp;&nbsp; Konsulteer",
@@ -370,12 +354,26 @@
       ]
     },
     {
+      "id": "379d744e131c",
+      "title": "AI is moving fast. Architecture, how are we doing? - Archinect",
+      "summary": "AI is moving fast. Architecture, how are we doing? &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWR3VHVCNVlCaXRVbERkQUh6ZFYxUXJaVWRGZS00NUg1QTY2aWxFYTA2aDFneFpCNmJ4Y0p1WUhQNERxd3dTeDFCSDl6dDBSMFJOMVcxX0xGVzJVWnkxYmNabERBREVmallWV1VpZlAzb3UxeElLZzlHY3J6cmU0SzBpT1BXTUs4VFZMVEFxTXJ5NWMwYnNv?oc=5",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "f1c362fdcf86",
       "title": "UC Berkeley’s new AI-research building is designed for human interaction - Fast Company",
       "summary": "UC Berkeley’s new AI-research building is designed for human interaction &nbsp;&nbsp; Fast Company",
       "source": "Fast Company",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2V5UGpuVTFmUlRpZms2amotT2xzRnB6Y1A3ZXc5cGdMNHkzZjhUVTc5UC1JZ2hoZ3ljMkFfTkQwcW9tbW5wUWhqc1JjZTJ4ejlLakZOVjZUR0dDYk41ZUpndWZPNTBRVHFXbzBPMElIMEpUODM1ZDJUX0hIZnRpSVd1eE9XMzI2cURGZDdISFpHOEVCMDBN?oc=5",
-      "publishedAt": "2026-10-26T10:41:52.000Z",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
       "category": "案例",
       "tags": [
         "ai",
@@ -426,12 +424,26 @@
       ]
     },
     {
+      "id": "ee602190c41e",
+      "title": "AI in Architecture: How Algorithms are Redefining the Future of Design - Realty Plus Magazine",
+      "summary": "AI in Architecture: How Algorithms are Redefining the Future of Design &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUg4VlpRWEVJeWtqUFlMSEJaeEdELWpKRjV5SnM1SWZxVjg4aHRVNjVjYndYYzNISTBWWUV3Z1lnR3EtQjJycWtHR09LeGhtMjFuZ0ZTeHg3azNPX3ZEOE9hM18wNnlncExxTkpBU0p4cEhPWS10R3VBSDMwRTdUT2RIWXAtRzh4TEhMdHF3Nk14WktNc1NqOE5fMGI1SmFzWGY5OFVtT3BTT2lOQWUwbUtsQXVhMTlBU21INnpn?oc=5",
+      "publishedAt": "2026-10-23T09:34:09.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "0b7ad676b913",
       "title": "How Are Architects and Designers Navigating AI? - Metropolis Magazine",
       "summary": "How Are Architects and Designers Navigating AI? &nbsp;&nbsp; Metropolis Magazine",
       "source": "Metropolis Magazine",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2dnQV9hclhUVUo4amJvMm43YVNLZmQ4dFp3RFRFb0ljQVJvWHRvaURyd1d0anVPcUNXWU9XZkVnLVNxa0hJekF4MnJ2TUZnLTd6Y0J5VEQ3QnN0WjVDS1BPbmRwMkR0VDdaVm1va2lOSWtiOFNMZGRFWF9nSlVabF94QlBlWTlSRHZkaw?oc=5",
-      "publishedAt": "2026-10-23T17:02:19.000Z",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -439,12 +451,12 @@
       ]
     },
     {
-      "id": "ee602190c41e",
-      "title": "AI in Architecture: How Algorithms are Redefining the Future of Design - Realty Plus Magazine",
-      "summary": "AI in Architecture: How Algorithms are Redefining the Future of Design &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUg4VlpRWEVJeWtqUFlMSEJaeEdELWpKRjV5SnM1SWZxVjg4aHRVNjVjYndYYzNISTBWWUV3Z1lnR3EtQjJycWtHR09LeGhtMjFuZ0ZTeHg3azNPX3ZEOE9hM18wNnlncExxTkpBU0p4cEhPWS10R3VBSDMwRTdUT2RIWXAtRzh4TEhMdHF3Nk14WktNc1NqOE5fMGI1SmFzWGY5OFVtT3BTT2lOQWUwbUtsQXVhMTlBU21INnpn?oc=5",
-      "publishedAt": "2026-10-23T09:34:09.000Z",
+      "id": "e13c94861b35",
+      "title": "GM: New vehicle architecture with AI capabilities - IAA Mobility",
+      "summary": "GM: New vehicle architecture with AI capabilities &nbsp;&nbsp; IAA Mobility",
+      "source": "IAA Mobility",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdERZeC1xLUlodmRrY1RXdnhzRnVIek9JNkU2elhGdVlFSXNDRlItN0dBd05nU190RDQ0ZXU3a2xGbnd0Zml1Z2JKWVM0X3FMUmFVS2NLdVdPZ1VncE5pOEF3cmhzTGxjSk1sbEVleGZDSXh5RDduODdIeHFmSkEzUHhGT2U1LTJLdDBqZzR5b01IV1MzY19HMXhZM1VCeUpFbzhIZFoydDJ3dVJwQlE?oc=5",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -466,30 +478,15 @@
       ]
     },
     {
-      "id": "732a44c09793",
-      "title": "Nvidia Unveils OpenShell Architecture to Monitor AI Agents - THE ELEC, Korea Electronics Industry Media",
-      "summary": "Nvidia Unveils OpenShell Architecture to Monitor AI Agents &nbsp;&nbsp; THE ELEC, Korea Electronics Industry Media",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80c3BucTRwZE9DUlFjQWtZNmUwY1pZWGJkaHZITDZNSE1EajNLODF3SFlEV0Y5eXU4Q3NSUExPNlpzLTMtVTdQczNxNHJmTnUwMEh2T3ZwaFFVNUFxZTR5YjJZeVFmQmM?oc=5",
+      "id": "0e0c36ed7f0c",
+      "title": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog",
+      "summary": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development &nbsp;&nbsp; Google Open Source Blog",
+      "source": "Google Open Source Blog",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEVzQWlUWnd4ekJrMDcxZDZ0TmVRcS1TMmtWbkIwSTJqRnhTcGNRMWExSW1ZR1hPSUxIYkVzbXpzY2t6dDdNLTVmLWp3d201TGZ5bjM4VnZoRFZQalc5VUVsZkM3VHotaEpjcXhHc1J2YVdua25sU3hROXRZSW52R3N3MUlxZDVUT3B0WFRmMlJNcWs?oc=5",
       "publishedAt": "2026-10-22T07:00:00.000Z",
-      "category": "研究",
+      "category": "工具",
       "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "281ee26e9a3c",
-      "title": "Architect Eleni Kalapoda: AI is “an instrument, not an author” - Philenews",
-      "summary": "Architect Eleni Kalapoda: AI is “an instrument, not an author” &nbsp;&nbsp; Philenews",
-      "source": "Philenews",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0Z3cEpqc0FSYi0zWVpZNjdWampyc3BIWGRFZVEzUnRoeEg0WHpza0xidlpmOGo5VkQ4eGllS3Z6T1pfTGNrWnBJeGxBRW9KOGFORjlZNmw1M1JnU000MDJURThFSm1VZDVTTVJPd25wN1hkdDh1MTRjanJwLWZvbVdnaDA2VWllTG9vZzloQXN6THFRcXlqcm10OV83N0E?oc=5",
-      "publishedAt": "2026-10-22T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
+        "ai"
       ]
     }
   ]
