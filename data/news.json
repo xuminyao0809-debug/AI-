@@ -1,14 +1,28 @@
 {
-  "updatedAt": "2026-11-05T02:22:09.341Z",
+  "updatedAt": "2026-11-06T02:22:13.281Z",
   "items": [
     {
-      "id": "02d93fc00675",
-      "title": "Black Miller House / Three Sixty Architecture",
-      "summary": "Black Miller House is conceived as a cluster of contemporary pavilions embedded within a 32-hectare coastal hill landscape. The design retai...",
+      "id": "32dced10a721",
+      "title": "What AI Reveals About Architecture That Was Never Built - ArchDaily",
+      "summary": "What AI Reveals About Architecture That Was Never Built &nbsp;&nbsp; ArchDaily",
       "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187590/black-miller-house-three-sixty-architecture",
-      "publishedAt": "2026-11-04T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnIzX3A2c2ZjNnVRNGFZR2czMVZ2ZDh1RndzSUl4ejhhTGVTRGE4LUxmU3NmdDJjTXVjSUhOZXJGNWhicmRleWdLbDRBMUhHQVhhdDJDMk9BSExJVnRVNVBsME5jZzQ4enhiMVU3M2NZZnZlRmQxX0VWcTVIamZYX1lvQTUybWttaFQteGpKSldWOE0?oc=5",
+      "publishedAt": "2026-11-05T11:45:00.000Z",
       "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "90feebd21e59",
+      "title": "What AI Reveals About Architecture That Was Never Built",
+      "summary": "Some architectural projects only survive as drawings, competition entries, or models in archives. Others were built, but not as first imagin...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187519/what-ai-reveals-about-architecture-that-was-never-built",
+      "publishedAt": "2026-11-05T06:45:00.000Z",
+      "category": "案例",
       "tags": [
         "ai",
         "architecture",
@@ -30,16 +44,15 @@
       ]
     },
     {
-      "id": "c85760820239",
-      "title": "DeepSeek proposes super-agent architecture for AI coding coordination - TechGig",
-      "summary": "DeepSeek proposes super-agent architecture for AI coding coordination &nbsp;&nbsp; TechGig",
-      "source": "TechGig",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFpTMk9nZ3dNbmxKQ0ZpNFh5bkFQSjBqd09RcTFvZkxBSklqNXVLSldzc2NzanFWcVJhbGw2ZnNEVk5mR3hZOWo3M1VRQXMtcGdlejVOODhEOVNSaGpGbUlIbjJGUzdWYkdkTDJjSGthM3pOZEo2UUc0cTRwbUtsNTJVdko5dF9zakxncE1tYU54aEFFNVE5cllPR01NYmhxVmlOcmh4MnlPMGRoX3JlUdIBsAFBVV95cUxPRFpTMk9nZ3dNbmxKQ0ZpNFh5bkFQSjBqd09RcTFvZkxBSklqNXVLSldzc2NzanFWcVJhbGw2ZnNEVk5mR3hZOWo3M1VRQXMtcGdlejVOODhEOVNSaGpGbUlIbjJGUzdWYkdkTDJjSGthM3pOZEo2UUc0cTRwbUtsNTJVdko5dF9zakxncE1tYU54aEFFNVE5cllPR01NYmhxVmlOcmh4MnlPMGRoX3JlUQ?oc=5",
-      "publishedAt": "2026-11-03T02:50:33.000Z",
+      "id": "796aeb3c26b8",
+      "title": "Educating an Architect: Luca Mezzalira on Socio-Technical Design and AI Guardrails - news.lavx.hu",
+      "summary": "Educating an Architect: Luca Mezzalira on Socio-Technical Design and AI Guardrails &nbsp;&nbsp; news.lavx.hu",
+      "source": "news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaFNwUmUzMGViM1ItY0hWSk9pQXdEalI4THo0UzFmVGFpX2JBVmpEZlRUR245LTBVYXV3dDVIZzJhd0lhbm9nR1p1d05EUXVhSFVlUFJWT3VYRDd5U3hSay01Vm1PMEVHbU9yS3dZdjZMdDFjU1l0UXFiUUVOalRjejZlY2EzRjVoRGVYT0stZkN0aWVLcGpUcE0tZVRMTEJvbVJsdjJWZDRMdE9ELVRN?oc=5",
+      "publishedAt": "2026-11-02T12:52:30.000Z",
       "category": "研究",
       "tags": [
         "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -64,6 +77,20 @@
       "source": "Analytics India Magazine",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDV0SkprdU5GdDBUTk84eUY5WURDU1RmR3ZmUHBfZzF2RDd2MGwzM0gwR1p5b3lhUjVXWDdDdVQ3SnBJUVR4ZkpKbmFIeHVYREtVM1dNWV8tX1ZFQVZiOG5lU3pmWHBwUkVrVm9UMGpXZ0p3dGZLNGQ5UHI3NDV0WUd3YXpNN2RnZGhyZ3BxZ19ZeGdiUEdpbmVLak1faGVibDdPcDV5VjZ1OVZXcUJrRlNB?oc=5",
       "publishedAt": "2026-11-02T06:32:26.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "efb6b0b6f989",
+      "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio - EE Times Asia",
+      "summary": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUxJWVcwazFuYVhSMUVtRzZrZDBCWTBLWllWTThGbHZFeFYwRDN1VkcwaGdvS2I5OUVidFAzaUFvS2VMRXhBT0NpcDEydmdiem9YN1FIWThLSHlIRHpRUHp0c1c1aWFLb3JhS2djREExZmpyNnZOXzVkUzdNQVpweGNWZl9aRXVWNld1SmRRRWdoMlZiTS1B?oc=5",
+      "publishedAt": "2026-11-02T04:31:31.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -143,18 +170,6 @@
       ]
     },
     {
-      "id": "2047962d3078",
-      "title": "Celus Adds Agentic AI Workflow to Its Electronics Design Assistant - www.embedded.com",
-      "summary": "Celus Adds Agentic AI Workflow to Its Electronics Design Assistant &nbsp;&nbsp; www.embedded.com",
-      "source": "www.embedded.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0VFQjFpT3VnX2pIZm9udk1EWlZLOGdFdUdMODlrUVRxZkhQbmM4RmdtVVRYZWQtNUhrTGpGV25aNXFJYnhVQ1hscTN6U1RuM1pQQTZpUTh3b0paeXZEalhmQ3h0QnQ3MmZZVjF3dklFYXdnWWw4UmVhc0dJSmY2ZFJLSGRIQ0pJMzZnSW52a2d5SHdzR2c?oc=5",
-      "publishedAt": "2026-10-29T17:50:59.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "49d69aebbe83",
       "title": "CELUS Brings AI Agents to Architecture and Component Decisions in Electronics Design - PR Newswire",
       "summary": "CELUS Brings AI Agents to Architecture and Component Decisions in Electronics Design &nbsp;&nbsp; PR Newswire",
@@ -176,6 +191,20 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNk4ya21NVGpBYVZGdEdOOXp6ZndlT0dYLTEzNjREYkk4MzdwNHJmQ2VGTTI3VHhXZm4ySkoxZVNmcXdvX3lOeUpUa2VGYTF5MmtEM083YVFicDB4Mk5BSEE2THByWlJ0X0JaUHR3WlQ2MzVRc1MxYi1xOFhfclUwQQ?oc=5",
       "publishedAt": "2026-10-29T12:00:00.000Z",
       "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "cc41949ab609",
+      "title": "Architecture, Not Intelligence, Will Define the Future of AI Headphones - AiThority",
+      "summary": "Architecture, Not Intelligence, Will Define the Future of AI Headphones &nbsp;&nbsp; AiThority",
+      "source": "AiThority",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNThkWHR2LU1WZ3lwOFE0SGdSakN1TTFUbC1kV3NhVkZ6US1TRnRxd1gwNnEtSXE0VzJ6VFhkenE5emRVMFRVV3ZxZXdtRmlLVXpVbFJwNFBvMFlBeC0yNUVJWHlQQzNoODdHRWVMVjhsdFVpUmJjb001WTFocTdrWUhXS2FZZ09UNVh1MFRLT0pTcTNYaXBWLXk1ZTVtOXRZeGdxM2ptRm1HQQ?oc=5",
+      "publishedAt": "2026-10-29T07:07:47.000Z",
+      "category": "研究",
       "tags": [
         "ai",
         "architecture",
@@ -238,6 +267,20 @@
       ]
     },
     {
+      "id": "2e5df8002c4f",
+      "title": "Who Buys Nvidia’s Packaged AI Factories in 2026 - Parametric Architecture",
+      "summary": "Who Buys Nvidia’s Packaged AI Factories in 2026 &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52aGJtempXdGRzRVJWYkFqMWpVWFBZS1BiWlpKZTBTMWw1ZTlNNDV0MXdGX1hwU0VZbW1rT0kxVWNWcFVpSEZlZ2VlR2NaM1ppX3pZekVWelhRSXR2XzVmbnNoR0FhLV9JUk1NZEpuYmFESDl3alBsU1hTTHEyQQ?oc=5",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "8f2be593089e",
       "title": "Architecture, AI and BIM at Roof Forum 2027. Registration opens for the Architects’ Forum! - Expo Kielce",
       "summary": "Architecture, AI and BIM at Roof Forum 2027. Registration opens for the Architects’ Forum! &nbsp;&nbsp; Expo Kielce",
@@ -277,33 +320,6 @@
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "163f562e47af",
-      "title": "Agentic AI architecture emerges as new software paradigm - TechGig",
-      "summary": "Agentic AI architecture emerges as new software paradigm &nbsp;&nbsp; TechGig",
-      "source": "TechGig",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlktMUM3MzRVckZ6Y2hQejlyVWdmczJwdkljWHNXNjhmQW12blczZVU2dzRlXzJSNklQT0REZm13NFpMdWhDVVpEaDFQbk9mZDBpYlIwNHpjQlk5U3NIbFpOa0ZoZ1NoMTR6Y2lFOEVDVDdBeC1JOGVTOVJPUjZ2NUJQTXl0V0szQlJ3Zk5mRUVWUjdtV1JoNGhwZFFrNjF2U0VjVlgxWGdvdVVzRDNOUEVR0gG3AUFVX3lxTFBxcHpVSi1KRHp4SnByc3haR3JsdTZydVpMZGNQXzBlTUFaa0QtSjhESlpHd181RUxadzZVTENOaXA0NThXNC04ODcxOVFvTjVNMk1MQ0tQTzF6UlVXR0o2YVZPRmhZQVR2ZnpkaDg5Nm5Kc2hzZEUxRG5LYjd2ZndBUzIyZktlTUdqMHQ3U2FWVF9sbzN0UVhUd0hlaWNpb1AtbWZHa2NReS1tTUFkZWFMZXU4ZXdtZw?oc=5",
-      "publishedAt": "2026-10-22T07:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "281ee26e9a3c",
-      "title": "Architect Eleni Kalapoda: AI is “an instrument, not an author” - Philenews",
-      "summary": "Architect Eleni Kalapoda: AI is “an instrument, not an author” &nbsp;&nbsp; Philenews",
-      "source": "Philenews",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0Z3cEpqc0FSYi0zWVpZNjdWampyc3BIWGRFZVEzUnRoeEg0WHpza0xidlpmOGo5VkQ4eGllS3Z6T1pfTGNrWnBJeGxBRW9KOGFORjlZNmw1M1JnU000MDJURThFSm1VZDVTTVJPd25wN1hkdDh1MTRjanJwLWZvbVdnaDA2VWllTG9vZzloQXN6THFRcXlqcm10OV83N0E?oc=5",
-      "publishedAt": "2026-10-22T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architect"
       ]
     }
