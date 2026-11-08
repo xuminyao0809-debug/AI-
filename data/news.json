@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-07T01:53:08.452Z",
+  "updatedAt": "2026-11-08T01:23:55.842Z",
   "items": [
+    {
+      "id": "996e22674a7b",
+      "title": "House with Forest Windows / Yosuke Tomiya Architectural Design",
+      "summary": "House with Forest Windows is a compact timber residence in Sapporo , Hokkaido, located where an ordinary suburban neighborhood meets a dense...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1186270/house-with-forest-windows-yosuke-tomiya-architectural-design",
+      "publishedAt": "2026-11-07T17:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "c173b1c24174",
+      "title": "Generative AI In Architecture Demands A Shift Toward Curatorial And Ethical Oversight - Bioengineer.org",
+      "summary": "Generative AI In Architecture Demands A Shift Toward Curatorial And Ethical Oversight &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNjcTdKSnhKazdTV25rSmRIVUIxTDVCZ1BpSVhUUHU5dG5Gb3JfNHJscThOVnU2bFF6SWtFOHlYWEhVUDY3X0lFR3NzbzUyRXhjVnEzTUs1Zm5ZTm5zQWo1MzZxcWZiWHB3R1BTWFNOMk85emVQUDlaMUk2ek04QnB5TmVIbERGVzNKeVJkdXVLRDdMVWxHSzA3U05SdzVQWHJYVWNXcEVHSHZYYTNB?oc=5",
+      "publishedAt": "2026-11-07T09:07:28.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "generative",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "108a6f853b16",
       "title": "SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture - Yahoo Finance",
@@ -41,20 +69,6 @@
       ]
     },
     {
-      "id": "a6c7eb2baa87",
-      "title": "Singapore chip startup Symatics unveils AI architecture - Tech in Asia",
-      "summary": "Singapore chip startup Symatics unveils AI architecture &nbsp;&nbsp; Tech in Asia",
-      "source": "Tech in Asia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWVETThObEZ4Y2ZEa0xUUHlSa3ZEcmZtYzh6MWJFU0Z3QnhXaTFwcW15di1BR3k0TWZNbWVDQ2dLbWd0akJuNXlDUkNzYlBzcmV4QllRSVFHemZPaGtncERHU292V3hPSkdTMUo1WUF1NkZiTWdhVnh6U2c2bEV0S19hNmptUEhfTWw5T0Ytb3Q?oc=5",
-      "publishedAt": "2026-11-06T09:09:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "0deb3af5176b",
       "title": "Designing the invisible at the new ICG Gallery Dubai",
       "summary": "Designing the invisible. IRIS CERAMICA GROUP OFFICIALLY OPENS THE NEW ICG GALLERY DUBAI WITH A MULTISENSORY EXPERIENCE On the occasion of Du...",
@@ -73,35 +87,6 @@
       "source": "ArchDaily",
       "url": "https://www.archdaily.com/1188059/architectures-of-movement-6-unbuilt-transport-structures-from-the-archdaily-community",
       "publishedAt": "2026-11-06T07:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "3968cfb27767",
-      "title": "Al-Mastaba Installation at Amman Design Week 2026 / Laith Matarweh Studio for Architecture",
-      "summary": "Al-Mastaba is named after a common Levantine term referring to the leveling of land for building, cultivation, or access. It also describes ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
-      "publishedAt": "2026-11-06T03:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
-      ]
-    },
-    {
-      "id": "ad4582331912",
-      "title": "Gallery of What AI Reveals About Architecture That Was Never Built - 3 - ArchDaily",
-      "summary": "Gallery of What AI Reveals About Architecture That Was Never Built - 3 &nbsp;&nbsp; ArchDaily",
-      "source": "ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcHRabV80YUJUMkh0SHQzNWQ3QzFuS1p5S29LYUdOTVR0Wm9CUWRKRDFGcUlfQkU4N2RzZl9UakItY09iUjVESEtoTDE1SFB6TE9qMnVjUFZmRTRMQTJZRVpTaW91RF9yRC0wU3JGdDhIRzlCbWM4ZDVNYUIzR0g0M2l1SDFlZDR2YWRKODZRc0NTekJ0MUlGZlF0TUtuWmdmVlY3TV9kTlkyalQxajdheDRHZVRGUUZ0b3ZZQ1ZOb1BYcTNRQVVmWWJNcFBoZWpQTmMzQ2VBbTBtOXFwSnZnb1JQc3Rva2o2TlA1MExfWU91U1QzN0lvbnVCTV91eGw4MUxydGFzQQ?oc=5",
-      "publishedAt": "2026-11-05T13:39:40.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -144,6 +129,20 @@
       "source": "Qubic",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPODNjb3ZicU9STzc2bW5aVHk2aUJ4LXlEWERPQWVqY3BfeWowNS1GZzNZbkJXYlNqdmYxS3NodjFfYmUxZnpERVVkWlFTZWYxX3JzMVJnRVZaTlA1dlhWZTB1bW9QRVUxZ2ZXeTVUeUlhN1dWUjY4dmRJUW1ITFFRNEdXR1liZG80ZnZLUVcwTExRbGFUVy1DSDJqWWc1d3JzM2FGR1p5U3ZqTDAzN2cyYXJMREJKUQ?oc=5",
       "publishedAt": "2026-11-04T00:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "a1a413c33872",
+      "title": "‘Rich assholes stealing our work:’ Last chance to share your views on AI in architecture with us - Archinect",
+      "summary": "‘Rich assholes stealing our work:’ Last chance to share your views on AI in architecture with us &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFhBV1ZYV0F6QjUtQWJVMjNEdnhYYjVpSXNzUTNPakNoaURXYVA2T09XeU9jOUtpdXZ1aDZwZWI4OFI4cTNYZFVhYmxCZ1U4RzdvNEtzZktLWjducjZCaUszbU5tVkxsdGhmbndyek1penBtRzhXd2JyQVp6Mml4eVdRazRTb2dQZlVpSjlBY1kyYm84XzU5Q3BSUnBNZWFUcmg2YTNvVFBKejZSYWpxck5ZZEYtaWszMEdnMVNXZmFic0o4Q3lkbkVhdjFLYzBkbUlHWg?oc=5",
+      "publishedAt": "2026-11-02T16:41:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -207,27 +206,13 @@
       ]
     },
     {
-      "id": "f1c516ee35e0",
-      "title": "Dr. Ivan Del Valle Joins Leading Data & AI Consulting Firm to Accelerate Production Architecture - USA Today",
-      "summary": "Dr. Ivan Del Valle Joins Leading Data & AI Consulting Firm to Accelerate Production Architecture &nbsp;&nbsp; USA Today",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUVmdl95M19HbzFOY05xTXZXRDlRc01JMk5SSk1IVnU0cjlwWnpXSW9hOEFDRy13R2xBUmdZRUQxU2VrdF9sazlIZExHZmZobjZ1MjBJZm5kSVo2T2FNbjBiN3hsendCWldJcGFGQk1pd1NFVTFNVDU1ZDVHdGJYT0Q1cnpmZE02SFZRd0YzQ1FHTFBqY2dtWEZaYUwtcG1jQ1NfT3ZVUDljb1ZLbl9wT0xLdlNLSEVRSXFDOUpQc0hhWExHaHBsX1lQUFdpUU9pN1ZENDcwZ2NfdmwwdGc?oc=5",
-      "publishedAt": "2026-11-01T20:12:08.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e1b1d87c317f",
-      "title": "From Atoms to Universes: The Architecture of Everything in the Age of AI - ArchDaily",
-      "summary": "From Atoms to Universes: The Architecture of Everything in the Age of AI &nbsp;&nbsp; ArchDaily",
-      "source": "ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDk3TEJDRzlkVTloYmgxcHVxbWU5elpIaFNxUWJ1ZWtJVUJ5aGVjZFlmaGF2RXRDV1NaMXZ5aVZ4NU9FREpQSmw4WTg1UzVfWFBBVXFaYk4zMTFrd0FjLW5KR2U1b2NWVEJwS0kwQ2daLUc5Wk8zbl9lMzlIdE05U1g2Mm5oTDA0V0dwQ2E3Qm9SdTFvNXlkbHlWWTJtdVBYSTZwZnFMODM?oc=5",
-      "publishedAt": "2026-10-30T10:45:00.000Z",
-      "category": "研究",
+      "id": "0332b0e72e14",
+      "title": "The Vanishing Apprenticeship: What Happens When AI Does the Junior Architect’s Work? - Parametric Architecture",
+      "summary": "The Vanishing Apprenticeship: What Happens When AI Does the Junior Architect’s Work? &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hMWI0NlhfOFZDWFQyTXJnUllzZnpUSmRHTXRKYjhEaEMydVl2VEx2NHgwZHJDMlZwdE9kZ01oVDcxLWZwWF9FaEtnWXhoSG1zcU1uYnBYZGo1Slp0TlpWenhKdDM1bVMzRHFPOWlacFpRQjA1dzE5eThEWGRWQ1k?oc=5",
+      "publishedAt": "2026-10-31T16:00:00.000Z",
+      "category": "生成式设计",
       "tags": [
         "ai",
         "architecture",
@@ -241,34 +226,6 @@
       "source": "PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON0RyY0NpVkhXVXRjMnNSWXhSTGJUVmNEcExjSi1MczJTSmZmUXp4aks2TnJnZlNES3R6ai11ekt4bFJjazAtUThzSFBGOFh5cFBVR3FwOG5uWXNYVTRCVnF0RWlDZlpyRUEzcjBaSHhob1c0dWhocGs4dVVwUENxNXlpVVBLdTdGT0o5bE02X25WM0E3VmIweEowdy1tODRaTGJ6Nm0wN0ZLVGNoSWw3TTUyUTIzZTNJenJIS2ktNy1NWjItX3JyVHRtVHRVQVlfN2ZSb2F4cw?oc=5",
       "publishedAt": "2026-10-29T14:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "4d138fc0d209",
-      "title": "The Invisible Architecture of AI Data Centers, Energy, and Digital Space - Parametric Architecture",
-      "summary": "The Invisible Architecture of AI Data Centers, Energy, and Digital Space &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNk4ya21NVGpBYVZGdEdOOXp6ZndlT0dYLTEzNjREYkk4MzdwNHJmQ2VGTTI3VHhXZm4ySkoxZVNmcXdvX3lOeUpUa2VGYTF5MmtEM083YVFicDB4Mk5BSEE2THByWlJ0X0JaUHR3WlQ2MzVRc1MxYi1xOFhfclUwQQ?oc=5",
-      "publishedAt": "2026-10-29T12:00:00.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "cc41949ab609",
-      "title": "Architecture, Not Intelligence, Will Define the Future of AI Headphones - AiThority",
-      "summary": "Architecture, Not Intelligence, Will Define the Future of AI Headphones &nbsp;&nbsp; AiThority",
-      "source": "AiThority",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNThkWHR2LU1WZ3lwOFE0SGdSakN1TTFUbC1kV3NhVkZ6US1TRnRxd1gwNnEtSXE0VzJ6VFhkenE5emRVMFRVV3ZxZXdtRmlLVXpVbFJwNFBvMFlBeC0yNUVJWHlQQzNoODdHRWVMVjhsdFVpUmJjb001WTFocTdrWUhXS2FZZ09UNVh1MFRLT0pTcTNYaXBWLXk1ZTVtOXRZeGdxM2ptRm1HQQ?oc=5",
-      "publishedAt": "2026-10-29T07:07:47.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -291,12 +248,26 @@
       ]
     },
     {
-      "id": "c1377cb5728c",
-      "title": "Beyond Render: Architectural Storytelling with AIResponsive Architectural Presentations with AI - Parametric Architecture",
-      "summary": "Beyond Render: Architectural Storytelling with AIResponsive Architectural Presentations with AI &nbsp;&nbsp; Parametric Architecture",
+      "id": "cc41949ab609",
+      "title": "Architecture, Not Intelligence, Will Define the Future of AI Headphones - AiThority",
+      "summary": "Architecture, Not Intelligence, Will Define the Future of AI Headphones &nbsp;&nbsp; AiThority",
+      "source": "AiThority",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNThkWHR2LU1WZ3lwOFE0SGdSakN1TTFUbC1kV3NhVkZ6US1TRnRxd1gwNnEtSXE0VzJ6VFhkenE5emRVMFRVV3ZxZXdtRmlLVXpVbFJwNFBvMFlBeC0yNUVJWHlQQzNoODdHRWVMVjhsdFVpUmJjb001WTFocTdrWUhXS2FZZ09UNVh1MFRLT0pTcTNYaXBWLXk1ZTVtOXRZeGdxM2ptRm1HQQ?oc=5",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "4d138fc0d209",
+      "title": "The Invisible Architecture of AI Data Centers, Energy, and Digital Space - Parametric Architecture",
+      "summary": "The Invisible Architecture of AI Data Centers, Energy, and Digital Space &nbsp;&nbsp; Parametric Architecture",
       "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcERJZjl1UTdrbURjRmVZeTJLVGFqTk5xNG5PalJ6OGtjXzhicGVQam5aRkFqZURBUE5fVkZNbFZhZGgxV2dINlE5bmdTNlJhVE5Jc09IdVVpejhZcnd0SWVaNEtLNnpLTXdUeFFyQXVSVHhWSGZkQUtJVTVvWmQwNVl6VlBVU0dZRkk4?oc=5",
-      "publishedAt": "2026-10-27T05:56:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNk4ya21NVGpBYVZGdEdOOXp6ZndlT0dYLTEzNjREYkk4MzdwNHJmQ2VGTTI3VHhXZm4ySkoxZVNmcXdvX3lOeUpUa2VGYTF5MmtEM083YVFicDB4Mk5BSEE2THByWlJ0X0JaUHR3WlQ2MzVRc1MxYi1xOFhfclUwQQ?oc=5",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
       "category": "生成式设计",
       "tags": [
         "ai",
@@ -305,12 +276,26 @@
       ]
     },
     {
-      "id": "a20c407c6dcb",
-      "title": "WWT and DDN Design Storage Architecture for NVIDIA Vera Rubin AI Factories - Konsulteer",
-      "summary": "WWT and DDN Design Storage Architecture for NVIDIA Vera Rubin AI Factories &nbsp;&nbsp; Konsulteer",
-      "source": "Konsulteer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGNIQVZ2NmJrOU5PT1psZ3ZFRWhvSzBCUkdaQ3gzTXVJNU82WDkwMlB0SHdJWWJFQXhWYWJuMl8wcnRFZkRadTN1ZEl3UEtuNTBSSUlfSEZxazlpYXdPNWhwSWNvNGU3Sy02b1BiaDBrYTE5VnMwLU05ZXFkVUdRLVhqdWdqQldZY195Q2tvajEzZHozcjkzNzBkaUdvdUliQ2plbk4wMVNIOFFvZFE?oc=5",
-      "publishedAt": "2026-10-26T12:10:46.000Z",
+      "id": "c1377cb5728c",
+      "title": "Beyond Render: Architectural Storytelling with AIResponsive Architectural Presentations with AI - Parametric Architecture",
+      "summary": "Beyond Render: Architectural Storytelling with AIResponsive Architectural Presentations with AI &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcERJZjl1UTdrbURjRmVZeTJLVGFqTk5xNG5PalJ6OGtjXzhicGVQam5aRkFqZURBUE5fVkZNbFZhZGgxV2dINlE5bmdTNlJhVE5Jc09IdVVpejhZcnd0SWVaNEtLNnpLTXdUeFFyQXVSVHhWSGZkQUtJVTVvWmQwNVl6VlBVU0dZRkk4?oc=5",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "379d744e131c",
+      "title": "AI is moving fast. Architecture, how are we doing? - Archinect",
+      "summary": "AI is moving fast. Architecture, how are we doing? &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWR3VHVCNVlCaXRVbERkQUh6ZFYxUXJaVWRGZS00NUg1QTY2aWxFYTA2aDFneFpCNmJ4Y0p1WUhQNERxd3dTeDFCSDl6dDBSMFJOMVcxX0xGVzJVWnkxYmNabERBREVmallWV1VpZlAzb3UxeElLZzlHY3J6cmU0SzBpT1BXTUs4VFZMVEFxTXJ5NWMwYnNv?oc=5",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -346,13 +331,13 @@
       ]
     },
     {
-      "id": "2e5df8002c4f",
-      "title": "Who Buys Nvidia’s Packaged AI Factories in 2026 - Parametric Architecture",
-      "summary": "Who Buys Nvidia’s Packaged AI Factories in 2026 &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52aGJtempXdGRzRVJWYkFqMWpVWFBZS1BiWlpKZTBTMWw1ZTlNNDV0MXdGX1hwU0VZbW1rT0kxVWNWcFVpSEZlZ2VlR2NaM1ppX3pZekVWelhRSXR2XzVmbnNoR0FhLV9JUk1NZEpuYmFESDl3alBsU1hTTHEyQQ?oc=5",
+      "id": "a20c407c6dcb",
+      "title": "WWT and DDN Design Storage Architecture for NVIDIA Vera Rubin AI Factories - Konsulteer",
+      "summary": "WWT and DDN Design Storage Architecture for NVIDIA Vera Rubin AI Factories &nbsp;&nbsp; Konsulteer",
+      "source": "Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGNIQVZ2NmJrOU5PT1psZ3ZFRWhvSzBCUkdaQ3gzTXVJNU82WDkwMlB0SHdJWWJFQXhWYWJuMl8wcnRFZkRadTN1ZEl3UEtuNTBSSUlfSEZxazlpYXdPNWhwSWNvNGU3Sy02b1BiaDBrYTE5VnMwLU05ZXFkVUdRLVhqdWdqQldZY195Q2tvajEzZHozcjkzNzBkaUdvdUliQ2plbk4wMVNIOFFvZFE?oc=5",
       "publishedAt": "2026-10-26T07:00:00.000Z",
-      "category": "生成式设计",
+      "category": "研究",
       "tags": [
         "ai",
         "architecture",
