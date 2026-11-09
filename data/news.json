@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-08T01:23:55.842Z",
+  "updatedAt": "2026-11-09T01:42:33.530Z",
   "items": [
+    {
+      "id": "2d6229bef683",
+      "title": "The Giant's Garden Daycare / design CHOU",
+      "summary": "The Giant's Garden is a children's activity space inspired by Oscar Wilde's fairy tale The Selfish Giant. In the story, winter lingers in th...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187390/the-giants-garden-daycare-design-chou",
+      "publishedAt": "2026-11-08T17:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "996e22674a7b",
       "title": "House with Forest Windows / Yosuke Tomiya Architectural Design",
@@ -81,40 +93,12 @@
       ]
     },
     {
-      "id": "58c41806a1e9",
-      "title": "Architectures of Movement: 6 Unbuilt Transport Structures from the ArchDaily Community",
-      "summary": "The idea of transportation infrastructure tends to be more hostile than interesting: spaces of transit, of constant encounters with stranger...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188059/architectures-of-movement-6-unbuilt-transport-structures-from-the-archdaily-community",
-      "publishedAt": "2026-11-06T07:30:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "32dced10a721",
       "title": "What AI Reveals About Architecture That Was Never Built - ArchDaily",
       "summary": "What AI Reveals About Architecture That Was Never Built &nbsp;&nbsp; ArchDaily",
       "source": "ArchDaily",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnIzX3A2c2ZjNnVRNGFZR2czMVZ2ZDh1RndzSUl4ejhhTGVTRGE4LUxmU3NmdDJjTXVjSUhOZXJGNWhicmRleWdLbDRBMUhHQVhhdDJDMk9BSExJVnRVNVBsME5jZzQ4enhiMVU3M2NZZnZlRmQxX0VWcTVIamZYX1lvQTUybWttaFQteGpKSldWOE0?oc=5",
       "publishedAt": "2026-11-05T11:45:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "6064a8ffb35c",
-      "title": "Physical AI Pushes Hardware to Its Limits with Memory, Power, and Architecture Challenges - KuCoin",
-      "summary": "Physical AI Pushes Hardware to Its Limits with Memory, Power, and Architecture Challenges &nbsp;&nbsp; KuCoin",
-      "source": "KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckFwUU0ySURYT19oT1Byek1zVEdFTXBCMXlXWEoxVURGRk9VNmkzNHhSM2FkeXZtX2Z2YkxyUVBCSmVyY0ZzV1BOZkI0aW1Nc0lsSmczckxiVERvMjhmckV5dTlYU0ZfdDktVUJEM0lucVdlNmttVURLOVdyaTFjYnN6RUU3WnBYVzRfYzdSanRpVWQ2NllPTmJDenlod294Z0dJWjdMUW5pZ3ViUEoyYW9JTFctV1ZB?oc=5",
-      "publishedAt": "2026-11-05T10:04:08.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -164,20 +148,6 @@
       ]
     },
     {
-      "id": "80671b092032",
-      "title": "Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures - infoq.com",
-      "summary": "Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures &nbsp;&nbsp; infoq.com",
-      "source": "infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FUDFpcHRhajI1LTJleEt3YXNqbldVdTF1cWFyY2NzMlJXVGZUY3J5c3YtNEx2ajFqR0FqXzdIdElodUE3NUVIQ2U5ME5naEQxN29OT3VlWkZhZWhGMFZ1czBYSENzaTRjMF9VQUphV0ttRXY4M2c?oc=5",
-      "publishedAt": "2026-11-02T11:03:31.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "7063c9f69544",
       "title": "DeepSeek Proposes Super-Agent Architecture to Automate AI Coding Workflows - Analytics India Magazine",
       "summary": "DeepSeek Proposes Super-Agent Architecture to Automate AI Coding Workflows &nbsp;&nbsp; Analytics India Magazine",
@@ -220,6 +190,35 @@
       ]
     },
     {
+      "id": "de3f56b6219d",
+      "title": "Algorithmic Taste: Why Do AI-Designed Buildings Start to Look the Same? - Parametric Architecture",
+      "summary": "Algorithmic Taste: Why Do AI-Designed Buildings Start to Look the Same? &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2plNEZZX2tXZHJLTXZIRjNMemExaFhVQ0s4SDRpWHhkelBhZ3R5c3RDTUdwcHVQTjJDTWpxT3ZjUi1jS0c2QW1UZmZrVTFUNVUwRHpRZERSV1dxZ2hnS3JTUWRYcTRnXzNLUm9QTVNRQlJqbGxCY2FhQzhPNUx4aQ?oc=5",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "building"
+      ]
+    },
+    {
+      "id": "e1b1d87c317f",
+      "title": "From Atoms to Universes: The Architecture of Everything in the Age of AI - ArchDaily",
+      "summary": "From Atoms to Universes: The Architecture of Everything in the Age of AI &nbsp;&nbsp; ArchDaily",
+      "source": "ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDk3TEJDRzlkVTloYmgxcHVxbWU5elpIaFNxUWJ1ZWtJVUJ5aGVjZFlmaGF2RXRDV1NaMXZ5aVZ4NU9FREpQSmw4WTg1UzVfWFBBVXFaYk4zMTFrd0FjLW5KR2U1b2NWVEJwS0kwQ2daLUc5Wk8zbl9lMzlIdE05U1g2Mm5oTDA0V0dwQ2E3Qm9SdTFvNXlkbHlWWTJtdVBYSTZwZnFMODM?oc=5",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "49d69aebbe83",
       "title": "CELUS Brings AI Agents to Architecture and Component Decisions in Electronics Design - PR Newswire",
       "summary": "CELUS Brings AI Agents to Architecture and Component Decisions in Electronics Design &nbsp;&nbsp; PR Newswire",
@@ -234,16 +233,15 @@
       ]
     },
     {
-      "id": "67d0180c69f7",
-      "title": "AI architecture startup Dream launches with $17M in funding - SiliconANGLE",
-      "summary": "AI architecture startup Dream launches with $17M in funding &nbsp;&nbsp; SiliconANGLE",
-      "source": "SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDFWUGJYRktibXNENXVyRmNpdlpScVg5T0dWM1U5a3Z3VWVIamN0SmRQRXdMZDY2Q1cxdFh4ekZVLVN2TjE2Y1dYazJmejkwME1FZWFHb0ZwQ0NpVE1oOGZqdGdMWWNldnNveGdkNWRTZEY2VG9aMEJ2bkZETWtUdGp5SjVVRldtUXBkeWVsX2ZWS2UtbjNZdXVfcw?oc=5",
+      "id": "24c94da15443",
+      "title": "\"If AI can do most of what we think an architect does, maybe we have defined the profession too narrowly\" - Dezeen",
+      "summary": "\"If AI can do most of what we think an architect does, maybe we have defined the profession too narrowly\" &nbsp;&nbsp; Dezeen",
+      "source": "Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01MG4zRXNfal94NEszbTltWkhiX21EaE5SNEJvNmlPSlF4MW9od2taaTA2UzlIMHFYaldZTXlWSHV1aE1ZbTNZZHM4MWNsNjdxMnNNZkdBUVViVTIwTjVEakRZeUhHdjhtUnc?oc=5",
       "publishedAt": "2026-10-29T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
-        "architecture",
         "architect"
       ]
     },
@@ -301,19 +299,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "f1c362fdcf86",
-      "title": "UC Berkeley’s new AI-research building is designed for human interaction - Fast Company",
-      "summary": "UC Berkeley’s new AI-research building is designed for human interaction &nbsp;&nbsp; Fast Company",
-      "source": "Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2V5UGpuVTFmUlRpZms2amotT2xzRnB6Y1A3ZXc5cGdMNHkzZjhUVTc5UC1JZ2hoZ3ljMkFfTkQwcW9tbW5wUWhqc1JjZTJ4ejlLakZOVjZUR0dDYk41ZUpndWZPNTBRVHFXbzBPMElIMEpUODM1ZDJUX0hIZnRpSVd1eE9XMzI2cURGZDdISFpHOEVCMDBN?oc=5",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
       ]
     },
     {
