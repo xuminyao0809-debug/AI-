@@ -1,26 +1,98 @@
 {
-  "updatedAt": "2026-11-09T01:42:33.530Z",
+  "updatedAt": "2026-11-10T04:05:00.689Z",
   "items": [
     {
-      "id": "2d6229bef683",
-      "title": "The Giant's Garden Daycare / design CHOU",
-      "summary": "The Giant's Garden is a children's activity space inspired by Oscar Wilde's fairy tale The Selfish Giant. In the story, winter lingers in th...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187390/the-giants-garden-daycare-design-chou",
-      "publishedAt": "2026-11-08T17:00:00.000Z",
+      "id": "a827caacf3b2",
+      "title": "Symatics unveils new processor architecture designed for faster AI responses - Big News Network.com",
+      "summary": "Symatics unveils new processor architecture designed for faster AI responses &nbsp;&nbsp; Big News Network.com",
+      "source": "Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEJZRXJVR01RQnZCbUo4NTBxblVFdFBmZUhKNURKc3ktUXdOdGt6MzZjYlZ0d3lRaGl4SlZtS195dEd2ZGRpdXpjSTJkRVJrckNFbjVGLV9WMHpTZ0FyTm1LekhkVnAtVHF3SmNHQVFWQ1hydGtkQ0ZYMnN4ckpUUXpPdmFzbDJOQkZybWRLRm1VbGI1TWZYbnNVMmxTRTZWbmlOVlN4bHJvNVJIT1Y5V0xjNkVsYi1rTDgwRFJoUQ?oc=5",
+      "publishedAt": "2026-11-10T01:00:00.000Z",
       "category": "研究",
       "tags": [
-        "ai"
+        "ai",
+        "architecture",
+        "architect"
       ]
     },
     {
-      "id": "996e22674a7b",
-      "title": "House with Forest Windows / Yosuke Tomiya Architectural Design",
-      "summary": "House with Forest Windows is a compact timber residence in Sapporo , Hokkaido, located where an ordinary suburban neighborhood meets a dense...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1186270/house-with-forest-windows-yosuke-tomiya-architectural-design",
-      "publishedAt": "2026-11-07T17:00:00.000Z",
+      "id": "a2321b6c6ac7",
+      "title": "Agentic AI Architecture Moves from Experiments to Enterprise Design - news.lavx.hu",
+      "summary": "Agentic AI Architecture Moves from Experiments to Enterprise Design &nbsp;&nbsp; news.lavx.hu",
+      "source": "news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWplUXI3eGMzeTBMR2hKVDF0ZmZ3Y0NnOWFzRFhHQmpvdEl5S3ZGbEN6a3BRQ21Jc0IzQVVkSFVmcnA0Tkxaeklld0JudjBUdmVWM3U4ZU96Y3ZkLXZwazVmNzVmTWhvd1dmdGlacGRqQUJaTTdRMnZQYjRVOGxhZjN0ZmNaTjhfR3ppazZQcjVBT2IwNHlWWlFEeDQ?oc=5",
+      "publishedAt": "2026-11-09T12:21:10.000Z",
       "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "277fbbfa1839",
+      "title": "Agentic AI Architecture: Current Challenges and Future Opportunities - infoq.com",
+      "summary": "Agentic AI Architecture: Current Challenges and Future Opportunities &nbsp;&nbsp; infoq.com",
+      "source": "infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjMyamo1OXVSZlZXRGZkZ3gzb0VJTEt0QTNwa19RcDlJLThjS3hhYzM5UTUwUWkyTXc1SXRpMkNxVU42ZVozc0FKUURzaWxKY1FBMi1sV0VpOVU0RVBQSnRuam03MmdMRi04dW50dFNDRVBNNDM0cWFTdlpDbVZISlhDRWtHSkE?oc=5",
+      "publishedAt": "2026-11-09T10:52:10.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "ed6f8c07ffbf",
+      "title": "Every Picture Tells a Story",
+      "summary": "Hand drawing is arguably architecture&rsquo;s oldest &ldquo;technology Even as we plunge headlong into the age of artificial intelligence, d...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188302/every-picture-tells-a-story",
+      "publishedAt": "2026-11-09T09:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "artificial intelligence",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "5cdeec943d32",
+      "title": "From Territory to Detail: 20th International Seminar on Latin American Architecture",
+      "summary": "The 20th edition of the international architecture seminar \"From Territory to Detail\" serves as a space for dialogue and reflection, bringin...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188288/from-territory-to-detail-20th-international-seminar-on-latin-american-architecture",
+      "publishedAt": "2026-11-09T09:10:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "aa8a244d76d7",
+      "title": "Against Program: The Productive Ambiguity of Contemporary Architecture",
+      "summary": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188137/against-program-the-productive-ambiguity-of-contemporary-architecture",
+      "publishedAt": "2026-11-09T07:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "65b912aeddcb",
+      "title": "ZIN / 51N4E + I'AUC + Jaspers-Eyers Architects",
+      "summary": "The innovative project 'ZIN in No(o)rd' aims to reuse the emblematic WTC I and II towers located in the heart of the Northern Quarter in Bru...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188225/zin-51n4e-plus-iauc-plus-jaspers-eyers-architects",
+      "publishedAt": "2026-11-09T07:00:00.000Z",
+      "category": "案例",
       "tags": [
         "ai",
         "architect"
@@ -56,18 +128,6 @@
       ]
     },
     {
-      "id": "5bffe77b3877",
-      "title": "Greenhouse House 23 / Yemail Arquitectura",
-      "summary": "There is a moment when construction and demolition look identical. Sometimes, that concrete image—suspended between absence and the promise ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188199/greenhouse-house-23-yemail-arquitectura",
-      "publishedAt": "2026-11-06T15:00:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "641202f3a001",
       "title": "How can architects harness big data and AI to enrich design decisions? - RIBA Journal",
       "summary": "How can architects harness big data and AI to enrich design decisions? &nbsp;&nbsp; RIBA Journal",
@@ -78,18 +138,6 @@
       "tags": [
         "ai",
         "architect"
-      ]
-    },
-    {
-      "id": "0deb3af5176b",
-      "title": "Designing the invisible at the new ICG Gallery Dubai",
-      "summary": "Designing the invisible. IRIS CERAMICA GROUP OFFICIALLY OPENS THE NEW ICG GALLERY DUBAI WITH A MULTISENSORY EXPERIENCE On the occasion of Du...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188160/designing-the-invisible-at-the-new-icg-gallery-dubai",
-      "publishedAt": "2026-11-06T09:05:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -121,29 +169,16 @@
       ]
     },
     {
-      "id": "a1a413c33872",
-      "title": "‘Rich assholes stealing our work:’ Last chance to share your views on AI in architecture with us - Archinect",
-      "summary": "‘Rich assholes stealing our work:’ Last chance to share your views on AI in architecture with us &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFhBV1ZYV0F6QjUtQWJVMjNEdnhYYjVpSXNzUTNPakNoaURXYVA2T09XeU9jOUtpdXZ1aDZwZWI4OFI4cTNYZFVhYmxCZ1U4RzdvNEtzZktLWjducjZCaUszbU5tVkxsdGhmbndyek1penBtRzhXd2JyQVp6Mml4eVdRazRTb2dQZlVpSjlBY1kyYm84XzU5Q3BSUnBNZWFUcmg2YTNvVFBKejZSYWpxck5ZZEYtaWszMEdnMVNXZmFic0o4Q3lkbkVhdjFLYzBkbUlHWg?oc=5",
-      "publishedAt": "2026-11-02T16:41:00.000Z",
+      "id": "80671b092032",
+      "title": "Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures - infoq.com",
+      "summary": "Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures &nbsp;&nbsp; infoq.com",
+      "source": "infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FUDFpcHRhajI1LTJleEt3YXNqbldVdTF1cWFyY2NzMlJXVGZUY3J5c3YtNEx2ajFqR0FqXzdIdElodUE3NUVIQ2U5ME5naEQxN29OT3VlWkZhZWhGMFZ1czBYSENzaTRjMF9VQUphV0ttRXY4M2c?oc=5",
+      "publishedAt": "2026-11-02T11:03:31.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "796aeb3c26b8",
-      "title": "Educating an Architect: Luca Mezzalira on Socio-Technical Design and AI Guardrails - news.lavx.hu",
-      "summary": "Educating an Architect: Luca Mezzalira on Socio-Technical Design and AI Guardrails &nbsp;&nbsp; news.lavx.hu",
-      "source": "news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaFNwUmUzMGViM1ItY0hWSk9pQXdEalI4THo0UzFmVGFpX2JBVmpEZlRUR245LTBVYXV3dDVIZzJhd0lhbm9nR1p1d05EUXVhSFVlUFJWT3VYRDd5U3hSay01Vm1PMEVHbU9yS3dZdjZMdDFjU1l0UXFiUUVOalRjejZlY2EzRjVoRGVYT0stZkN0aWVLcGpUcE0tZVRMTEJvbVJsdjJWZDRMdE9ELVRN?oc=5",
-      "publishedAt": "2026-11-02T12:52:30.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architect"
       ]
     },
@@ -162,12 +197,26 @@
       ]
     },
     {
+      "id": "efb6b0b6f989",
+      "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio - EE Times Asia",
+      "summary": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUxJWVcwazFuYVhSMUVtRzZrZDBCWTBLWllWTThGbHZFeFYwRDN1VkcwaGdvS2I5OUVidFAzaUFvS2VMRXhBT0NpcDEydmdiem9YN1FIWThLSHlIRHpRUHp0c1c1aWFLb3JhS2djREExZmpyNnZOXzVkUzdNQVpweGNWZl9aRXVWNld1SmRRRWdoMlZiTS1B?oc=5",
+      "publishedAt": "2026-11-02T04:31:31.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "771723696d43",
       "title": "DeepSeek’s Super-agent Design Explained: Architecture, Experiments and Open Problems - Kingy AI",
       "summary": "DeepSeek’s Super-agent Design Explained: Architecture, Experiments and Open Problems &nbsp;&nbsp; Kingy AI",
       "source": "Kingy AI",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EX21yVlZaMlI0M0dnbVlvaDQwUkdTVmRLYWZUODJSTXZrUGlIMDhYVU9haXdPMkE3X1pnREhFUFlqTzBEa3BmZy1kMXluX1gwVG5HSjZpN2hHMm5WcmUtN3ZCT1RYMVY3MTVQVw?oc=5",
-      "publishedAt": "2026-11-02T03:12:47.000Z",
+      "publishedAt": "2026-11-01T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -181,7 +230,7 @@
       "summary": "The Vanishing Apprenticeship: What Happens When AI Does the Junior Architect’s Work? &nbsp;&nbsp; Parametric Architecture",
       "source": "Parametric Architecture",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hMWI0NlhfOFZDWFQyTXJnUllzZnpUSmRHTXRKYjhEaEMydVl2VEx2NHgwZHJDMlZwdE9kZ01oVDcxLWZwWF9FaEtnWXhoSG1zcU1uYnBYZGo1Slp0TlpWenhKdDM1bVMzRHFPOWlacFpRQjA1dzE5eThEWGRWQ1k?oc=5",
-      "publishedAt": "2026-10-31T16:00:00.000Z",
+      "publishedAt": "2026-10-31T07:00:00.000Z",
       "category": "生成式设计",
       "tags": [
         "ai",
@@ -195,7 +244,7 @@
       "summary": "Algorithmic Taste: Why Do AI-Designed Buildings Start to Look the Same? &nbsp;&nbsp; Parametric Architecture",
       "source": "Parametric Architecture",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2plNEZZX2tXZHJLTXZIRjNMemExaFhVQ0s4SDRpWHhkelBhZ3R5c3RDTUdwcHVQTjJDTWpxT3ZjUi1jS0c2QW1UZmZrVTFUNVUwRHpRZERSV1dxZ2hnS3JTUWRYcTRnXzNLUm9QTVNRQlJqbGxCY2FhQzhPNUx4aQ?oc=5",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
       "category": "生成式设计",
       "tags": [
         "ai",
@@ -246,6 +295,20 @@
       ]
     },
     {
+      "id": "67d0180c69f7",
+      "title": "AI architecture startup Dream launches with $17M in funding - SiliconANGLE",
+      "summary": "AI architecture startup Dream launches with $17M in funding &nbsp;&nbsp; SiliconANGLE",
+      "source": "SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDFWUGJYRktibXNENXVyRmNpdlpScVg5T0dWM1U5a3Z3VWVIamN0SmRQRXdMZDY2Q1cxdFh4ekZVLVN2TjE2Y1dYazJmejkwME1FZWFHb0ZwQ0NpVE1oOGZqdGdMWWNldnNveGdkNWRTZEY2VG9aMEJ2bkZETWtUdGp5SjVVRldtUXBkeWVsX2ZWS2UtbjNZdXVfcw?oc=5",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "cc41949ab609",
       "title": "Architecture, Not Intelligence, Will Define the Future of AI Headphones - AiThority",
       "summary": "Architecture, Not Intelligence, Will Define the Future of AI Headphones &nbsp;&nbsp; AiThority",
@@ -285,63 +348,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "379d744e131c",
-      "title": "AI is moving fast. Architecture, how are we doing? - Archinect",
-      "summary": "AI is moving fast. Architecture, how are we doing? &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWR3VHVCNVlCaXRVbERkQUh6ZFYxUXJaVWRGZS00NUg1QTY2aWxFYTA2aDFneFpCNmJ4Y0p1WUhQNERxd3dTeDFCSDl6dDBSMFJOMVcxX0xGVzJVWnkxYmNabERBREVmallWV1VpZlAzb3UxeElLZzlHY3J6cmU0SzBpT1BXTUs4VFZMVEFxTXJ5NWMwYnNv?oc=5",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "56d7c290ff8d",
-      "title": "New survey seeks feedback on how AI is being used in architectural practice - ArchitectureAu",
-      "summary": "New survey seeks feedback on how AI is being used in architectural practice &nbsp;&nbsp; ArchitectureAu",
-      "source": "ArchitectureAu",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVduaHZNSldMQUFzeEp1dTUwYUtTNTE4dmxDckRnXzBLc194eTVWdElFWFJYcUsxUUZGNVdsdWFOb015aTJqVWhUak02Uy1yMVVESFdBMFZkWDBoYjV6aWhreWhvcXFoaHhVaEhObTRROGI5Nk5mMFJJdmpLa25ubFNCN3pTYXZSeTdNWFZTSk9qYU9wcVN3QUNReU5wbHBmVjVZSHZZdDZ5cUdWQVNZSDNB?oc=5",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "a20c407c6dcb",
-      "title": "WWT and DDN Design Storage Architecture for NVIDIA Vera Rubin AI Factories - Konsulteer",
-      "summary": "WWT and DDN Design Storage Architecture for NVIDIA Vera Rubin AI Factories &nbsp;&nbsp; Konsulteer",
-      "source": "Konsulteer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGNIQVZ2NmJrOU5PT1psZ3ZFRWhvSzBCUkdaQ3gzTXVJNU82WDkwMlB0SHdJWWJFQXhWYWJuMl8wcnRFZkRadTN1ZEl3UEtuNTBSSUlfSEZxazlpYXdPNWhwSWNvNGU3Sy02b1BiaDBrYTE5VnMwLU05ZXFkVUdRLVhqdWdqQldZY195Q2tvajEzZHozcjkzNzBkaUdvdUliQ2plbk4wMVNIOFFvZFE?oc=5",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "8f2be593089e",
-      "title": "Architecture, AI and BIM at Roof Forum 2027. Registration opens for the Architects’ Forum! - Expo Kielce",
-      "summary": "Architecture, AI and BIM at Roof Forum 2027. Registration opens for the Architects’ Forum! &nbsp;&nbsp; Expo Kielce",
-      "source": "Expo Kielce",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWZVVk9PX1ZuODRrY2U3MDUycEExTUctdmpyOVBPYi1OWFRuV05zWDRQbjNGRS15QjBxOF9HVzZlZ2RjanZ1eW1Bb001OTdrWnVzcTZ4cThtWFJYZ2tNWFRoOElpMVFKaXl4VWhPWWx1azlBQWt3VzViZU5IckdZalhMTmEyczUzQ1Z3VzNaLU5YejZxam9halJhX3V1TXhSSlNBWkh4bWhDQ0RiXzdvZXpyTm1rZVBjcy1OVFZXVjlhRTE3SWlxcXhFc1g2NUFGX2c?oc=5",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "category": "BIM / AEC",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "bim"
       ]
     }
   ]
