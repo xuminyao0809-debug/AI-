@@ -1,13 +1,67 @@
 {
-  "updatedAt": "2026-11-12T02:56:08.023Z",
+  "updatedAt": "2026-11-13T02:35:54.090Z",
   "items": [
+    {
+      "id": "0b66ff85ec2d",
+      "title": "Inside an enterprise AI agent: A governed, observable loop architecture - Amazon Web Services (AWS)",
+      "summary": "Inside an enterprise AI agent: A governed, observable loop architecture &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "source": "Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmZwcE0tZHZ6b19xemt5cmItdlFqVlh5blpUZlFaYWl4V2pyNXJES1dzMUpUeC0tdGpBRkd6dkc0U09sR2lIWkFvVDc5bk1XRE5lSHlSb2xnOWgwd1lKdjYwcUhsdUwyZGs4NWQzUXVnRDctRHljNlYwWTlac2ZqdkJ5aVlrQ1B0TGhHV0hGUnhyemRTVFpNV3Fsby1BeG1jd3EtT2ZSU0RRX0xzZ3A0NFd3?oc=5",
+      "publishedAt": "2026-11-12T19:31:28.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "3e101304ffb6",
+      "title": "Casa de las Lavanderas / Raúl Sanchez Architects",
+      "summary": "Barcelona's Eixample bourgeoisie once washed their clothes in the wells of Calle Aiguafreda, one of the city's most picturesque streets toda...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188496/casa-de-las-lavanderas-raul-sanchez",
+      "publishedAt": "2026-11-12T19:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "e9fefea460e7",
+      "title": "Artificial intelligence will change the economics of architectural practice - ArchitectureLive!",
+      "summary": "Artificial intelligence will change the economics of architectural practice &nbsp;&nbsp; ArchitectureLive!",
+      "source": "ArchitectureLive!",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTll5OXRvRElYc3hBdVFNRDdaM0FMY3lVWjd1Q0Uza2c5cXAyS2lTbUZEc1V3RldBNGZTREpQdmZYMXMyVEZId1lpOVJQR0YwMFhQdTRpLUtuazhoZFpUR0k0UHVfbWFlM3VBNVpqeVFkWUpQa0dnTWFLVzlsanQzTm5McFNOaHpnTHdOaExqaXRJdWx5QlF5Q0haV184dWVJNjZwZQ?oc=5",
+      "publishedAt": "2026-11-12T07:10:03.000Z",
+      "category": "研究",
+      "tags": [
+        "artificial intelligence",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "0fd4caba2dc9",
+      "title": "What to Consider When Integrating Photovoltaics into Building Facades",
+      "summary": "When considering building-integrated photovoltaics ( BIPV ), the potential is clear: making the building envelope an active part of a buildi...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188181/what-to-consider-when-integrating-photovoltaics-into-building-facades",
+      "publishedAt": "2026-11-12T06:45:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
     {
       "id": "a3ddf801de1f",
       "title": "Singapore’s Symatics Launches MPU Architecture for Faster AI Processing - EE Times Asia",
       "summary": "Singapore’s Symatics Launches MPU Architecture for Faster AI Processing &nbsp;&nbsp; EE Times Asia",
       "source": "EE Times Asia",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlhMFZxWEZPZF9sTlgteFAybV95UTJ4UGtsazl3ckFvWDhzYld0VDlwN0Z3eUVxYUFiVHVGRjZyYVFBOTRybDk1aFFYR0VkUGlnQ2pVTmZ0T3Bjc2VuWWJFOXNRRUxwcGNXMWFHLXp6UkwwXzlNbXBBTjhqMkVPeWRDUFZGUElibS1YeDhmZElTT1NYX1dDUjAtTQ?oc=5",
-      "publishedAt": "2026-11-12T02:35:20.000Z",
+      "publishedAt": "2026-11-12T02:56:06.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -23,20 +77,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZ2EydmxWZmRBTHNOQklPMWFEUVA3ZkFuOXJTYVF6NWNXR2M1VF9nQ1oycFFKazBCNUxGUEd0SFE0dDZaVFVLejdOSnoyelVsR2xKUmNJckwwSlFYQnpDaHNTeTZ1QldaR1E?oc=5",
       "publishedAt": "2026-11-11T14:08:32.000Z",
       "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "2e3d8fa377a1",
-      "title": "Vipin Khuttel Publishes Book From AI Adoption to AI Architecture - openPR.com",
-      "summary": "Vipin Khuttel Publishes Book From AI Adoption to AI Architecture &nbsp;&nbsp; openPR.com",
-      "source": "openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUFHQU1pNTcxd2w3S3lEU0FPYzhxQWozMXotUjg5UVA0Y1U1X2lpdDc0eE5ITnBOMkFxTlJvMnpEZFMzWWNqOW1XTGRnbkd5ZmFFQ3ZWdkkyaVc5SnhsVV9ldGpCUlRiVkh4OHJwU1UyUWlFRGxpOTVQRnNzd014bU05YW5ReUxIWTRZdS1TczlmbWZzUzB6VHp5SUhqZUZHR0E?oc=5",
-      "publishedAt": "2026-11-11T12:26:41.000Z",
-      "category": "研究",
       "tags": [
         "ai",
         "architecture",
@@ -86,18 +126,6 @@
       ]
     },
     {
-      "id": "76863475dca4",
-      "title": "Sumayya Vally Unveils First Permanent UAE Project With Dubai’s Elie Khouri Art Foundation",
-      "summary": "The Elie Khouri Art Foundation (EKAF) has appointed Sumayya Vally of Johannesburg - and London -based practice Counterspace to design its pe...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188481/sumayya-vally-unveils-first-permanent-uae-project-with-dubais-elie-khouri-art-foundation",
-      "publishedAt": "2026-11-11T06:30:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "7ecc44139cd3",
       "title": "3 AI Architecture Tools Rethinking Workflows - Metropolis Magazine",
       "summary": "3 AI Architecture Tools Rethinking Workflows &nbsp;&nbsp; Metropolis Magazine",
@@ -112,12 +140,12 @@
       ]
     },
     {
-      "id": "e8339e3bcce7",
-      "title": "Symatics unveils new processor architecture designed for faster AI responses - Voice of ASIA",
-      "summary": "Symatics unveils new processor architecture designed for faster AI responses &nbsp;&nbsp; Voice of ASIA",
-      "source": "Voice of ASIA",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVll1OEZ3R25nUTZ3X0F4Z3lIelRNLS1qaDJNcmI1YkljeFZTNzV4YXpkcTk3VEMwMThpUHhlaFZaejhUY1c4TkcxalpjVTBQLUt4clVoZVhpMzZUMHBkZVpxRW9mMGVJY0dpXzRaTE1hUzV0REtMRzRadlB0Njhkd3ZrUnNudWdpN0ZCTWI4LWx0cllzeXJDNGlrZFdyYVhXRG43X3J4QXJ3blpHUU9rM3UxcHNsOEZqWklsZk1PbW9SRU1oU3dlR29CVQ?oc=5",
-      "publishedAt": "2026-11-10T01:00:00.000Z",
+      "id": "778482f1cad7",
+      "title": "Symatics unveils new processor architecture designed for faster AI responses - PR Newswire",
+      "summary": "Symatics unveils new processor architecture designed for faster AI responses &nbsp;&nbsp; PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNFFRc1h6aUZ3bThsc1VQOWNvYW5qWGtTQmp0WlQ3RndKZnZwOVpmRG9kdW9ybXlIcDBrR1dQXzVMTlVFOWE4MlN6UEtrTmphS21SY1p0c0x6TUhCMzl1SnRlaHpTZE9YWk1Wc0F0bjdRTE9QcHExOUI1d0ladzVaM0JoSzhUX1FoY2Y2QnkzTnlJb2ptTWl5bXVPaEZad0ptcVhSYTZvaWJ2aHBrV1dPREZCRS0yRnJYbzlJMnlKaVRrSGE4YnFlVDBoWG1VdDJTa19j?oc=5",
+      "publishedAt": "2026-11-10T01:02:41.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -132,6 +160,20 @@
       "source": "news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWplUXI3eGMzeTBMR2hKVDF0ZmZ3Y0NnOWFzRFhHQmpvdEl5S3ZGbEN6a3BRQ21Jc0IzQVVkSFVmcnA0Tkxaeklld0JudjBUdmVWM3U4ZU96Y3ZkLXZwazVmNzVmTWhvd1dmdGlacGRqQUJaTTdRMnZQYjRVOGxhZjN0ZmNaTjhfR3ppazZQcjVBT2IwNHlWWlFEeDQ?oc=5",
       "publishedAt": "2026-11-09T12:21:10.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "277fbbfa1839",
+      "title": "Agentic AI Architecture: Current Challenges and Future Opportunities - infoq.com",
+      "summary": "Agentic AI Architecture: Current Challenges and Future Opportunities &nbsp;&nbsp; infoq.com",
+      "source": "infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjMyamo1OXVSZlZXRGZkZ3gzb0VJTEt0QTNwa19RcDlJLThjS3hhYzM5UTUwUWkyTXc1SXRpMkNxVU42ZVozc0FKUURzaWxKY1FBMi1sV0VpOVU0RVBQSnRuam03MmdMRi04dW50dFNDRVBNNDM0cWFTdlpDbVZISlhDRWtHSkE?oc=5",
+      "publishedAt": "2026-11-09T10:52:10.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -182,6 +224,20 @@
       ]
     },
     {
+      "id": "a1a413c33872",
+      "title": "‘Rich assholes stealing our work:’ Last chance to share your views on AI in architecture with us - Archinect",
+      "summary": "‘Rich assholes stealing our work:’ Last chance to share your views on AI in architecture with us &nbsp;&nbsp; Archinect",
+      "source": "Archinect",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFhBV1ZYV0F6QjUtQWJVMjNEdnhYYjVpSXNzUTNPakNoaURXYVA2T09XeU9jOUtpdXZ1aDZwZWI4OFI4cTNYZFVhYmxCZ1U4RzdvNEtzZktLWjducjZCaUszbU5tVkxsdGhmbndyek1penBtRzhXd2JyQVp6Mml4eVdRazRTb2dQZlVpSjlBY1kyYm84XzU5Q3BSUnBNZWFUcmg2YTNvVFBKejZSYWpxck5ZZEYtaWszMEdnMVNXZmFic0o4Q3lkbkVhdjFLYzBkbUlHWg?oc=5",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "80671b092032",
       "title": "Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures - infoq.com",
       "summary": "Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures &nbsp;&nbsp; infoq.com",
@@ -202,6 +258,34 @@
       "source": "Analytics India Magazine",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDV0SkprdU5GdDBUTk84eUY5WURDU1RmR3ZmUHBfZzF2RDd2MGwzM0gwR1p5b3lhUjVXWDdDdVQ3SnBJUVR4ZkpKbmFIeHVYREtVM1dNWV8tX1ZFQVZiOG5lU3pmWHBwUkVrVm9UMGpXZ0p3dGZLNGQ5UHI3NDV0WUd3YXpNN2RnZGhyZ3BxZ19ZeGdiUEdpbmVLak1faGVibDdPcDV5VjZ1OVZXcUJrRlNB?oc=5",
       "publishedAt": "2026-11-02T08:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "efb6b0b6f989",
+      "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio - EE Times Asia",
+      "summary": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUxJWVcwazFuYVhSMUVtRzZrZDBCWTBLWllWTThGbHZFeFYwRDN1VkcwaGdvS2I5OUVidFAzaUFvS2VMRXhBT0NpcDEydmdiem9YN1FIWThLSHlIRHpRUHp0c1c1aWFLb3JhS2djREExZmpyNnZOXzVkUzdNQVpweGNWZl9aRXVWNld1SmRRRWdoMlZiTS1B?oc=5",
+      "publishedAt": "2026-11-02T04:31:31.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "771723696d43",
+      "title": "DeepSeek’s Super-agent Design Explained: Architecture, Experiments and Open Problems - Kingy AI",
+      "summary": "DeepSeek’s Super-agent Design Explained: Architecture, Experiments and Open Problems &nbsp;&nbsp; Kingy AI",
+      "source": "Kingy AI",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EX21yVlZaMlI0M0dnbVlvaDQwUkdTVmRLYWZUODJSTXZrUGlIMDhYVU9haXdPMkE3X1pnREhFUFlqTzBEa3BmZy1kMXluX1gwVG5HSjZpN2hHMm5WcmUtN3ZCT1RYMVY3MTVQVw?oc=5",
+      "publishedAt": "2026-11-01T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -236,75 +320,6 @@
         "architecture",
         "architect",
         "building"
-      ]
-    },
-    {
-      "id": "e1b1d87c317f",
-      "title": "From Atoms to Universes: The Architecture of Everything in the Age of AI - ArchDaily",
-      "summary": "From Atoms to Universes: The Architecture of Everything in the Age of AI &nbsp;&nbsp; ArchDaily",
-      "source": "ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDk3TEJDRzlkVTloYmgxcHVxbWU5elpIaFNxUWJ1ZWtJVUJ5aGVjZFlmaGF2RXRDV1NaMXZ5aVZ4NU9FREpQSmw4WTg1UzVfWFBBVXFaYk4zMTFrd0FjLW5KR2U1b2NWVEJwS0kwQ2daLUc5Wk8zbl9lMzlIdE05U1g2Mm5oTDA0V0dwQ2E3Qm9SdTFvNXlkbHlWWTJtdVBYSTZwZnFMODM?oc=5",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "49d69aebbe83",
-      "title": "CELUS Brings AI Agents to Architecture and Component Decisions in Electronics Design - PR Newswire",
-      "summary": "CELUS Brings AI Agents to Architecture and Component Decisions in Electronics Design &nbsp;&nbsp; PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON0RyY0NpVkhXVXRjMnNSWXhSTGJUVmNEcExjSi1MczJTSmZmUXp4aks2TnJnZlNES3R6ai11ekt4bFJjazAtUThzSFBGOFh5cFBVR3FwOG5uWXNYVTRCVnF0RWlDZlpyRUEzcjBaSHhob1c0dWhocGs4dVVwUENxNXlpVVBLdTdGT0o5bE02X25WM0E3VmIweEowdy1tODRaTGJ6Nm0wN0ZLVGNoSWw3TTUyUTIzZTNJenJIS2ktNy1NWjItX3JyVHRtVHRVQVlfN2ZSb2F4cw?oc=5",
-      "publishedAt": "2026-10-29T14:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "67d0180c69f7",
-      "title": "AI architecture startup Dream launches with $17M in funding - SiliconANGLE",
-      "summary": "AI architecture startup Dream launches with $17M in funding &nbsp;&nbsp; SiliconANGLE",
-      "source": "SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDFWUGJYRktibXNENXVyRmNpdlpScVg5T0dWM1U5a3Z3VWVIamN0SmRQRXdMZDY2Q1cxdFh4ekZVLVN2TjE2Y1dYazJmejkwME1FZWFHb0ZwQ0NpVE1oOGZqdGdMWWNldnNveGdkNWRTZEY2VG9aMEJ2bkZETWtUdGp5SjVVRldtUXBkeWVsX2ZWS2UtbjNZdXVfcw?oc=5",
-      "publishedAt": "2026-10-29T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "24c94da15443",
-      "title": "\"If AI can do most of what we think an architect does, maybe we have defined the profession too narrowly\" - Dezeen",
-      "summary": "\"If AI can do most of what we think an architect does, maybe we have defined the profession too narrowly\" &nbsp;&nbsp; Dezeen",
-      "source": "Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01MG4zRXNfal94NEszbTltWkhiX21EaE5SNEJvNmlPSlF4MW9od2taaTA2UzlIMHFYaldZTXlWSHV1aE1ZbTNZZHM4MWNsNjdxMnNNZkdBUVViVTIwTjVEakRZeUhHdjhtUnc?oc=5",
-      "publishedAt": "2026-10-29T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
-      "id": "4d138fc0d209",
-      "title": "The Invisible Architecture of AI Data Centers, Energy, and Digital Space - Parametric Architecture",
-      "summary": "The Invisible Architecture of AI Data Centers, Energy, and Digital Space &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNk4ya21NVGpBYVZGdEdOOXp6ZndlT0dYLTEzNjREYkk4MzdwNHJmQ2VGTTI3VHhXZm4ySkoxZVNmcXdvX3lOeUpUa2VGYTF5MmtEM083YVFicDB4Mk5BSEE2THByWlJ0X0JaUHR3WlQ2MzVRc1MxYi1xOFhfclUwQQ?oc=5",
-      "publishedAt": "2026-10-29T07:00:00.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     }
   ]
