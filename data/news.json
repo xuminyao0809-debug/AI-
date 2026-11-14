@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-13T02:35:54.090Z",
+  "updatedAt": "2026-11-14T02:22:57.155Z",
   "items": [
+    {
+      "id": "5893bbf0c1a1",
+      "title": "Maison de l'Environnement et de la Biodiversité / Bulle, Poirier & Justman Architectes",
+      "summary": "On the edge of a municipal estate in Mitry-Mory , between farmland and the town center, the Maison de l'Environnement et de la Biodiversité ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187694/maison-de-lenvironnement-et-de-la-biodiversite",
+      "publishedAt": "2026-11-13T06:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "1475e6c43506",
+      "title": "Built99 Brings Together 99 Practices in a Survey of Contemporary Indian Architecture",
+      "summary": "Multigenerational homes, educational buildings, and workplaces raise different questions about how architecture accommodates everyday life i...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188574/built99-brings-together-99-practices-in-a-survey-of-contemporary-indian-architecture",
+      "publishedAt": "2026-11-13T01:30:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "building"
+      ]
+    },
+    {
+      "id": "9dd7bf74881b",
+      "title": "Axelera AI Unveils Titania Architecture Ahead of SC26 - HPCwire",
+      "summary": "Axelera AI Unveils Titania Architecture Ahead of SC26 &nbsp;&nbsp; HPCwire",
+      "source": "HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTdsS1BGdldMMXdKZVZtN2k3WmJITG15WUlRYWxPUUYzRVlscXZKS0RQZGtNdG9RaVduWGJfZEN5QXlXMTVObExBTDcyeTdSbkFyUTNRZUxSVWJkTlBweUhfelROU0J5X05ETzBGSFh5VHFjWFMtY0ktVk1uQXZfYTNEcXBwSWhSZ0xTd2Q3RW4zX29WOWc?oc=5",
+      "publishedAt": "2026-11-12T23:39:49.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
     {
       "id": "0b66ff85ec2d",
       "title": "Inside an enterprise AI agent: A governed, observable loop architecture - Amazon Web Services (AWS)",
@@ -16,19 +58,6 @@
       ]
     },
     {
-      "id": "3e101304ffb6",
-      "title": "Casa de las Lavanderas / Raúl Sanchez Architects",
-      "summary": "Barcelona's Eixample bourgeoisie once washed their clothes in the wells of Calle Aiguafreda, one of the city's most picturesque streets toda...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188496/casa-de-las-lavanderas-raul-sanchez",
-      "publishedAt": "2026-11-12T19:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "e9fefea460e7",
       "title": "Artificial intelligence will change the economics of architectural practice - ArchitectureLive!",
       "summary": "Artificial intelligence will change the economics of architectural practice &nbsp;&nbsp; ArchitectureLive!",
@@ -38,33 +67,6 @@
       "category": "研究",
       "tags": [
         "artificial intelligence",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "0fd4caba2dc9",
-      "title": "What to Consider When Integrating Photovoltaics into Building Facades",
-      "summary": "When considering building-integrated photovoltaics ( BIPV ), the potential is clear: making the building envelope an active part of a buildi...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188181/what-to-consider-when-integrating-photovoltaics-into-building-facades",
-      "publishedAt": "2026-11-12T06:45:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "a3ddf801de1f",
-      "title": "Singapore’s Symatics Launches MPU Architecture for Faster AI Processing - EE Times Asia",
-      "summary": "Singapore’s Symatics Launches MPU Architecture for Faster AI Processing &nbsp;&nbsp; EE Times Asia",
-      "source": "EE Times Asia",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlhMFZxWEZPZF9sTlgteFAybV95UTJ4UGtsazl3ckFvWDhzYld0VDlwN0Z3eUVxYUFiVHVGRjZyYVFBOTRybDk1aFFYR0VkUGlnQ2pVTmZ0T3Bjc2VuWWJFOXNRRUxwcGNXMWFHLXp6UkwwXzlNbXBBTjhqMkVPeWRDUFZGUElibS1YeDhmZElTT1NYX1dDUjAtTQ?oc=5",
-      "publishedAt": "2026-11-12T02:56:06.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architecture",
         "architect"
       ]
@@ -90,20 +92,6 @@
       "source": "Dataconomy",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWhNTHdpQ0pIODRmamVRSFh6MThJVEZEaFFXWnAyUDBNWHFZWm1WV05ib2wwNThELXBPeWVJSXFRVjgyLVRjOG40Z1Itd1haaFRGUmV3aWJWVU00d1hiMk1MUG04N0lyNDloVkZKbV9hSzkyY0RxSGV1RW5RbUNZR0V2eG5udlVWeWFrU19iZGkxUlJIYkxZ?oc=5",
       "publishedAt": "2026-11-11T12:14:56.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "9362e2d3fca7",
-      "title": "Freedom Mobile Arch Amphitheatre / Revery Architecture",
-      "summary": "Framing views of Vancouver's North Shore Mountains, the Freedom Mobile Arch is an open-air amphitheatre designed to remain connected to its ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188346/freedom-mobile-arch-amphitheatre-revery-architecture",
-      "publishedAt": "2026-11-11T12:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -154,20 +142,6 @@
       ]
     },
     {
-      "id": "a2321b6c6ac7",
-      "title": "Agentic AI Architecture Moves from Experiments to Enterprise Design - news.lavx.hu",
-      "summary": "Agentic AI Architecture Moves from Experiments to Enterprise Design &nbsp;&nbsp; news.lavx.hu",
-      "source": "news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWplUXI3eGMzeTBMR2hKVDF0ZmZ3Y0NnOWFzRFhHQmpvdEl5S3ZGbEN6a3BRQ21Jc0IzQVVkSFVmcnA0Tkxaeklld0JudjBUdmVWM3U4ZU96Y3ZkLXZwazVmNzVmTWhvd1dmdGlacGRqQUJaTTdRMnZQYjRVOGxhZjN0ZmNaTjhfR3ppazZQcjVBT2IwNHlWWlFEeDQ?oc=5",
-      "publishedAt": "2026-11-09T12:21:10.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "277fbbfa1839",
       "title": "Agentic AI Architecture: Current Challenges and Future Opportunities - infoq.com",
       "summary": "Agentic AI Architecture: Current Challenges and Future Opportunities &nbsp;&nbsp; infoq.com",
@@ -201,7 +175,7 @@
       "summary": "What AI Reveals About Architecture That Was Never Built &nbsp;&nbsp; ArchDaily",
       "source": "ArchDaily",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnIzX3A2c2ZjNnVRNGFZR2czMVZ2ZDh1RndzSUl4ejhhTGVTRGE4LUxmU3NmdDJjTXVjSUhOZXJGNWhicmRleWdLbDRBMUhHQVhhdDJDMk9BSExJVnRVNVBsME5jZzQ4enhiMVU3M2NZZnZlRmQxX0VWcTVIamZYX1lvQTUybWttaFQteGpKSldWOE0?oc=5",
-      "publishedAt": "2026-11-05T11:45:00.000Z",
+      "publishedAt": "2026-11-05T08:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -280,20 +254,6 @@
       ]
     },
     {
-      "id": "771723696d43",
-      "title": "DeepSeek’s Super-agent Design Explained: Architecture, Experiments and Open Problems - Kingy AI",
-      "summary": "DeepSeek’s Super-agent Design Explained: Architecture, Experiments and Open Problems &nbsp;&nbsp; Kingy AI",
-      "source": "Kingy AI",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EX21yVlZaMlI0M0dnbVlvaDQwUkdTVmRLYWZUODJSTXZrUGlIMDhYVU9haXdPMkE3X1pnREhFUFlqTzBEa3BmZy1kMXluX1gwVG5HSjZpN2hHMm5WcmUtN3ZCT1RYMVY3MTVQVw?oc=5",
-      "publishedAt": "2026-11-01T07:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "0332b0e72e14",
       "title": "The Vanishing Apprenticeship: What Happens When AI Does the Junior Architect’s Work? - Parametric Architecture",
       "summary": "The Vanishing Apprenticeship: What Happens When AI Does the Junior Architect’s Work? &nbsp;&nbsp; Parametric Architecture",
@@ -305,21 +265,6 @@
         "ai",
         "architecture",
         "architect"
-      ]
-    },
-    {
-      "id": "de3f56b6219d",
-      "title": "Algorithmic Taste: Why Do AI-Designed Buildings Start to Look the Same? - Parametric Architecture",
-      "summary": "Algorithmic Taste: Why Do AI-Designed Buildings Start to Look the Same? &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2plNEZZX2tXZHJLTXZIRjNMemExaFhVQ0s4SDRpWHhkelBhZ3R5c3RDTUdwcHVQTjJDTWpxT3ZjUi1jS0c2QW1UZmZrVTFUNVUwRHpRZERSV1dxZ2hnS3JTUWRYcTRnXzNLUm9QTVNRQlJqbGxCY2FhQzhPNUx4aQ?oc=5",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "building"
       ]
     }
   ]
