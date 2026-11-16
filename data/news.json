@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-11-15T01:51:03.279Z",
+  "updatedAt": "2026-11-16T01:59:02.253Z",
   "items": [
     {
-      "id": "75a09aaf7035",
-      "title": "60MW AI factory cooling reference architecture - Cooling Post",
-      "summary": "60MW AI factory cooling reference architecture &nbsp;&nbsp; Cooling Post",
-      "source": "Cooling Post",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWdpMTYxWDVsZm1LZlpCakJPSEtSYU9VUGZ5V0s0VHBRdzMtZnNDdnBENHhPVkFXckdhdG5sRTNEd2JBaWthenE3VHBPRzdid1c4SFlaVk1wWjZyOXc0eWQyUEF1czA1Yzh5VnV6Zm9LdG5OUjc4cGFSSDJsRlpsZzhRSXIxUVg0Y2RHLQ?oc=5",
-      "publishedAt": "2026-11-14T16:22:34.000Z",
+      "id": "966bce5e455b",
+      "title": "AIA survey finds 74% of architecture firms used AI in day-to-day operations in 2025 - MarketScale",
+      "summary": "AIA survey finds 74% of architecture firms used AI in day-to-day operations in 2025 &nbsp;&nbsp; MarketScale",
+      "source": "MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPekp2QnJtdkx5SUdjSW5MLV81SGFCZVJkXzFnQ1U0QUFJWUMtZ2d4R1hKQkd6c1ZKbmtOTXB1ZjNYSG1KLVV4Q3M4YW81UW9WQV9nRTZOakFCMUlsMVJqZ2xLUm9xVHpiS29lbmRWYWhma3ZUM1NrcEJPLTdVelg5VkpReGh2bEtQR1ZPeWtiMFpxeEZTX1hBUTVSRVVRdFR1TTBzYmlyaEZrd244QjhCVUVxbC1nNE9vOTQxbTFuWHotNGd3WjBpREJOTTU0ZmJBMWdWRDh4dW1Yc2lISXc?oc=5",
+      "publishedAt": "2026-11-15T15:49:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "aa8a244d76d7",
+      "title": "Against Program: The Productive Ambiguity of Contemporary Architecture",
+      "summary": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188137/against-program-the-productive-ambiguity-of-contemporary-architecture",
+      "publishedAt": "2026-11-15T07:30:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "9f697b915608",
+      "title": "Researchers Release ArchSpace Preprint for Tracking and Evaluating LLM Architecture Design - CASRAI",
+      "summary": "Researchers Release ArchSpace Preprint for Tracking and Evaluating LLM Architecture Design &nbsp;&nbsp; CASRAI",
+      "source": "CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFR1Y3FhQ0dud05INXNTTTd6alBhMDlpUGhvd1k4YkFKbDNWVS10UzBPMG40R212UWdHV0xDWnFXemtJWVNjeW8tdi1oX21aV0NqXy1wSVJzc2JIN1RqN3RIVVRsYlFjbG02b1k1em55M1B0R0Jqa2J5WFh3SUFLTWFyakZNa3J0cVow?oc=5",
+      "publishedAt": "2026-11-14T20:27:59.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -30,45 +58,44 @@
       ]
     },
     {
-      "id": "5893bbf0c1a1",
-      "title": "Maison de l'Environnement et de la Biodiversité / Bulle, Poirier & Justman Architectes",
-      "summary": "On the edge of a municipal estate in Mitry-Mory , between farmland and the town center, the Maison de l'Environnement et de la Biodiversité ...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187694/maison-de-lenvironnement-et-de-la-biodiversite",
-      "publishedAt": "2026-11-13T06:00:00.000Z",
+      "id": "0b66ff85ec2d",
+      "title": "Inside an enterprise AI agent: A governed, observable loop architecture - Amazon Web Services (AWS)",
+      "summary": "Inside an enterprise AI agent: A governed, observable loop architecture &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "source": "Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmZwcE0tZHZ6b19xemt5cmItdlFqVlh5blpUZlFaYWl4V2pyNXJES1dzMUpUeC0tdGpBRkd6dkc0U09sR2lIWkFvVDc5bk1XRE5lSHlSb2xnOWgwd1lKdjYwcUhsdUwyZGs4NWQzUXVnRDctRHljNlYwWTlac2ZqdkJ5aVlrQ1B0TGhHV0hGUnhyemRTVFpNV3Fsby1BeG1jd3EtT2ZSU0RRX0xzZ3A0NFd3?oc=5",
+      "publishedAt": "2026-11-12T19:31:28.000Z",
       "category": "研究",
       "tags": [
         "ai",
+        "architecture",
         "architect"
       ]
     },
     {
-      "id": "1475e6c43506",
-      "title": "Built99 Brings Together 99 Practices in a Survey of Contemporary Indian Architecture",
-      "summary": "Multigenerational homes, educational buildings, and workplaces raise different questions about how architecture accommodates everyday life i...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188574/built99-brings-together-99-practices-in-a-survey-of-contemporary-indian-architecture",
-      "publishedAt": "2026-11-13T01:30:00.000Z",
+      "id": "713dababfbf7",
+      "title": "Axelera AI Unveils Titania Architecture: HPC-Class AI Responsiveness Without Liquid Cooled Racks Targeting $110B Underserved Market - Business Wire",
+      "summary": "Axelera AI Unveils Titania Architecture: HPC-Class AI Responsiveness Without Liquid Cooled Racks Targeting $110B Underserved Market &nbsp;&n...",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQX051UENodEFQNjliODAxd3VNdFZDQXRzZnp4eHJzM181VUxncUpubVU4RXBDSmJINU5TZjdoQlZFUnJkM3ExUThkdWtXbnVsQ2RhTlF5S0cwdmsyNUszMnM5c004R1NpdDloTFo1LU1JeFA1SWtuV1psUlpEdlIzZXQ1THFDTl80T1hCRUYtSlhfUHlJM09WV0dmNG1NdkZHYXJNU3MybFZCTXdSTkxySEUzZ2gxTjdEWUhuQVMwY1Fyby1aZk1DT1FQV2RneUVGNXNhQ1hadWQzVkxzTVlnRUNnN1phdVpla0NXb1ZVWVNvbVo1eldzTlBaeWxaMHZ6TVF1bnpoTDVkRDZlWlhkRjhDOW5XQ0Vf?oc=5",
+      "publishedAt": "2026-11-12T14:17:08.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "2bb7d44ff86e",
+      "title": "7 FREE Books to Learn About Building AI Systems - KDnuggets",
+      "summary": "7 FREE Books to Learn About Building AI Systems &nbsp;&nbsp; KDnuggets",
+      "source": "KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZTlIyRERpb19iRXBiYjBsUUdybi1DRkdCblJ3X1dadHYxb08xdUdOX25tN0ptOEhua2VrZWx0TEd0alRPVjZHNmR2N0ZCUUJJajY1eHRpdmJvaTMxNWFBbUZBcEJGVXZNemtMWU9BNjUzRzZycWZPNWs1RlRhdw?oc=5",
+      "publishedAt": "2026-11-12T13:10:42.000Z",
       "category": "案例",
       "tags": [
         "ai",
-        "architecture",
-        "architect",
         "building"
-      ]
-    },
-    {
-      "id": "9dd7bf74881b",
-      "title": "Axelera AI Unveils Titania Architecture Ahead of SC26 - HPCwire",
-      "summary": "Axelera AI Unveils Titania Architecture Ahead of SC26 &nbsp;&nbsp; HPCwire",
-      "source": "HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTdsS1BGdldMMXdKZVZtN2k3WmJITG15WUlRYWxPUUYzRVlscXZKS0RQZGtNdG9RaVduWGJfZEN5QXlXMTVObExBTDcyeTdSbkFyUTNRZUxSVWJkTlBweUhfelROU0J5X05ETzBGSFh5VHFjWFMtY0ktVk1uQXZfYTNEcXBwSWhSZ0xTd2Q3RW4zX29WOWc?oc=5",
-      "publishedAt": "2026-11-12T23:39:49.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
       ]
     },
     {
@@ -93,20 +120,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZ2EydmxWZmRBTHNOQklPMWFEUVA3ZkFuOXJTYVF6NWNXR2M1VF9nQ1oycFFKazBCNUxGUEd0SFE0dDZaVFVLejdOSnoyelVsR2xKUmNJckwwSlFYQnpDaHNTeTZ1QldaR1E?oc=5",
       "publishedAt": "2026-11-11T14:08:32.000Z",
       "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "af7ec246f109",
-      "title": "Huawei Unveils Architecture To Link 1 Million AI Chips As One Computer - Dataconomy",
-      "summary": "Huawei Unveils Architecture To Link 1 Million AI Chips As One Computer &nbsp;&nbsp; Dataconomy",
-      "source": "Dataconomy",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWhNTHdpQ0pIODRmamVRSFh6MThJVEZEaFFXWnAyUDBNWHFZWm1WV05ib2wwNThELXBPeWVJSXFRVjgyLVRjOG40Z1Itd1haaFRGUmV3aWJWVU00d1hiMk1MUG04N0lyNDloVkZKbV9hSzkyY0RxSGV1RW5RbUNZR0V2eG5udlVWeWFrU19iZGkxUlJIYkxZ?oc=5",
-      "publishedAt": "2026-11-11T12:14:56.000Z",
-      "category": "研究",
       "tags": [
         "ai",
         "architecture",
@@ -184,6 +197,20 @@
       ]
     },
     {
+      "id": "5bd0699accd8",
+      "title": "Gallery of What AI Reveals About Architecture That Was Never Built - 7 - ArchDaily",
+      "summary": "Gallery of What AI Reveals About Architecture That Was Never Built - 7 &nbsp;&nbsp; ArchDaily",
+      "source": "ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOG9WOERTcWEwQzY1d2xtSjFSUi1sSXFPWFNuOENRQTd5ZWh4SElXemx0RVpqNDB2aXhEQWRYWVIzQnh5ZVBUU2VwaHZ5WWdfZ0tuMEtPY3NoOFdsaFBUaUExTUNtVDk0NlQ3Tl95WE0wUldPWW5SZk5Sdkh0c2FiMmhuUEd5OGVwQXJ1QVlqbTVMMXdRRFRGMW9oLWpaNW4wNkFIY1RwYm84cWRJcTdHRGFBWEFMbFhKXzl6Y2RoOUhNSnVJc2JXdEl4QU1FeThvZUIxWTlYeE1MNm1JdVBjZldtVzd1a0FUcTJXa2hUVGdEdTRLLTVmOXI4dTFuV2Fpc0JScUJSQQ?oc=5",
+      "publishedAt": "2026-11-05T12:32:52.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "32dced10a721",
       "title": "What AI Reveals About Architecture That Was Never Built - ArchDaily",
       "summary": "What AI Reveals About Architecture That Was Never Built &nbsp;&nbsp; ArchDaily",
@@ -226,20 +253,6 @@
       ]
     },
     {
-      "id": "a1a413c33872",
-      "title": "‘Rich assholes stealing our work:’ Last chance to share your views on AI in architecture with us - Archinect",
-      "summary": "‘Rich assholes stealing our work:’ Last chance to share your views on AI in architecture with us &nbsp;&nbsp; Archinect",
-      "source": "Archinect",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFhBV1ZYV0F6QjUtQWJVMjNEdnhYYjVpSXNzUTNPakNoaURXYVA2T09XeU9jOUtpdXZ1aDZwZWI4OFI4cTNYZFVhYmxCZ1U4RzdvNEtzZktLWjducjZCaUszbU5tVkxsdGhmbndyek1penBtRzhXd2JyQVp6Mml4eVdRazRTb2dQZlVpSjlBY1kyYm84XzU5Q3BSUnBNZWFUcmg2YTNvVFBKejZSYWpxck5ZZEYtaWszMEdnMVNXZmFic0o4Q3lkbkVhdjFLYzBkbUlHWg?oc=5",
-      "publishedAt": "2026-11-02T08:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
       "id": "7063c9f69544",
       "title": "DeepSeek Proposes Super-Agent Architecture to Automate AI Coding Workflows - Analytics India Magazine",
       "summary": "DeepSeek Proposes Super-Agent Architecture to Automate AI Coding Workflows &nbsp;&nbsp; Analytics India Magazine",
@@ -260,20 +273,6 @@
       "source": "EE Times Asia",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUxJWVcwazFuYVhSMUVtRzZrZDBCWTBLWllWTThGbHZFeFYwRDN1VkcwaGdvS2I5OUVidFAzaUFvS2VMRXhBT0NpcDEydmdiem9YN1FIWThLSHlIRHpRUHp0c1c1aWFLb3JhS2djREExZmpyNnZOXzVkUzdNQVpweGNWZl9aRXVWNld1SmRRRWdoMlZiTS1B?oc=5",
       "publishedAt": "2026-11-02T04:31:31.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "771723696d43",
-      "title": "DeepSeek’s Super-agent Design Explained: Architecture, Experiments and Open Problems - Kingy AI",
-      "summary": "DeepSeek’s Super-agent Design Explained: Architecture, Experiments and Open Problems &nbsp;&nbsp; Kingy AI",
-      "source": "Kingy AI",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EX21yVlZaMlI0M0dnbVlvaDQwUkdTVmRLYWZUODJSTXZrUGlIMDhYVU9haXdPMkE3X1pnREhFUFlqTzBEa3BmZy1kMXluX1gwVG5HSjZpN2hHMm5WcmUtN3ZCT1RYMVY3MTVQVw?oc=5",
-      "publishedAt": "2026-11-01T07:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai",
