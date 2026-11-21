@@ -1,11 +1,145 @@
 {
-  "updatedAt": "2026-11-20T03:07:05.560Z",
+  "updatedAt": "2026-11-21T03:10:53.429Z",
   "items": [
     {
+      "id": "23d648a8fbf5",
+      "title": "Researchers Propose Hybrid Artificial Intelligence Architecture to Optimize Complex Pharmacotherapy Regimens - Bioengineer.org",
+      "summary": "Researchers Propose Hybrid Artificial Intelligence Architecture to Optimize Complex Pharmacotherapy Regimens &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOFhSMUV3V2thMzlNc2hsNjE5cDJ5QkhORTBUSmhDdmxEQUZiY3FwRk92cWJlNlczXzJpeklDZFJEd3F6dkNucVByQXJDRV96SUg4UlJCZWVpdmZ1OG9JTnhWejFERnlLSVJENk56WnlkWVlLRWs4UHBrLUZ2RDFUUVpaUC1yMUxadW12TkNjcXdwSy1PQUJXZkhmQzdNRUlmQ09wbkRsdUVBOEVORXhJOUwtbWxiSUpoMVJCbWRYNEpZZ1h6SlgzR2Zxb0s1Zw?oc=5",
+      "publishedAt": "2026-11-21T01:41:08.000Z",
+      "category": "研究",
+      "tags": [
+        "artificial intelligence",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "10d2ec3a3b43",
+      "title": "Generative Architectural Models Require Symbolic Rules to Reproduce Historical Classical Orders - Bioengineer.org",
+      "summary": "Generative Architectural Models Require Symbolic Rules to Reproduce Historical Classical Orders &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWQzWWlxNU5hb0ZFRGp3VDUtbFNWODBOUkVxMGRUYU9ESlU1d3NSWGFFYmtIZXUwOFVuV2pERE0xREU5QUxqWVJoQkZYSmhpT21jTzB1c1RNQ2lPU0F5RXB6T3poVS1pUGRhNlEyc050c2lWMTZMVmxVb3NRTG9PaTZGdktHQnpvTDR0TjY2ZV9Dd2hmOUJGWHprb29PZmlpZEMySG5yTndWRjQtSkhwYzROSDdFNnRGOWFrSg?oc=5",
+      "publishedAt": "2026-11-21T00:36:34.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "generative",
+        "architect"
+      ]
+    },
+    {
+      "id": "acb35e145104",
+      "title": "Beyond CAD and BIM: How Synaps Is Rethinking Architectural Design with AI - Parametric Architecture",
+      "summary": "Beyond CAD and BIM: How Synaps Is Rethinking Architectural Design with AI &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oLWY2NHRTcEtYdWduMTBYV2U2X2tjVHdPU1dtdXNxcmNwSnZKOHR4SXBaTEw1aHd2TVdoWXFUVnVobGt5N0R1X3RhS0pXbDhaMDhOd2ZJb2dPRm5zS1lTRHpFeTlEWW8yNVBhbENyOHphWGI2ZVZidjNjMTY?oc=5",
+      "publishedAt": "2026-11-20T22:13:13.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "bim"
+      ]
+    },
+    {
+      "id": "a5effe3509b2",
+      "title": "Architect Labs Introduces Frostbite, a CPU Designed End to End by AI - news.lavx.hu",
+      "summary": "Architect Labs Introduces Frostbite, a CPU Designed End to End by AI &nbsp;&nbsp; news.lavx.hu",
+      "source": "news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcjZrdnpyYjB1eVl2M1RDOFdmM0p2SnMzMUZoTkRZU2lqNFUwM0dnMUNfSGd1SVZuUFJRa2hlOHA1emlBakZxXzA0RXdtR1JXeFprb0FIRU96WWc5a2hDYmJhVUJTV1RET0JQYkVHX3JkdzBIczB1Z0RnM3FhTU5ydHVMUmxkMUF2SEtvZE1FOV9XeUF5U1pJdE9iVmk?oc=5",
+      "publishedAt": "2026-11-20T13:44:59.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "21a5346f8e0a",
+      "title": "Architect Labs claims AI-designed CPU delivers 4.59x performance per watt in simulations - Mezha.net",
+      "summary": "Architect Labs claims AI-designed CPU delivers 4.59x performance per watt in simulations &nbsp;&nbsp; Mezha.net",
+      "source": "Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEZBV29LZUdlaEtCbXhzeE9vbGpMVkZrZGh0NGVPRGhqa2FjbG1jTjBSb1hhcG0yVXpGZm9oWjhfdmdIUUpLYktzbUJveUdrZDVCbHdpYm9IX0dLSnJ2Skxha3cyUjdUTFJIMVhHWjNaRVRoejA0TnFURnZLY2EyZmJFcW5JZjg?oc=5",
+      "publishedAt": "2026-11-20T12:18:22.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "8fcac3f8b320",
+      "title": "AMD and Intel, move over: AI designed an all-new CPU — and claims it is 4.6x more efficient - Notebookcheck",
+      "summary": "AMD and Intel, move over: AI designed an all-new CPU — and claims it is 4.6x more efficient &nbsp;&nbsp; Notebookcheck",
+      "source": "Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS24xZGRZbUFlUVhpbmtXWm8tV0ExZkxDOURvUmVvSHJJdEdaODZ4TktIbUI1aUxFWGlaSHE3Wk5acGdkVy1QZmxlOWdGcWY0RS1ZM1V3ZHNPU04xRTUyTVlEUy1TLWRuQnRib1hjd2xmWG5SVTJyOGx2MmZub1dUUVFyZVZoUTU2RmR3LTRDVkM5eXJWeXBSVVZIVnNjMFItOUFhbHJzblh5d09wNWlyS3FVTlk0LVA2Y3VjV0U3QmtLcFRLY2lNYW40NkM?oc=5",
+      "publishedAt": "2026-11-20T12:08:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "4477eab18d8d",
+      "title": "Darwin Bridges / Provencher_Roy",
+      "summary": "Located on Nuns' Island in Montréal, the Darwin bridges open new architectural perspectives through their use of local sustainable materials.",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188489/darwin-bridges-provencher-roy",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
+      "id": "047a7e884d35",
+      "title": "Conceptual Architecture Integrates Knowledge Memory and Agentic AI Under Human Governance - Bioengineer.org",
+      "summary": "Conceptual Architecture Integrates Knowledge Memory and Agentic AI Under Human Governance &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1FiYkRiZ3pLd05uMWpJT0N5RUc1YXB2b0x0akZ0ZVpTQmxCcmkwTmxCUXNvV2tSZjdGdm9FNkZnOXI3SlFnN1FqTmJQUEh0eTBkR1VPdUpneGZHWlpTWHJGS2JrN2EtdFliM05QMzd0aU90NzRpUW1zb2RRblRRM0xlUTl6U1lTUnFVTnhkWkFDd0laTlBESTNwZmVGSEZNbGx4Wm9yOTJ6V3FaaVFIYWRDRFM?oc=5",
+      "publishedAt": "2026-11-20T08:51:22.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "3027230edbd4",
+      "title": "Connecting Old and New Through a Ceramic Facade",
+      "summary": "Refurbishing an operational industrial complex means working within an architecture shaped by daily activity and circulation. At HTBA (Healt...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188585/connecting-old-and-new-through-a-ceramic-facade",
+      "publishedAt": "2026-11-20T06:45:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "2acd42872025",
+      "title": "Lost Villa Songyang Mountain Retreat / Architects KONGKONG",
+      "summary": "The Lost Villa · Songyang is located in Xiaohoushe Village, Dadongba Town, in the southwest of Songyang County — a secluded village that ine...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188845/lost-villa-songyang-mountain-retreat-architects-kongkong",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
+    {
       "id": "624841733163",
-      "title": "Axelera Unveils Titania Architecture for a Six-Kilowatt AI Server - www.tokenpost.com",
-      "summary": "Axelera Unveils Titania Architecture for a Six-Kilowatt AI Server &nbsp;&nbsp; www.tokenpost.com",
-      "source": "www.tokenpost.com",
+      "title": "Axelera Unveils Titania Architecture for a Six-Kilowatt AI Server - TOKENPOST",
+      "summary": "Axelera Unveils Titania Architecture for a Six-Kilowatt AI Server &nbsp;&nbsp; TOKENPOST",
+      "source": "TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KRDlCdnlDRnZsT1UwcXFKajJDeDVSRmlMODlTVGtsR1dxcjgwRXRoRDU3R29iUlB3cldtanU1RElkeS1OU3U3cVIwaW1nR1R6N3AybTR4U2swV3c?oc=5",
       "publishedAt": "2026-11-19T19:35:26.000Z",
       "category": "研究",
@@ -16,33 +150,28 @@
       ]
     },
     {
-      "id": "e8a640835352",
-      "title": "When Does Shipping Container Architecture Make Sense?",
-      "summary": "Using shipping containers as the basis for a structure—also known as \"cargotecture\"—seems like a simple approach to building. Perhaps decept...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1185946/beyond-the-box-what-shipping-container-architecture-gets-right-and-where-it-falls-short",
-      "publishedAt": "2026-11-19T01:30:00.000Z",
-      "category": "案例",
+      "id": "0e62de2b9e8c",
+      "title": "OpenAI improves AMD GPUs by up to 14% with AI as Architect Labs unveils the Frostbite CPU - Pasquale Pillitteri",
+      "summary": "OpenAI improves AMD GPUs by up to 14% with AI as Architect Labs unveils the Frostbite CPU &nbsp;&nbsp; Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW92VXVuM0hXclNEbXVROUgwVENWSzNRNnk3YkliRDVTTFVvNHpfNEFNOTg1U3hZRFdoTk1URl9xbGlJalIwenNiaUpZeFdPMnFZN0JLNHpmeUlNeEpOalppZk1QZXkzdml0dnVYLVBJQVAycHFsS25rSURMbDh2dDBfZ1ZRaWNEZG1VYThB?oc=5",
+      "publishedAt": "2026-11-19T13:21:51.000Z",
+      "category": "研究",
       "tags": [
         "ai",
-        "architecture",
-        "architect",
-        "building"
+        "architect"
       ]
     },
     {
-      "id": "acb35e145104",
-      "title": "Beyond CAD and BIM: How Synaps Is Rethinking Architectural Design with AI - Parametric Architecture",
-      "summary": "Beyond CAD and BIM: How Synaps Is Rethinking Architectural Design with AI &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oLWY2NHRTcEtYdWduMTBYV2U2X2tjVHdPU1dtdXNxcmNwSnZKOHR4SXBaTEw1aHd2TVdoWXFUVnVobGt5N0R1X3RhS0pXbDhaMDhOd2ZJb2dPRm5zS1lTRHpFeTlEWW8yNVBhbENyOHphWGI2ZVZidjNjMTY?oc=5",
-      "publishedAt": "2026-11-18T15:41:27.000Z",
-      "category": "生成式设计",
+      "id": "c2d4459c72fd",
+      "title": "Frostbite: An AI-Designed CPU Claims 4.59x Performance per Watt. What Is Verified? - explainx.ai",
+      "summary": "Frostbite: An AI-Designed CPU Claims 4.59x Performance per Watt. What Is Verified? &nbsp;&nbsp; explainx.ai",
+      "source": "explainx.ai",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQk5HNkk5NUphd3BId1Npa0lqY283aHdEcmFCaW1GeG5xYW5hLXdfMlFJM0RIaVRJU2YtRWlFVkh2OC1nQ0xndlNxVjJ1b1ZPbTQ5OFNiX1pjOHpqb2hqMGNqbFFTc2t4OUpHYU1VSVdNLTAtcjhndER6WU1zSUMzaEgtTmdnRGM2aHBsemdXZHNQVmUxMFgyUS1FTGlPR1JsczJ3Qk1mdWJoS3RTcGFiLU85MUoySmpTa3lkQXFIbU5oVHBqNGc?oc=5",
+      "publishedAt": "2026-11-19T10:27:29.000Z",
+      "category": "研究",
       "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "bim"
+        "ai"
       ]
     },
     {
@@ -52,6 +181,20 @@
       "source": "Data Centre Solutions",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1MwakdOZ01BelU5QkhzOGIwREhiQUFrcUZEdWhFOWZybTJ0eDFEUXVuMXBvNHNfb1pScVhFYnpZb0x4bk12ODJiT2pWZzFjR2MxWlZwMkEtQS1WLTNEV0ZLclZvUnNNbVJTQmdpUVlVSHAxRkM0TzZxaktQUXRfWElIMG5tTTZ2dFJDUzdZSDA1dE9fWVcwQnh4eHYwVVBwMDR4d3N6blAzUQ?oc=5",
       "publishedAt": "2026-11-18T14:21:30.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "2e65e0b7fd84",
+      "title": "Why AI Workloads Need a New Cloud Infrastructure Architecture - Nasscom",
+      "summary": "Why AI Workloads Need a New Cloud Infrastructure Architecture &nbsp;&nbsp; Nasscom",
+      "source": "Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1pYdE8wMVRFTElCY2N1Qnd2eGpDRmJ0VnE4RE1RcFJvY28xZ3YxSUtiRGpBQmc4ek5xRnJ1a09CcnJidWtJS2p4N3I3elM3MmRJRGg4Q004YXZwUWZpNjJROFpveGdReFhWSHNRSFlXbnhVdWFaXzA2RnV5WEdzbG1VMDBTWmxHYWRXbGFqQjk3cW8wRGFFcHltWWZXMXVEVms3NnJR?oc=5",
+      "publishedAt": "2026-11-18T12:38:10.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -74,12 +217,12 @@
       ]
     },
     {
-      "id": "d1d487d97058",
-      "title": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence - ANI News",
-      "summary": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence &nbsp;&nbsp; ANI News",
-      "source": "ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNFI1bG1NZTRHYU9xb21nME0ycUtpdHF2cU1KRTMzNnBlT1gyTjFBOXd5V1FhWHNMclB0YXlKNHowcWdzcG0tVVprblZmT2JaUGRBWmNxeG5WbFhZUzBnaWtjVnVFd28xeUtfOS1XaVhXZHc3VkRyS3M4WFc1RXVjLXJmSlZlZ0MwUkp3eXR3Rm9fM0RqVXdCT19IaTU5LThuTXVpOC1rV2hMY1YxZEE0TnAxQXhRUUtZcWpfblI4dXdzOVNDQTkxMHlORmdMNEdLSFdWSEpGWGRLeWJWcWRNeg?oc=5",
-      "publishedAt": "2026-11-18T10:56:00.000Z",
+      "id": "0bee1e555252",
+      "title": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence - Business Standard",
+      "summary": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcXdsTlE2OU9vUzZ3dHB1bUZQaE1MQ2hJNmNGYXNUM1B0S1hiemlLZl9HRGxPOUYySE9BYjQ0VUpvcnQ3QUlhVnd2enozOUJhSTl3bUpjdTdWTllQQ1NQX2ZLM25KTXVuNDFjYVZuMVFsUjZ0LXRvNGZaTkEwTVRMQUZGNzlnZVFnWEdScDRNOHBwcW9nX3dxSF9naVZDcWstN25fbEQ3X1doM1BVMEJCU0xnTmR2SXg0ekZXYXJJOXotYkc4UE9JbWJRdlF6ZU5BSzJ3RzJyY18zM0ZVTnpNNFJxOU9saEx3NWd3NmdXUG96Y1R3VDhlSzhDYlRlc2hLSE0tWk9IUjU3aU5SeVHSAY4CQVVfeXFMTXF3bE5RNjlPb1M2d3RwdW1GUGhNTENoSTZjRmFzVDNQdEtYYnppS2ZfR0RsTzlGMkhPQWI0NFVKb3J0N0FJYVZ3dnp6MzlCYUk5d21KY3U3Vk5ZUENTUF9mSzNuSk11bjQxY2FWbjFRbFI2dC10bzRmWk5BME1UTEFGRjc5Z2VRZ1hHUnA0TThwcHFvZ193cUhfZ2lWQ3FrLTduX2xEN19XaDNQVTBCQlNMZ05kdkl4NHpGV2FySTl6LWJHOFBPSW1iUXZRemVOQUsyd0cycmNfMzNGVU56TTRScTlPbGhMdzVndzZnV1BvemNUd1Q4ZUs4Q2JUZXNoS0hNLVpPSFI1N2lOUnlR?oc=5",
+      "publishedAt": "2026-11-18T11:35:13.000Z",
       "category": "研究",
       "tags": [
         "artificial intelligence",
@@ -87,15 +230,55 @@
       ]
     },
     {
-      "id": "bbbffc070025",
-      "title": "Call for Entries: The New Heart of Kraaiennest with OBA Next (Amsterdam)",
-      "summary": "The City of Amsterdam is holding an international design competition for the project ‘The New Heart of Kraaiennest with OBA Next’. The purpo...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188777/call-for-entries-the-new-heart-of-kraaiennest-with-oba-next-amsterdam",
-      "publishedAt": "2026-11-18T09:05:00.000Z",
-      "category": "案例",
+      "id": "fde28dbe47c1",
+      "title": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence - Devdiscourse",
+      "summary": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence &nbsp;&nbsp; Devdiscourse",
+      "source": "Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR1M4VGFkTnJKLTNKVjZCWVQzNnFFcFRNOGVUMXBvV2otWW1RMGMzb3U5M25GWGc5SjJWUk1ldTFXUnBUQmh1SlFzS2g4dEVCWDNRYTFSNmk3WWJCQVRqSjU4ZkJQQmlOUGo1STU3MXdFOXBsU3g5T01xZ2tQUTN2Ny1NUGQxYWpTazdpN3djTGlUNW8zOENZVWJsWk9qTXprcjI5bE5DakdXcnlsVEJWMmtjUHJOYWhBcDlOX2JUQWtDMU92Zlk3NEhrNkpuUVlIUE5BX3JIbzlEbnNlVGdkSi1QVmc0M0lfZ2fSAeoBQVVfeXFMT0dTOFRhZE5ySi0zSlY2QllUMzZxRXBUTThlVDFwb1dqLVltUTBjM291OTNuRlhnOUoyVlJNZXUxV1JwVEJodUpRc0toOHRFQlgzUWExUjZpN1liQkFUako1OGZCUEJpTlBqNUk1NzF3RTlwbFN4OU9NcWdrUFEzdjctTVBkMWFqU2s3aTd3Y0xpVDVvMzhDWVVibFpPak16a3IyOWxOQ2pHV3J5bFRCVjJrY1ByTmFoQXA5Tl9iVEFrQzFPdmZZNzRIazZKblFZSFBOQV9ySG85RG5zZVRnZEotUFZnNDNJX2dn?oc=5",
+      "publishedAt": "2026-11-18T11:01:46.000Z",
+      "category": "研究",
       "tags": [
-        "ai"
+        "artificial intelligence",
+        "architect"
+      ]
+    },
+    {
+      "id": "29d7efa42327",
+      "title": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence - TheWire.in",
+      "summary": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence &nbsp;&nbsp; TheWire.in",
+      "source": "TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWRtQ3pUNFJtQ0xYWV81aXZQNGFxdXZkdWZ5bnVFMDJpdUVTc2hWSEt3YkRxLWxBV1VyY2JJVFc4N3Vza3FCVUJObFp5b09kaW8xWXBmOXMteEZNcDh5cWtJN2RKVHJOd2pDQUpmWE0yQTVQMzZjNEIxZ2FCQlFQQTREWWgyNDZUemRtNkVtSHdBRlpRVHRiSHdFQmFlZUI5eHpKRUc5bGVoaUplNW4yNVJERm5vM29YcXl5V3hGWXpIOWJXT2JheFdITGlvUzJyWnVHX3B3b1pHRnRxZnU0RXhrMWtZT3JrVDhCbVhxY27SAfABQVVfeXFMT1FkbUN6VDRSbUNMWFlfNWl2UDRhcXV2ZHVmeW51RTAyaXVFU3NoVkhLd2JEcS1sQVdVcmNiSVRXODd1c2txQlVCTmxaeW9PZGlvMVlwZjlzLXhGTXA4eXFrSTdkSlRyTndqQ0FKZlhNMkE1UDM2YzRCMWdhQkJRUEE0RFloMjQ2VHpkbTZFbUh3QUZaUVR0Ykh3RUJhZWVCOXh6SkVHOWxlaGlKZTVuMjVSREZubzNvWHF5eVd4Rll6SDliV09iYXhXSExpb1Myclp1R19wd29aR0Z0cWZ1NEV4azFrWU9ya1Q4Qm1YcWNu?oc=5",
+      "publishedAt": "2026-11-18T10:57:48.000Z",
+      "category": "研究",
+      "tags": [
+        "artificial intelligence",
+        "architect"
+      ]
+    },
+    {
+      "id": "4665df94a3d8",
+      "title": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence - The Tribune",
+      "summary": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence &nbsp;&nbsp; The Tribune",
+      "source": "The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeWxETWJpajVQa3JWbENCbS0tc0xRUDNnYVcxOHJIeFpUVVgwOHd3MGIyS2Q3eVRKTHZkd1lJUXIxMFQyT2tVNjZjSEtTNGl2WVZfU0N0VEl0NDdkVlhFU25QamUyM1VqblBHNER6aXZ4WDBoZ2lCNngwVHhySGtqV2JTUjVEa09PQWVTSVdrTGpnR2hneXRQWGRtczRPcGk5WVFuUHNFUlJQWnJBTGtxTHhMRE1td2pidTMzMlFkaGJPQ2RUcjRJZkdJQ1I2dzlId0dQZU1GOUQyOW1tSnR6ZHZRdXNxblB5VDd3bmZ3UFIyLUlMeDJj0gH3AUFVX3lxTE55bERNYmlqNVBrclZsQ0JtLS1zTFFQM2dhVzE4ckh4WlRVWDA4d3cwYjJLZDd5VEpMdmR3WUlRcjEwVDJPa1U2NmNIS1M0aXZZVl9TQ3RUSXQ0N2RWWEVTblBqZTIzVWpuUEc0RHppdnhYMGhnaUI2eDBUeHJIa2pXYlNSNURrT09BZVNJV2tMamdHaGd5dFBYZG1zNE9waTlZUW5Qc0VSUlBackFMa3FMeExETW13amJ1MzMyUWRoYk9DZFRyNElmR0lDUjZ3OUh3R1BlTUY5RDI5bW1KdHpkdlF1c3FuUHlUN3duZndQUjItSUx4MmM?oc=5",
+      "publishedAt": "2026-11-18T10:57:48.000Z",
+      "category": "研究",
+      "tags": [
+        "artificial intelligence",
+        "architect"
+      ]
+    },
+    {
+      "id": "0d24fca358fb",
+      "title": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence - www.indiagazette.com",
+      "summary": "SPZAORA: Transforming Interior Design for Architects Through the Power of Artificial Intelligence &nbsp;&nbsp; www.indiagazette.com",
+      "source": "www.indiagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd2p4cGstekhnNERMd09ZbmlzNS16dHZCNTV4cWZKT3k4MFRsamhGa3BvaHFMd3ZtNkhlbzBiYm1NM1E2OGl5VjFCWk1vaFU4QjdSZFdiN2o2dEpubGxwUXFhdjhVY3F1S0Vudjk3cUJjMzlraXJpNjJjdGNfblhyNEhFRVMzTE9qTDFrV1ZSN2s3VndnMi1FbHVBRjVkM3Fac3RDcElidE1MMkRiR0gxUEV3dG5NQmo5bVdVRDlyRVhpa2pXZWFKY2Vxa2l2UmZSaDA3R0Jhaw?oc=5",
+      "publishedAt": "2026-11-18T07:17:00.000Z",
+      "category": "研究",
+      "tags": [
+        "artificial intelligence",
+        "architect"
       ]
     },
     {
@@ -125,12 +308,12 @@
       ]
     },
     {
-      "id": "c008f56c09c0",
-      "title": "Cove's GHA acquisition puts its design-speed claim inside a regional practice - MarketScale",
-      "summary": "Cove's GHA acquisition puts its design-speed claim inside a regional practice &nbsp;&nbsp; MarketScale",
-      "source": "MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEJnWFE5MVo1MUQ0Y0FFcnQ2Zk5wNnhUTDVzRGhlX0lwWnRkUDRUM3AtSDMyT3BoTGlBM0JpSTlnWGFmcWc3X3lpazlCeVdJTDRpWlRWakxDRXZwTC11Q25GYVFiaXBNQTl5QWhFVlgzNlFXT3owZGVqcFV3anhpQTg4M3V2RjVWZlJHeWNESHV0Rzk2NXdyeGQ3YkVPbk5VYTdyX2x1VGdicVcxUlIyY2RqS3VGSDNWdnNGd3ZpZktERFZ4VENuN3NuMA?oc=5",
-      "publishedAt": "2026-11-17T20:08:07.000Z",
+      "id": "1936aadfbcc3",
+      "title": "Generate uses AI to automate design and feasibility, targets North America - Chosunbiz",
+      "summary": "Generate uses AI to automate design and feasibility, targets North America &nbsp;&nbsp; Chosunbiz",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObHRNYWF4N08tUWd4Q2JIX3YwV05Pd0FhVlFqakJJVWZTbm03LVJyUV93elBBNWVNbTdUU2s4QVA2Z2V2VkFRVU0xcEZuMGNPOUxkbm1lVmg3a0RLTTI3WWt0R3pUN0lQbjFQblRmNlo4c1Zsek5aTTJGclJYWVZGbS130gGWAUFVX3lxTE5paTIwNWloa1kyejNSTjN4ZDdSMERjM1d4dDQ3LUl5aC1NVnViVEpLVm5TQzIxSHE5ZVYwcTNaWTNNbHdhWVJMRmk0MHBfRDJIU29mdEI1X0hPeV9LUDNGNmVNM2JPaEQ4d2hUcXRtOGs2ZDVTSWFrdUIwZVhrUnI0RG9LeXVhRVRDMnRITUZFb09hVl9sZw?oc=5",
+      "publishedAt": "2026-11-17T21:00:00.000Z",
       "category": "研究",
       "tags": [
         "ai"
@@ -191,26 +374,24 @@
       ]
     },
     {
+      "id": "06179d245c11",
+      "title": "Best AI Interior Design Tools in 2026: 7 Apps Compared - Memeburn",
+      "summary": "Best AI Interior Design Tools in 2026: 7 Apps Compared &nbsp;&nbsp; Memeburn",
+      "source": "Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MG1iM3U3aWE5UlVaNmRFVjJrTlNjckk4Nllqd2pORXRpWWNNM2hEU3luaEE0djl0WDhqN1RTRXdzbEk3MFc2VUNsSWdpVk10VzdUV2hOdjlYWENaZ29mRw?oc=5",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "category": "工具",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "767cecfd01b1",
       "title": "Stop Prompting. Start Architecting. How a Four-Agent Architecture Turns Human Intent into AI Agent Designs? - www.tuni.fi",
       "summary": "Stop Prompting. Start Architecting. How a Four-Agent Architecture Turns Human Intent into AI Agent Designs? &nbsp;&nbsp; www.tuni.fi",
       "source": "www.tuni.fi",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0hZS3NkTlBMZE9mQ3g4MjRfaXFyeFp4UXFMN1RKU2FNbmpVTVFWRU5YRGo3dXp4TGRGYV9FVG82OFRaRzJvWFBIbktWak9IZjNhVTgxYjhfT29CMFdMT1g4cWlKSTNiWVlLQTJPU2tjMmVmY1hrTVQzUTI0akE2NnZQaUFnSklLUnlFVzh5Vmdnd19wNHBDank0dUpKMVE3S0tlWkZ4R0E1T1FnSGhtZEdJemhrVEd6NXNtYjVraw?oc=5",
       "publishedAt": "2026-11-17T07:31:55.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "2e65e0b7fd84",
-      "title": "Why AI Workloads Need a New Cloud Infrastructure Architecture - Nasscom",
-      "summary": "Why AI Workloads Need a New Cloud Infrastructure Architecture &nbsp;&nbsp; Nasscom",
-      "source": "Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1pYdE8wMVRFTElCY2N1Qnd2eGpDRmJ0VnE4RE1RcFJvY28xZ3YxSUtiRGpBQmc4ek5xRnJ1a09CcnJidWtJS2p4N3I3elM3MmRJRGg4Q004YXZwUWZpNjJROFpveGdReFhWSHNRSFlXbnhVdWFaXzA2RnV5WEdzbG1VMDBTWmxHYWRXbGFqQjk3cW8wRGFFcHltWWZXMXVEVms3NnJR?oc=5",
-      "publishedAt": "2026-11-17T04:30:49.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -233,6 +414,20 @@
       ]
     },
     {
+      "id": "8dacbff40c5d",
+      "title": "ZutaCore and Munters Unveil Waterless Chip-to-Rooftop Cooling Architecture for AI Data Centers - Data Center Frontier",
+      "summary": "ZutaCore and Munters Unveil Waterless Chip-to-Rooftop Cooling Architecture for AI Data Centers &nbsp;&nbsp; Data Center Frontier",
+      "source": "Data Center Frontier",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVRtdXF4bUdrYng2Wjkya0I4eXRQWkZMYktfa2ljVkR2V2xvTzNVQTBCX0p6c2FqRUkwUWdTc1RCWkNseU1CMkMzNHIxUjJrNU5ZS2lCUlIyVW1fR1dmY0pQdGc3LUMwTmlQV2d4Z25WcU44eFFTZ2dZZWRDZWE3WUNKV0VhOHBIcVJFaFgzbS1uNFQ2RVRqektoVW5sNDJmRGRZR3VKdFdJUUhUR1lWbVFhbFdtWm5KX1RzNXd0QjQ0cHlyRWNVZGRwbEhyQWtfNm15Q1dGRndaZjZOc3BaLTZFUjIzaEcya0tfUWlxWlNDV3c?oc=5",
+      "publishedAt": "2026-11-16T16:43:52.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "50f95547d691",
       "title": "The Algorithmic Critic: Can Artificial Intelligence Learn to Judge Architecture? - Parametric Architecture",
       "summary": "The Algorithmic Critic: Can Artificial Intelligence Learn to Judge Architecture? &nbsp;&nbsp; Parametric Architecture",
@@ -242,6 +437,20 @@
       "category": "生成式设计",
       "tags": [
         "artificial intelligence",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "e552991a405e",
+      "title": "South Florida-Based GHA Joins AI-First Architecture Practice, cove - citybiz",
+      "summary": "South Florida-Based GHA Joins AI-First Architecture Practice, cove &nbsp;&nbsp; citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjJsVVdFc0Q4bEpLSktyVnh2TF9YaVBya3FSaEdIR3BTWk5NV2JLak5CUi1NTkpMZ2hHTENSVW5fSlpsQ0pMZi1samU4N1NweTVOU0NxZXRNaTljSkMzbGplbjJlSTRxQmtJMnluRkpuQUxSWkM2LWFnVFg4WEdPdDNzSGNENkpnU3dJamNjWjluTGtRanFTYnRrNXllZ3JZdExuM1o4SQ?oc=5",
+      "publishedAt": "2026-11-16T14:01:04.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
         "architecture",
         "architect"
       ]
@@ -261,166 +470,12 @@
       ]
     },
     {
-      "id": "62055660e6e0",
-      "title": "Multimodal Claims Intake with Agentic AI: A Practical Architecture - Carrier Management",
-      "summary": "Multimodal Claims Intake with Agentic AI: A Practical Architecture &nbsp;&nbsp; Carrier Management",
-      "source": "Carrier Management",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rM3EweFo1a1ZvbllyeWNzT0dSQ2djbTRJa2NHS01jTV9hbUplR0VKYmxGeVBoYUxLbEtpZnFWOENtNUd6aWxjSjNuX3IxWjhYbDRfRDdlYjBpYXJIUUNjdV9Rd2hScUJqV3NLWWlZWFo3UQ?oc=5",
-      "publishedAt": "2026-11-16T02:18:18.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "0b66ff85ec2d",
-      "title": "Inside an enterprise AI agent: A governed, observable loop architecture | Amazon Web Services - Amazon Web Services (AWS)",
-      "summary": "Inside an enterprise AI agent: A governed, observable loop architecture | Amazon Web Services &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "source": "Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmZwcE0tZHZ6b19xemt5cmItdlFqVlh5blpUZlFaYWl4V2pyNXJES1dzMUpUeC0tdGpBRkd6dkc0U09sR2lIWkFvVDc5bk1XRE5lSHlSb2xnOWgwd1lKdjYwcUhsdUwyZGs4NWQzUXVnRDctRHljNlYwWTlac2ZqdkJ5aVlrQ1B0TGhHV0hGUnhyemRTVFpNV3Fsby1BeG1jd3EtT2ZSU0RRX0xzZ3A0NFd3?oc=5",
-      "publishedAt": "2026-11-12T19:31:28.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "713dababfbf7",
-      "title": "Axelera AI Unveils Titania Architecture: HPC-Class AI Responsiveness Without Liquid Cooled Racks Targeting $110B Underserved Market - Business Wire",
-      "summary": "Axelera AI Unveils Titania Architecture: HPC-Class AI Responsiveness Without Liquid Cooled Racks Targeting $110B Underserved Market &nbsp;&n...",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQX051UENodEFQNjliODAxd3VNdFZDQXRzZnp4eHJzM181VUxncUpubVU4RXBDSmJINU5TZjdoQlZFUnJkM3ExUThkdWtXbnVsQ2RhTlF5S0cwdmsyNUszMnM5c004R1NpdDloTFo1LU1JeFA1SWtuV1psUlpEdlIzZXQ1THFDTl80T1hCRUYtSlhfUHlJM09WV0dmNG1NdkZHYXJNU3MybFZCTXdSTkxySEUzZ2gxTjdEWUhuQVMwY1Fyby1aZk1DT1FQV2RneUVGNXNhQ1hadWQzVkxzTVlnRUNnN1phdVpla0NXb1ZVWVNvbVo1eldzTlBaeWxaMHZ6TVF1bnpoTDVkRDZlWlhkRjhDOW5XQ0Vf?oc=5",
-      "publishedAt": "2026-11-12T14:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "e9fefea460e7",
-      "title": "Artificial intelligence will change the economics of architectural practice - ArchitectureLive!",
-      "summary": "Artificial intelligence will change the economics of architectural practice &nbsp;&nbsp; ArchitectureLive!",
-      "source": "ArchitectureLive!",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTll5OXRvRElYc3hBdVFNRDdaM0FMY3lVWjd1Q0Uza2c5cXAyS2lTbUZEc1V3RldBNGZTREpQdmZYMXMyVEZId1lpOVJQR0YwMFhQdTRpLUtuazhoZFpUR0k0UHVfbWFlM3VBNVpqeVFkWUpQa0dnTWFLVzlsanQzTm5McFNOaHpnTHdOaExqaXRJdWx5QlF5Q0haV184dWVJNjZwZQ?oc=5",
-      "publishedAt": "2026-11-12T07:10:03.000Z",
-      "category": "研究",
-      "tags": [
-        "artificial intelligence",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "bdad017ac74a",
-      "title": "AI Walks Into an Architecture Firm… - Common Edge",
-      "summary": "AI Walks Into an Architecture Firm… &nbsp;&nbsp; Common Edge",
-      "source": "Common Edge",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZ2EydmxWZmRBTHNOQklPMWFEUVA3ZkFuOXJTYVF6NWNXR2M1VF9nQ1oycFFKazBCNUxGUEd0SFE0dDZaVFVLejdOSnoyelVsR2xKUmNJckwwSlFYQnpDaHNTeTZ1QldaR1E?oc=5",
-      "publishedAt": "2026-11-11T14:08:32.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "af7ec246f109",
-      "title": "Huawei Unveils Architecture To Link 1 Million AI Chips As One Computer - Dataconomy",
-      "summary": "Huawei Unveils Architecture To Link 1 Million AI Chips As One Computer &nbsp;&nbsp; Dataconomy",
-      "source": "Dataconomy",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWhNTHdpQ0pIODRmamVRSFh6MThJVEZEaFFXWnAyUDBNWHFZWm1WV05ib2wwNThELXBPeWVJSXFRVjgyLVRjOG40Z1Itd1haaFRGUmV3aWJWVU00d1hiMk1MUG04N0lyNDloVkZKbV9hSzkyY0RxSGV1RW5RbUNZR0V2eG5udlVWeWFrU19iZGkxUlJIYkxZ?oc=5",
-      "publishedAt": "2026-11-11T12:14:56.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "065a9d7d32fe",
-      "title": "Huawei unveils 'SuperCluster' architecture designed to make 1 million AI chips work as a single computer - Live Science",
-      "summary": "Huawei unveils 'SuperCluster' architecture designed to make 1 million AI chips work as a single computer &nbsp;&nbsp; Live Science",
-      "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPclJ3R0FuZVdkRDVUVE54MllzSHJvYnpNOWN2VlFlZG55VDU0NUR0R3FnRllJd2diX3B4eHdOZjdQaTlVRzRTQ0lURUI5cTkzTlNLWjlkZjZZemx3OWl3MlJ3bFNwUW0zLTVmRnh2ZTV3S2JDXzZFZmVkM2dBZFJvRFJiVmRLLTVyVzJTYnlNYzVPTzIwaHBEVFMtS0pUUkJrSnJSUnVubEpHaHdxRWY3djdEc25jcWY2eTBuanRESUxNdnFhNDdNbTdmdlRCdnpkS3d5ZVZENnp1UENRd1ZHMUZvai0zUQ?oc=5",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "7ecc44139cd3",
-      "title": "3 AI Architecture Tools Rethinking Workflows - Metropolis Magazine",
-      "summary": "3 AI Architecture Tools Rethinking Workflows &nbsp;&nbsp; Metropolis Magazine",
-      "source": "Metropolis Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmZMaDltVGdPaFVfMXRvWFQyQmp6VWR5R3JMdnlFNFFmWXEwOWZlSlA4dVo5SmZtV1FRQm4xTlIwTFItbjh6ZW42SDhTVURjN2VqZFEzc1huZmF6ZmgxaTc3a2Q3cVp3MlFrUkFFbzczZF9kSHNWQklfNkJuNFBKOHVJcmtMRi1Ma2c?oc=5",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "c903b364214d",
-      "title": "Symatics unveils new processor architecture designed for faster AI responses - Yahoo Finance",
-      "summary": "Symatics unveils new processor architecture designed for faster AI responses &nbsp;&nbsp; Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT01XVVNGUUxQdkdUV1JfN0s3MzA4LWFMb1VqU2JHX2IyaEFKd1c4M1d2Skpza3VBbXE5RFNhZmtZNk5OdjE2MmVmd3RxQ0ZSTXFudVc2Yy10ZnNOVXowblRpTkstb25RbWJPdkk5d3dUZnpZT2d2eDh2NXBORGY3WmtoS2JieDI1ZkV3MklwZnp5SHB6VWNtQlh2N3g0cUk5blZva09aUV9PN0t4dDhNX3BR?oc=5",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "277fbbfa1839",
-      "title": "Agentic AI Architecture: Current Challenges and Future Opportunities - infoq.com",
-      "summary": "Agentic AI Architecture: Current Challenges and Future Opportunities &nbsp;&nbsp; infoq.com",
-      "source": "infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjMyamo1OXVSZlZXRGZkZ3gzb0VJTEt0QTNwa19RcDlJLThjS3hhYzM5UTUwUWkyTXc1SXRpMkNxVU42ZVozc0FKUURzaWxKY1FBMi1sV0VpOVU0RVBQSnRuam03MmdMRi04dW50dFNDRVBNNDM0cWFTdlpDbVZISlhDRWtHSkE?oc=5",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "a2321b6c6ac7",
-      "title": "Agentic AI Architecture Moves from Experiments to Enterprise Design - news.lavx.hu",
-      "summary": "Agentic AI Architecture Moves from Experiments to Enterprise Design &nbsp;&nbsp; news.lavx.hu",
-      "source": "news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWplUXI3eGMzeTBMR2hKVDF0ZmZ3Y0NnOWFzRFhHQmpvdEl5S3ZGbEN6a3BRQ21Jc0IzQVVkSFVmcnA0Tkxaeklld0JudjBUdmVWM3U4ZU96Y3ZkLXZwazVmNzVmTWhvd1dmdGlacGRqQUJaTTdRMnZQYjRVOGxhZjN0ZmNaTjhfR3ppazZQcjVBT2IwNHlWWlFEeDQ?oc=5",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "ef0f654c8dc3",
-      "title": "SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture - Business Wire",
-      "summary": "SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture &nbsp;&nbsp; Business Wire",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaXV0Z2VLY1MyemlQUFE1YXFYb0RoTDNaVDI5Q25uTlBxLWZEQ0JGdVJYenllZHY4YjVWZzNFbGhiNE45cWVaODZ4Z1dqZmZYY05PdDJmZzFTYmVlS2xqRmJ5ZDlzRjhzZnBUSXFFWThYejFONTBOZjlxT0NVUUdHR3NkUzBTeHdENWYxdmd0MG9lNUVWM0J4ZmJIQ0JrbjJ0cXhTQjV0ZEYxcWdFUEE2RTE5ZkdOWjd4UzhBelJyUEQ5YktPV3FIVEstaEtDTG1mcnZrZ1I2eThrREJUdEF0VG1RU3ZkVHhMZVBHbHY0R3BueWxrY3Z6cw?oc=5",
-      "publishedAt": "2026-11-06T21:52:00.000Z",
+      "id": "69f5b2328b2b",
+      "title": "Axelera AI Targets Data Center Inference with Third-Gen Titania Architecture - EE Times Asia",
+      "summary": "Axelera AI Targets Data Center Inference with Third-Gen Titania Architecture &nbsp;&nbsp; EE Times Asia",
+      "source": "EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkNlMWxJbmZXeFZMakdMWU5sM25TUWxjTkVKdGhkQkpGc29nakRWLW43eEVhb2w0a0xjQlM0LWxVNFYyRGtrRTJweGlRSV9JMGJRTXQteDU5V0QtakNqa3VKenpZdEpOMXRrY1FXdDFRdUNUcTAwZi0tdWRiN08xeVpqY190NktlcDhBczlMSk55SGdrNU02VUswaDJXcmIzcTBR?oc=5",
+      "publishedAt": "2026-11-16T03:35:53.000Z",
       "category": "研究",
       "tags": [
         "ai",
