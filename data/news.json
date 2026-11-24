@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-11-23T02:41:55.117Z",
+  "updatedAt": "2026-11-24T05:58:08.729Z",
   "items": [
+    {
+      "id": "267e02306fb9",
+      "title": "Z.ai releases GLM-5.4 with a Loop Transformer architecture - Online Tech Tips",
+      "summary": "Z.ai releases GLM-5.4 with a Loop Transformer architecture &nbsp;&nbsp; Online Tech Tips",
+      "source": "Online Tech Tips",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54OXVWc29pakJ0TVc5UHQxSXUzZU1ReHlmc3I4ZlE5NXRvbUVpLW5TV2xBWFE1eV84d0FUTWtKdGVraDhQckRRQXNMVjg0Nk1oWXYwMGhmR2h1S284eFl6U0VNN19VYzNiQldFMHp2aw?oc=5",
+      "publishedAt": "2026-11-23T22:26:27.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "43f6286f1e24",
+      "title": "Floresta Building / MMBB Arquitetos + Rodrigo Oliveira Paisagismo",
+      "summary": "From the very beginning, the design of Floresta aimed to organize the built volume around a central garden. Situated on a hillside that over...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1189052/floresta-building-mmbb-arquitetos-plus-rodrigo-oliveira-paisagismo",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "acb35e145104",
+      "title": "Beyond CAD and BIM: How Synaps Is Rethinking Architectural Design with AI - Parametric Architecture",
+      "summary": "Beyond CAD and BIM: How Synaps Is Rethinking Architectural Design with AI &nbsp;&nbsp; Parametric Architecture",
+      "source": "Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oLWY2NHRTcEtYdWduMTBYV2U2X2tjVHdPU1dtdXNxcmNwSnZKOHR4SXBaTEw1aHd2TVdoWXFUVnVobGt5N0R1X3RhS0pXbDhaMDhOd2ZJb2dPRm5zS1lTRHpFeTlEWW8yNVBhbENyOHphWGI2ZVZidjNjMTY?oc=5",
+      "publishedAt": "2026-11-23T16:03:47.000Z",
+      "category": "生成式设计",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect",
+        "bim"
+      ]
+    },
+    {
+      "id": "b1807b3b5b5d",
+      "title": "TS Building / De Rungs Arquitectos",
+      "summary": "Built in the 1980s as an office building, the property on Tolstoi Street had fallen into a clear state of disrepair. However, its open-plan ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1189081/ts-building-de-rungs-arquitectos",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "e15d957b5c32",
+      "title": "AI agents design new CPU architecture that's 4x more efficient than a conventional core, startup claims - TechSpot",
+      "summary": "AI agents design new CPU architecture that's 4x more efficient than a conventional core, startup claims &nbsp;&nbsp; TechSpot",
+      "source": "TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2NKbGNjWkFWQm4xc2Q1ZGlSeVFkel9Vc2YwcFcwT1dzSVdMT0RiYlZyUmtNNGxUM29oNVo2d1FTLUMteHBVeDhBZTIxcWVCZ1hGc2VwTkhxal9LM2w5VFNWdHJSMkQ2U0RtT3hXa0J2S2c0dmVISlZ0MDFOY2ZvTE5pb0ZoWmVXWHE1c3NISkE?oc=5",
+      "publishedAt": "2026-11-23T14:31:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "8a0d6324aaf5",
+      "title": "Soft Division Apartment / SABO project",
+      "summary": "A compact Lower East Side apartment was pared back and reimagined for a family of three. The design aims to soften divisions between spaces ...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188937/soft-division-apartment-sabo-project",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "category": "案例",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "41d0e057ccc3",
+      "title": "Connecting Architectural Education with Specialized Fields at SCI-Arc",
+      "summary": "Artificial intelligence, climate challenges, and new media are changing how architects work and the knowledge they draw on. These shifts als...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1187622/connecting-architectural-education-with-specialized-fields-at-sci-arc",
+      "publishedAt": "2026-11-23T05:45:00.000Z",
+      "category": "研究",
+      "tags": [
+        "artificial intelligence",
+        "architect"
+      ]
+    },
+    {
+      "id": "9e983c15474c",
+      "title": "Yokohama Timber Wharf / Taiju Yamashita Design and Architecture",
+      "summary": "Set in Rinko Park, the largest green space in Yokohama's Minato Mirai 21 district, Yokohama Timber Wharf is a multipurpose facility designed...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188949/yokohama-timber-wharf-taiju-yamashita-design-and-architecture",
+      "publishedAt": "2026-11-23T02:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
+      "id": "6066b62340db",
+      "title": "Shoe Factory Gatehouses / Xie Jie Architects",
+      "summary": "A new shoe factory complex in Wenzhou is about to open, but two gatehouses at its south entrance remain unfinished. Through the existing fra...",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1188984/shoe-factory-gatehouses-xie-jie-architects",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architect"
+      ]
+    },
     {
       "id": "509b11a968fb",
       "title": "AI agents design an entirely new CPU architecture from scratch, startup claims — Frostbite posts 4.59x the performance per watt of an in-order core in pre-silicon tests - Tom's Hardware",
@@ -16,81 +137,16 @@
       ]
     },
     {
-      "id": "ad68528e4f15",
-      "title": "MAD imagines the future of architecture: “AI will change everything except human needs” - Domus Web",
-      "summary": "MAD imagines the future of architecture: “AI will change everything except human needs” &nbsp;&nbsp; Domus Web",
-      "source": "Domus Web",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNektoS2FuanAtYzNMeEhlNE9PZncxcjBvSUFlYl9SbWVDNzdIV21TT0tMV0tUMkZsQXRLNzI4aS1wYkd5djB2M1pmdm5sOVpvMmFmWUY5SmJCZ0NCWjlRd2tKZE1NMFdTd0kyejh6dnUtYktoQjNQTGRST08yUVBWNy1NUDJhZUtia1FtMEJzVGRJM2NNXzlTS0JiZXBJdlRU?oc=5",
-      "publishedAt": "2026-11-22T09:00:00.000Z",
+      "id": "9be1039eb8d2",
+      "title": "Symatics unveils new processor architecture designed for faster AI responses - ANTARA News",
+      "summary": "Symatics unveils new processor architecture designed for faster AI responses &nbsp;&nbsp; ANTARA News",
+      "source": "ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGhxRmZETnF5TXZXdHFuVlN0a0dtUTVzSmdwUGEyV05SRzl2R0doaHI2UWltQXZtRVlzNkpXTUpXQjk4UmlFV3R2YnYzdWtpWDR6MUNBZlp4bWY3Tk5xeFlSMUdqb2VRdjE5b3VWblJxemFRUDlSM09tLWcyeUpkQW82SWpWYzZSTGZtMGVwY2ZCOXpIaW9DWC1ZV1ozMWxod3JrYlpWUTZKRG02ZHRpN0dWWEtzZ253UUHSAboBQVVfeXFMT3hocUZmRE5xeU12V3RxblZTdGtHbVE1c0pncFBhMldOUkc5dkdHaGhyNlFpbUF2bUVZczZKV01KV0I5OFJpRVd0dmJ2M3VraVg0ejFDQWZaeG1mN05OcXhZUjFHam9lUXYxOW91Vm5ScXphUVA5UjNPbS1nMnlKZEFvNklqVmM2UkxmbTBlcGNmQjl6SGlvQ1gtWVdaMzFsaHdya2JaVlE2SkRtNmR0aTdHVlhLc2dud1FB?oc=5",
+      "publishedAt": "2026-11-22T07:28:17.000Z",
       "category": "研究",
       "tags": [
         "ai",
         "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "2f14ad4c71ac",
-      "title": "Biarritz Building - Cooperative Housing / Ariel Jacubovich | Oficina de Arquitectura",
-      "summary": "Biarritz is a 35-unit residential building in the district of San Mart&iacute;n, Province of Buenos Aires, developed alongside a cooperative...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1189023/biarritz-building-cooperative-housing-ariel-jacubovich-oficina-de-arquitectura",
-      "publishedAt": "2026-11-21T16:00:00.000Z",
-      "category": "案例",
-      "tags": [
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "f165e64773f9",
-      "title": "Aquatics Centre Paris / VenhoevenCS + Ateliers 2/3/4/",
-      "summary": "The Aquatics Centre and its pedestrian overpass in Saint-Denis , Paris, designed by VenhoevenCS and Ateliers 2/3/4/ for Heritage, is the onl...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1019578/aquatics-centre-paris-venhoevencs-plus-ateliers-2-3-4",
-      "publishedAt": "2026-11-21T15:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "a0bd0185af5a",
-      "title": "House AL / N2B Arquitetura",
-      "summary": "Located in the Vila do Golf area, House AL was designed to take advantage of the terrain's slope. Divided into three levels, the residence o...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1036137/house-al-n2b-arquitetura",
-      "publishedAt": "2026-11-21T13:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "acb35e145104",
-      "title": "Beyond CAD and BIM: How Synaps Is Rethinking Architectural Design with AI - Parametric Architecture",
-      "summary": "Beyond CAD and BIM: How Synaps Is Rethinking Architectural Design with AI &nbsp;&nbsp; Parametric Architecture",
-      "source": "Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oLWY2NHRTcEtYdWduMTBYV2U2X2tjVHdPU1dtdXNxcmNwSnZKOHR4SXBaTEw1aHd2TVdoWXFUVnVobGt5N0R1X3RhS0pXbDhaMDhOd2ZJb2dPRm5zS1lTRHpFeTlEWW8yNVBhbENyOHphWGI2ZVZidjNjMTY?oc=5",
-      "publishedAt": "2026-11-21T10:13:17.000Z",
-      "category": "生成式设计",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect",
-        "bim"
-      ]
-    },
-    {
-      "id": "b8134001cefc",
-      "title": "Lamberth Palace Arches / Tigg + Coll Architects",
-      "summary": "TiggColl has transformed three previously underutilised Victorian railway arches beneath one of London's busiest railway routes into new spa...",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188720/lamberth-palace-arches-tigg-plus-coll-architects",
-      "publishedAt": "2026-11-21T10:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
         "architect"
       ]
     },
@@ -134,19 +190,6 @@
       ]
     },
     {
-      "id": "4477eab18d8d",
-      "title": "Darwin Bridges / Provencher_Roy",
-      "summary": "Located on Nuns' Island in Montréal, the Darwin bridges open new architectural perspectives through their use of local sustainable materials.",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1188489/darwin-bridges-provencher-roy",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architect"
-      ]
-    },
-    {
       "id": "047a7e884d35",
       "title": "Conceptual Architecture Integrates Knowledge Memory and Agentic AI Under Human Governance - Bioengineer.org",
       "summary": "Conceptual Architecture Integrates Knowledge Memory and Agentic AI Under Human Governance &nbsp;&nbsp; Bioengineer.org",
@@ -161,26 +204,12 @@
       ]
     },
     {
-      "id": "624841733163",
-      "title": "Axelera Unveils Titania Architecture for a Six-Kilowatt AI Server - TOKENPOST",
-      "summary": "Axelera Unveils Titania Architecture for a Six-Kilowatt AI Server &nbsp;&nbsp; TOKENPOST",
-      "source": "TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KRDlCdnlDRnZsT1UwcXFKajJDeDVSRmlMODlTVGtsR1dxcjgwRXRoRDU3R29iUlB3cldtanU1RElkeS1OU3U3cVIwaW1nR1R6N3AybTR4U2swV3c?oc=5",
-      "publishedAt": "2026-11-19T19:35:26.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "33da87739434",
-      "title": "Daikin unveils D60-W cooling architecture for 60MW AI data centres - Data Centre Solutions",
-      "summary": "Daikin unveils D60-W cooling architecture for 60MW AI data centres &nbsp;&nbsp; Data Centre Solutions",
-      "source": "Data Centre Solutions",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1MwakdOZ01BelU5QkhzOGIwREhiQUFrcUZEdWhFOWZybTJ0eDFEUXVuMXBvNHNfb1pScVhFYnpZb0x4bk12ODJiT2pWZzFjR2MxWlZwMkEtQS1WLTNEV0ZLclZvUnNNbVJTQmdpUVlVSHAxRkM0TzZxaktQUXRfWElIMG5tTTZ2dFJDUzdZSDA1dE9fWVcwQnh4eHYwVVBwMDR4d3N6blAzUQ?oc=5",
-      "publishedAt": "2026-11-18T14:21:30.000Z",
+      "id": "c0ffa148a665",
+      "title": "AI in medicine and biology: Researchers call for a multilayered security architecture - Medical Xpress",
+      "summary": "AI in medicine and biology: Researchers call for a multilayered security architecture &nbsp;&nbsp; Medical Xpress",
+      "source": "Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdnNCUHMyaHVDeWFacnZucG5DZUptTUc5RGUxb2w2a3dPc1ZMQV9hLU5RRVN4S1dEQWZrSklGVEg1NkcxWVJDU3FGZWkxRzkzOWpVZ1B3bTNTRFBRSDBGc0Zsa1B6N0p3Z01nMVV1WU9HajdFSXk1OXFocGEwckYwZzVYUDBxRzh2UnlKOXNzQ3NvSnM?oc=5",
+      "publishedAt": "2026-11-19T19:40:10.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -203,12 +232,12 @@
       ]
     },
     {
-      "id": "e67704200205",
-      "title": "Lessons from China: how clients are getting ahead with AI, and what architects can do about that - RIBA Journal",
-      "summary": "Lessons from China: how clients are getting ahead with AI, and what architects can do about that &nbsp;&nbsp; RIBA Journal",
-      "source": "RIBA Journal",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDE1RGFfOGxnUkdYREh4OWl2SldSd0pUYnJXd0MyVzVNckhNZTZZTS01VHNxUGdTbkp4UlZFT1AyMGdzY1pDR01HVmc1Q2Jjc3ZNS3FrNThWUVpqS2loX1JrNWozSzdHUnRBenRFRzEzdzh4V21FeXNKZlNPR0lxa3hFSFhhNk5WRXY0ZFdXcU8?oc=5",
-      "publishedAt": "2026-11-18T07:03:31.000Z",
+      "id": "879c05f0eddc",
+      "title": "Designing with Intelligence: AI, Nature, and the Responsibilities of Landscape Architects - American Society of Landscape Architects",
+      "summary": "Designing with Intelligence: AI, Nature, and the Responsibilities of Landscape Architects &nbsp;&nbsp; American Society of Landscape Archite...",
+      "source": "American Society of Landscape Architects",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTdvRHo0SkJYeXRJTXYxLVJiU1BCN3FhWWZHS2d4ek94VUZidEZXcmVWYmxzUThuZGt1QTNIanlJN1VSd29keWtDb3pFLUZHMUc3T2ZEWGltVjJWV3AxQ2pKeGZ5YmJrWnFKcG9VVVV2U2tFejJRbGxZbktLMWhBYjRzVUdEM0o3WHpDbTNIMTY1RHNtSjVycVF5TU84MmVwbXRUY29rS0FtUkw5Q1ZuNFRzU1pPWWJGYl82bkl4dUJBU1Q3T1JpbjNTTVI?oc=5",
+      "publishedAt": "2026-11-17T23:10:34.000Z",
       "category": "研究",
       "tags": [
         "ai",
@@ -314,6 +343,20 @@
       ]
     },
     {
+      "id": "62055660e6e0",
+      "title": "Multimodal Claims Intake with Agentic AI: A Practical Architecture - Carrier Management",
+      "summary": "Multimodal Claims Intake with Agentic AI: A Practical Architecture &nbsp;&nbsp; Carrier Management",
+      "source": "Carrier Management",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rM3EweFo1a1ZvbllyeWNzT0dSQ2djbTRJa2NHS01jTV9hbUplR0VKYmxGeVBoYUxLbEtpZnFWOENtNUd6aWxjSjNuX3IxWjhYbDRfRDdlYjBpYXJIUUNjdV9Rd2hScUJqV3NLWWlZWFo3UQ?oc=5",
+      "publishedAt": "2026-11-16T02:18:18.000Z",
+      "category": "研究",
+      "tags": [
+        "ai",
+        "architecture",
+        "architect"
+      ]
+    },
+    {
       "id": "0b66ff85ec2d",
       "title": "Inside an enterprise AI agent: A governed, observable loop architecture | Amazon Web Services - Amazon Web Services",
       "summary": "Inside an enterprise AI agent: A governed, observable loop architecture | Amazon Web Services &nbsp;&nbsp; Amazon Web Services",
@@ -405,34 +448,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmZMaDltVGdPaFVfMXRvWFQyQmp6VWR5R3JMdnlFNFFmWXEwOWZlSlA4dVo5SmZtV1FRQm4xTlIwTFItbjh6ZW42SDhTVURjN2VqZFEzc1huZmF6ZmgxaTc3a2Q3cVp3MlFrUkFFbzczZF9kSHNWQklfNkJuNFBKOHVJcmtMRi1Ma2c?oc=5",
       "publishedAt": "2026-11-10T08:00:00.000Z",
       "category": "工具",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "3237b14e3131",
-      "title": "Symatics unveils new processor architecture designed for faster AI responses - Yahoo Finance Singapore",
-      "summary": "Symatics unveils new processor architecture designed for faster AI responses &nbsp;&nbsp; Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3ZDeHFlbnFHS2NCUDJBSHE3bUhBeUhtbHZaZS01VjJ1UUpQc3NvdHVhOEhRb3Y2S0tTSjluejdpZmhSaUpWN08zb1FQS3VWMWhlemlhNi10SnZyRGszZGRUaHdYTGNlNGJmem9qaHFGSUN2Y2h1SnNoVkVWLUE5UVlSZFg0OFJVVFBCS2ZNQ3BXSlJNRHY4Rk5BR1Q3Zw?oc=5",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "category": "研究",
-      "tags": [
-        "ai",
-        "architecture",
-        "architect"
-      ]
-    },
-    {
-      "id": "a2321b6c6ac7",
-      "title": "Agentic AI Architecture Moves from Experiments to Enterprise Design - news.lavx.hu",
-      "summary": "Agentic AI Architecture Moves from Experiments to Enterprise Design &nbsp;&nbsp; news.lavx.hu",
-      "source": "news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWplUXI3eGMzeTBMR2hKVDF0ZmZ3Y0NnOWFzRFhHQmpvdEl5S3ZGbEN6a3BRQ21Jc0IzQVVkSFVmcnA0Tkxaeklld0JudjBUdmVWM3U4ZU96Y3ZkLXZwazVmNzVmTWhvd1dmdGlacGRqQUJaTTdRMnZQYjRVOGxhZjN0ZmNaTjhfR3ppazZQcjVBT2IwNHlWWlFEeDQ?oc=5",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "category": "研究",
       "tags": [
         "ai",
         "architecture",
